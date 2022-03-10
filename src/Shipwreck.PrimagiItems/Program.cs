@@ -132,5 +132,5 @@ class Program
     }
 
     private static string GetRepositoryPath([CallerFilePath] string filePath = "")
-        => Path.GetDirectoryName(Path.GetDirectoryName(filePath))!;
+        => Path.GetDirectoryName(Path.GetDirectoryName(Path.GetDirectoryName(filePath)))!;
 }
