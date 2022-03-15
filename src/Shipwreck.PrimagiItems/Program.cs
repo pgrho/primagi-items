@@ -53,10 +53,14 @@ class Program
 
     static async Task Main()
     {
+        System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
         using var hc = new HttpClient();
         var res = await hc.GetAsync(src);
 
         var json = await res.Content.ReadAsStringAsync();
+
+        Console.WriteLine("Downloaded: {0}", src);
+
         var jd = JArray.Parse(json);
         var items = jd.ToObject<List<Item>>()!;
 
@@ -95,47 +99,54 @@ class Program
             return s;
         }
 
-
-        using (var sw = new StreamWriter(new FileStream(Path.Combine(di.FullName, "items.tsv"), FileMode.Create), Encoding.UTF8, 4096))
+        for (var i = 0; i < 2; i++)
         {
+            var sep = i == 0 ? '\t' : ',';
+            using var sw = new StreamWriter(new FileStream(Path.Combine(di.FullName, i == 0 ? "items.tsv" : "items.csv"), FileMode.Create), i == 0 ? Encoding.UTF8 : Encoding.GetEncoding(932), 4096);
+
             foreach (var p in props)
             {
                 sw.Write(p);
-                sw.Write('\t');
+                sw.Write(sep);
             }
-            sw.Write("RarityName\t");
-            sw.Write("GenreName\t");
-            sw.Write("CategoryName\t");
-            sw.Write("BrandName\t");
-            sw.Write("ColorName\t");
+            sw.Write("RarityName");
+            sw.Write(sep);
+            sw.Write("GenreName");
+            sw.Write(sep);
+            sw.Write("CategoryName");
+            sw.Write(sep);
+            sw.Write("BrandName");
+            sw.Write(sep);
+            sw.Write("ColorName");
+            sw.Write(sep);
             sw.Write("SubcategoryName");
             sw.WriteLine();
 
-            for (var i = 0; i < items.Count; i++)
+            for (var j = 0; j < items.Count; j++)
             {
-                var obj = (JObject)jd[i];
-                var item = items[i];
+                var obj = (JObject)jd[j];
+                var item = items[j];
 
                 foreach (var p in props)
                 {
                     obj.TryGetValue(p, out var jp);
                     sw.Write(jp);
-                    sw.Write('\t');
+                    sw.Write(sep);
                 }
 
                 string getValueWithError(Dictionary<int, string> dic, int no, string errorKey)
                     => getValue(dic, no, $"{item.SealId}: {item.CoordinationName} {errorKey}={no}");
 
                 sw.Write(getValueWithError(rarities, item.Rarity, nameof(item.Rarity)));
-                sw.Write('\t');
+                sw.Write(sep);
                 sw.Write(getValueWithError(genres, item.Genre, nameof(item.Genre)));
-                sw.Write('\t');
+                sw.Write(sep);
                 sw.Write(getValueWithError(categories, item.Category, nameof(item.Category)));
-                sw.Write('\t');
+                sw.Write(sep);
                 sw.Write(getValueWithError(brands, item.Brand, nameof(item.Brand)));
-                sw.Write('\t');
+                sw.Write(sep);
                 sw.Write(getValueWithError(colors, item.Color, nameof(item.Color)));
-                sw.Write('\t');
+                sw.Write(sep);
                 sw.Write(getValueWithError(subcategories, item.SubCategory, nameof(item.SubCategory)));
 
                 sw.WriteLine();
