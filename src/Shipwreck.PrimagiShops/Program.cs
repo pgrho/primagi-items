@@ -57,13 +57,16 @@ partial class Program
 
     static async Task Main()
     {
+        System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
         var items = new List<Item>();
 
         using var hc = new HttpClient();
         for (var pi = 0; pi < prefs.Length; pi++)
         {
             var p = prefs[pi];
-            var res = await hc.GetAsync($"https://cdnprimagiimg01.blob.core.windows.net/primagi/data/json/shop/{pi + 1}.json");
+            var url = $"https://cdnprimagiimg01.blob.core.windows.net/primagi/data/json/shop/{pi + 1}.json";
+
+            var res = await hc.GetAsync(url);
             var json = await res.Content.ReadAsStringAsync();
             var jd = JObject.Parse(json);
 
@@ -77,6 +80,8 @@ partial class Program
                     Address = (jp.Value as JObject)?.Property("Address")?.Value?.Value<string>(),
                 });
             }
+
+            Console.WriteLine("Downloaded: {0} ({1})", p, url);
         }
 
         var di = new DirectoryInfo(Path.Combine(GetRepositoryPath(), "output"));
@@ -85,25 +90,36 @@ partial class Program
             di.Create();
         }
 
-        using (var sw = new StreamWriter(new FileStream(Path.Combine(di.FullName, "shops.tsv"), FileMode.Create), Encoding.UTF8, 4096))
+        for (var i = 0; i < 2; i++)
         {
+            var sep = i == 0 ? '\t' : ',';
+            using var sw = new StreamWriter(new FileStream(Path.Combine(di.FullName, i == 0 ? "shops.tsv" : "shops.csv"), FileMode.Create), i == 0 ? Encoding.UTF8 : Encoding.GetEncoding(932), 4096);
+
             sw.Write(nameof(Item.Id));
-            sw.Write('\t');
+            sw.Write(sep);
             sw.Write(nameof(Item.Prefecture));
-            sw.Write('\t');
+            sw.Write(sep);
+            sw.Write(nameof(Item.Category));
+            sw.Write(sep);
             sw.Write(nameof(Item.Name));
-            sw.Write('\t');
-            sw.WriteLine(nameof(Item.Address));
+            sw.Write(sep);
+            sw.Write(nameof(Item.Address));
+            sw.Write(sep);
+            sw.WriteLine(nameof(Item.FullAddress));
 
             foreach (var e in items)
             {
                 sw.Write(e.Id);
-                sw.Write('\t');
+                sw.Write(sep);
                 sw.Write(e.Prefecture);
-                sw.Write('\t');
+                sw.Write(sep);
+                sw.Write(e.Category);
+                sw.Write(sep);
                 sw.Write(e.Name);
-                sw.Write('\t');
-                sw.WriteLine(e.Address);
+                sw.Write(sep);
+                sw.Write(e.Address);
+                sw.Write(sep);
+                sw.WriteLine(e.FullAddress);
             }
         }
     }
