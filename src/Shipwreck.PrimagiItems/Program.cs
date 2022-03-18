@@ -17,8 +17,8 @@ class Program
     "VIVID STAR",
     "Radiant Abyss",
     "Eternal Revue",
-    null,
-    null,
+    "ELECTRO REMIX",
+    "Cherry Sugar",
     "SHINING DIVA",
     "PrismStone",
 };
@@ -49,6 +49,7 @@ class Program
         "ベーシック",
         "アニマル",
         "エレガント",
+        "デジタル",
     };
 
     static async Task Main()

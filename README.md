@@ -4,6 +4,7 @@
 - [第１章](./output/P01.md)
 - [第２章](./output/P02.md)
 - [第３章](./output/P03.md)
+- [第４章](./output/P04.md)
 - [CSV](./output/items.csv)
 - [TSV](./output/items.tsv)
 
