@@ -1,10 +1,13 @@
-﻿using System.Runtime.CompilerServices;
-using System.Text;
+﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using Newtonsoft.Json.Serialization;
+using Shipwreck.PrimagiItems.Json;
+using System.Runtime.CompilerServices;
+using System.Text;
 
 namespace Shipwreck.PrimagiItems;
 
-class Program
+internal class Program
 {
     private const string src = "https://cdnprimagiimg01.blob.core.windows.net/primagi/assets/data/item.json";
 
@@ -13,15 +16,15 @@ class Program
     private static readonly string[] KNOWN_RARITIES = new[] { "R", "SR", "UR", "PMR" };
 
     private static readonly string?[] KNOWN_BRANDS = new[] {
-    "LOVELY MELODY",
-    "VIVID STAR",
-    "Radiant Abyss",
-    "Eternal Revue",
-    "ELECTRO REMIX",
-    "Cherry Sugar",
-    "SHINING DIVA",
-    "PrismStone",
-};
+        "LOVELY MELODY",
+        "VIVID STAR",
+        "Radiant Abyss",
+        "Eternal Revue",
+        "ELECTRO REMIX",
+        "Cherry Sugar",
+        "SHINING DIVA",
+        "PrismStone",
+    };
 
     private static readonly string[] KNOWN_COLORS = new[] { "ちゃ", "あか", "ピンク", "オレンジ", "きいろ", "みどり", "みずいろ", "あお", "むらさき", "くろ", "しろ", "シルバー", "ゴールド", };
 
@@ -52,7 +55,7 @@ class Program
         "デジタル",
     };
 
-    static async Task Main()
+    private static async Task Main()
     {
         System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
         using var hc = new HttpClient();
@@ -195,6 +198,120 @@ class Program
                 }
                 sw.WriteLine("|");
             }
+        }
+
+        var ds = new PrimagiDataSet();
+        foreach (var kv in genres.OrderBy(e => e.Key))
+        {
+            ds.Genres.Add(new()
+            {
+                Key = kv.Key,
+                Value = kv.Value.Contains('#') ? null : kv.Value
+            });
+        }
+        foreach (var kv in brands.OrderBy(e => e.Key))
+        {
+            ds.Brands.Add(new()
+            {
+                Key = kv.Key,
+                Value = kv.Value.Contains('#') ? null : kv.Value
+            });
+        }
+        foreach (var kv in colors.OrderBy(e => e.Key))
+        {
+            ds.Colors.Add(new()
+            {
+                Key = kv.Key,
+                Value = kv.Value.Contains('#') ? null : kv.Value
+            });
+        }
+        foreach (var kv in rarities.OrderBy(e => e.Key))
+        {
+            ds.Rarities.Add(new()
+            {
+                Key = kv.Key,
+                Value = kv.Value.Contains('#') ? null : kv.Value
+            });
+        }
+        foreach (var kv in categories.OrderBy(e => e.Key))
+        {
+            ds.Categories.Add(new()
+            {
+                Key = kv.Key,
+                Value = kv.Value.Contains('#') ? null : kv.Value
+            });
+        }
+        foreach (var kv in subcategories.OrderBy(e => e.Key))
+        {
+            ds.SubCategories.Add(new()
+            {
+                Key = kv.Key,
+                Value = kv.Value.Contains('#') ? null : kv.Value
+            });
+        }
+
+        foreach (var cg in items.GroupBy(e => new
+        {
+            e.CoordinationName,
+            e.collection,
+            e.directoryNumber,
+        }))
+        {
+            var gf = cg.FirstOrDefault(e => !string.IsNullOrEmpty(e.span)) ?? cg.First();
+            var coord = new Coordination
+            {
+                Name = cg.Key.CoordinationName,
+                Collection = cg.Key.collection,
+                DirectoryNumber = cg.Key.directoryNumber,
+
+                Chapter = gf.Chapter,
+                IsShow = gf.isShow,
+                HasMainImage = gf.hasMainImage,
+                Kinds = gf.kinds,
+                Span = gf.span,
+                Order = gf.order ?? int.MaxValue,
+            };
+            ds.Coordinations.Add(coord);
+
+            foreach (var e in cg)
+            {
+                coord.Items.Add(new()
+                {
+                    Id = e.Id,
+                    ModelName = e.modelName,
+                    SealId = e.SealId,
+                    Watcha = e.Watcha,
+                    GenreIndex = e.Genre,
+                    BrandIndex = e.Brand,
+                    ColorIndex = e.Color,
+                    RarityIndex = e.Rarity,
+                    CategoryIndex = e.Category,
+                    SubCategoryIndex = e.SubCategory,
+                    IsShowItem = e.isShowItem,
+                    Icon = e.icon,
+                    Release = e.release,
+                });
+            }
+        }
+        var jss = new JsonSerializerSettings
+        {
+            ContractResolver = new DefaultContractResolver()
+            {
+                NamingStrategy = new CamelCaseNamingStrategy()
+            }
+        };
+        using (var sw = new StreamWriter(new FileStream(Path.Combine(di.FullName, "items.json"), FileMode.Create), Encoding.UTF8, 4096))
+        {
+            await sw.WriteLineAsync(
+                JsonConvert.SerializeObject(ds,
+                Formatting.Indented, jss));
+        }
+        ds.IgnoreCalculatedProperties = true;
+        using (var sw = new StreamWriter(new FileStream(Path.Combine(di.FullName, "items.raw.json"), FileMode.Create), Encoding.UTF8, 4096))
+        {
+            await sw.WriteLineAsync(
+                JsonConvert.SerializeObject(ds,
+                Formatting.None, jss));
         }
     }
 
