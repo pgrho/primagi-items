@@ -1,6 +1,6 @@
 ﻿using System.Collections.ObjectModel;
 
-namespace Shipwreck.PrimagiItems.Json;
+namespace Shipwreck.PrimagiItems;
 
 internal sealed class CoordinationItemCollection : Collection<CoordinationItem>
 {

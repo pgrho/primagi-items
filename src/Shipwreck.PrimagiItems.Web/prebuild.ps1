@@ -1,0 +1,1 @@
+﻿Copy-Item -Path "$PSScriptRoot\..\..\output\items.raw.json" -Destination "$PSScriptRoot\wwwroot\items.json" -Force

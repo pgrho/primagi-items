@@ -1,4 +1,4 @@
-﻿namespace Shipwreck.PrimagiItems.Json;
+﻿namespace Shipwreck.PrimagiItems;
 
 internal static class JsonHelper
 {

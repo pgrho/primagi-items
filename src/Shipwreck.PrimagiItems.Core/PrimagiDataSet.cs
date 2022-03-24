@@ -1,8 +1,12 @@
-﻿namespace Shipwreck.PrimagiItems.Json;
+﻿using Newtonsoft.Json;
+using System.Text;
+
+namespace Shipwreck.PrimagiItems;
 
 public sealed class PrimagiDataSet
 {
-    internal bool IgnoreCalculatedProperties { get; set; }
+    [JsonIgnore]
+    public bool IgnoreCalculatedProperties { get; set; }
 
     #region Genres
 
@@ -124,4 +128,33 @@ public sealed class PrimagiDataSet
     }
 
     #endregion Coordinations
+
+    public static PrimagiDataSet Parse(Stream stream)
+    {
+        using (var sr = new StreamReader(stream, Encoding.UTF8, leaveOpen: true))
+        {
+            return Parse(sr);
+        }
+    }
+
+    public static PrimagiDataSet Parse(TextReader reader)
+    {
+        var json = reader.ReadToEnd();
+        return JsonConvert.DeserializeObject<PrimagiDataSet>(json)!;
+    }
+
+    public static Task<PrimagiDataSet> ParseAsync(Stream stream, CancellationToken cancellationToken = default)
+    {
+        using (var sr = new StreamReader(stream, Encoding.UTF8, leaveOpen: true))
+        {
+            return ParseAsync(sr, cancellationToken);
+        }
+    }
+
+    public static async Task<PrimagiDataSet> ParseAsync(TextReader reader, CancellationToken cancellationToken = default)
+    {
+        var json = await reader.ReadToEndAsync().ConfigureAwait(false);
+        cancellationToken.ThrowIfCancellationRequested();
+        return JsonConvert.DeserializeObject<PrimagiDataSet>(json)!;
+    }
 }

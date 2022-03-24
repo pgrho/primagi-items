@@ -1,7 +1,6 @@
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json.Serialization;
-using Shipwreck.PrimagiItems.Json;
 using System.Runtime.CompilerServices;
 using System.Text;
 

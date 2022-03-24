@@ -1,4 +1,4 @@
-﻿namespace Shipwreck.PrimagiItems.Json;
+﻿namespace Shipwreck.PrimagiItems;
 
 public sealed class SubCategory : EnumBase
 {

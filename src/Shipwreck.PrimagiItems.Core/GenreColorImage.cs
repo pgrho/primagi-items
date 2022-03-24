@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Shipwreck.PrimagiItems.Json;
+namespace Shipwreck.PrimagiItems;
 
 public sealed class GenreColorImage
 {

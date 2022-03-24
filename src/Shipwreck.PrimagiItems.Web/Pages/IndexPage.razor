@@ -1,0 +1,156 @@
+﻿@page "/"
+@inherits FrameworkPageBase
+
+<PageTitle>Index</PageTitle>
+
+<div class="container">
+    <ListScope T="BrandViewModel" Source="DataContext?.Brands">
+        @if (DataContext?.Brands.Count > 0)
+        {
+            <div class="row">
+                <div class="form-inline">
+                    @foreach (var e in DataContext.Brands)
+                    {
+                        <DataContextScope @key="e.Key" DataContext="e">
+                            <Checkbox @bind-IsChecked="@e.IsSelected">
+                                @e.Value
+                            </Checkbox>
+                        </DataContextScope>
+                    }
+                </div>
+            </div>
+        }
+    </ListScope>
+    <ListScope T="RarityViewModel" Source="DataContext?.Rarities">
+        @if (DataContext?.Rarities.Count > 0)
+        {
+            <div class="row">
+                <div class="form-inline">
+                    @foreach (var e in DataContext.Rarities)
+                    {
+                        <DataContextScope @key="e.Key" DataContext="e">
+                            <Checkbox @bind-IsChecked="@e.IsSelected">
+                                @e.Value
+                            </Checkbox>
+                        </DataContextScope>
+                    }
+                </div>
+            </div>
+        }
+    </ListScope>
+    <ListScope T="CategoryViewModel" Source="DataContext?.Categories">
+        @if (DataContext?.Categories.Count > 0)
+        {
+            <div class="row">
+                <div class="form-inline">
+                    @foreach (var e in DataContext.Categories)
+                    {
+                        <DataContextScope @key="e.Key" DataContext="e">
+                            <Checkbox @bind-IsChecked="@e.IsSelected">
+                                @e.Value
+                            </Checkbox>
+                        </DataContextScope>
+                    }
+                </div>
+            </div>
+        }
+    </ListScope>
+    <ListScope T="ColorViewModel" Source="DataContext?.Colors">
+        @if (DataContext?.Colors.Count > 0)
+        {
+            <div class="row">
+                <div class="form-inline">
+                    @foreach (var e in DataContext.Colors)
+                    {
+                        <DataContextScope @key="e.Key" DataContext="e">
+                            <Checkbox @bind-IsChecked="@e.IsSelected">
+                                @e.Value
+                            </Checkbox>
+                        </DataContextScope>
+                    }
+                </div>
+            </div>
+        }
+    </ListScope>
+    <ListScope T="GenreViewModel" Source="DataContext?.Genres">
+        @if (DataContext?.Genres.Count > 0)
+        {
+            <div class="row">
+                <div class="form-inline">
+                    @foreach (var e in DataContext.Genres)
+                    {
+                        <DataContextScope @key="e.Key" DataContext="e">
+                            <Checkbox @bind-IsChecked="@e.IsSelected">
+                                @e.Value
+                            </Checkbox>
+                        </DataContextScope>
+                    }
+                </div>
+            </div>
+        }
+    </ListScope>
+    <ListScope T="SubCategoryViewModel" Source="DataContext?.SubCategories">
+        @if (DataContext?.SubCategories.Count > 0)
+        {
+            <div class="row">
+                <div class="form-inline">
+                    @foreach (var e in DataContext.SubCategories)
+                    {
+                        <DataContextScope @key="e.Key" DataContext="e">
+                            <Checkbox @bind-IsChecked="@e.IsSelected">
+                                @e.Value
+                            </Checkbox>
+                        </DataContextScope>
+                    }
+                </div>
+            </div>
+        }
+    </ListScope>
+    <ListScope T="CoordinationViewModel" Source="DataContext?.Filtered">
+        @if (DataContext?.Filtered.Count > 0)
+        {
+            foreach (var ch in DataContext.Filtered.GroupBy(e => e.Chapter))
+            {
+                <h2>@ch.First().Chapter</h2>
+
+                foreach (var c in ch.OrderBy(e => e.DirectoryNumber))
+                {
+                    <div class="row">
+                        <h3 class="col-12">@c.DisplayName</h3>
+                        @foreach (var e in c.Items)
+                        {
+                            <div class="col-3">
+                                <img class="img-fluid" loading="lazy" src="@e.ImageUrl" />
+                                <h4>
+                                    <img class="img-fluid"
+                         loading="lazy"
+                         src="@e.Rarity?.ImageUrl"
+                         alt="@e.Rarity?.Value" />
+                                    @e.CategoryName
+                                    <img class="img-fluid"
+                         loading="lazy"
+                         src="@e.SubCategory?.ImageUrl"
+                         alt="@e.SubCategory?.Value" />
+                                </h4>
+                            </div>
+                        }
+                    </div>
+                }
+            }
+        }
+    </ListScope>
+</div>
+
+@code
+{
+    protected override bool ImplicitRender => false;
+
+    [Inject]
+    public HttpClient? Http { get; set; }
+     
+    public new IndexPageViewModel DataContext => (IndexPageViewModel)base.DataContext;
+
+    protected override FrameworkPageViewModel GetOrCreateDataContext()
+        => base.DataContext as IndexPageViewModel ?? new IndexPageViewModel(this);
+
+}

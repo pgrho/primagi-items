@@ -1,21 +1,17 @@
 ﻿using System.Collections.ObjectModel;
 
-namespace Shipwreck.PrimagiItems.Json;
+namespace Shipwreck.PrimagiItems;
 
-internal sealed class EnumBaseCollection<T> : KeyedCollection<int, T>
-    where T : EnumBase
+internal sealed class CoordinationCollection : Collection<Coordination>
 {
     private readonly PrimagiDataSet _DataSet;
 
-    public EnumBaseCollection(PrimagiDataSet dataSet)
+    public CoordinationCollection(PrimagiDataSet dataSet)
     {
         _DataSet = dataSet;
     }
 
-    protected override int GetKeyForItem(T item)
-        => item.Key;
-
-    protected override void InsertItem(int index, T item)
+    protected override void InsertItem(int index, Coordination item)
     {
         if ((item ?? throw new ArgumentNullException(nameof(item))).DataSet != null)
         {
@@ -41,7 +37,7 @@ internal sealed class EnumBaseCollection<T> : KeyedCollection<int, T>
         base.RemoveItem(index);
     }
 
-    protected override void SetItem(int index, T item)
+    protected override void SetItem(int index, Coordination item)
     {
         var old = this[index];
         if (old != item)
