@@ -119,20 +119,23 @@
                         <h3 class="col-12">@c.DisplayName</h3>
                         @foreach (var e in c.Items)
                         {
-                            <div class="col-3">
-                                <img class="img-fluid" loading="lazy" src="@e.ImageUrl" />
-                                <h4>
-                                    <img class="img-fluid"
-                         loading="lazy"
-                         src="@e.Rarity?.ImageUrl"
-                         alt="@e.Rarity?.Value" />
-                                    @e.CategoryName
-                                    <img class="img-fluid"
-                         loading="lazy"
-                         src="@e.SubCategory?.ImageUrl"
-                         alt="@e.SubCategory?.Value" />
-                                </h4>
-                            </div>
+                            <DataContextScope @key="e.GetHashCode()"
+                              DataContext="e">
+                                <div class="col-3">
+                                    <img class="img-fluid" loading="lazy" src="@e.ImageUrl" style="@(e.IsVisible ? null : "filter:grayscale(1);opacity::0.65;")" />
+                                    <h4>
+                                        <img class="img-fluid"
+                             loading="lazy"
+                             src="@e.Rarity?.ImageUrl"
+                             alt="@e.Rarity?.Value" />
+                                        @e.CategoryName
+                                        <img class="img-fluid"
+                             loading="lazy"
+                             src="@e.SubCategory?.ImageUrl"
+                             alt="@e.SubCategory?.Value" />
+                                    </h4>
+                                </div>
+                            </DataContextScope>
                         }
                     </div>
                 }
@@ -147,7 +150,7 @@
 
     [Inject]
     public HttpClient? Http { get; set; }
-     
+
     public new IndexPageViewModel DataContext => (IndexPageViewModel)base.DataContext;
 
     protected override FrameworkPageViewModel GetOrCreateDataContext()
