@@ -9,4 +9,10 @@ public sealed class BrandViewModel : EnumViewModel
     }
 
     public string? ImageUrl { get; }
+
+    protected override void OnIsSelectedChanged()
+    {
+        Page.UpdateAllBrandsSelected();
+        base.OnIsSelectedChanged();
+    }
 }

@@ -26,10 +26,13 @@ public abstract class EnumViewModel : ObservableModel
         {
             if (SetProperty(ref _IsSelected, value))
             {
-                Page.UpdateFiltered();
+                OnIsSelectedChanged();
             }
         }
     }
+
+    protected virtual void OnIsSelectedChanged()
+        => Page.UpdateFiltered();
 
     #endregion IsSelected
 }

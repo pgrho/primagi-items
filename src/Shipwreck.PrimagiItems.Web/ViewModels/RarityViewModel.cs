@@ -9,4 +9,9 @@ public sealed class RarityViewModel : EnumViewModel
     }
 
     public string? ImageUrl { get; }
+    protected override void OnIsSelectedChanged()
+    {
+        Page.UpdateAllRaritiesSelected();
+        base.OnIsSelectedChanged();
+    }
 }

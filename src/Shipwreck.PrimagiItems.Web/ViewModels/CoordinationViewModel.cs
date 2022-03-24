@@ -21,6 +21,26 @@ public sealed class CoordinationViewModel : ObservableModel
     public bool IsHidden => _Model.Items.All(e => !e.IsShowItem);
     public string DisplayName => (IsHidden ? null : _Model.Name) ?? "????";
 
+    #region Brand
+
+    private BrandViewModel? _Brand;
+
+    public BrandViewModel? Brand 
+        => _Brand 
+        ??= (Items.FirstOrDefault()?.Brand is BrandViewModel b && Items.All(e => e.Brand == b) ? b : null);
+
+    #endregion Brand
+
+    #region Rarity
+
+    private RarityViewModel? _Rarity;
+
+    public RarityViewModel? Rarity
+        => _Rarity
+        ??= (Items.FirstOrDefault()?.Rarity is RarityViewModel r && Items.All(e => e.Rarity == r) ? r : null);
+
+    #endregion Rarity
+
     #region IsVisible
 
     private bool _IsVisible = true;

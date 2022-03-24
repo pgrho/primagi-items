@@ -9,4 +9,9 @@ public sealed class SubCategoryViewModel : EnumViewModel
     }
 
     public string? ImageUrl { get; }
+    protected override void OnIsSelectedChanged()
+    {
+        Page.UpdateAllSubCategoriesSelected();
+        base.OnIsSelectedChanged();
+    }
 }

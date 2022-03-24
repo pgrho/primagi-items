@@ -6,4 +6,10 @@ public sealed class ColorViewModel : EnumViewModel
         : base(page, model)
     {
     }
+
+    protected override void OnIsSelectedChanged()
+    {
+        Page.UpdateAllColorsSelected();
+        base.OnIsSelectedChanged();
+    }
 }

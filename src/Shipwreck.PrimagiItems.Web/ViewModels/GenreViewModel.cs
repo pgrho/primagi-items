@@ -6,4 +6,10 @@ public sealed class GenreViewModel : EnumViewModel
         : base(page, model)
     {
     }
+
+    protected override void OnIsSelectedChanged()
+    {
+        Page.UpdateAllGenresSelected();
+        base.OnIsSelectedChanged();
+    }
 }

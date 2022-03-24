@@ -6,4 +6,9 @@ public sealed class CategoryViewModel : EnumViewModel
         : base(page, model)
     {
     }
+    protected override void OnIsSelectedChanged()
+    {
+        Page.UpdateAllCategoriesSelected();
+        base.OnIsSelectedChanged();
+    }
 }

@@ -65,6 +65,11 @@ public sealed class CoordinationItemViewModel : ObservableModel
 
     #endregion SubCategory
 
+    private GenreColorImage? _GenreColor;
+
+    public GenreColorImage? GenreColor
+        => _GenreColor ??= _Model.Genre?.Images.FirstOrDefault(e => e.ColorIndex == _Model.ColorIndex);
+
     #region IsVisible
 
     private bool _IsVisible = true;

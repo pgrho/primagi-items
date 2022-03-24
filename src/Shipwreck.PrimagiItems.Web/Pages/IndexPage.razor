@@ -8,6 +8,11 @@
         @if (DataContext?.Brands.Count > 0)
         {
             <div class="row">
+                <Checkbox @bind-NullableIsChecked="DataContext.AllBrandsSelected">
+                    ブランド
+                </Checkbox>
+            </div>
+            <div class="row">
                 <div class="form-inline">
                     @foreach (var e in DataContext.Brands)
                     {
@@ -24,6 +29,11 @@
     <ListScope T="RarityViewModel" Source="DataContext?.Rarities">
         @if (DataContext?.Rarities.Count > 0)
         {
+            <div class="row">
+                <Checkbox @bind-NullableIsChecked="DataContext.AllRaritiesSelected">
+                    レアリティ
+                </Checkbox>
+            </div>
             <div class="row">
                 <div class="form-inline">
                     @foreach (var e in DataContext.Rarities)
@@ -42,6 +52,11 @@
         @if (DataContext?.Categories.Count > 0)
         {
             <div class="row">
+                <Checkbox @bind-NullableIsChecked="DataContext.AllCategoriesSelected">
+                    カテゴリー
+                </Checkbox>
+            </div>
+            <div class="row">
                 <div class="form-inline">
                     @foreach (var e in DataContext.Categories)
                     {
@@ -58,6 +73,11 @@
     <ListScope T="ColorViewModel" Source="DataContext?.Colors">
         @if (DataContext?.Colors.Count > 0)
         {
+            <div class="row">
+                <Checkbox @bind-NullableIsChecked="DataContext.AllColorsSelected">
+                    いろ
+                </Checkbox>
+            </div>
             <div class="row">
                 <div class="form-inline">
                     @foreach (var e in DataContext.Colors)
@@ -76,6 +96,11 @@
         @if (DataContext?.Genres.Count > 0)
         {
             <div class="row">
+                <Checkbox @bind-NullableIsChecked="DataContext.AllGenresSelected">
+                    スタイル
+                </Checkbox>
+            </div>
+            <div class="row">
                 <div class="form-inline">
                     @foreach (var e in DataContext.Genres)
                     {
@@ -92,6 +117,11 @@
     <ListScope T="SubCategoryViewModel" Source="DataContext?.SubCategories">
         @if (DataContext?.SubCategories.Count > 0)
         {
+            <div class="row">
+                <Checkbox @bind-NullableIsChecked="DataContext.AllSubCategoriesSelected">
+                    テイスト
+                </Checkbox>
+            </div>
             <div class="row">
                 <div class="form-inline">
                     @foreach (var e in DataContext.SubCategories)
@@ -116,7 +146,31 @@
                 foreach (var c in ch.OrderBy(e => e.DirectoryNumber))
                 {
                     <div class="row">
-                        <h3 class="col-12">@c.DisplayName</h3>
+                        <h3 class="col-12">
+                            @if (c.IsHidden)
+                            {
+                                @("????")
+                            }
+                            else
+                            {
+                                if (c.Rarity != null)
+                                {
+                                    <img class="img-fluid"
+                     loading="lazy"
+                     src="@c.Rarity?.ImageUrl"
+                     alt="@c.Rarity?.Value" />
+                                }
+                                if (c.Brand != null)
+                                {
+                                    <img class="img-fluid"
+                     loading="lazy"
+                     src="@c.Brand?.ImageUrl"
+                     alt="@c.Brand?.Value" />
+                                }
+                                @c.Name
+                            }
+
+                        </h3>
                         @foreach (var e in c.Items)
                         {
                             <DataContextScope @key="e.GetHashCode()"
@@ -124,15 +178,44 @@
                                 <div class="col-3">
                                     <img class="img-fluid" loading="lazy" src="@e.ImageUrl" style="@(e.IsVisible ? null : "filter:grayscale(1);opacity::0.65;")" />
                                     <h4>
-                                        <img class="img-fluid"
+                                        @if (c.IsHidden)
+                                        {
+                                            @("????")
+                                        }
+                                        else
+                                        {
+                                            if (c.Rarity == null)
+                                            {
+                                                <img class="img-fluid"
                              loading="lazy"
                              src="@e.Rarity?.ImageUrl"
                              alt="@e.Rarity?.Value" />
-                                        @e.CategoryName
-                                        <img class="img-fluid"
+                                            }
+                                            if (c.Brand == null)
+                                            {
+                                                <img class="img-fluid"
+                             loading="lazy"
+                             src="@e.Brand?.ImageUrl"
+                             alt="@e.Brand?.Value" />
+                                            }
+                                            @e.CategoryName
+                                            if (e.GenreColor != null)
+                                            {
+                                                <img class="img-fluid"
+                             loading="lazy"
+                             src="@e.GenreColor?.ImageUrl" />
+                                            }
+                                            else
+                                            {
+                                                @e.Color?.Value
+                                                @(" - ")
+                                                @e.Genre?.Value
+                                            }
+                                            <img class="img-fluid"
                              loading="lazy"
                              src="@e.SubCategory?.ImageUrl"
                              alt="@e.SubCategory?.Value" />
+                                        }
                                     </h4>
                                 </div>
                             </DataContextScope>
