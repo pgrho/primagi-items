@@ -1,233 +1,247 @@
 ﻿@page "/"
 @inherits FrameworkPageBase
-
+@{
+    var d = DataContext;
+}
 <PageTitle>Index</PageTitle>
-
 <div class="container">
-    <ListScope T="BrandViewModel" Source="DataContext?.Brands">
-        @if (DataContext?.Brands.Count > 0)
-        {
-            <div class="row">
-                <Checkbox @bind-NullableIsChecked="DataContext.AllBrandsSelected">
-                    ブランド
-                </Checkbox>
-            </div>
-            <div class="row">
-                <div class="form-inline">
-                    @foreach (var e in DataContext.Brands)
-                    {
-                        <DataContextScope @key="e.Key" DataContext="e">
-                            <Checkbox @bind-IsChecked="@e.IsSelected">
-                                @e.Value
-                            </Checkbox>
-                        </DataContextScope>
-                    }
-                </div>
-            </div>
-        }
-    </ListScope>
-    <ListScope T="RarityViewModel" Source="DataContext?.Rarities">
-        @if (DataContext?.Rarities.Count > 0)
-        {
-            <div class="row">
-                <Checkbox @bind-NullableIsChecked="DataContext.AllRaritiesSelected">
-                    レアリティ
-                </Checkbox>
-            </div>
-            <div class="row">
-                <div class="form-inline">
-                    @foreach (var e in DataContext.Rarities)
-                    {
-                        <DataContextScope @key="e.Key" DataContext="e">
-                            <Checkbox @bind-IsChecked="@e.IsSelected">
-                                @e.Value
-                            </Checkbox>
-                        </DataContextScope>
-                    }
-                </div>
-            </div>
-        }
-    </ListScope>
-    <ListScope T="CategoryViewModel" Source="DataContext?.Categories">
-        @if (DataContext?.Categories.Count > 0)
-        {
-            <div class="row">
-                <Checkbox @bind-NullableIsChecked="DataContext.AllCategoriesSelected">
-                    カテゴリー
-                </Checkbox>
-            </div>
-            <div class="row">
-                <div class="form-inline">
-                    @foreach (var e in DataContext.Categories)
-                    {
-                        <DataContextScope @key="e.Key" DataContext="e">
-                            <Checkbox @bind-IsChecked="@e.IsSelected">
-                                @e.Value
-                            </Checkbox>
-                        </DataContextScope>
-                    }
-                </div>
-            </div>
-        }
-    </ListScope>
-    <ListScope T="ColorViewModel" Source="DataContext?.Colors">
-        @if (DataContext?.Colors.Count > 0)
-        {
-            <div class="row">
-                <Checkbox @bind-NullableIsChecked="DataContext.AllColorsSelected">
-                    いろ
-                </Checkbox>
-            </div>
-            <div class="row">
-                <div class="form-inline">
-                    @foreach (var e in DataContext.Colors)
-                    {
-                        <DataContextScope @key="e.Key" DataContext="e">
-                            <Checkbox @bind-IsChecked="@e.IsSelected">
-                                @e.Value
-                            </Checkbox>
-                        </DataContextScope>
-                    }
-                </div>
-            </div>
-        }
-    </ListScope>
-    <ListScope T="GenreViewModel" Source="DataContext?.Genres">
-        @if (DataContext?.Genres.Count > 0)
-        {
-            <div class="row">
-                <Checkbox @bind-NullableIsChecked="DataContext.AllGenresSelected">
-                    スタイル
-                </Checkbox>
-            </div>
-            <div class="row">
-                <div class="form-inline">
-                    @foreach (var e in DataContext.Genres)
-                    {
-                        <DataContextScope @key="e.Key" DataContext="e">
-                            <Checkbox @bind-IsChecked="@e.IsSelected">
-                                @e.Value
-                            </Checkbox>
-                        </DataContextScope>
-                    }
-                </div>
-            </div>
-        }
-    </ListScope>
-    <ListScope T="SubCategoryViewModel" Source="DataContext?.SubCategories">
-        @if (DataContext?.SubCategories.Count > 0)
-        {
-            <div class="row">
-                <Checkbox @bind-NullableIsChecked="DataContext.AllSubCategoriesSelected">
-                    テイスト
-                </Checkbox>
-            </div>
-            <div class="row">
-                <div class="form-inline">
-                    @foreach (var e in DataContext.SubCategories)
-                    {
-                        <DataContextScope @key="e.Key" DataContext="e">
-                            <Checkbox @bind-IsChecked="@e.IsSelected">
-                                @e.Value
-                            </Checkbox>
-                        </DataContextScope>
-                    }
-                </div>
-            </div>
-        }
-    </ListScope>
-    <ListScope T="CoordinationViewModel" Source="DataContext?.Filtered">
-        @if (DataContext?.Filtered.Count > 0)
-        {
-            foreach (var ch in DataContext.Filtered.GroupBy(e => e.Chapter))
+    @if (d?.IsInitialized != true)
+    {
+        <div>データを取得しています。</div>
+    }
+    else
+    {
+        <ListScope T="BrandViewModel" Source="d.Brands">
+            @if (d.Brands.Count > 0)
             {
-                <h2>@ch.First().Chapter</h2>
+                <div class="row">
+                    <Checkbox @bind-NullableIsChecked="d.AllBrandsSelected">
+                        ブランド
+                    </Checkbox>
+                </div>
+                <div class="row">
+                    <div class="form-inline">
+                        @foreach (var e in d.Brands)
+                        {
+                            <DataContextScope @key="e.Key" DataContext="e">
+                                <Checkbox @bind-IsChecked="@e.IsSelected">
+                                    @e.Value
+                                </Checkbox>
+                            </DataContextScope>
+                        }
+                    </div>
+                </div>
+            }
+        </ListScope>
+        <ListScope T="RarityViewModel" Source="d.Rarities">
+            @if (d.Rarities.Count > 0)
+            {
+                <div class="row">
+                    <Checkbox @bind-NullableIsChecked="d.AllRaritiesSelected">
+                        レアリティ
+                    </Checkbox>
+                </div>
+                <div class="row">
+                    <div class="form-inline">
+                        @foreach (var e in d.Rarities)
+                        {
+                            <DataContextScope @key="e.Key" DataContext="e">
+                                <Checkbox @bind-IsChecked="@e.IsSelected">
+                                    @e.Value
+                                </Checkbox>
+                            </DataContextScope>
+                        }
+                    </div>
+                </div>
+            }
+        </ListScope>
+        <ListScope T="CategoryViewModel" Source="d.Categories">
+            @if (d.Categories.Count > 0)
+            {
+                <div class="row">
+                    <Checkbox @bind-NullableIsChecked="d.AllCategoriesSelected">
+                        カテゴリー
+                    </Checkbox>
+                </div>
+                <div class="row">
+                    <div class="form-inline">
+                        @foreach (var e in d.Categories)
+                        {
+                            <DataContextScope @key="e.Key" DataContext="e">
+                                <Checkbox @bind-IsChecked="@e.IsSelected">
+                                    @e.Value
+                                </Checkbox>
+                            </DataContextScope>
+                        }
+                    </div>
+                </div>
+            }
+        </ListScope>
+        <ListScope T="ColorViewModel" Source="d.Colors">
+            @if (d.Colors.Count > 0)
+            {
+                <div class="row">
+                    <Checkbox @bind-NullableIsChecked="d.AllColorsSelected">
+                        いろ
+                    </Checkbox>
+                </div>
+                <div class="row">
+                    <div class="form-inline">
+                        @foreach (var e in d.Colors)
+                        {
+                            <DataContextScope @key="e.Key" DataContext="e">
+                                <Checkbox @bind-IsChecked="@e.IsSelected">
+                                    @e.Value
+                                </Checkbox>
+                            </DataContextScope>
+                        }
+                    </div>
+                </div>
+            }
+        </ListScope>
+        <ListScope T="GenreViewModel" Source="d.Genres">
+            @if (d.Genres.Count > 0)
+            {
+                <div class="row">
+                    <Checkbox @bind-NullableIsChecked="d.AllGenresSelected">
+                        スタイル
+                    </Checkbox>
+                </div>
+                <div class="row">
+                    <div class="form-inline">
+                        @foreach (var e in d.Genres)
+                        {
+                            <DataContextScope @key="e.Key" DataContext="e">
+                                <Checkbox @bind-IsChecked="@e.IsSelected">
+                                    @e.Value
+                                </Checkbox>
+                            </DataContextScope>
+                        }
+                    </div>
+                </div>
+            }
+        </ListScope>
+        <ListScope T="SubCategoryViewModel" Source="d.SubCategories">
+            @if (d.SubCategories.Count > 0)
+            {
+                <div class="row">
+                    <Checkbox @bind-NullableIsChecked="d.AllSubCategoriesSelected">
+                        テイスト
+                    </Checkbox>
+                </div>
+                <div class="row">
+                    <div class="form-inline">
+                        @foreach (var e in d.SubCategories)
+                        {
+                            <DataContextScope @key="e.Key" DataContext="e">
+                                <Checkbox @bind-IsChecked="@e.IsSelected">
+                                    @e.Value
+                                </Checkbox>
+                            </DataContextScope>
+                        }
+                    </div>
+                </div>
+            }
+        </ListScope>
 
-                <Virtualize Items="ch.OrderBy(e => e.DirectoryNumber).ToList()"
+        <div class="row">
+            <Checkbox @bind-IsChecked="d.HidesSpoiler">
+                ネタバレ非表示
+            </Checkbox>
+        </div>
+
+        <ListScope T="CoordinationViewModel" Source="d.Filtered">
+            @if (d.Filtered.Count > 0)
+            {
+                foreach (var ch in DataContext.Filtered.GroupBy(e => e.Chapter))
+                {
+                    <h2>@ch.First().Chapter</h2>
+
+                    <Virtualize Items="ch.OrderBy(e => e.DirectoryNumber).ToList()"
                     Context="c">
-                    <div class="row">
-                        <h3 class="col-12">
-                            @if (c.IsHidden)
-                            {
-                        @("????")
-                            }
-                            else
-                            {
-                                if (c.Rarity != null)
+                        <div class="row">
+                            <h3 class="col-12">
+                                @if (c.IsHidden)
                                 {
+                        @("????")
+                                }
+                                else
+                                {
+                                    if (c.Rarity != null)
+                                    {
                             <img class="img-fluid"
                          loading="lazy"
                          src="@c.Rarity?.ImageUrl"
                          alt="@c.Rarity?.Value" />
-                                }
-                                if (c.Brand != null)
-                                {
+                                    }
+                                    if (c.Brand != null)
+                                    {
                             <img class="img-fluid"
                          loading="lazy"
                          src="@c.Brand?.ImageUrl"
                          alt="@c.Brand?.Value" />
-                                }
+                                    }
                         @c.Name
-                            }
+                                }
 
                 </h3>
                 @foreach (var e in c.Items)
-                        {
+                            {
                     <DataContextScope @key="e.GetHashCode()"
                                   DataContext="e">
                         <div class="col-3">
                             <img class="img-fluid" loading="lazy" src="@e.ImageUrl" style="@(e.IsVisible ? null : "filter:grayscale(1);opacity::0.65;")" />
                             <h4>
                                 @if (c.IsHidden)
-                                        {
-                                    @("????")
-                                        }
-                                        else
-                                        {
-                                            if (c.Rarity == null)
                                             {
+                                    @("????")
+                                            }
+                                            else
+                                            {
+                                                if (c.Rarity == null)
+                                                {
                                         <img class="img-fluid"
                                  loading="lazy"
                                  src="@e.Rarity?.ImageUrl"
                                  alt="@e.Rarity?.Value" />
-                                            }
-                                            if (c.Brand == null)
-                                            {
+                                                }
+                                                if (c.Brand == null)
+                                                {
                                         <img class="img-fluid"
                                  loading="lazy"
                                  src="@e.Brand?.ImageUrl"
                                  alt="@e.Brand?.Value" />
-                                            }
+                                                }
                                     @e.CategoryName
-                                            if (e.GenreColor != null)
-                                            {
+                                                if (e.GenreColor != null)
+                                                {
                                         <img class="img-fluid"
                                  loading="lazy"
                                  src="@e.GenreColor?.ImageUrl" />
-                                            }
-                                            else
-                                            {
+                                                }
+                                                else
+                                                {
                                         @e.Color?.Value
                                         @(" - ")
                                         @e.Genre?.Value
-                                            }
+                                                }
                                     <img class="img-fluid"
                                  loading="lazy"
                                  src="@e.SubCategory?.ImageUrl"
                                  alt="@e.SubCategory?.Value" />
-                                        }
+                                            }
                             </h4>
                         </div>
                     </DataContextScope>
-                        }
+                            }
             </div>
 
         </Virtualize>
+                }
             }
-        }
-    </ListScope>
+        </ListScope>
+    }
 </div>
-
 @code
 {
     protected override bool ImplicitRender => false;

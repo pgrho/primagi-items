@@ -19,6 +19,28 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
 
     public HttpClient Http => ((IndexPage)Page).Http!;
 
+    #region HidesSpoiler
+
+    private bool _HidesSpoiler = true;
+
+    public bool HidesSpoiler
+    {
+        get => _HidesSpoiler;
+        set
+        {
+            if (SetProperty(ref _HidesSpoiler, value))
+            {
+                foreach (var c in Coordinations)
+                {
+                    c.UpdateIsHidden();
+                }
+                // TODO: UpdateFiltered();
+            }
+        }
+    }
+
+    #endregion HidesSpoiler
+
     #region Brands
 
     private bool? _AllBrandsSelected = true;
@@ -62,7 +84,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
                 : null
             : null, propertyName: nameof(Brands));
 
-    #endregion
+    #endregion Brands
 
     #region Rarities
 
@@ -107,7 +129,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
                 : null
             : null, propertyName: nameof(Rarities));
 
-    #endregion
+    #endregion Rarities
 
     #region Categories
 
@@ -152,7 +174,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
                 : null
             : null, propertyName: nameof(Categories));
 
-    #endregion
+    #endregion Categories
 
     #region Colors
 
@@ -197,7 +219,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
                 : null
             : null, propertyName: nameof(Colors));
 
-    #endregion
+    #endregion Colors
 
     #region Genres
 
@@ -242,7 +264,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
                 : null
             : null, propertyName: nameof(Genres));
 
-    #endregion
+    #endregion Genres
 
     #region SubCategories
 
@@ -287,7 +309,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
                 : null
             : null, propertyName: nameof(SubCategories));
 
-    #endregion
+    #endregion SubCategories
 
     public BulkUpdateableCollection<CoordinationViewModel> Coordinations { get; }
     public BulkUpdateableCollection<CoordinationViewModel> Filtered { get; }

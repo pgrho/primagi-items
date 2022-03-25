@@ -11,6 +11,8 @@ public sealed class CoordinationViewModel : ObservableModel
         Page = page;
         Items = Array.AsReadOnly(model.Items.Select(e => new CoordinationItemViewModel(this, e)).ToArray());
         _Model = model;
+
+        UpdateIsHidden();
     }
 
     public IndexPageViewModel Page { get; }
@@ -18,15 +20,30 @@ public sealed class CoordinationViewModel : ObservableModel
     public string? Chapter => _Model.Chapter;
     public int DirectoryNumber => _Model.DirectoryNumber;
     public string? Name => _Model.Name;
-    public bool IsHidden => _Model.Items.All(e => !e.IsShowItem);
+
+    #region IsHidden
+
+    private bool _IsHidden;
+
+    public bool IsHidden
+    {
+        get => _IsHidden;
+        private set => SetProperty(ref _IsHidden, value);
+    }
+
+    internal void UpdateIsHidden()
+        => IsHidden = Page.HidesSpoiler && _Model.Items.All(e => !e.IsShowItem);
+
+    #endregion IsHidden
+
     public string DisplayName => (IsHidden ? null : _Model.Name) ?? "????";
 
     #region Brand
 
     private BrandViewModel? _Brand;
 
-    public BrandViewModel? Brand 
-        => _Brand 
+    public BrandViewModel? Brand
+        => _Brand
         ??= (Items.FirstOrDefault()?.Brand is BrandViewModel b && Items.All(e => e.Brand == b) ? b : null);
 
     #endregion Brand
