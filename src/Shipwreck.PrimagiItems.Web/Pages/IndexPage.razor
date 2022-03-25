@@ -143,85 +143,86 @@
             {
                 <h2>@ch.First().Chapter</h2>
 
-                foreach (var c in ch.OrderBy(e => e.DirectoryNumber))
-                {
+                <Virtualize Items="ch.OrderBy(e => e.DirectoryNumber).ToList()"
+                    Context="c">
                     <div class="row">
                         <h3 class="col-12">
                             @if (c.IsHidden)
                             {
-                                @("????")
+                        @("????")
                             }
                             else
                             {
                                 if (c.Rarity != null)
                                 {
-                                    <img class="img-fluid"
-                     loading="lazy"
-                     src="@c.Rarity?.ImageUrl"
-                     alt="@c.Rarity?.Value" />
+                            <img class="img-fluid"
+                         loading="lazy"
+                         src="@c.Rarity?.ImageUrl"
+                         alt="@c.Rarity?.Value" />
                                 }
                                 if (c.Brand != null)
                                 {
-                                    <img class="img-fluid"
-                     loading="lazy"
-                     src="@c.Brand?.ImageUrl"
-                     alt="@c.Brand?.Value" />
+                            <img class="img-fluid"
+                         loading="lazy"
+                         src="@c.Brand?.ImageUrl"
+                         alt="@c.Brand?.Value" />
                                 }
-                                @c.Name
+                        @c.Name
                             }
 
-                        </h3>
-                        @foreach (var e in c.Items)
+                </h3>
+                @foreach (var e in c.Items)
                         {
-                            <DataContextScope @key="e.GetHashCode()"
-                              DataContext="e">
-                                <div class="col-3">
-                                    <img class="img-fluid" loading="lazy" src="@e.ImageUrl" style="@(e.IsVisible ? null : "filter:grayscale(1);opacity::0.65;")" />
-                                    <h4>
-                                        @if (c.IsHidden)
+                    <DataContextScope @key="e.GetHashCode()"
+                                  DataContext="e">
+                        <div class="col-3">
+                            <img class="img-fluid" loading="lazy" src="@e.ImageUrl" style="@(e.IsVisible ? null : "filter:grayscale(1);opacity::0.65;")" />
+                            <h4>
+                                @if (c.IsHidden)
                                         {
-                                            @("????")
+                                    @("????")
                                         }
                                         else
                                         {
                                             if (c.Rarity == null)
                                             {
-                                                <img class="img-fluid"
-                             loading="lazy"
-                             src="@e.Rarity?.ImageUrl"
-                             alt="@e.Rarity?.Value" />
+                                        <img class="img-fluid"
+                                 loading="lazy"
+                                 src="@e.Rarity?.ImageUrl"
+                                 alt="@e.Rarity?.Value" />
                                             }
                                             if (c.Brand == null)
                                             {
-                                                <img class="img-fluid"
-                             loading="lazy"
-                             src="@e.Brand?.ImageUrl"
-                             alt="@e.Brand?.Value" />
+                                        <img class="img-fluid"
+                                 loading="lazy"
+                                 src="@e.Brand?.ImageUrl"
+                                 alt="@e.Brand?.Value" />
                                             }
-                                            @e.CategoryName
+                                    @e.CategoryName
                                             if (e.GenreColor != null)
                                             {
-                                                <img class="img-fluid"
-                             loading="lazy"
-                             src="@e.GenreColor?.ImageUrl" />
+                                        <img class="img-fluid"
+                                 loading="lazy"
+                                 src="@e.GenreColor?.ImageUrl" />
                                             }
                                             else
                                             {
-                                                @e.Color?.Value
-                                                @(" - ")
-                                                @e.Genre?.Value
+                                        @e.Color?.Value
+                                        @(" - ")
+                                        @e.Genre?.Value
                                             }
-                                            <img class="img-fluid"
-                             loading="lazy"
-                             src="@e.SubCategory?.ImageUrl"
-                             alt="@e.SubCategory?.Value" />
+                                    <img class="img-fluid"
+                                 loading="lazy"
+                                 src="@e.SubCategory?.ImageUrl"
+                                 alt="@e.SubCategory?.Value" />
                                         }
-                                    </h4>
-                                </div>
-                            </DataContextScope>
+                            </h4>
+                        </div>
+                    </DataContextScope>
                         }
-                    </div>
-                }
+            </div>
+
+        </Virtualize>
             }
         }
     </ListScope>
