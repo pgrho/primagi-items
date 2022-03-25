@@ -263,7 +263,7 @@ internal class Program
                 Collection = cg.Key.collection,
                 DirectoryNumber = cg.Key.directoryNumber,
 
-                Chapter = gf.Chapter,
+                ChapterId = gf.Chapter,
                 IsShow = gf.isShow,
                 HasMainImage = gf.hasMainImage,
                 Kinds = gf.kinds,

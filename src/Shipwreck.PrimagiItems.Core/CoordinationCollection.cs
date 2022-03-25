@@ -19,6 +19,8 @@ internal sealed class CoordinationCollection : Collection<Coordination>
         }
         item.DataSet = _DataSet;
         base.InsertItem(index, item);
+
+        _DataSet.EnsureChapter(item.ChapterId);
     }
 
     protected override void ClearItems()
@@ -49,6 +51,8 @@ internal sealed class CoordinationCollection : Collection<Coordination>
             old.DataSet = null;
             item.DataSet = _DataSet;
             base.SetItem(index, item);
+
+            _DataSet.EnsureChapter(item.ChapterId);
         }
     }
 }

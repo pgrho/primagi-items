@@ -84,7 +84,8 @@ public sealed class CoordinationItemViewModel : ObservableModel
 
     internal bool InvalidateIsVisible()
     {
-        IsVisible = Brand?.IsSelected == true
+        IsVisible = Coordination.Chapter?.IsSelected == true
+                && Brand?.IsSelected == true
                 && Rarity?.IsSelected == true
                 && Category?.IsSelected == true
                 && Color?.IsSelected == true

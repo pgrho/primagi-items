@@ -15,7 +15,38 @@ public sealed class Coordination
     public bool HasMainImage { get; set; }
     public string? Span { get; set; }
     public int Order { get; set; }
-    public string? Chapter { get; set; }
+
+    #region Chapter
+
+    private string? _ChapterId;
+    private Chapter? _Chapter;
+
+    [JsonProperty(nameof(Chapter))]
+    public string? ChapterId
+    {
+        get => _ChapterId;
+        set
+        {
+            if (value != _ChapterId)
+            {
+                _ChapterId = value;
+                _Chapter = null;
+            }
+        }
+    }
+
+    [JsonIgnore]
+    public Chapter? Chapter
+    {
+        get => _Chapter ??= DataSet?.GetChapter(ChapterId);
+        set
+        {
+            _Chapter = value;
+            _ChapterId = value?.Key;
+        }
+    }
+
+    #endregion Chapter
 
     #region Items
 
@@ -43,8 +74,9 @@ public sealed class Coordination
     #endregion Items
 
     public string? ImageUrl
-        => Chapter == null || !HasMainImage ? null
-        : $"https://cdn.primagi.jp/assets/images/item/{Chapter}/img_codination_{DirectoryNumber}_main.jpg";
+        => ChapterId == null || !HasMainImage ? null
+        : $"https://cdn.primagi.jp/assets/images/item/{ChapterId}/img_codination_{DirectoryNumber}_main.jpg";
+
     public bool ShouldSerializeImageUrl()
         => DataSet?.IgnoreCalculatedProperties != true;
 }

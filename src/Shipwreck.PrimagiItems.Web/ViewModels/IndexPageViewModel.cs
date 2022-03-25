@@ -7,6 +7,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
     public IndexPageViewModel(FrameworkPageBase page)
         : base(page)
     {
+        Chapters = new();
         Brands = new();
         Rarities = new();
         Categories = new();
@@ -18,6 +19,38 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
     }
 
     public HttpClient Http => ((IndexPage)Page).Http!;
+
+    #region IsCollapsed
+
+    private bool? _IsCollapsed = true;
+
+    public bool? IsCollapsed
+    {
+        get => _IsCollapsed;
+        private set => SetProperty(ref _IsCollapsed, value);
+    }
+
+    public async void ToggleIsCollapsed()
+    {
+        if (_IsCollapsed == null)
+        {
+            return;
+        }
+        else if (_IsCollapsed == true)
+        {
+            IsCollapsed = null;
+            await Task.Delay(350);
+            IsCollapsed = false;
+        }
+        else
+        {
+            IsCollapsed = null;
+            await Task.Delay(350);
+            IsCollapsed = true;
+        }
+    }
+
+    #endregion HidesSpoiler
 
     #region HidesSpoiler
 
@@ -40,6 +73,51 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
     }
 
     #endregion HidesSpoiler
+
+    #region Chapters
+
+    private bool? _AllChaptersSelected = true;
+
+    public BulkUpdateableCollection<ChapterViewModel> Chapters { get; }
+
+    public bool? AllChaptersSelected
+    {
+        get => _AllChaptersSelected;
+        set
+        {
+            if (SetProperty(ref _AllChaptersSelected, value))
+            {
+                if (value != null)
+                {
+                    try
+                    {
+                        SuppressUpdate = true;
+
+                        foreach (var e in Chapters)
+                        {
+                            e.IsSelected = value ?? false;
+                        }
+                    }
+                    finally
+                    {
+                        SuppressUpdate = false;
+                        UpdateFiltered();
+                    }
+                }
+            }
+        }
+    }
+
+    internal void UpdateAllChaptersSelected()
+        => SetProperty(
+            ref _AllChaptersSelected,
+            Chapters.Count(e => e.IsSelected) is var i
+            ? i == 0 ? false
+                : i == Chapters.Count ? true
+                : null
+            : null, propertyName: nameof(Chapters));
+
+    #endregion Chapters
 
     #region Brands
 
@@ -320,6 +398,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
         {
             var ds = await PrimagiDataSet.ParseAsync(s);
 
+            Chapters.Set(ds.Chapters.Select(e => new ChapterViewModel(this, e)));
             Brands.Set(ds.Brands.Select(e => new BrandViewModel(this, e)));
             Rarities.Set(ds.Rarities.OrderByDescending(e => e.Key).Select(e => new RarityViewModel(this, e)));
             Categories.Set(ds.Categories.Select(e => new CategoryViewModel(this, e)));
@@ -329,7 +408,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
 
             Coordinations.Set(
                 ds.Coordinations
-                    .OrderBy(e => e.Chapter)
+                    .OrderBy(e => e.ChapterId)
                     .ThenBy(e => e.DirectoryNumber)
                     .Select(e => new CoordinationViewModel(this, e)));
 

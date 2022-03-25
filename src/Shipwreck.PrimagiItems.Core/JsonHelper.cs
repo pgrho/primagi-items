@@ -2,12 +2,14 @@
 
 internal static class JsonHelper
 {
-    public static EnumBaseCollection<T> GetOrCreate<T>(this PrimagiDataSet dataSet, ref EnumBaseCollection<T>? field)
-        where T : EnumBase
+    public static KeyedCollection<TKey, TItem> GetOrCreate<TKey, TItem>(this PrimagiDataSet dataSet, ref KeyedCollection<TKey, TItem>? field)
+    where TKey : notnull
+    where TItem : KeyedItem<TKey>
         => field ??= new(dataSet);
 
-    public static void Set<T>(this PrimagiDataSet dataSet, ref EnumBaseCollection<T>? field, IEnumerable<T>? value)
-        where T : EnumBase
+    public static void Set<TKey, TItem>(this PrimagiDataSet dataSet, ref KeyedCollection<TKey, TItem>? field, IEnumerable<TItem>? value)
+         where TKey : notnull
+    where TItem : KeyedItem<TKey>
     {
         if (value != field)
         {
@@ -16,7 +18,7 @@ internal static class JsonHelper
             {
                 foreach (var v in value)
                 {
-                    dataSet.GetOrCreate<T>(ref field).Add(v);
+                    dataSet.GetOrCreate(ref field).Add(v);
                 }
             }
         }

@@ -8,9 +8,61 @@ public sealed class PrimagiDataSet
     [JsonIgnore]
     public bool IgnoreCalculatedProperties { get; set; }
 
+    #region Chapters
+
+    private KeyedCollection<string, Chapter>? _Chapters;
+
+    public IList<Chapter> Chapters
+    {
+        get
+        {
+            if (_Chapters == null)
+            {
+                _Chapters = new KeyedCollection<string, Chapter>(this);
+                if (_Coordinations != null)
+                {
+                    foreach (var cid in _Coordinations.Select(e => e.ChapterId).Distinct())
+                    {
+                        GetChapter(cid);
+                    }
+                }
+            }
+            return _Chapters;
+        }
+        set => this.Set(ref _Chapters, value);
+    }
+
+    public bool ShouldSerializeChapters()
+        => !IgnoreCalculatedProperties;
+
+    internal Chapter? GetChapter(string? key)
+    {
+        if (key == null)
+        {
+            return null;
+        }
+        Chapter? g;
+        if (!((KeyedCollection<string, Chapter>)Chapters).TryGetValue(key, out g))
+        {
+            Chapters.Add(g = new Chapter() { Key = key });
+        }
+
+        return g;
+    }
+
+    internal void EnsureChapter(string? key)
+    {
+        if (_Chapters != null)
+        {
+            GetChapter(key);
+        }
+    }
+
+    #endregion Chapters
+
     #region Genres
 
-    private EnumBaseCollection<Genre>? _Genres;
+    private KeyedCollection<int, Genre>? _Genres;
 
     public IList<Genre> Genres
     {
@@ -26,7 +78,7 @@ public sealed class PrimagiDataSet
 
     #region Brands
 
-    private EnumBaseCollection<Brand>? _Brands;
+    private KeyedCollection<int, Brand>? _Brands;
 
     public IList<Brand> Brands
     {
@@ -42,7 +94,7 @@ public sealed class PrimagiDataSet
 
     #region Colors
 
-    private EnumBaseCollection<Color>? _Colors;
+    private KeyedCollection<int, Color>? _Colors;
 
     public IList<Color> Colors
     {
@@ -58,7 +110,7 @@ public sealed class PrimagiDataSet
 
     #region Rarities
 
-    private EnumBaseCollection<Rarity>? _Rarities;
+    private KeyedCollection<int, Rarity>? _Rarities;
 
     public IList<Rarity> Rarities
     {
@@ -74,7 +126,7 @@ public sealed class PrimagiDataSet
 
     #region Categories
 
-    private EnumBaseCollection<Category>? _Categories;
+    private KeyedCollection<int, Category>? _Categories;
 
     public IList<Category> Categories
     {
@@ -90,7 +142,7 @@ public sealed class PrimagiDataSet
 
     #region SubCategories
 
-    private EnumBaseCollection<SubCategory>? _SubCategories;
+    private KeyedCollection<int, SubCategory>? _SubCategories;
 
     public IList<SubCategory> SubCategories
     {

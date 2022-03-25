@@ -1,21 +1,20 @@
-﻿using System.Collections.ObjectModel;
+﻿namespace Shipwreck.PrimagiItems;
 
-namespace Shipwreck.PrimagiItems;
-
-internal sealed class EnumBaseCollection<T> : KeyedCollection<int, T>
-    where T : EnumBase
+internal sealed class KeyedCollection<TKey, TItem> : System.Collections.ObjectModel.KeyedCollection<TKey, TItem>
+    where TKey : notnull
+    where TItem : KeyedItem<TKey>
 {
     private readonly PrimagiDataSet _DataSet;
 
-    public EnumBaseCollection(PrimagiDataSet dataSet)
+    public KeyedCollection(PrimagiDataSet dataSet)
     {
         _DataSet = dataSet;
     }
 
-    protected override int GetKeyForItem(T item)
-        => item.Key;
+    protected override TKey GetKeyForItem(TItem item)
+        => item.Key!;
 
-    protected override void InsertItem(int index, T item)
+    protected override void InsertItem(int index, TItem item)
     {
         if ((item ?? throw new ArgumentNullException(nameof(item))).DataSet != null)
         {
@@ -41,7 +40,7 @@ internal sealed class EnumBaseCollection<T> : KeyedCollection<int, T>
         base.RemoveItem(index);
     }
 
-    protected override void SetItem(int index, T item)
+    protected override void SetItem(int index, TItem item)
     {
         var old = this[index];
         if (old != item)

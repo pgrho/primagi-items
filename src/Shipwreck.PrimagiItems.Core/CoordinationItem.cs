@@ -214,8 +214,8 @@ public sealed class CoordinationItem
     public int Release { get; set; }
 
     public string? ImageUrl
-        => Coordination?.Chapter == null ? null
-        : $"https://cdn.primagi.jp/assets/images/item/{Coordination?.Chapter}/{Id}.png";
+        => Coordination?.ChapterId == null ? null
+        : $"https://cdn.primagi.jp/assets/images/item/{Coordination?.ChapterId}/{Id}.png";
     public bool ShouldSerializeImageUrl()
         => DataSet?.IgnoreCalculatedProperties != true;
 }

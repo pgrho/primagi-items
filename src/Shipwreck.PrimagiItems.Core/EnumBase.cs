@@ -1,12 +1,6 @@
-﻿using Newtonsoft.Json;
+﻿namespace Shipwreck.PrimagiItems;
 
-namespace Shipwreck.PrimagiItems;
-
-public abstract class EnumBase
+public abstract class EnumBase : KeyedItem<int>
 {
-    [JsonIgnore]
-    public PrimagiDataSet? DataSet { get; set; }
-
-    public int Key { get; set; }
     public string? Value { get; set; }
 }
