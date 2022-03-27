@@ -12,7 +12,7 @@ internal class Program
 
     private static readonly string[] KNOWN_GENRES = new[] { "カジュアル", "スタイリッシュ", "ライブ" };
     private static readonly string[] KNOWN_CATEGORIES = new[] { "トップス", "ワンピ", "ボトムス", "シューズ", "アクセ" };
-    private static readonly string[] KNOWN_RARITIES = new[] { "R", "SR", "UR", "PMR" };
+    private static readonly string[] KNOWN_RARITIES = new[] { "R", "SR", "UR", "PMR", "HR" };
 
     private static readonly string?[] KNOWN_BRANDS = new[] {
         "LOVELY MELODY",

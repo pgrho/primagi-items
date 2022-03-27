@@ -563,9 +563,9 @@ id,coordinationName,modelName,genre,brand,color,rarity,watcha,category,subCatego
 20150,キラパワサニーキラリ,SPCW10131_B01A,3,8,3,2,500,3,7,PM3-143,6,0,4,,54,True,True,,True,,P03,SR,ライブ,ボトムス,PrismStone,ピンク,チェック
 20151,キラパワサニーキラリ,SPCW10131_P01A,3,8,11,2,450,4,6,PM3-144,6,0,4,,54,True,True,,True,,P03,SR,ライブ,シューズ,PrismStone,しろ,キュート
 20152,キラパワサニーキラリ,SPCW10131_I01A,3,8,10,2,450,5,12,PM3-145,6,0,4,,54,True,True,,True,,P03,SR,ライブ,アクセ,PrismStone,くろ,スポーツ
-477,ハートフェザーヘブンズ,SPCW20024_D01A,3,1,11,5,1400,2,20,PM4-001,8,0,0,章コレクション1,1,True,True,2022年3月31日（木）?2022年4月27日（水）,False,1,P04,error#5,ライブ,ワンピ,LOVELY MELODY,しろ,エレガント
-478,ハートフェザーヘブンズ,SPCW20024_P01A,3,1,11,5,650,4,15,PM4-002,8,0,0,,1,True,True,,False,,P04,error#5,ライブ,シューズ,LOVELY MELODY,しろ,ミステリアス
-479,ハートフェザーヘブンズ,SPCW20024_I01A,3,1,13,5,650,5,11,PM4-003,8,0,0,,1,True,True,,False,,P04,error#5,ライブ,アクセ,LOVELY MELODY,ゴールド,ジュエル
+477,ハートフェザーヘブンズ,SPCW20024_D01A,3,1,11,5,1400,2,20,PM4-001,8,0,0,章コレクション1,1,True,True,2022年3月31日（木）?2022年4月27日（水）,False,1,P04,HR,ライブ,ワンピ,LOVELY MELODY,しろ,エレガント
+478,ハートフェザーヘブンズ,SPCW20024_P01A,3,1,11,5,650,4,15,PM4-002,8,0,0,,1,True,True,,False,,P04,HR,ライブ,シューズ,LOVELY MELODY,しろ,ミステリアス
+479,ハートフェザーヘブンズ,SPCW20024_I01A,3,1,13,5,650,5,11,PM4-003,8,0,0,,1,True,True,,False,,P04,HR,ライブ,アクセ,LOVELY MELODY,ゴールド,ジュエル
 480,ミラクルベア,SPCW20011_D01A,3,6,7,3,1200,2,8,PM4-004,8,0,0,章コレクション1,2,True,True,2022年3月31日（木）?2022年4月27日（水）,True,2,P04,UR,ライブ,ワンピ,Cherry Sugar,みずいろ,リボン
 481,ミラクルベア,SPCW20011_P01A,3,6,7,3,550,4,16,PM4-005,8,0,0,,2,True,True,,True,,P04,UR,ライブ,シューズ,Cherry Sugar,みずいろ,ラブリー
 482,ミラクルベア,SPCW20011_I01A,3,6,11,3,550,5,19,PM4-006,8,0,0,,2,True,True,,True,,P04,UR,ライブ,アクセ,Cherry Sugar,しろ,アニマル
@@ -616,9 +616,9 @@ id,coordinationName,modelName,genre,brand,color,rarity,watcha,category,subCatego
 531,みるきスクール,SPCW10130_B01A,2,8,3,1,400,3,5,PM4-051,8,0,0,,14,True,True,,True,,P04,R,スタイリッシュ,ボトムス,PrismStone,ピンク,ガーリー
 532,みるきスクール,SPCW10130_P01A,2,8,1,1,350,4,18,PM4-052,8,0,0,,14,True,True,,True,,P04,R,スタイリッシュ,シューズ,PrismStone,ちゃ,ベーシック
 533,ハートイエローバレッタ,SPCW10130_I01A,2,8,5,1,350,5,8,PM4-053,8,0,0,,14,True,True,,True,,P04,R,スタイリッシュ,アクセ,PrismStone,きいろ,リボン
-534,マナマナみゃむヘブンズ,SPCW10234_D01A,3,1,11,5,1400,2,5,PM4-054,8,0,0,章コレクション2,15,True,True,2022年4月28日（木）?2022年6月1日（水）,False,1,P04,error#5,ライブ,ワンピ,LOVELY MELODY,しろ,ガーリー
-535,マナマナみゃむヘブンズ,SPCW10234_P01A,3,1,13,5,650,4,20,PM4-055,8,0,0,,15,True,True,,False,,P04,error#5,ライブ,シューズ,LOVELY MELODY,ゴールド,エレガント
-536,マナマナみゃむヘブンズ,SPCW10234_I01A,3,1,13,5,650,5,19,PM4-056,8,0,0,,15,True,True,,False,,P04,error#5,ライブ,アクセ,LOVELY MELODY,ゴールド,アニマル
+534,マナマナみゃむヘブンズ,SPCW10234_D01A,3,1,11,5,1400,2,5,PM4-054,8,0,0,章コレクション2,15,True,True,2022年4月28日（木）?2022年6月1日（水）,False,1,P04,HR,ライブ,ワンピ,LOVELY MELODY,しろ,ガーリー
+535,マナマナみゃむヘブンズ,SPCW10234_P01A,3,1,13,5,650,4,20,PM4-055,8,0,0,,15,True,True,,False,,P04,HR,ライブ,シューズ,LOVELY MELODY,ゴールド,エレガント
+536,マナマナみゃむヘブンズ,SPCW10234_I01A,3,1,13,5,650,5,19,PM4-056,8,0,0,,15,True,True,,False,,P04,HR,ライブ,アクセ,LOVELY MELODY,ゴールド,アニマル
 537,メカニックビート,SPCW20010_D01A,3,5,7,3,1200,2,21,PM4-057,8,0,0,章コレクション2,16,True,True,2022年4月28日（木）?2022年6月1日（水）,True,2,P04,UR,ライブ,ワンピ,ELECTRO REMIX,みずいろ,デジタル
 538,メカニックビート,SPCW20010_P01A,3,5,8,3,550,4,12,PM4-058,8,0,0,,16,True,True,,True,,P04,UR,ライブ,シューズ,ELECTRO REMIX,あお,スポーツ
 539,メカニックビート,SPCW20010_I01A,3,5,11,3,550,5,9,PM4-059,8,0,0,,16,True,True,,True,,P04,UR,ライブ,アクセ,ELECTRO REMIX,しろ,クール
@@ -698,7 +698,7 @@ id,coordinationName,modelName,genre,brand,color,rarity,watcha,category,subCatego
 650,フリルベルトマゼンタ,SPCW10235_B01A,1,3,9,1,400,3,18,PM4-122,8,0,0,,36,True,True,,True,,P04,R,カジュアル,ボトムス,Radiant Abyss,むらさき,ベーシック
 651,きりかえロングブーツマゼンタ,SPCW10235_P01A,1,3,9,1,350,4,9,PM4-123,8,0,0,,36,True,True,,True,,P04,R,カジュアル,シューズ,Radiant Abyss,むらさき,クール
 652,ハートシェイプハットマゼンタ,SPCW10235_I01A,1,3,9,1,350,5,10,PM4-124,8,0,0,,36,True,True,,True,,P04,R,カジュアル,アクセ,Radiant Abyss,むらさき,ゴシック
-600,エンジェルアイスイエロー,SPCW10239_T01A,3,6,5,2,500,1,5,PM4-125,8,0,0,スペシャル,37,True,True,2022年4月3日（日）?2022年4月9日（土）,True,4,P04,SR,ライブ,トップス,Cherry Sugar,きいろ,ガーリー
+600,エンジェルアイスイエロー,SPCW10239_T01A,3,6,5,2,500,1,5,PM4-125,8,0,0,スペシャル,37,True,True,2022年4月10日（日）～2022年4月16日（土）,True,4,P04,SR,ライブ,トップス,Cherry Sugar,きいろ,ガーリー
 601,エンジェルアイスイエロー,SPCW10239_B01A,3,6,5,2,500,3,17,PM4-126,8,0,0,,37,True,True,,True,,P04,SR,ライブ,ボトムス,Cherry Sugar,きいろ,スイーツ
 602,エンジェルアイスイエロー,SPCW10239_P01A,3,6,5,2,450,4,16,PM4-127,8,0,0,,37,True,True,,True,,P04,SR,ライブ,シューズ,Cherry Sugar,きいろ,ラブリー
 603,エンジェルアイスイエロー,SPCW10239_I01A,3,6,5,2,450,5,14,PM4-128,8,0,0,,37,True,True,,True,,P04,SR,ライブ,アクセ,Cherry Sugar,きいろ,ポップ

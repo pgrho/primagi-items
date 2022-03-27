@@ -21,7 +21,7 @@ public sealed class CoordinationItem
     private int _GenreIndex;
     private Genre? _Genre;
 
-    [JsonProperty(nameof(Genre))]
+    [JsonProperty("genre")]
     public int GenreIndex
     {
         get => _GenreIndex;
@@ -53,7 +53,7 @@ public sealed class CoordinationItem
     private int _BrandIndex;
     private Brand? _Brand;
 
-    [JsonProperty(nameof(Brand))]
+    [JsonProperty("brand")]
     public int BrandIndex
     {
         get => _BrandIndex;
@@ -85,7 +85,7 @@ public sealed class CoordinationItem
     private int _ColorIndex;
     private Color? _Color;
 
-    [JsonProperty(nameof(Color))]
+    [JsonProperty("color")]
     public int ColorIndex
     {
         get => _ColorIndex;
@@ -117,7 +117,7 @@ public sealed class CoordinationItem
     private int _RarityIndex;
     private Rarity? _Rarity;
 
-    [JsonProperty(nameof(Rarity))]
+    [JsonProperty("rarity")]
     public int RarityIndex
     {
         get => _RarityIndex;
@@ -149,7 +149,7 @@ public sealed class CoordinationItem
     private int _CategoryIndex;
     private Category? _Category;
 
-    [JsonProperty(nameof(Category))]
+    [JsonProperty("category")]
     public int CategoryIndex
     {
         get => _CategoryIndex;
@@ -181,7 +181,7 @@ public sealed class CoordinationItem
     private int _SubCategoryIndex;
     private SubCategory? _SubCategory;
 
-    [JsonProperty(nameof(SubCategory))]
+    [JsonProperty("subCategory")]
     public int SubCategoryIndex
     {
         get => _SubCategoryIndex;

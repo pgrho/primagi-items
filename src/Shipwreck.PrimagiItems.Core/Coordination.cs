@@ -21,7 +21,7 @@ public sealed class Coordination
     private string? _ChapterId;
     private Chapter? _Chapter;
 
-    [JsonProperty(nameof(Chapter))]
+    [JsonProperty("chapter")]
     public string? ChapterId
     {
         get => _ChapterId;
