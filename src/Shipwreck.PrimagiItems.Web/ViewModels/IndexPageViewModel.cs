@@ -1,4 +1,6 @@
-﻿using Shipwreck.PrimagiItems.Web.Pages;
+﻿using Newtonsoft.Json;
+using Shipwreck.PrimagiItems.Web.Models;
+using Shipwreck.PrimagiItems.Web.Pages;
 
 namespace Shipwreck.PrimagiItems.Web.ViewModels;
 
@@ -19,6 +21,18 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
     }
 
     public HttpClient Http => ((IndexPage)Page).Http!;
+
+    #region Model
+
+    private IndexPageMode _Mode;
+
+    public IndexPageMode Mode
+    {
+        get => _Mode;
+        set => SetProperty(ref _Mode, value);
+    }
+
+    #endregion Model
 
     #region IsCollapsed
 
@@ -50,7 +64,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
         }
     }
 
-    #endregion HidesSpoiler
+    #endregion IsCollapsed
 
     #region HidesSpoiler
 
@@ -389,11 +403,139 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
 
     #endregion SubCategories
 
+    #region 所持数
+
+    #region IsOwned
+
+    public bool _IsOwned = true;
+
+    public bool IsOwned
+    {
+        get => _IsOwned;
+        set
+        {
+            if (SetProperty(ref _IsOwned, value))
+            {
+                UpdateFiltered();
+            }
+        }
+    }
+
+    #endregion IsOwned
+
+    #region IsListed
+
+    public bool _IsListed = true;
+
+    public bool IsListed
+    {
+        get => _IsListed;
+        set
+        {
+            if (SetProperty(ref _IsListed, value))
+            {
+                UpdateFiltered();
+            }
+        }
+    }
+
+    #endregion IsListed
+
+    #region IsDesired
+
+    public bool _IsDesired = true;
+
+    public bool IsDesired
+    {
+        get => _IsDesired;
+        set
+        {
+            if (SetProperty(ref _IsDesired, value))
+            {
+                UpdateFiltered();
+            }
+        }
+    }
+
+    #endregion IsDesired
+
+    #region IsNotListed
+
+    public bool _IsNotListed = true;
+
+    public bool IsNotListed
+    {
+        get => _IsNotListed;
+        set
+        {
+            if (SetProperty(ref _IsNotListed, value))
+            {
+                UpdateFiltered();
+            }
+        }
+    }
+
+    #endregion IsNotListed
+
+    #endregion 所持数
+
+    #region UserDataTask
+
+    private Task<UserData>? _UserDataTask;
+
+    private Task<UserData> UserDataTask
+        => _UserDataTask ??= Page.JS.InvokeAsync<string>("__readLocalStorage", typeof(UserData).FullName)
+            .AsTask()
+            .ContinueWith(t =>
+            {
+                if (!string.IsNullOrEmpty(t.Result))
+                {
+                    try
+                    {
+                        return JsonConvert.DeserializeObject<UserData>(t.Result);
+                    }
+                    catch { }
+                }
+                return new UserData();
+            })!;
+
+    #endregion UserDataTask
+
+    #region SaveUserDataCommand
+
+    private CommandViewModelBase _SaveUserDataCommand;
+
+    public CommandViewModelBase SaveUserDataCommand
+        => _SaveUserDataCommand ??= CommandViewModel.CreateAsync(
+            async () =>
+            {
+                var ud = new UserData();
+                ud.Items = Coordinations.SelectMany(e => e.Items).Where(e => e.HasValue()).Select(e => new UserCoordinationItem
+                {
+                    SealId = e.SealId,
+                    Level = e.Level,
+                    OtherPosesssionCount = e.OtherPosesssionCount,
+                    DesiredCount = e.DesiredCount,
+                    ListingCount = e.ListingCount,
+                    Remarks = e.Remarks
+                }).ToList();
+
+                await Page.JS.InvokeAsync<string>("__writeLocalStorage", typeof(UserData).FullName, JsonConvert.SerializeObject(ud));
+                _UserDataTask = Task.FromResult(ud);
+            },
+            title: "保存",
+            icon: "fas fa-save",
+            style: BorderStyle.Primary);
+
+    #endregion SaveUserDataCommand
+
     public BulkUpdateableCollection<CoordinationViewModel> Coordinations { get; }
     public BulkUpdateableCollection<CoordinationViewModel> Filtered { get; }
 
     protected override async Task InitializeDataAsync()
     {
+        await UserDataTask;
+
         using (var s = await Http.GetStreamAsync("items.json"))
         {
             var ds = await PrimagiDataSet.ParseAsync(s);
@@ -412,7 +554,27 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
                     .ThenBy(e => e.DirectoryNumber)
                     .Select(e => new CoordinationViewModel(this, e)));
 
+            SetUserData();
+
             UpdateFiltered();
+        }
+    }
+
+    private async void SetUserData()
+    {
+        var ud = await UserDataTask;
+        var udic = ud?.Items.Where(e => e.SealId != null).ToDictionary(e => e.SealId!) ?? new();
+        foreach (var c in Coordinations)
+        {
+            foreach (var e in c.Items)
+            {
+                udic.TryGetValue(e.SealId ?? string.Empty, out var ue);
+                e.Level = ue?.Level ?? 0;
+                e.OtherPosesssionCount = ue?.OtherPosesssionCount ?? 0;
+                e.ListingCount = ue?.ListingCount ?? 0;
+                e.DesiredCount = ue?.DesiredCount ?? 0;
+                e.Remarks = ue?.Remarks ?? string.Empty;
+            }
         }
     }
 

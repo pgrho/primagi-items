@@ -174,100 +174,192 @@
                 </ListScope>
 
                 <div class="row">
-                    <Checkbox @bind-IsChecked="d.HidesSpoiler">
-                        ネタバレ非表示
+                    <Checkbox @bind-IsChecked="d.IsOwned">
+                        所持
+                    </Checkbox>
+                    <Checkbox @bind-IsChecked="d.IsDesired">
+                        希望
+                    </Checkbox>
+                    <Checkbox @bind-IsChecked="d.IsListed">
+                        提供
+                    </Checkbox>
+                    <Checkbox @bind-IsChecked="d.IsNotListed">
+                        その他
                     </Checkbox>
                 </div>
+
             </div>
         </div>
-
+        <div>
+            <button class="btn @(d.Mode == IndexPageMode.Default ? "btn-primary" : "btn-outline-primary")"
+                @onclick="@(() => d.Mode = IndexPageMode.Default)">
+                アイコン
+            </button>
+            <button class="btn @(d.Mode == IndexPageMode.Table ? "btn-primary" : "btn-outline-primary")"
+                @onclick="@(() => d.Mode = IndexPageMode.Table)">
+                一覧
+            </button>
+            <Checkbox @bind-IsChecked="d.HidesSpoiler">
+                ネタバレ非表示
+            </Checkbox>
+        </div>
         <ListScope T="CoordinationViewModel" Source="d.Filtered">
             @if (d.Filtered.Count > 0)
             {
-                foreach (var ch in DataContext.Filtered.GroupBy(e => e.ChapterId))
+                switch (d.Mode)
                 {
-                    <h2>@ch.First().ChapterDisplayName</h2>
-
-                    <Virtualize Items="ch.OrderBy(e => e.DirectoryNumber).ToList()"
-                    Context="c">
-                        <div class="row">
-                            <h3 class="col-12">
-                                @if (c.IsHidden)
-                                {
-                        @("????")
-                                }
-                                else
-                                {
-                                    if (c.Rarity != null)
+                    case IndexPageMode.Table:
+                        {
+                            <CommandButton DataContext="@d.SaveUserDataCommand" />
+                            var items = d.Filtered.OrderBy(e => e.ChapterId).ThenBy(e => e.DirectoryNumber).SelectMany(e => e.Items).Where(e => e.IsVisible).ToList();
+                            <table class="table table-sm">
+                                <thead class="thead-dark">
+                                    <tr>
+                                        <th>ID</th>
+                                        <th>章</th>
+                                        <th>レアリティ</th>
+                                        <th>コーデ</th>
+                                        <th>部位</th>
+                                        <th>自引</th>
+                                        <th>他所持</th>
+                                        <th>提供</th>
+                                        <th>希望</th>
+                                        <th>メモ</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var c in items)
                                     {
+                                        <tr @key="@c.SealId">
+                                            <td>@c.SealId</td>
+                                            <td>@c.Coordination.ChapterDisplayName</td>
+                                            <td>@c.Rarity?.Value</td>
+                                            <td>@c.Coordination.DisplayName</td>
+                                            <td>@c.Category?.Value</td>
+                                            <td>
+                                                <input class="form-control form-control-sm"
+                               style="width: 4rem"
+                               maxlength="1"
+                               type="number" min="0" max="5" @bind-value="c.Level" />
+                                            </td>
+                                            <td>
+                                                <input class="form-control form-control-sm"
+                               style="width: 4rem"
+                               maxlength="2"
+                               type="number" min="-99" max="99" @bind-value="c.OtherPosesssionCount" />
+                                            </td>
+                                            <td>
+                                                <input class="form-control form-control-sm"
+                               style="width: 4rem"
+                               maxlength="2"
+                               type="number" min="0" max="99" @bind-value="c.ListingCount" />
+                                            </td>
+                                            <td>
+                                                <input class="form-control form-control-sm"
+                               style="width: 4rem"
+                               maxlength="2"
+                               type="number" min="0" max="99" @bind-value="c.DesiredCount" />
+                                            </td>
+                                            <td>
+                                                <input class="form-control form-control-sm"
+                               style="width: 20rem" @bind-value="c.Remarks" />
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                            <CommandButton DataContext="@d.SaveUserDataCommand" />
+                        }
+
+                        break;
+
+                    default:
+                        foreach (var ch in d.Filtered.GroupBy(e => e.ChapterId))
+                        {
+                            <h2>@ch.First().ChapterDisplayName</h2>
+
+                            <Virtualize Items="ch.OrderBy(e => e.DirectoryNumber).ToList()"
+                    Context="c">
+                                <div class="row">
+                                    <h3 class="col-12">
+                                        @if (c.IsHidden)
+                                        {
+                        @("????")
+                                        }
+                                        else
+                                        {
+                                            if (c.Rarity != null)
+                                            {
                             <img class="img-fluid"
                          loading="lazy"
                          src="@c.Rarity?.ImageUrl"
                          alt="@c.Rarity?.Value" />
-                                    }
-                                    if (c.Brand != null)
-                                    {
+                                            }
+                                            if (c.Brand != null)
+                                            {
                             <img class="img-fluid"
                          loading="lazy"
                          src="@c.Brand?.ImageUrl"
                          alt="@c.Brand?.Value" />
-                                    }
+                                            }
                         @c.Name
-                                }
+                                        }
 
                 </h3>
                 @foreach (var e in c.Items)
-                            {
+                                    {
                     <DataContextScope @key="e.GetHashCode()"
                                   DataContext="e">
                         <div class="col-3">
                             <img class="img-fluid" loading="lazy" src="@e.ImageUrl" style="@(e.IsVisible ? null : "filter:grayscale(1);opacity::0.65;")" />
                             <h4>
                                 @if (c.IsHidden)
-                                            {
+                                                    {
                                     @("????")
-                                            }
-                                            else
-                                            {
-                                                if (c.Rarity == null)
-                                                {
+                                                    }
+                                                    else
+                                                    {
+                                                        if (c.Rarity == null)
+                                                        {
                                         <img class="img-fluid"
                                  loading="lazy"
                                  src="@e.Rarity?.ImageUrl"
                                  alt="@e.Rarity?.Value" />
-                                                }
-                                                if (c.Brand == null)
-                                                {
+                                                        }
+                                                        if (c.Brand == null)
+                                                        {
                                         <img class="img-fluid"
                                  loading="lazy"
                                  src="@e.Brand?.ImageUrl"
                                  alt="@e.Brand?.Value" />
-                                                }
+                                                        }
                                     @e.CategoryName
-                                                if (e.GenreColor != null)
-                                                {
+                                                        if (e.GenreColor != null)
+                                                        {
                                         <img class="img-fluid"
                                  loading="lazy"
                                  src="@e.GenreColor?.ImageUrl" />
-                                                }
-                                                else
-                                                {
+                                                        }
+                                                        else
+                                                        {
                                         @e.Color?.Value
                                         @(" - ")
                                         @e.Genre?.Value
-                                                }
+                                                        }
                                     <img class="img-fluid"
                                  loading="lazy"
                                  src="@e.SubCategory?.ImageUrl"
                                  alt="@e.SubCategory?.Value" />
-                                            }
+                                                    }
                             </h4>
                         </div>
                     </DataContextScope>
-                            }
+                                    }
             </div>
 
         </Virtualize>
+                        }
+                        break;
                 }
             }
         </ListScope>

@@ -15,6 +15,7 @@ public sealed class CoordinationItemViewModel : ObservableModel
 
     public string CategoryName => _Model.Category?.Value ?? _Model.CategoryIndex.ToString("'category#'0");
 
+    public string? SealId => _Model.SealId;
     public string? ImageUrl => _Model.ImageUrl;
 
     #region Brand
@@ -82,6 +83,73 @@ public sealed class CoordinationItemViewModel : ObservableModel
 
     #endregion IsVisible
 
+    #region UserData
+
+    #region Level
+
+    private int _Level;
+
+    public int Level
+    {
+        get => _Level;
+        set => SetProperty(ref _Level, value);
+    }
+
+    #endregion Level
+
+    #region OtherPosesssionCount
+
+    private int _OtherPosesssionCount;
+
+    public int OtherPosesssionCount
+    {
+        get => _OtherPosesssionCount;
+        set => SetProperty(ref _OtherPosesssionCount, value);
+    }
+
+    #endregion OtherPosesssionCount
+
+    #region ListingCount
+
+    private int _ListingCount;
+
+    public int ListingCount
+    {
+        get => _ListingCount;
+        set => SetProperty(ref _ListingCount, value);
+    }
+
+    #endregion ListingCount
+
+    #region DesiredCount
+
+    private int _DesiredCount;
+
+    public int DesiredCount
+    {
+        get => _DesiredCount;
+        set => SetProperty(ref _DesiredCount, value);
+    }
+
+    #endregion DesiredCount
+
+    #region Remarks
+
+    private string _Remarks = string.Empty;
+
+    public string Remarks
+    {
+        get => _Remarks;
+        set => SetProperty(ref _Remarks, value);
+    }
+
+    #endregion Remarks
+
+    #endregion UserData
+
+    internal bool HasValue()
+        => Level != 0 || OtherPosesssionCount != 0 || ListingCount != 0 || DesiredCount != 0 || !string.IsNullOrEmpty(Remarks);
+
     internal bool InvalidateIsVisible()
     {
         IsVisible = Coordination.Chapter?.IsSelected == true
@@ -90,7 +158,12 @@ public sealed class CoordinationItemViewModel : ObservableModel
                 && Category?.IsSelected == true
                 && Color?.IsSelected == true
                 && Genre?.IsSelected == true
-                && SubCategory?.IsSelected == true;
+                && SubCategory?.IsSelected == true
+                && ((Page.IsOwned && Page.IsListed && Page.IsDesired && Page.IsNotListed)
+                || (Page.IsOwned && Level + OtherPosesssionCount > 0)
+                || (Page.IsListed && ListingCount > 0)
+                || (Page.IsDesired && DesiredCount > 0)
+                || (Page.IsNotListed && ListingCount == 0 && DesiredCount == 0));
         return _IsVisible;
     }
 }
