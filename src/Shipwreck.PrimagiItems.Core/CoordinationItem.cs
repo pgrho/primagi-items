@@ -14,6 +14,18 @@ public sealed class CoordinationItem
     public string? ModelName { get; set; }
     public string? SealId { get; set; }
 
+    private string? _Name;
+
+    public string? Name
+    {
+        get => _Name ?? Coordination?.Name;
+        set => _Name = value;
+    }
+
+    public bool ShouldSerializeName()
+        => DataSet?.IgnoreCalculatedProperties != true
+        || _Name != null && _Name != Coordination?.Name;
+
     public int Watcha { get; set; }
 
     #region Genre
@@ -216,6 +228,7 @@ public sealed class CoordinationItem
     public string? ImageUrl
         => Coordination?.ChapterId == null ? null
         : $"https://cdn.primagi.jp/assets/images/item/{Coordination?.ChapterId}/{Id}.png";
+
     public bool ShouldSerializeImageUrl()
         => DataSet?.IgnoreCalculatedProperties != true;
 }

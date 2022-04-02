@@ -251,7 +251,6 @@ internal class Program
 
         foreach (var cg in items.GroupBy(e => new
         {
-            e.CoordinationName,
             e.collection,
             e.directoryNumber,
         }))
@@ -259,10 +258,10 @@ internal class Program
             var gf = cg.FirstOrDefault(e => !string.IsNullOrEmpty(e.span)) ?? cg.First();
             var coord = new Coordination
             {
-                Name = cg.Key.CoordinationName,
                 Collection = cg.Key.collection,
                 DirectoryNumber = cg.Key.directoryNumber,
 
+                Name = gf.CoordinationName,
                 ChapterId = gf.Chapter,
                 IsShow = gf.isShow,
                 HasMainImage = gf.hasMainImage,
@@ -279,6 +278,7 @@ internal class Program
                     Id = e.Id,
                     ModelName = e.modelName,
                     SealId = e.SealId,
+                    Name = e.CoordinationName,
                     Watcha = e.Watcha,
                     GenreIndex = e.Genre,
                     BrandIndex = e.Brand,
