@@ -16,15 +16,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\README.md = ..\README.md
 		..\output\shops.csv = ..\output\shops.csv
 		..\output\shops.tsv = ..\output\shops.tsv
+		..\unlisted\unlistedItems.json = ..\unlisted\unlistedItems.json
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipwreck.PrimagiItems", "Shipwreck.PrimagiItems\Shipwreck.PrimagiItems.csproj", "{D1708EA3-03D4-447A-B42C-005D5536DA99}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipwreck.PrimagiShops", "Shipwreck.PrimagiShops\Shipwreck.PrimagiShops.csproj", "{64D013E7-4AE5-4534-AC5D-8DCA3D68D27E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shipwreck.PrimagiItems.Web", "Shipwreck.PrimagiItems.Web\Shipwreck.PrimagiItems.Web.csproj", "{992F5E95-BBC8-41ED-B202-68BB0C863088}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipwreck.PrimagiItems.Web", "Shipwreck.PrimagiItems.Web\Shipwreck.PrimagiItems.Web.csproj", "{992F5E95-BBC8-41ED-B202-68BB0C863088}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shipwreck.PrimagiItems.Core", "Shipwreck.PrimagiItems.Core\Shipwreck.PrimagiItems.Core.csproj", "{817173E4-6E1C-4351-A225-707F9780BC27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipwreck.PrimagiItems.Core", "Shipwreck.PrimagiItems.Core\Shipwreck.PrimagiItems.Core.csproj", "{817173E4-6E1C-4351-A225-707F9780BC27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

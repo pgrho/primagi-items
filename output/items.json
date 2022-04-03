@@ -1,20 +1,24 @@
 ﻿{
   "chapters": [
     {
-      "displayName": "第01章",
+      "displayName": "第1章",
       "key": "P01"
     },
     {
-      "displayName": "第02章",
+      "displayName": "第2章",
       "key": "P02"
     },
     {
-      "displayName": "第03章",
+      "displayName": "第3章",
       "key": "P03"
     },
     {
-      "displayName": "第04章",
+      "displayName": "第4章",
       "key": "P04"
+    },
+    {
+      "displayName": "不明",
+      "key": "UNKNOWN"
     }
   ],
   "genres": [
@@ -16679,6 +16683,88 @@
         }
       ],
       "imageUrl": "https://cdn.primagi.jp/assets/images/item/P04/img_codination_65_main.jpg"
+    },
+    {
+      "collection": 1,
+      "name": "プチパールブルー",
+      "kinds": "プリズムストーンショップ特典",
+      "directoryNumber": 1,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "2022年1月1日（土）～",
+      "order": 1,
+      "chapter": "UNKNOWN",
+      "items": [
+        {
+          "id": 99901,
+          "modelName": null,
+          "sealId": "P-015",
+          "name": "プチパールブルー",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 1,
+          "color": 7,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 4,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/petit_pearl_blue_tops.png"
+        },
+        {
+          "id": 99902,
+          "modelName": null,
+          "sealId": "P-016",
+          "name": "プチパールブルー",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 1,
+          "color": 11,
+          "rarity": 1,
+          "category": 3,
+          "subCategory": 5,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/petit_pearl_blue_bottoms.png"
+        },
+        {
+          "id": 99903,
+          "modelName": null,
+          "sealId": "P-017",
+          "name": "プチパールブルー",
+          "watcha": 350,
+          "genre": 1,
+          "brand": 1,
+          "color": 7,
+          "rarity": 1,
+          "category": 4,
+          "subCategory": 8,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/petit_pearl_blue_shoes.png"
+        },
+        {
+          "id": 99904,
+          "modelName": null,
+          "sealId": "P-018",
+          "name": "プチパールブルー",
+          "watcha": 350,
+          "genre": 1,
+          "brand": 1,
+          "color": 5,
+          "rarity": 1,
+          "category": 5,
+          "subCategory": 6,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/petit_pearl_blue_accessory.png"
+        }
+      ],
+      "imageUrl": null
     }
   ]
 }

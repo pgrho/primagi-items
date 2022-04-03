@@ -292,6 +292,49 @@ internal class Program
                 });
             }
         }
+        var unlisted = JsonConvert.DeserializeObject<PrimagiDataSet>(await File.ReadAllTextAsync(Path.Combine(GetRepositoryPath(), "unlisted", "unlistedItems.json")))!;
+
+        var rawRepo = new Uri("https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/");
+
+        foreach (var uc in unlisted.Coordinations)
+        {
+            var nc = new Coordination
+            {
+                Collection = uc.Collection,
+                DirectoryNumber = uc.DirectoryNumber,
+
+                Name = uc.Name,
+                ChapterId = uc.ChapterId,
+                IsShow = uc.IsShow,
+                HasMainImage = uc.HasMainImage,
+                Kinds = uc.Kinds,
+                Span = uc.Span,
+                Order = uc.Order,
+            };
+            foreach (var ui in uc.Items)
+            {
+                nc.Items.Add(new CoordinationItem
+                {
+                    Id = ui.Id,
+                    ModelName = ui.ModelName,
+                    SealId = ui.SealId,
+                    Name = ui.Name,
+                    Watcha = ui.Watcha,
+                    GenreIndex = ui.GenreIndex,
+                    BrandIndex = ui.BrandIndex,
+                    ColorIndex = ui.ColorIndex,
+                    RarityIndex = ui.RarityIndex,
+                    CategoryIndex = ui.CategoryIndex,
+                    SubCategoryIndex = ui.SubCategoryIndex,
+                    IsShowItem = ui.IsShowItem,
+                    Icon = ui.Icon,
+                    Release = ui.Release,
+                    ImageUrl = ui.ShouldSerializeImageUrl() ? new Uri(rawRepo, ui.ImageUrl).ToString() : null,
+                });
+            }
+            ds.Coordinations.Add(nc);
+        }
+
         var jss = new JsonSerializerSettings
         {
             ContractResolver = new DefaultContractResolver()

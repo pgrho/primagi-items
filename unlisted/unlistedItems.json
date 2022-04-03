@@ -1,0 +1,81 @@
+{
+  "coordinations": [
+    {
+      "collection": 1,
+      "name": "プチパールブルー",
+      "kinds": "プリズムストーンショップ特典",
+      "directoryNumber": 1,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "2022年1月1日（土）～",
+      "order": 1,
+      "chapter": "UNKNOWN",
+      "items": [
+        {
+          "id": 99901,
+          "sealId": "P-015",
+          "name": "プチパールブルー",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 1,
+          "color": 7,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 4,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "petit_pearl_blue_tops.png"
+        },
+        {
+          "id": 99902,
+          "sealId": "P-016",
+          "name": "プチパールブルー",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 1,
+          "color": 11,
+          "rarity": 1,
+          "category": 3,
+          "subCategory": 5,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "petit_pearl_blue_bottoms.png"
+        },
+        {
+          "id": 99903,
+          "sealId": "P-017",
+          "name": "プチパールブルー",
+          "watcha": 350,
+          "genre": 1,
+          "brand": 1,
+          "color": 7,
+          "rarity": 1,
+          "category": 4,
+          "subCategory": 8,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "petit_pearl_blue_shoes.png"
+        },
+        {
+          "id": 99904,
+          "sealId": "P-018",
+          "name": "プチパールブルー",
+          "watcha": 350,
+          "genre": 1,
+          "brand": 1,
+          "color": 5,
+          "rarity": 1,
+          "category": 5,
+          "subCategory": 6,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "petit_pearl_blue_accessory.png"
+        }
+      ]
+    }
+  ]
+}

@@ -225,10 +225,23 @@ public sealed class CoordinationItem
     public int Icon { get; set; }
     public int Release { get; set; }
 
+    #region ImageUrl
+
+    private string? _ImageUrl;
+
     public string? ImageUrl
+    {
+        get => _ImageUrl ??= GetDefaultImageUrl();
+        set => _ImageUrl = value;
+    }
+
+    private string? GetDefaultImageUrl()
         => Coordination?.ChapterId == null ? null
-        : $"https://cdn.primagi.jp/assets/images/item/{Coordination?.ChapterId}/{Id}.png";
+                : $"https://cdn.primagi.jp/assets/images/item/{Coordination?.ChapterId}/{Id}.png";
 
     public bool ShouldSerializeImageUrl()
-        => DataSet?.IgnoreCalculatedProperties != true;
+        => DataSet?.IgnoreCalculatedProperties != true
+        || (_ImageUrl != null && _ImageUrl != GetDefaultImageUrl());
+
+    #endregion ImageUrl
 }
