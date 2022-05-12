@@ -1,0 +1,62 @@
+﻿@inherits BindableComponentBase<IndexPageViewModel>
+@if (DataContext is var d && d?.IsInitialized == true && d.Mode == IndexPageMode.Table)
+{
+    <ListScope T="CoordinationViewModel" Source="d.Filtered">
+        @if (d.Filtered.Count > 0)
+        {
+            <CommandButton DataContext="@d.SaveUserDataCommand" />
+            var items = d.Filtered.OrderBy(e => e.ChapterId).ThenBy(e => e.DirectoryNumber).SelectMany(e => e.Items).Where(e => e.IsVisible).ToList();
+            <table class="table table-sm">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>ID</th>
+                        <th>章</th>
+                        <th>レアリティ</th>
+                        <th>コーデ</th>
+                        <th>部位</th>
+                        <th>所持</th>
+                        <th>譲/求</th>
+                        <th>取引中</th>
+                        <th>メモ</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var c in items)
+                    {
+                        <tr @key="@c.SealId">
+                            <td>@c.SealId</td>
+                            <td>@c.Coordination.ChapterDisplayName</td>
+                            <td>@c.Rarity?.Value</td>
+                            <td>@c.Coordination.DisplayName</td>
+                            <td>@c.Category?.Value</td>
+
+                            <td>
+                                <input class="form-control form-control-sm"
+                           style="width: 4rem"
+                           maxlength="2"
+                           type="number" min="0" max="99" @bind-value="c.PosessionCount" />
+                            </td>
+                            <td>
+                                <input class="form-control form-control-sm"
+                           style="width: 4rem"
+                           maxlength="2"
+                           type="number" min="-99" max="99" @bind-value="c.ListingCount" />
+                            </td>
+                            <td>
+                                <input class="form-control form-control-sm"
+                           style="width: 4rem"
+                           maxlength="2"
+                           type="number" min="-99" max="99" @bind-value="c.TradingCount" />
+                            </td>
+                            <td>
+                                <input class="form-control form-control-sm"
+                           style="width: 20rem" @bind-value="c.Remarks" />
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <CommandButton DataContext="@d.SaveUserDataCommand" />
+        }
+    </ListScope>
+}

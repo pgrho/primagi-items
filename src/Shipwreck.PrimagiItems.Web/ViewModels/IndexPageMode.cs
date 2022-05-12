@@ -3,5 +3,6 @@
 public enum IndexPageMode
 {
     Default,
-    Table
+    Table,
+    Summary
 }

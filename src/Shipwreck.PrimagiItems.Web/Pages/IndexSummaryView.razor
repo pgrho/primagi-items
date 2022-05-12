@@ -1,0 +1,50 @@
+﻿@inherits BindableComponentBase<IndexPageViewModel>
+@if (DataContext is var d && d?.IsInitialized == true && d.Mode == IndexPageMode.Summary)
+{
+    <ListScope T="CoordinationViewModel" Source="d.Filtered">
+        @if (d.Filtered.Count > 0)
+        {
+            <div class="coordinations-root">
+                @foreach (var ch in d.Filtered.GroupBy(e => e.ChapterId))
+                {
+                    <h2 class="chapter-title">@ch.First().ChapterDisplayName</h2>
+
+                    foreach (var kg in ch.GroupBy(e => e.Kinds))
+                    {
+                        <h3 class="kind-title">@kg.Key</h3>
+                        <Virtualize Items="kg.OrderBy(e => e.DirectoryNumber).ToList()" Context="c">
+
+                            <div class="coordination">
+                                <h4 class="coordination-title">
+                                    @c.Name
+                                </h4>
+                                <div class="coordination-items">
+                                    @foreach (var e in c.Items)
+                                    {
+                                        var lc = e.ListingCount - e.TradingCount;
+                        <DataContextScope @key="e.GetHashCode()"
+                                      DataContext="e">
+                            <div class="coordination-item @(lc > 0 ? "listing" : lc < 0 ? "desired" : null)">
+                                <img class="img-fluid" loading="lazy" src="@e.ImageUrl" style="@(e.IsVisible ? null : "filter:grayscale(1);opacity::0.65;")" />
+                                @if (lc > 0)
+                                                {
+                                    <div class="listing-count">譲: @lc</div>
+                                                }
+                                                else if (lc < 0)
+                                                {
+                                    <div class="desired-count">求</div>
+                                                }
+                            </div>
+                        </DataContextScope>
+                                    }
+                </div>
+            </div>
+        </Virtualize>
+                    }
+
+
+                }
+            </div>
+        }
+    </ListScope>
+}

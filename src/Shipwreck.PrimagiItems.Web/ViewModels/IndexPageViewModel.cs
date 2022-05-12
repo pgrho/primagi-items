@@ -503,7 +503,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
 
     #region SaveUserDataCommand
 
-    private CommandViewModelBase _SaveUserDataCommand;
+    private CommandViewModelBase? _SaveUserDataCommand;
 
     public CommandViewModelBase SaveUserDataCommand
         => _SaveUserDataCommand ??= CommandViewModel.CreateAsync(
@@ -513,10 +513,9 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
                 ud.Items = Coordinations.SelectMany(e => e.Items).Where(e => e.HasValue()).Select(e => new UserCoordinationItem
                 {
                     SealId = e.SealId,
-                    Level = e.Level,
-                    OtherPosesssionCount = e.OtherPosesssionCount,
-                    DesiredCount = e.DesiredCount,
+                    PosessionCount = e.PosessionCount,
                     ListingCount = e.ListingCount,
+                    TradingCount = e.TradingCount,
                     Remarks = e.Remarks
                 }).ToList();
 
@@ -569,10 +568,9 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
             foreach (var e in c.Items)
             {
                 udic.TryGetValue(e.SealId ?? string.Empty, out var ue);
-                e.Level = ue?.Level ?? 0;
-                e.OtherPosesssionCount = ue?.OtherPosesssionCount ?? 0;
+                e.PosessionCount = ue?.PosessionCount ?? 0;
                 e.ListingCount = ue?.ListingCount ?? 0;
-                e.DesiredCount = ue?.DesiredCount ?? 0;
+                e.TradingCount = ue?.TradingCount ?? 0;
                 e.Remarks = ue?.Remarks ?? string.Empty;
             }
         }

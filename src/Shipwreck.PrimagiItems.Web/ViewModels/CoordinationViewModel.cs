@@ -33,6 +33,7 @@ public sealed class CoordinationViewModel : ObservableModel
 
     public int DirectoryNumber => _Model.DirectoryNumber;
     public string? Name => _Model.Name;
+    public string? Kinds => _Model.Kinds;
 
     #region IsHidden
 

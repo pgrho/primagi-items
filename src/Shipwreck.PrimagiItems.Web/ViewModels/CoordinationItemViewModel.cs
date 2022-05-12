@@ -85,29 +85,17 @@ public sealed class CoordinationItemViewModel : ObservableModel
 
     #region UserData
 
-    #region Level
+    #region PosessionCount
 
-    private int _Level;
+    private int _PosesssionCount;
 
-    public int Level
+    public int PosessionCount
     {
-        get => _Level;
-        set => SetProperty(ref _Level, value);
+        get => _PosesssionCount;
+        set => SetProperty(ref _PosesssionCount, value);
     }
 
-    #endregion Level
-
-    #region OtherPosesssionCount
-
-    private int _OtherPosesssionCount;
-
-    public int OtherPosesssionCount
-    {
-        get => _OtherPosesssionCount;
-        set => SetProperty(ref _OtherPosesssionCount, value);
-    }
-
-    #endregion OtherPosesssionCount
+    #endregion PosessionCount
 
     #region ListingCount
 
@@ -121,17 +109,17 @@ public sealed class CoordinationItemViewModel : ObservableModel
 
     #endregion ListingCount
 
-    #region DesiredCount
+    #region TradingCount
 
-    private int _DesiredCount;
+    private int _TradingCount;
 
-    public int DesiredCount
+    public int TradingCount
     {
-        get => _DesiredCount;
-        set => SetProperty(ref _DesiredCount, value);
+        get => _TradingCount;
+        set => SetProperty(ref _TradingCount, value);
     }
 
-    #endregion DesiredCount
+    #endregion TradingCount
 
     #region Remarks
 
@@ -148,7 +136,7 @@ public sealed class CoordinationItemViewModel : ObservableModel
     #endregion UserData
 
     internal bool HasValue()
-        => Level != 0 || OtherPosesssionCount != 0 || ListingCount != 0 || DesiredCount != 0 || !string.IsNullOrEmpty(Remarks);
+        => PosessionCount != 0 || ListingCount != 0 || TradingCount != 0 || !string.IsNullOrEmpty(Remarks);
 
     internal bool InvalidateIsVisible()
     {
@@ -160,10 +148,10 @@ public sealed class CoordinationItemViewModel : ObservableModel
                 && Genre?.IsSelected == true
                 && SubCategory?.IsSelected == true
                 && ((Page.IsOwned && Page.IsListed && Page.IsDesired && Page.IsNotListed)
-                || (Page.IsOwned && Level + OtherPosesssionCount > 0)
+                || (Page.IsOwned && PosessionCount > 0)
                 || (Page.IsListed && ListingCount > 0)
-                || (Page.IsDesired && DesiredCount > 0)
-                || (Page.IsNotListed && ListingCount == 0 && DesiredCount == 0));
+                || (Page.IsDesired && ListingCount < 0)
+                || (Page.IsNotListed && ListingCount == 0 && TradingCount == 0));
         return _IsVisible;
     }
 }
