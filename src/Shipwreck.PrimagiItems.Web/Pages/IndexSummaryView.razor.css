@@ -1,18 +1,19 @@
 ﻿.coordinations-root {
-    max-height: 80vh;
+    max-height: 100%;
+    height: 100%;
     display: flex;
     flex-flow: column wrap;
     overflow: auto hidden;
 }
 
 .chapter-title {
-    max-width: 400px;
+    max-width: 272px;
     padding: 0;
     margin: 0;
 }
 
 .kind-title {
-    max-width: 400px;
+    max-width: 272px;
     padding: 0;
     margin: 0;
 }
@@ -30,8 +31,8 @@
     padding: 0;
     padding-left: 4px;
     box-sizing: border-box;
-    min-width: 100px;
-    max-width: 400px;
+    min-width: 68px;
+    max-width: 272px;
     font-size: medium;
     margin: 0;
 }
@@ -40,14 +41,14 @@
     display: flex;
     flex-flow: row nowrap;
     background-color: lawngreen;
-    min-width: 100px;
-    max-width: 400px;
+    min-width: 68px;
+    max-width: 272px;
 }
 
 .coordination-item {
     position: relative;
-    width: 96px;
-    height: 96px;
+    width: 64px;
+    height: 64px;
     margin: 4px;
     padding: 0;
     background-color: #fff;
