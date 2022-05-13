@@ -154,4 +154,38 @@ public sealed class CoordinationItemViewModel : ObservableModel
                 || (Page.IsNotListed && ListingCount == 0 && TradingCount == 0));
         return _IsVisible;
     }
+
+    public void ApplyTool(bool altKey)
+    {
+        var t = Coordination.Page.SummaryTool;
+        switch (t)
+        {
+            case IndexSummaryTool.IncrementPosessionCount:
+            case IndexSummaryTool.DecrementPosessionCount:
+                PosessionCount = Math.Min(Math.Max(0, PosessionCount + ((t == IndexSummaryTool.IncrementPosessionCount) != altKey ? 1 : -1)), 99);
+                break;
+
+            case IndexSummaryTool.ClearPosessionCount:
+                PosessionCount = 0;
+                break;
+
+            case IndexSummaryTool.IncrementListingCount:
+            case IndexSummaryTool.DecrementListingCount:
+                ListingCount = Math.Min(Math.Max(-99, ListingCount + ((t == IndexSummaryTool.IncrementListingCount) != altKey ? 1 : -1)), 99);
+                break;
+
+            case IndexSummaryTool.ClearListingCount:
+                ListingCount = 0;
+                break;
+
+            case IndexSummaryTool.IncrementTradingCount:
+            case IndexSummaryTool.DecrementTradingCount:
+                TradingCount = Math.Min(Math.Max(-99, TradingCount + ((t == IndexSummaryTool.IncrementTradingCount) != altKey ? 1 : -1)), 99);
+                break;
+
+            case IndexSummaryTool.ClearTradingCount:
+                TradingCount = 0;
+                break;
+        }
+    }
 }

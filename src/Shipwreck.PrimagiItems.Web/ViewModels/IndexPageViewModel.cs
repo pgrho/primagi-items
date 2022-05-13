@@ -592,4 +592,156 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
             Filtered.Set(fs);
         }
     }
+
+    #region SummaryTool
+
+    private IndexSummaryTool _SummaryTool = IndexSummaryTool.IncrementListingCount;
+
+    public IndexSummaryTool SummaryTool
+    {
+        get => _SummaryTool;
+        set
+        {
+            if (SetProperty(ref _SummaryTool, value))
+            {
+                _SelectIncrementPosessionCountCommand?.Invalidate();
+                _SelectDecrementPosessionCountCommand?.Invalidate();
+                _SelectClearPosessionCountCommand?.Invalidate();
+
+                _SelectIncrementListingCountCommand?.Invalidate();
+                _SelectDecrementListingCountCommand?.Invalidate();
+                _SelectClearListingCountCommand?.Invalidate();
+
+                _SelectIncrementTradingCountCommand?.Invalidate();
+                _SelectDecrementTradingCountCommand?.Invalidate();
+                _SelectClearTradingCountCommand?.Invalidate();
+            }
+        }
+    }
+
+    #region PosessionCount
+
+    #region SelectIncrementPosessionCountCommand
+
+    private CommandViewModelBase _SelectIncrementPosessionCountCommand;
+
+    public CommandViewModelBase SelectIncrementPosessionCountCommand
+        => _SelectIncrementPosessionCountCommand ??= CommandViewModel.Create(
+            () => SummaryTool = IndexSummaryTool.IncrementPosessionCount,
+            icon: "fas fa-plus",
+            title: "所持数",
+            styleGetter: () => SummaryTool == IndexSummaryTool.IncrementPosessionCount ? BorderStyle.Primary : BorderStyle.OutlinePrimary);
+
+    #endregion SelectIncrementPosessionCountCommand
+
+    #region SelectDecrementPosessionCountCommand
+
+    private CommandViewModelBase _SelectDecrementPosessionCountCommand;
+
+    public CommandViewModelBase SelectDecrementPosessionCountCommand
+        => _SelectDecrementPosessionCountCommand ??= CommandViewModel.Create(
+            () => SummaryTool = IndexSummaryTool.DecrementPosessionCount,
+            icon: "fas fa-minus",
+            styleGetter: () => SummaryTool == IndexSummaryTool.DecrementPosessionCount ? BorderStyle.Primary : BorderStyle.OutlinePrimary);
+
+    #endregion SelectDecrementPosessionCountCommand
+
+    #region SelectClearPosessionCountCommand
+
+    private CommandViewModelBase _SelectClearPosessionCountCommand;
+
+    public CommandViewModelBase SelectClearPosessionCountCommand
+        => _SelectClearPosessionCountCommand ??= CommandViewModel.Create(
+            () => SummaryTool = IndexSummaryTool.ClearPosessionCount,
+            icon: "fas fa-times",
+            styleGetter: () => SummaryTool == IndexSummaryTool.ClearPosessionCount ? BorderStyle.Primary : BorderStyle.OutlinePrimary);
+
+    #endregion SelectClearPosessionCountCommand
+
+    #endregion PosessionCount
+
+    #region ListingCount
+
+    #region SelectIncrementListingCountCommand
+
+    private CommandViewModelBase _SelectIncrementListingCountCommand;
+
+    public CommandViewModelBase SelectIncrementListingCountCommand
+        => _SelectIncrementListingCountCommand ??= CommandViewModel.Create(
+            () => SummaryTool = IndexSummaryTool.IncrementListingCount,
+            icon: "fas fa-plus",
+            title: "譲追加",
+            styleGetter: () => SummaryTool == IndexSummaryTool.IncrementListingCount ? BorderStyle.Primary : BorderStyle.OutlinePrimary);
+
+    #endregion SelectIncrementListingCountCommand
+
+    #region SelectDecrementListingCountCommand
+
+    private CommandViewModelBase _SelectDecrementListingCountCommand;
+
+    public CommandViewModelBase SelectDecrementListingCountCommand
+        => _SelectDecrementListingCountCommand ??= CommandViewModel.Create(
+            () => SummaryTool = IndexSummaryTool.DecrementListingCount,
+            icon: "fas fa-minus",
+            title: "求追加",
+            styleGetter: () => SummaryTool == IndexSummaryTool.DecrementListingCount ? BorderStyle.Primary : BorderStyle.OutlinePrimary);
+
+    #endregion SelectDecrementListingCountCommand
+
+    #region SelectClearListingCountCommand
+
+    private CommandViewModelBase _SelectClearListingCountCommand;
+
+    public CommandViewModelBase SelectClearListingCountCommand
+        => _SelectClearListingCountCommand ??= CommandViewModel.Create(
+            () => SummaryTool = IndexSummaryTool.ClearListingCount,
+            icon: "fas fa-times",
+            styleGetter: () => SummaryTool == IndexSummaryTool.ClearListingCount ? BorderStyle.Primary : BorderStyle.OutlinePrimary);
+
+    #endregion SelectClearListingCountCommand
+
+    #endregion ListingCount
+
+    #region TradingCount
+
+    #region SelectIncrementTradingCountCommand
+
+    private CommandViewModelBase _SelectIncrementTradingCountCommand;
+
+    public CommandViewModelBase SelectIncrementTradingCountCommand
+        => _SelectIncrementTradingCountCommand ??= CommandViewModel.Create(
+            () => SummaryTool = IndexSummaryTool.IncrementTradingCount,
+            icon: "fas fa-plus",
+            title: "取引中",
+            styleGetter: () => SummaryTool == IndexSummaryTool.IncrementTradingCount ? BorderStyle.Primary : BorderStyle.OutlinePrimary);
+
+    #endregion SelectIncrementTradingCountCommand
+
+    #region SelectDecrementTradingCountCommand
+
+    private CommandViewModelBase _SelectDecrementTradingCountCommand;
+
+    public CommandViewModelBase SelectDecrementTradingCountCommand
+        => _SelectDecrementTradingCountCommand ??= CommandViewModel.Create(
+            () => SummaryTool = IndexSummaryTool.DecrementTradingCount,
+            icon: "fas fa-minus",
+            styleGetter: () => SummaryTool == IndexSummaryTool.DecrementTradingCount ? BorderStyle.Primary : BorderStyle.OutlinePrimary);
+
+    #endregion SelectDecrementTradingCountCommand
+
+    #region SelectClearTradingCountCommand
+
+    private CommandViewModelBase _SelectClearTradingCountCommand;
+
+    public CommandViewModelBase SelectClearTradingCountCommand
+        => _SelectClearTradingCountCommand ??= CommandViewModel.Create(
+            () => SummaryTool = IndexSummaryTool.ClearTradingCount,
+            icon: "fas fa-times",
+            styleGetter: () => SummaryTool == IndexSummaryTool.ClearTradingCount ? BorderStyle.Primary : BorderStyle.OutlinePrimary);
+
+    #endregion SelectClearTradingCountCommand
+
+    #endregion TradingCount
+
+    #endregion SummaryTool
 }

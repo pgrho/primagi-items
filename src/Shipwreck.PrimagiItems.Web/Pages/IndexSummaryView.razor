@@ -1,6 +1,24 @@
 ﻿@inherits BindableComponentBase<IndexPageViewModel>
 @if (DataContext is var d && d?.IsInitialized == true && d.Mode == IndexPageMode.Summary)
 {
+    <div>
+        <CommandButton DataContext="@d.SaveUserDataCommand" />
+        <div class="btn-group">
+            <CommandButton DataContext="@d.SelectIncrementPosessionCountCommand" />
+            <CommandButton DataContext="@d.SelectDecrementPosessionCountCommand" />
+            <CommandButton DataContext="@d.SelectClearPosessionCountCommand" />
+        </div>   
+        <div class="btn-group">
+            <CommandButton DataContext="@d.SelectIncrementListingCountCommand" />
+            <CommandButton DataContext="@d.SelectDecrementListingCountCommand" />
+            <CommandButton DataContext="@d.SelectClearListingCountCommand" />
+        </div>  
+        <div class="btn-group">
+            <CommandButton DataContext="@d.SelectIncrementTradingCountCommand" />
+            <CommandButton DataContext="@d.SelectDecrementTradingCountCommand" />
+            <CommandButton DataContext="@d.SelectClearTradingCountCommand" />
+        </div>
+    </div>
     <ListScope T="CoordinationViewModel" Source="d.Filtered">
         @if (d.Filtered.Count > 0)
         {
@@ -24,7 +42,8 @@
                                         var lc = e.ListingCount - e.TradingCount;
                         <DataContextScope @key="e.GetHashCode()"
                                       DataContext="e">
-                            <div class="coordination-item @(lc > 0 ? "listing" : lc < 0 ? "desired" : null)">
+                            <div class="coordination-item @(lc > 0 ? "listing" : lc < 0 ? "desired" : null)"
+                                @onclick="@((args => e.ApplyTool(args.AltKey)))">
                                 <img class="img-fluid" loading="lazy" src="@e.ImageUrl" style="@(e.IsVisible ? null : "filter:grayscale(1);opacity::0.65;")" />
                                 @if (lc > 0)
                                                 {
