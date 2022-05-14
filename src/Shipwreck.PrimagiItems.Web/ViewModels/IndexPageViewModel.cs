@@ -24,7 +24,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
 
     #region Model
 
-    private IndexPageMode _Mode;
+    private IndexPageMode _Mode = IndexPageMode.Summary;
 
     public IndexPageMode Mode
     {
@@ -623,7 +623,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
 
     #region SelectIncrementPosessionCountCommand
 
-    private CommandViewModelBase _SelectIncrementPosessionCountCommand;
+    private CommandViewModelBase? _SelectIncrementPosessionCountCommand;
 
     public CommandViewModelBase SelectIncrementPosessionCountCommand
         => _SelectIncrementPosessionCountCommand ??= CommandViewModel.Create(
@@ -636,7 +636,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
 
     #region SelectDecrementPosessionCountCommand
 
-    private CommandViewModelBase _SelectDecrementPosessionCountCommand;
+    private CommandViewModelBase? _SelectDecrementPosessionCountCommand;
 
     public CommandViewModelBase SelectDecrementPosessionCountCommand
         => _SelectDecrementPosessionCountCommand ??= CommandViewModel.Create(
@@ -648,7 +648,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
 
     #region SelectClearPosessionCountCommand
 
-    private CommandViewModelBase _SelectClearPosessionCountCommand;
+    private CommandViewModelBase? _SelectClearPosessionCountCommand;
 
     public CommandViewModelBase SelectClearPosessionCountCommand
         => _SelectClearPosessionCountCommand ??= CommandViewModel.Create(
@@ -664,7 +664,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
 
     #region SelectIncrementListingCountCommand
 
-    private CommandViewModelBase _SelectIncrementListingCountCommand;
+    private CommandViewModelBase? _SelectIncrementListingCountCommand;
 
     public CommandViewModelBase SelectIncrementListingCountCommand
         => _SelectIncrementListingCountCommand ??= CommandViewModel.Create(
@@ -690,7 +690,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
 
     #region SelectClearListingCountCommand
 
-    private CommandViewModelBase _SelectClearListingCountCommand;
+    private CommandViewModelBase? _SelectClearListingCountCommand;
 
     public CommandViewModelBase SelectClearListingCountCommand
         => _SelectClearListingCountCommand ??= CommandViewModel.Create(
@@ -706,7 +706,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
 
     #region SelectIncrementTradingCountCommand
 
-    private CommandViewModelBase _SelectIncrementTradingCountCommand;
+    private CommandViewModelBase? _SelectIncrementTradingCountCommand;
 
     public CommandViewModelBase SelectIncrementTradingCountCommand
         => _SelectIncrementTradingCountCommand ??= CommandViewModel.Create(
@@ -719,7 +719,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
 
     #region SelectDecrementTradingCountCommand
 
-    private CommandViewModelBase _SelectDecrementTradingCountCommand;
+    private CommandViewModelBase? _SelectDecrementTradingCountCommand;
 
     public CommandViewModelBase SelectDecrementTradingCountCommand
         => _SelectDecrementTradingCountCommand ??= CommandViewModel.Create(
@@ -731,7 +731,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
 
     #region SelectClearTradingCountCommand
 
-    private CommandViewModelBase _SelectClearTradingCountCommand;
+    private CommandViewModelBase? _SelectClearTradingCountCommand;
 
     public CommandViewModelBase SelectClearTradingCountCommand
         => _SelectClearTradingCountCommand ??= CommandViewModel.Create(

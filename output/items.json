@@ -16851,7 +16851,7 @@
     {
       "collection": 1,
       "name": "プチパールブルー",
-      "kinds": "プリズムストーンショップ特典",
+      "kinds": "プリズムストーン特典",
       "directoryNumber": 1,
       "isShow": true,
       "hasMainImage": false,
@@ -16926,6 +16926,71 @@
           "icon": 0,
           "release": 0,
           "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/petit_pearl_blue_accessory.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 1,
+      "name": "ガーリーニットグリーン",
+      "kinds": "アミューズメント景品",
+      "directoryNumber": 2,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "2022年3月～",
+      "order": 2,
+      "chapter": "UNKNOWN",
+      "items": [
+        {
+          "id": 99905,
+          "modelName": null,
+          "sealId": "P-086",
+          "name": "ガーリーニットグリーン",
+          "watcha": 800,
+          "genre": 1,
+          "brand": 1,
+          "color": 6,
+          "rarity": 1,
+          "category": 2,
+          "subCategory": 8,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/girly_knit_green_onepiece.png"
+        },
+        {
+          "id": 99906,
+          "modelName": null,
+          "sealId": "P-087",
+          "name": "ガーリーニットグリーン",
+          "watcha": 350,
+          "genre": 1,
+          "brand": 1,
+          "color": 5,
+          "rarity": 1,
+          "category": 4,
+          "subCategory": 14,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/girly_knit_green_shoes.png"
+        },
+        {
+          "id": 99907,
+          "modelName": null,
+          "sealId": "P-088",
+          "name": "ガーリーニットグリーン",
+          "watcha": 350,
+          "genre": 1,
+          "brand": 1,
+          "color": 5,
+          "rarity": 1,
+          "category": 5,
+          "subCategory": 18,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/girly_knit_green_accessory.png"
         }
       ],
       "imageUrl": null

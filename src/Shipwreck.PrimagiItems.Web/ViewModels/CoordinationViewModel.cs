@@ -17,7 +17,7 @@ public sealed class CoordinationViewModel : ObservableModel
 
     public IndexPageViewModel Page { get; }
     public ReadOnlyCollection<CoordinationItemViewModel> Items { get; }
-     
+
     #region Chapter
 
     private ChapterViewModel? _Chapter;
@@ -25,7 +25,7 @@ public sealed class CoordinationViewModel : ObservableModel
     public ChapterViewModel? Chapter => _Chapter ??= Page.Chapters.FirstOrDefault(e => e.Key == _Model.ChapterId);
 
     #endregion Chapter
-     
+
     public string? ChapterId => _Model.ChapterId;
 
     public string? ChapterDisplayName
