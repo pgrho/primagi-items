@@ -509,7 +509,10 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
         => _SaveUserDataCommand ??= CommandViewModel.CreateAsync(
             async () =>
             {
-                var ud = new UserData();
+                var ud = new UserData()
+                {
+                    LastUpdated = DateTimeOffset.Now
+                };
                 ud.Items = Coordinations.SelectMany(e => e.Items).Where(e => e.HasValue()).Select(e => new UserCoordinationItem
                 {
                     SealId = e.SealId,
@@ -521,10 +524,19 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
 
                 await Page.JS.InvokeAsync<string>("__writeLocalStorage", typeof(UserData).FullName, JsonConvert.SerializeObject(ud));
                 _UserDataTask = Task.FromResult(ud);
+                foreach (var c in Coordinations)
+                {
+                    foreach (var e in c.Items)
+                    {
+                        e.SetUnchanged();
+                    }
+                }
+                ChangedCount = 0;
             },
             title: "保存",
             icon: "fas fa-save",
-            style: BorderStyle.Primary);
+            style: BorderStyle.Primary,
+            badgeCountGetter: () => ChangedCount);
 
     #endregion SaveUserDataCommand
 
@@ -568,13 +580,32 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
             foreach (var e in c.Items)
             {
                 udic.TryGetValue(e.SealId ?? string.Empty, out var ue);
-                e.PosessionCount = ue?.PosessionCount ?? 0;
-                e.ListingCount = ue?.ListingCount ?? 0;
-                e.TradingCount = ue?.TradingCount ?? 0;
-                e.Remarks = ue?.Remarks ?? string.Empty;
+                e.Update(ue);
+            }
+        }
+        ChangedCount = 0;
+    }
+
+    #region ChangedCount
+
+    private int _ChangedCount;
+
+    public int ChangedCount
+    {
+        get => _ChangedCount;
+        internal set
+        {
+            if (SetProperty(ref _ChangedCount, value))
+            {
+                _SaveUserDataCommand?.Invalidate();
             }
         }
     }
+
+    internal void InvalidateChangedCount()
+        => ChangedCount = Coordinations.Sum(c => c.Items.Count(e => e.IsChanged));
+
+    #endregion ChangedCount
 
     internal bool SuppressUpdate { get; private set; }
 

@@ -1,8 +1,16 @@
-﻿namespace Shipwreck.PrimagiItems.Web.ViewModels;
+﻿using Shipwreck.PrimagiItems.Web.Models;
+
+namespace Shipwreck.PrimagiItems.Web.ViewModels;
 
 public sealed class CoordinationItemViewModel : ObservableModel
 {
     private readonly CoordinationItem _Model;
+
+    private bool _IsUpdating;
+    private int _OriginalPosessionCount;
+    private int _OriginalListingCount;
+    private int _OriginalTradingCount;
+    private string _OriginalRemarks = string.Empty;
 
     internal CoordinationItemViewModel(CoordinationViewModel coordination, CoordinationItem model)
     {
@@ -84,16 +92,47 @@ public sealed class CoordinationItemViewModel : ObservableModel
 
     #endregion IsVisible
 
+    #region IsChanged
+
+    private bool _IsChanged = true;
+
+    public bool IsChanged
+    {
+        get => _IsChanged;
+        private set
+        {
+            SetProperty(ref _IsChanged, value);
+            if (!_IsUpdating)
+            {
+                Page.InvalidateChangedCount();
+            }
+        }
+    }
+
+    private void SetIsChanged()
+        => IsChanged = _OriginalPosessionCount != PosessionCount
+        || _OriginalTradingCount != TradingCount
+        || _OriginalListingCount != ListingCount
+        || _OriginalRemarks != Remarks;
+
+    #endregion IsChanged
+
     #region UserData
 
     #region PosessionCount
 
-    private int _PosesssionCount;
+    private int _PosessionCount;
 
     public int PosessionCount
     {
-        get => _PosesssionCount;
-        set => SetProperty(ref _PosesssionCount, value);
+        get => _PosessionCount;
+        set
+        {
+            if (SetProperty(ref _PosessionCount, value))
+            {
+                SetIsChanged();
+            }
+        }
     }
 
     #endregion PosessionCount
@@ -105,7 +144,13 @@ public sealed class CoordinationItemViewModel : ObservableModel
     public int ListingCount
     {
         get => _ListingCount;
-        set => SetProperty(ref _ListingCount, value);
+        set
+        {
+            if (SetProperty(ref _ListingCount, value))
+            {
+                SetIsChanged();
+            }
+        }
     }
 
     #endregion ListingCount
@@ -117,7 +162,13 @@ public sealed class CoordinationItemViewModel : ObservableModel
     public int TradingCount
     {
         get => _TradingCount;
-        set => SetProperty(ref _TradingCount, value);
+        set
+        {
+            if (SetProperty(ref _TradingCount, value))
+            {
+                SetIsChanged();
+            }
+        }
     }
 
     #endregion TradingCount
@@ -129,7 +180,13 @@ public sealed class CoordinationItemViewModel : ObservableModel
     public string Remarks
     {
         get => _Remarks;
-        set => SetProperty(ref _Remarks, value);
+        set
+        {
+            if (SetProperty(ref _Remarks, value))
+            {
+                SetIsChanged();
+            }
+        }
     }
 
     #endregion Remarks
@@ -190,6 +247,44 @@ public sealed class CoordinationItemViewModel : ObservableModel
             case IndexSummaryTool.ClearTradingCount:
                 TradingCount = 0;
                 break;
+        }
+    }
+
+    public void Update(UserCoordinationItem? userData)
+    {
+        try
+        {
+            _IsUpdating = true;
+
+            _OriginalPosessionCount = PosessionCount = userData?.PosessionCount ?? 0;
+            _OriginalListingCount = ListingCount = userData?.ListingCount ?? 0;
+            _OriginalTradingCount = TradingCount = userData?.TradingCount ?? 0;
+            _OriginalRemarks = Remarks = userData?.Remarks ?? string.Empty;
+        }
+        finally
+        {
+            _IsUpdating = false;
+
+            IsChanged = false;
+        }
+    }
+
+    public void SetUnchanged()
+    {
+        try
+        {
+            _IsUpdating = true;
+
+            _OriginalPosessionCount = PosessionCount;
+            _OriginalListingCount = ListingCount;
+            _OriginalTradingCount = TradingCount;
+            _OriginalRemarks = Remarks;
+        }
+        finally
+        {
+            _IsUpdating = false;
+
+            IsChanged = false;
         }
     }
 }

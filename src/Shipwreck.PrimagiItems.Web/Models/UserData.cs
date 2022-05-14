@@ -2,6 +2,9 @@
 
 public sealed class UserData
 {
+    [DefaultValue(null)]
+    public DateTimeOffset? LastUpdated { get; set; }
+
     #region Items
 
     private List<UserCoordinationItem>? _Items;
