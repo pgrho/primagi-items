@@ -1,5 +1,4 @@
-﻿using Newtonsoft.Json;
-using Shipwreck.PrimagiItems.Web.Models;
+﻿using Shipwreck.PrimagiItems.Web.Models;
 using Shipwreck.PrimagiItems.Web.Pages;
 
 namespace Shipwreck.PrimagiItems.Web.ViewModels;
@@ -21,6 +20,15 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
     }
 
     public HttpClient Http => ((IndexPage)Page).Http!;
+
+    #region UserDataAccessor
+
+    private IUserDataAccessor? _UserDataAccessor;
+
+    internal IUserDataAccessor UserDataAccessor
+        => _UserDataAccessor ??= new LocalStorageUserDataAccessor(Page.JS);
+
+    #endregion UserDataAccessor
 
     #region Model
 
@@ -484,20 +492,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
     private Task<UserData>? _UserDataTask;
 
     private Task<UserData> UserDataTask
-        => _UserDataTask ??= Page.JS.InvokeAsync<string>("__readLocalStorage", typeof(UserData).FullName)
-            .AsTask()
-            .ContinueWith(t =>
-            {
-                if (!string.IsNullOrEmpty(t.Result))
-                {
-                    try
-                    {
-                        return JsonConvert.DeserializeObject<UserData>(t.Result);
-                    }
-                    catch { }
-                }
-                return new UserData();
-            })!;
+        => _UserDataTask ??= UserDataAccessor.ReadAsync(null).ContinueWith(t => t.Result ?? new UserData());
 
     #endregion UserDataTask
 
@@ -509,10 +504,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
         => _SaveUserDataCommand ??= CommandViewModel.CreateAsync(
             async () =>
             {
-                var ud = new UserData()
-                {
-                    LastUpdated = DateTimeOffset.Now
-                };
+                var ud = new UserData();
                 ud.Items = Coordinations.SelectMany(e => e.Items).Where(e => e.HasValue()).Select(e => new UserCoordinationItem
                 {
                     SealId = e.SealId,
@@ -522,7 +514,8 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
                     Remarks = e.Remarks
                 }).ToList();
 
-                await Page.JS.InvokeAsync<string>("__writeLocalStorage", typeof(UserData).FullName, JsonConvert.SerializeObject(ud));
+                await UserDataAccessor.WriteAsync(ud);
+
                 _UserDataTask = Task.FromResult(ud);
                 foreach (var c in Coordinations)
                 {
@@ -708,7 +701,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
 
     #region SelectDecrementListingCountCommand
 
-    private CommandViewModelBase _SelectDecrementListingCountCommand;
+    private CommandViewModelBase? _SelectDecrementListingCountCommand;
 
     public CommandViewModelBase SelectDecrementListingCountCommand
         => _SelectDecrementListingCountCommand ??= CommandViewModel.Create(
