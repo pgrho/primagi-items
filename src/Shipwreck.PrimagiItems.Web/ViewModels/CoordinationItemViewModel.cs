@@ -15,6 +15,7 @@ public sealed class CoordinationItemViewModel : ObservableModel
 
     public string CategoryName => _Model.Category?.Value ?? _Model.CategoryIndex.ToString("'category#'0");
 
+    public string? Name => _Model.Name;
     public string? SealId => _Model.SealId;
     public string? ImageUrl => _Model.ImageUrl;
 
@@ -154,6 +155,9 @@ public sealed class CoordinationItemViewModel : ObservableModel
                 || (Page.IsNotListed && ListingCount == 0 && TradingCount == 0));
         return _IsVisible;
     }
+
+    public string GetTooltip()
+        => $"{SealId} {Name} ({CategoryName}, {Coordination.Rarity?.Value}, {Brand?.Value}, {Genre?.Value}, {Color?.Value}, {SubCategory?.Value}, {_Model.Watcha}ワッチャ)";
 
     public void ApplyTool(bool altKey)
     {

@@ -7,11 +7,26 @@
             <div class="coordinations-root">
                 @foreach (var ch in d.Filtered.GroupBy(e => e.ChapterId))
                 {
-                    <h2 class="chapter-title">@ch.First().ChapterDisplayName</h2>
+                    var hasChapterTitle = false;
 
                     foreach (var kg in ch.GroupBy(e => e.Kinds))
                     {
-                        <h3 class="kind-title">@kg.Key</h3>
+                        <div class="group-title">
+                            @if (!hasChapterTitle)
+                            {
+                                hasChapterTitle = true;
+                                <h2 class="chapter-title">
+                                    @kg.First().ChapterDisplayName
+                                </h2>
+                            }
+                            else
+                            {
+                                <div class="chapter-title"></div>
+                            }
+                            <h3 class="kind-title">
+                                @kg.Key
+                            </h3>
+                        </div>
                         <Virtualize Items="kg.OrderBy(e => e.DirectoryNumber).ToList()" Context="c">
 
                             <div class="coordination">
@@ -25,6 +40,7 @@
                         <DataContextScope @key="e.GetHashCode()"
                                       DataContext="e">
                             <div class="coordination-item @(lc > 0 ? "listing" : lc < 0 ? "desired" : null)"
+                             title="@e.GetTooltip()"
                              @onclick="@((args => e.ApplyTool(args.AltKey)))">
                                 <img class="img-fluid" loading="lazy" src="@e.ImageUrl" style="@(e.IsVisible ? null : "filter:grayscale(1);opacity::0.65;")" />
                                 @if (lc > 0)
@@ -33,7 +49,16 @@
                                                 }
                                                 else if (lc < 0)
                                                 {
-                                    <div class="desired-count">求</div>
+                                    <div class="desired-count">
+                                        @if (lc < -1)
+                                                        {
+                                            @($"求: {-lc}")
+                                                        }
+                                                        else
+                                                        {
+                                            @("求")
+                                                        }
+                                    </div>
                                                 }
                             </div>
                         </DataContextScope>

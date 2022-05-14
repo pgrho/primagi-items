@@ -4,33 +4,45 @@
     display: flex;
     flex-flow: column wrap;
     overflow: auto hidden;
+    align-items: flex-start;
+    padding: 1rem 2rem;
+    align-content: flex-start;
 }
 
-.chapter-title {
-    max-width: 272px;
-    padding: 0;
-    margin: 0;
+    .coordinations-root > * {
+        height: 96px;
+        max-width: 272px;
+        padding: 0;
+        margin: 0;
+        flex-grow: 0;
+        margin-bottom: 1rem;
+        margin-right: 2rem;
+    }
+
+.group-title {
+    display: flex;
+    flex-flow: column nowrap;
+    align-content: flex-end;
 }
 
-.kind-title {
-    max-width: 272px;
-    padding: 0;
-    margin: 0;
-}
+    .group-title > .chapter-title {
+        flex-grow: 1;
+    }
+
+    .group-title > .kind-title {
+        flex-grow: 0;
+    }
 
 .coordination {
-    font-weight: bold;
     font-family: sans-serif;
     color: white;
-    margin-bottom: 1rem;
-    margin-right: 2rem;
+    background-color: lawngreen;
 }
 
 .coordination-title {
-    background-color: lawngreen;
-    padding: 0;
-    padding-left: 4px;
+    padding: 2px 4px;
     box-sizing: border-box;
+    height: 24px;
     min-width: 68px;
     max-width: 272px;
     font-size: medium;
@@ -40,7 +52,6 @@
 .coordination-items {
     display: flex;
     flex-flow: row nowrap;
-    background-color: lawngreen;
     min-width: 68px;
     max-width: 272px;
 }
@@ -57,6 +68,7 @@
 
     .coordination-item > * {
         pointer-events: none;
+        user-select: none;
     }
 
     .coordination-item.listing {
@@ -81,6 +93,7 @@
         top: 0;
         background-color: royalblue;
         font-size: small;
+        padding: 1px 2px;
     }
 
     .coordination-item > .desired-count {
@@ -89,4 +102,5 @@
         top: 0;
         background-color: orangered;
         font-size: small;
+        padding: 1px 2px;
     }
