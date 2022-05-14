@@ -7,7 +7,11 @@
     </button>
     <div class="@(d.IsCollapsed switch { true => "collapse show", false => "collapse", _ => "collapsing" })">
         <div class="card card-body">
-
+            <div class="row">
+                <input class="form-control"
+                   placeholder="コーデ名またはID"
+                   @bind="d.Query" />
+            </div>
             <ListScope T="ChapterViewModel" Source="d.Chapters">
                 @if (d.Chapters.Count > 0)
                 {

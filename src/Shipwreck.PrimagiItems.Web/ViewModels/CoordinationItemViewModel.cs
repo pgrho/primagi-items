@@ -209,7 +209,11 @@ public sealed class CoordinationItemViewModel : ObservableModel
                 || (Page.IsOwned && PosessionCount > 0)
                 || (Page.IsListed && ListingCount > 0)
                 || (Page.IsDesired && ListingCount < 0)
-                || (Page.IsNotListed && ListingCount == 0 && TradingCount == 0));
+                || (Page.IsNotListed && ListingCount == 0 && TradingCount == 0))
+                && (string.IsNullOrEmpty(Page.Query)
+                || SealId?.Contains(Page.Query, StringComparison.InvariantCultureIgnoreCase) == true
+                || Name?.Contains(Page.Query) == true
+                || Coordination.Name?.Contains(Page.Query) == true);
         return _IsVisible;
     }
 

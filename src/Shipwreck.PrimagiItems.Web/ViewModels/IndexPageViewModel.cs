@@ -487,6 +487,24 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
 
     #endregion 所持数
 
+    #region Query
+
+    private string _Query = string.Empty;
+
+    public string Query
+    {
+        get => _Query;
+        set
+        {
+            if (SetProperty(ref _Query, value ?? string.Empty))
+            {
+                UpdateFiltered();
+            }
+        }
+    }
+
+    #endregion
+
     #region UserDataTask
 
     private Task<UserData>? _UserDataTask;
