@@ -36,9 +36,11 @@
                                 <div class="coordination-items">
                                     @foreach (var e in c.Items)
                                     {
-                                        var lc = e.ListingCount - e.TradingCount;
                         <DataContextScope @key="e.GetHashCode()"
                                       DataContext="e">
+                            @{
+                                                var lc = e.ListingCount - e.TradingCount;
+                            }
                             <div class="coordination-item @(lc > 0 ? "listing" : lc < 0 ? "desired" : null)"
                              title="@e.GetTooltip()"
                              @onclick="@((args => e.ApplyTool(args.AltKey)))">

@@ -492,12 +492,17 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
     private Task<UserData>? _UserDataTask;
 
     private Task<UserData> UserDataTask
-        => _UserDataTask ??= UserDataAccessor.ReadAsync(null).ContinueWith(t => t.Result ?? new UserData());
+        => _UserDataTask ??= UserDataAccessor.ReadAsync(null).ContinueWith(t =>
+        {
+            _LastUserDataUpdated = DateTime.UtcNow;
+            return t.Result ?? new UserData();
+        });
 
     #endregion UserDataTask
 
     #region SaveUserDataCommand
 
+    private DateTime _LastUserDataUpdated;
     private CommandViewModelBase? _SaveUserDataCommand;
 
     public CommandViewModelBase SaveUserDataCommand
@@ -516,6 +521,7 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
 
                 await UserDataAccessor.WriteAsync(ud);
 
+                _LastUserDataUpdated = DateTime.UtcNow;
                 _UserDataTask = Task.FromResult(ud);
                 foreach (var c in Coordinations)
                 {
@@ -525,6 +531,8 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
                     }
                 }
                 ChangedCount = 0;
+
+                EnqueueAutoSave();
             },
             title: "保存",
             icon: "fas fa-save",
@@ -559,8 +567,6 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
                     .Select(e => new CoordinationViewModel(this, e)));
 
             SetUserData();
-
-            UpdateFiltered();
         }
     }
 
@@ -577,10 +583,13 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
             }
         }
         ChangedCount = 0;
+        UpdateFiltered();
+        EnqueueAutoSave();
     }
 
     #region ChangedCount
 
+    private DateTime _LastEditedAt;
     private int _ChangedCount;
 
     public int ChangedCount
@@ -596,7 +605,10 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
     }
 
     internal void InvalidateChangedCount()
-        => ChangedCount = Coordinations.Sum(c => c.Items.Count(e => e.IsChanged));
+    {
+        ChangedCount = Coordinations.Sum(c => c.Items.Count(e => e.IsChanged));
+        _LastEditedAt = DateTime.UtcNow;
+    }
 
     #endregion ChangedCount
 
@@ -768,4 +780,66 @@ public sealed class IndexPageViewModel : FrameworkPageViewModel
     #endregion TradingCount
 
     #endregion SummaryTool
+
+    #region AutoSave
+
+    private static TimeSpan _AutoSaveInterval => TimeSpan.FromSeconds(60);
+    private static TimeSpan _InvalidationWait => TimeSpan.FromSeconds(30);
+    private static TimeSpan _AutoSaveWait => TimeSpan.FromSeconds(30);
+
+    private bool _IsAutoSaving;
+
+    private void EnqueueAutoSave()
+    {
+        Task.Delay(_AutoSaveInterval).ContinueWith(t =>
+        {
+            DoAutoSave();
+        });
+    }
+
+    private async void DoAutoSave()
+    {
+        try
+        {
+            if (_IsAutoSaving || IsDisposed)
+            {
+                return;
+            }
+            _IsAutoSaving = true;
+
+            if (_SaveUserDataCommand?.IsExecuting != true
+                && _UserDataTask?.Status == TaskStatus.RanToCompletion)
+            {
+                var cud = _UserDataTask.Result;
+
+                if (DateTime.UtcNow - _LastUserDataUpdated > _InvalidationWait)
+                {
+                    var nud = await UserDataAccessor.ReadAsync(cud.LastUpdated);
+
+                    if (nud != null)
+                    {
+                        _LastUserDataUpdated = DateTime.UtcNow;
+                        _UserDataTask = Task.FromResult(nud);
+                        SetUserData();
+
+                        return;
+                    }
+                }
+
+                if (ChangedCount > 0 && DateTime.UtcNow - _LastEditedAt > _AutoSaveWait)
+                {
+                    SaveUserDataCommand.Execute();
+                }
+            }
+        }
+        catch { }
+        finally
+        {
+            _IsAutoSaving = false;
+        }
+
+        EnqueueAutoSave();
+    }
+
+    #endregion AutoSave
 }

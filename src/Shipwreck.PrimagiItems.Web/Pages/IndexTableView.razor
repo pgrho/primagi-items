@@ -25,36 +25,39 @@
                         <tbody>
                             @foreach (var c in items)
                             {
-                                <tr @key="@c.SealId">
-                                    <td>@c.SealId</td>
-                                    <td>@c.Coordination.ChapterDisplayName</td>
-                                    <td>@c.Rarity?.Value</td>
-                                    <td>@c.Coordination.DisplayName</td>
-                                    <td>@c.Category?.Value</td>
+                                <DataContextScope @key="@c.SealId"
+                                      DataContext="c">
+                                    <tr>
+                                        <td>@c.SealId</td>
+                                        <td>@c.Coordination.ChapterDisplayName</td>
+                                        <td>@c.Rarity?.Value</td>
+                                        <td>@c.Coordination.DisplayName</td>
+                                        <td>@c.Category?.Value</td>
 
-                                    <td>
-                                        <input class="form-control form-control-sm"
-                                   style="width: 4rem"
-                                   maxlength="2"
-                                   type="number" min="0" max="99" @bind-value="c.PosessionCount" />
-                                    </td>
-                                    <td>
-                                        <input class="form-control form-control-sm"
-                                   style="width: 4rem"
-                                   maxlength="2"
-                                   type="number" min="-99" max="99" @bind-value="c.ListingCount" />
-                                    </td>
-                                    <td>
-                                        <input class="form-control form-control-sm"
-                                   style="width: 4rem"
-                                   maxlength="2"
-                                   type="number" min="-99" max="99" @bind-value="c.TradingCount" />
-                                    </td>
-                                    <td>
-                                        <input class="form-control form-control-sm"
-                                   style="width: 20rem" @bind-value="c.Remarks" />
-                                    </td>
-                                </tr>
+                                        <td>
+                                            <input class="form-control form-control-sm"
+                                       style="width: 4rem"
+                                       maxlength="2"
+                                       type="number" min="0" max="99" @bind-value="c.PosessionCount" />
+                                        </td>
+                                        <td>
+                                            <input class="form-control form-control-sm"
+                                       style="width: 4rem"
+                                       maxlength="2"
+                                       type="number" min="-99" max="99" @bind-value="c.ListingCount" />
+                                        </td>
+                                        <td>
+                                            <input class="form-control form-control-sm"
+                                       style="width: 4rem"
+                                       maxlength="2"
+                                       type="number" min="-99" max="99" @bind-value="c.TradingCount" />
+                                        </td>
+                                        <td>
+                                            <input class="form-control form-control-sm"
+                                       style="width: 20rem" @bind-value="c.Remarks" />
+                                        </td>
+                                    </tr>
+                                </DataContextScope>
                             }
                         </tbody>
                     </table>
