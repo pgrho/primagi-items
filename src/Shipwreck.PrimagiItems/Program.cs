@@ -66,6 +66,7 @@ internal class Program
 
         var jd = JArray.Parse(json);
         var items = jd.ToObject<List<Item>>()!;
+        items = items.GroupBy(e => e.SealId).Select(e => e.First()).ToList();
 
         var fe = (JObject)jd[0];
 
@@ -259,7 +260,7 @@ internal class Program
             var coord = new Coordination
             {
                 Collection = cg.Key.collection,
-                DirectoryNumber = cg.Key.directoryNumber,
+                DirectoryNumber = cg.Key.directoryNumber ?? int.MaxValue,
 
                 Name = gf.CoordinationName,
                 ChapterId = gf.Chapter,

@@ -1032,3 +1032,237 @@
 20202	うえたんファッション・サマー	SPCW10189_B01A	3	6	7	2	500	3	6	P-146	11	0	0		64	True	True	2022年7月　ウエルシアコラボ　2022年7月7日（木）～8月31日（水）	True		P05	SR	ライブ	ボトムス	Cherry Sugar	みずいろ	キュート
 20203	うえたんファッション・サマー	SPCW10189_P01A	3	6	7	2	450	4	18	P-147	11	0	0		64	True	True	2022年7月　ウエルシアコラボ　2022年7月7日（木）～8月31日（水）	True		P05	SR	ライブ	シューズ	Cherry Sugar	みずいろ	ベーシック
 20204	うえたんファッション・サマー	SPCW10189_I01A	3	6	7	2	450	5	16	P-148	11	0	0		64	True	True	2022年7月　ウエルシアコラボ　2022年7月7日（木）～8月31日（水）	True		P05	SR	ライブ	アクセ	Cherry Sugar	みずいろ	ラブリー
+840	ダークネスエレメンツヘブンズ	SPCW20035_D01A	3	3	11	5	1400	2	20	PM6-216	12	0	0	エレメンツコーデ	1	True	True	2022年8月4日（木）～ 2022年8月24日（水）	True	1	P06	HR	ライブ	ワンピ	Radiant Abyss	しろ	エレガント
+841	ダークネスエレメンツヘブンズ	SPCW20035_P01A	3	3	11	5	650	4	11	PM6-217	12	0	0		1	True	True		True		P06	HR	ライブ	シューズ	Radiant Abyss	しろ	ジュエル
+842	ダークネスエレメンツヘブンズ	SPCW20035_I01A	3	3	12	5	650	5	3	PM6-218	12	0	0		1	True	True		True		P06	HR	ライブ	アクセ	Radiant Abyss	シルバー	スター
+843	フレアエレメンツヘブンズ	SPCW20028_D01A	3	2	11	5	1400	2	15	PM6-219	12	0	0	エレメンツコーデ	2	True	True	2022年8月4日（木）～ 2022年8月24日（水）	True	2	P06	HR	ライブ	ワンピ	VIVID STAR	しろ	ミステリアス
+844	フレアエレメンツヘブンズ	SPCW20028_P01A	3	2	11	5	650	4	5	PM6-220	12	0	0		2	True	True		True		P06	HR	ライブ	シューズ	VIVID STAR	しろ	ガーリー
+845	フレアエレメンツヘブンズ	SPCW20028_I01A	3	2	11	5	650	5	13	PM6-221	12	0	0		2	True	True		True		P06	HR	ライブ	アクセ	VIVID STAR	しろ	ダンス
+846	ブライトネスエレメンツヘブンズ	SPCW20036_D01A	3	6	11	5	1400	2	6	PM6-222	12	0	0	エレメンツコーデ	3	True	True	2022年8月25日（木）～ 2022年9月14日（水）	True	3	P06	HR	ライブ	ワンピ	Cherry Sugar	しろ	キュート
+847	ブライトネスエレメンツヘブンズ	SPCW20036_P01A	3	6	11	5	650	4	3	PM6-223	12	0	0		3	True	True		True		P06	HR	ライブ	シューズ	Cherry Sugar	しろ	スター
+848	ブライトネスエレメンツヘブンズ	SPCW20036_I01A	3	6	13	5	650	5	20	PM6-224	12	0	0		3	True	True		True		P06	HR	ライブ	アクセ	Cherry Sugar	ゴールド	エレガント
+849	フラッシュエレメンツヘブンズ	SPCW20033_D01A	3	5	11	5	1400	2	21	PM6-225	12	0	0	エレメンツコーデ	4	True	True	2022年8月25日（木）～ 2022年9月14日（水）	True	4	P06	HR	ライブ	ワンピ	ELECTRO REMIX	しろ	デジタル
+850	フラッシュエレメンツヘブンズ	SPCW20033_P01A	3	5	11	5	650	4	9	PM6-226	12	0	0		4	True	True		True		P06	HR	ライブ	シューズ	ELECTRO REMIX	しろ	クール
+851	フラッシュエレメンツヘブンズ	SPCW20033_I01A	3	5	12	5	650	5	15	PM6-227	12	0	0		4	True	True		True		P06	HR	ライブ	アクセ	ELECTRO REMIX	シルバー	ミステリアス
+852	アクアエレメンツヘブンズ	SPCW20032_D01A	3	4	11	5	1400	2	20	PM6-228	12	0	0	エレメンツコーデ	5	True	True	2022年9月15日（木）～ 2022年10月5日（水）	True	5	P06	HR	ライブ	ワンピ	Eternal Revue	しろ	エレガント
+853	アクアエレメンツヘブンズ	SPCW20032_P01A	3	4	11	5	650	4	13	PM6-229	12	0	0		5	True	True		True		P06	HR	ライブ	シューズ	Eternal Revue	しろ	ダンス
+854	アクアエレメンツヘブンズ	SPCW20032_I01A	3	4	13	5	650	5	9	PM6-230	12	0	0		5	True	True		True		P06	HR	ライブ	アクセ	Eternal Revue	ゴールド	クール
+855	サンシャインエレメンツヘブンズ	SPCW20037_D01A	3	7	11	5	1400	2	11	PM6-231	12	0	0	エレメンツコーデ	6	True	True	2022年9月15日（木）～ 2022年10月5日（水）	True	6	P06	HR	ライブ	ワンピ	SHINING DIVA	しろ	ジュエル
+856	サンシャインエレメンツヘブンズ	SPCW20037_P01A	3	7	12	5	650	4	15	PM6-232	12	0	0		6	True	True		True		P06	HR	ライブ	シューズ	SHINING DIVA	シルバー	ミステリアス
+857	サンシャインエレメンツヘブンズ	SPCW20037_I01A	3	7	13	5	650	5	20	PM6-233	12	0	0		6	True	True		True		P06	HR	ライブ	アクセ	SHINING DIVA	ゴールド	エレガント
+861	リバティーサンシャイン	SPCW20017_D01A	3	7	12	3	1200	2	11	PM6-001	12	0	0	章コレクション1	7	True	True	2022年8月4日（木）～ 2022年9月14日（水）	True	1	P06	UR	ライブ	ワンピ	SHINING DIVA	シルバー	ジュエル
+862	リバティーサンシャイン	SPCW20017_P01A	3	7	12	3	550	4	13	PM6-002	12	0	0		7	True	True		True		P06	UR	ライブ	シューズ	SHINING DIVA	シルバー	ダンス
+863	リバティーサンシャイン	SPCW20017_I01A	3	7	2	3	550	5	20	PM6-003	12	0	0		7	True	True		True		P06	UR	ライブ	アクセ	SHINING DIVA	あか	エレガント
+864	メモリージュエルアイシクル	SPCW10271_T01A	3	1	7	3	600	1	2	PM6-004	12	0	0	章コレクション1	8	True	True	2022年8月4日（木）～ 2022年9月14日（水）	True	2	P06	UR	ライブ	トップス	LOVELY MELODY	みずいろ	フラワー
+865	メモリージュエルアイシクル	SPCW10271_B01A	3	1	7	3	600	3	6	PM6-005	12	0	0		8	True	True		True		P06	UR	ライブ	ボトムス	LOVELY MELODY	みずいろ	キュート
+866	メモリージュエルアイシクル	SPCW10271_P01A	3	1	7	3	550	4	8	PM6-006	12	0	0		8	True	True		True		P06	UR	ライブ	シューズ	LOVELY MELODY	みずいろ	リボン
+867	メモリージュエルアイシクル	SPCW10271_I01A	3	1	7	3	550	5	11	PM6-007	12	0	0		8	True	True		True		P06	UR	ライブ	アクセ	LOVELY MELODY	みずいろ	ジュエル
+868	わたしたちさいこう3150バイブス	SPCW10314_D01A	3	1	11	2	1000	2	15	PM6-008	12	0	0	章コレクション1	9	True	True	2022年8月4日（木）～ 2022年9月14日（水）	True	3	P06	SR	ライブ	ワンピ	LOVELY MELODY	しろ	ミステリアス
+869	わたしたちさいこう3150バイブス	SPCW10314_P01A	3	1	11	2	450	4	3	PM6-009	12	0	0		9	True	True		True		P06	SR	ライブ	シューズ	LOVELY MELODY	しろ	スター
+870	わたしたちさいこう3150バイブス	SPCW10314_I01A	3	1	11	2	450	5	4	PM6-010	12	0	0		9	True	True		True		P06	SR	ライブ	アクセ	LOVELY MELODY	しろ	ハート
+871	フラワーオーバーレッド	SPCW10200_T01A	3	7	2	2	500	1	13	PM6-011	12	0	0	章コレクション1	10	True	True	2022年8月4日（木）～ 2022年9月14日（水）	True	4	P06	SR	ライブ	トップス	SHINING DIVA	あか	ダンス
+872	フラワーオーバーレッド	SPCW10200_B01A	3	7	2	2	500	3	2	PM6-012	12	0	0		10	True	True		True		P06	SR	ライブ	ボトムス	SHINING DIVA	あか	フラワー
+873	フラワーオーバーレッド	SPCW10200_P01A	3	7	2	2	450	4	18	PM6-013	12	0	0		10	True	True		True		P06	SR	ライブ	シューズ	SHINING DIVA	あか	ベーシック
+874	フラワーオーバーレッド	SPCW10200_I01A	3	7	3	2	450	5	5	PM6-014	12	0	0		10	True	True		True		P06	SR	ライブ	アクセ	SHINING DIVA	ピンク	ガーリー
+875	フラワーオーバーイエロー	SPCW10275_T01A	3	7	5	2	500	1	9	PM6-015	12	0	0	章コレクション1	11	True	True	2022年8月4日（木）～ 2022年9月14日（水）	True	5	P06	SR	ライブ	トップス	SHINING DIVA	きいろ	クール
+876	フラワーオーバーイエロー	SPCW10275_B01A	3	7	5	2	500	3	15	PM6-016	12	0	0		11	True	True		True		P06	SR	ライブ	ボトムス	SHINING DIVA	きいろ	ミステリアス
+877	フラワーオーバーイエロー	SPCW10275_P01A	3	7	5	2	450	4	12	PM6-017	12	0	0		11	True	True		True		P06	SR	ライブ	シューズ	SHINING DIVA	きいろ	スポーツ
+878	フラワーオーバーイエロー	SPCW10275_I01A	3	7	4	2	450	5	2	PM6-018	12	0	0		11	True	True		True		P06	SR	ライブ	アクセ	SHINING DIVA	オレンジ	フラワー
+879	トゥルーラブブラック	SPCW10281_D01A	3	7	10	2	1000	2	5	PM6-019	12	0	0	章コレクション1	12	True	True	2022年8月4日（木）～ 2022年9月14日（水）	True	6	P06	SR	ライブ	ワンピ	SHINING DIVA	くろ	ガーリー
+880	トゥルーラブブラック	SPCW10281_P01A	3	7	12	2	450	4	20	PM6-020	12	0	0		12	True	True		True		P06	SR	ライブ	シューズ	SHINING DIVA	シルバー	エレガント
+881	トゥルーラブブラック	SPCW10281_I01A	3	7	10	2	450	5	10	PM6-021	12	0	0		12	True	True		True		P06	SR	ライブ	アクセ	SHINING DIVA	くろ	ゴシック
+882	すずらんかれんイエロー	SPCW10273_T01A	3	3	5	2	500	1	10	PM6-022	12	0	0	章コレクション1	13	True	True	2022年8月4日（木）～ 2022年9月14日（水）	True	7	P06	SR	ライブ	トップス	Radiant Abyss	きいろ	ゴシック
+883	すずらんかれんイエロー	SPCW10273_B01A	3	3	5	2	500	3	16	PM6-023	12	0	0		13	True	True		True		P06	SR	ライブ	ボトムス	Radiant Abyss	きいろ	ラブリー
+884	すずらんかれんイエロー	SPCW10273_P01A	3	3	5	2	450	4	5	PM6-024	12	0	0		13	True	True		True		P06	SR	ライブ	シューズ	Radiant Abyss	きいろ	ガーリー
+885	すずらんかれんイエロー	SPCW10273_I01A	3	3	5	2	450	5	14	PM6-025	12	0	0		13	True	True		True		P06	SR	ライブ	アクセ	Radiant Abyss	きいろ	ポップ
+886	ベルサイユガーデン	SPCW10246_T01A	3	4	8	2	500	1	2	PM6-026	12	0	0	章コレクション1	14	True	True	2022年8月4日（木）～ 2022年9月14日（水）	True	8	P06	SR	ライブ	トップス	Eternal Revue	あお	フラワー
+887	ベルサイユガーデン	SPCW10246_B01A	3	4	8	2	500	3	9	PM6-027	12	0	0		14	True	True		True		P06	SR	ライブ	ボトムス	Eternal Revue	あお	クール
+888	ベルサイユガーデン	SPCW10246_P01A	3	4	8	2	450	4	13	PM6-028	12	0	0		14	True	True		True		P06	SR	ライブ	シューズ	Eternal Revue	あお	ダンス
+889	ベルサイユガーデン	SPCW10246_I01A	3	4	13	2	450	5	20	PM6-029	12	0	0		14	True	True		True		P06	SR	ライブ	アクセ	Eternal Revue	ゴールド	エレガント
+890	スペーストラベラー	SPCW10179_T01A	3	5	11	2	500	1	21	PM6-030	12	0	0	章コレクション1	15	True	True	2022年8月4日（木）～ 2022年9月14日（水）	True	9	P06	SR	ライブ	トップス	ELECTRO REMIX	しろ	デジタル
+891	スペーストラベラー	SPCW10179_B01A	3	5	11	2	500	3	14	PM6-031	12	0	0		15	True	True		True		P06	SR	ライブ	ボトムス	ELECTRO REMIX	しろ	ポップ
+892	スペーストラベラー	SPCW10179_P01A	3	5	11	2	450	4	12	PM6-032	12	0	0		15	True	True		True		P06	SR	ライブ	シューズ	ELECTRO REMIX	しろ	スポーツ
+893	スペーストラベラー	SPCW10179_I01A	3	5	11	2	450	5	3	PM6-033	12	0	0		15	True	True		True		P06	SR	ライブ	アクセ	ELECTRO REMIX	しろ	スター
+894	ハートケープ	SPCW10307_T01A	3	6	3	2	500	1	10	PM6-034	12	0	0	章コレクション1	16	True	True	2022年8月4日（木）～ 2022年9月14日（水）	True	10	P06	SR	ライブ	トップス	Cherry Sugar	ピンク	ゴシック
+895	ハートケープ	SPCW10307_B01A	3	6	3	2	500	3	16	PM6-035	12	0	0		16	True	True		True		P06	SR	ライブ	ボトムス	Cherry Sugar	ピンク	ラブリー
+896	ハートケープ	SPCW10307_P01A	3	6	3	2	450	4	5	PM6-036	12	0	0		16	True	True		True		P06	SR	ライブ	シューズ	Cherry Sugar	ピンク	ガーリー
+897	ハートケープ	SPCW10307_I01A	3	6	11	2	450	5	8	PM6-037	12	0	0		16	True	True		True		P06	SR	ライブ	アクセ	Cherry Sugar	しろ	リボン
+898	プリマジチェックイエロー	SPCW10195_T01A	2	8	5	1	400	1	20	PM6-038	12	0	0	章コレクション1	17	True	True	2022年8月4日（木）～ 2022年9月14日（水）	True	11	P06	R	スタイリッシュ	トップス	PrismStone	きいろ	エレガント
+899	プリマジチェックイエロー	SPCW10195_B01A	2	8	5	1	400	3	6	PM6-039	12	0	0		17	True	True		True		P06	R	スタイリッシュ	ボトムス	PrismStone	きいろ	キュート
+900	プリマジチェックイエロー	SPCW10195_P01A	2	8	5	1	350	4	16	PM6-040	12	0	0		17	True	True		True		P06	R	スタイリッシュ	シューズ	PrismStone	きいろ	ラブリー
+901	プリマジチェックイエロー	SPCW10195_I01A	2	8	11	1	350	5	18	PM6-041	12	0	0		17	True	True		True		P06	R	スタイリッシュ	アクセ	PrismStone	しろ	ベーシック
+902	ショルダーフリル	SPCW10077_T01A	1	7	11	1	400	1	13	PM6-042	12	0	0	章コレクション1	18	True	True	2022年8月4日（木）～ 2022年9月14日（水）	True	12	P06	R	カジュアル	トップス	SHINING DIVA	しろ	ダンス
+903	ゴールドボタンショーパン	SPCW10077_B01A	1	7	7	1	400	3	5	PM6-043	12	0	0		18	True	True		True		P06	R	カジュアル	ボトムス	SHINING DIVA	みずいろ	ガーリー
+904	プレミアムニーハイブーツ	SPCW10077_P01A	1	7	1	1	350	4	20	PM6-044	12	0	0		18	True	True		True		P06	R	カジュアル	シューズ	SHINING DIVA	ちゃ	エレガント
+905	ジュエリーピン	SPCW10077_I01A	1	7	4	1	350	5	9	PM6-045	12	0	0		18	True	True		True		P06	R	カジュアル	アクセ	SHINING DIVA	オレンジ	クール
+906	ピンクベストシャツ	SPCW10252_T01A	1	3	3	1	400	1	18	PM6-046	12	0	0	章コレクション1	19	True	True	2022年8月4日（木）～ 2022年9月14日（水）	True	13	P06	R	カジュアル	トップス	Radiant Abyss	ピンク	ベーシック
+907	にだんフリルスカート	SPCW10252_B01A	1	3	3	1	400	3	10	PM6-047	12	0	0		19	True	True		True		P06	R	カジュアル	ボトムス	Radiant Abyss	ピンク	ゴシック
+908	ヴィンテージフラットパンプス	SPCW10252_P01A	1	3	9	1	350	4	8	PM6-048	12	0	0		19	True	True		True		P06	R	カジュアル	シューズ	Radiant Abyss	むらさき	リボン
+909	おすましシンプルベレー	SPCW10252_I01A	1	3	3	1	350	5	14	PM6-049	12	0	0		19	True	True		True		P06	R	カジュアル	アクセ	Radiant Abyss	ピンク	ポップ
+910	クローズドシャツジャケット	SPCW10253_T01A	1	4	8	1	400	1	20	PM6-050	12	0	0	章コレクション1	20	True	True	2022年8月4日（木）～ 2022年9月14日（水）	True	14	P06	R	カジュアル	トップス	Eternal Revue	あお	エレガント
+911	ホワイトアンクルパンツ	SPCW10253_B01A	1	4	11	1	400	3	13	PM6-051	12	0	0		20	True	True		True		P06	R	カジュアル	ボトムス	Eternal Revue	しろ	ダンス
+912	ベーシックパンプス	SPCW10253_P01A	1	4	8	1	350	4	9	PM6-052	12	0	0		20	True	True		True		P06	R	カジュアル	シューズ	Eternal Revue	あお	クール
+913	スクエアジュエリーピン	SPCW10253_I01A	1	4	2	1	350	5	11	PM6-053	12	0	0		20	True	True		True		P06	R	カジュアル	アクセ	Eternal Revue	あか	ジュエル
+914	ツートンジャケット	SPCW10308_T01A	1	5	8	1	400	1	12	PM6-054	12	0	0	章コレクション1	21	True	True	2022年8月4日（木）～ 2022年9月14日（水）	True	15	P06	R	カジュアル	トップス	ELECTRO REMIX	あお	スポーツ
+915	ネイビーデニムパンツ	SPCW10308_B01A	1	5	8	1	400	3	6	PM6-055	12	0	0		21	True	True		True		P06	R	カジュアル	ボトムス	ELECTRO REMIX	あお	キュート
+916	げんきビビッドスニーカー	SPCW10308_P01A	1	5	8	1	350	4	14	PM6-056	12	0	0		21	True	True		True		P06	R	カジュアル	シューズ	ELECTRO REMIX	あお	ポップ
+917	ワンポイントキャップ	SPCW10308_I01A	1	5	4	1	350	5	5	PM6-057	12	0	0		21	True	True		True		P06	R	カジュアル	アクセ	ELECTRO REMIX	オレンジ	ガーリー
+918	ワンダーチェリーフリル	SPCW10254_T01A	1	6	11	1	400	1	16	PM6-058	12	0	0	章コレクション1	22	True	True	2022年8月4日（木）～ 2022年9月14日（水）	True	16	P06	R	カジュアル	トップス	Cherry Sugar	しろ	ラブリー
+919	ワンダーチェリーフリル	SPCW10254_B01A	1	6	7	1	400	3	18	PM6-059	12	0	0		22	True	True		True		P06	R	カジュアル	ボトムス	Cherry Sugar	みずいろ	ベーシック
+920	チェリーリボンシューズ	SPCW10254_P01A	1	6	3	1	350	4	6	PM6-060	12	0	0		22	True	True		True		P06	R	カジュアル	シューズ	Cherry Sugar	ピンク	キュート
+921	チェリーモチーフカチューシャ	SPCW10254_I01A	1	6	7	1	350	5	8	PM6-061	12	0	0		22	True	True		True		P06	R	カジュアル	アクセ	Cherry Sugar	みずいろ	リボン
+922	リバティーサンシャインパープル	SPCW20031_D01A	3	7	9	3	1200	2	9	PM6-062	12	0	0	章コレクション2	23	True	True	2022年9月15日（木）～	True	1	P06	UR	ライブ	ワンピ	SHINING DIVA	むらさき	クール
+923	リバティーサンシャインパープル	SPCW20031_P01A	3	7	9	3	550	4	15	PM6-063	12	0	0		23	True	True		True		P06	UR	ライブ	シューズ	SHINING DIVA	むらさき	ミステリアス
+924	リバティーサンシャインパープル	SPCW20031_I01A	3	7	11	3	550	5	11	PM6-064	12	0	0		23	True	True		True		P06	UR	ライブ	アクセ	SHINING DIVA	しろ	ジュエル
+925	メモリージュエル	SPCW10247_T01A	3	1	3	3	600	1	8	PM6-065	12	0	0	章コレクション2	24	True	True	2022年9月15日（木）～	True	2	P06	UR	ライブ	トップス	LOVELY MELODY	ピンク	リボン
+926	メモリージュエル	SPCW10247_B01A	3	1	3	3	600	3	20	PM6-066	12	0	0		24	True	True		True		P06	UR	ライブ	ボトムス	LOVELY MELODY	ピンク	エレガント
+927	メモリージュエル	SPCW10247_P01A	3	1	11	3	550	4	16	PM6-067	12	0	0		24	True	True		True		P06	UR	ライブ	シューズ	LOVELY MELODY	しろ	ラブリー
+928	メモリージュエル	SPCW10247_I01A	3	1	9	3	550	5	2	PM6-068	12	0	0		24	True	True		True		P06	UR	ライブ	アクセ	LOVELY MELODY	むらさき	フラワー
+929	はんなりゆかた	SPCW10231_T01A	3	1	7	2	500	1	5	PM6-069	12	0	0	章コレクション2	25	True	True	2022年9月15日（木）～	True	3	P06	SR	ライブ	トップス	LOVELY MELODY	みずいろ	ガーリー
+930	はんなりゆかた	SPCW10231_B01A	3	1	7	2	500	3	14	PM6-070	12	0	0		25	True	True		True		P06	SR	ライブ	ボトムス	LOVELY MELODY	みずいろ	ポップ
+931	はんなりゆかた	SPCW10231_P01A	3	1	7	2	450	4	8	PM6-071	12	0	0		25	True	True		True		P06	SR	ライブ	シューズ	LOVELY MELODY	みずいろ	リボン
+932	はんなりゆかた	SPCW10231_I01A	3	1	7	2	450	5	18	PM6-072	12	0	0		25	True	True		True		P06	SR	ライブ	アクセ	LOVELY MELODY	みずいろ	ベーシック
+933	はんなりゆかたゆずいろ	SPCW10280_T01A	3	1	5	2	500	1	6	PM6-073	12	0	0	章コレクション2	26	True	True	2022年9月15日（木）～	True	4	P06	SR	ライブ	トップス	LOVELY MELODY	きいろ	キュート
+934	はんなりゆかたゆずいろ	SPCW10280_B01A	3	1	5	2	500	3	7	PM6-074	12	0	0		26	True	True		True		P06	SR	ライブ	ボトムス	LOVELY MELODY	きいろ	チェック
+935	はんなりゆかたゆずいろ	SPCW10280_P01A	3	1	5	2	450	4	5	PM6-075	12	0	0		26	True	True		True		P06	SR	ライブ	シューズ	LOVELY MELODY	きいろ	ガーリー
+936	はんなりゆかたゆずいろ	SPCW10280_I01A	3	1	5	2	450	5	14	PM6-076	12	0	0		26	True	True		True		P06	SR	ライブ	アクセ	LOVELY MELODY	きいろ	ポップ
+937	すずらんかれん	SPCW10244_T01A	3	3	6	2	500	1	2	PM6-077	12	0	0	章コレクション2	27	True	True	2022年9月15日（木）～	True	5	P06	SR	ライブ	トップス	Radiant Abyss	みどり	フラワー
+938	すずらんかれん	SPCW10244_B01A	3	3	6	2	500	3	16	PM6-078	12	0	0		27	True	True		True		P06	SR	ライブ	ボトムス	Radiant Abyss	みどり	ラブリー
+939	すずらんかれん	SPCW10244_P01A	3	3	6	2	450	4	15	PM6-079	12	0	0		27	True	True		True		P06	SR	ライブ	シューズ	Radiant Abyss	みどり	ミステリアス
+940	すずらんかれん	SPCW10244_I01A	3	3	6	2	450	5	6	PM6-080	12	0	0		27	True	True		True		P06	SR	ライブ	アクセ	Radiant Abyss	みどり	キュート
+941	ベルサイユガーデンホワイト	SPCW10277_T01A	3	4	11	2	500	1	20	PM6-081	12	0	0	章コレクション2	28	True	True	2022年9月15日（木）～	True	6	P06	SR	ライブ	トップス	Eternal Revue	しろ	エレガント
+942	ベルサイユガーデンホワイト	SPCW10277_B01A	3	4	11	2	500	3	2	PM6-082	12	0	0		28	True	True		True		P06	SR	ライブ	ボトムス	Eternal Revue	しろ	フラワー
+943	ベルサイユガーデンホワイト	SPCW10277_P01A	3	4	11	2	450	4	13	PM6-083	12	0	0		28	True	True		True		P06	SR	ライブ	シューズ	Eternal Revue	しろ	ダンス
+944	ベルサイユガーデンホワイト	SPCW10277_I01A	3	4	8	2	450	5	15	PM6-084	12	0	0		28	True	True		True		P06	SR	ライブ	アクセ	Eternal Revue	あお	ミステリアス
+945	スペーストラベラーアース	SPCW10291_T01A	3	5	8	2	500	1	15	PM6-085	12	0	0	章コレクション2	29	True	True	2022年9月15日（木）～	True	7	P06	SR	ライブ	トップス	ELECTRO REMIX	あお	ミステリアス
+946	スペーストラベラーアース	SPCW10291_B01A	3	5	8	2	500	3	21	PM6-086	12	0	0		29	True	True		True		P06	SR	ライブ	ボトムス	ELECTRO REMIX	あお	デジタル
+947	スペーストラベラーアース	SPCW10291_P01A	3	5	8	2	450	4	3	PM6-087	12	0	0		29	True	True		True		P06	SR	ライブ	シューズ	ELECTRO REMIX	あお	スター
+948	スペーストラベラーアース	SPCW10291_I01A	3	5	8	2	450	5	12	PM6-088	12	0	0		29	True	True		True		P06	SR	ライブ	アクセ	ELECTRO REMIX	あお	スポーツ
+949	ハードチェック	SPCW10248_T01A	3	2	3	2	500	1	4	PM6-089	12	0	0	章コレクション2	30	True	True	2022年9月15日（木）～	True	8	P06	SR	ライブ	トップス	VIVID STAR	ピンク	ハート
+950	ハードチェック	SPCW10248_B01A	3	2	3	2	500	3	7	PM6-090	12	0	0		30	True	True		True		P06	SR	ライブ	ボトムス	VIVID STAR	ピンク	チェック
+951	ハードチェック	SPCW10248_P01A	3	2	10	2	450	4	9	PM6-091	12	0	0		30	True	True		True		P06	SR	ライブ	シューズ	VIVID STAR	くろ	クール
+952	ハードチェック	SPCW10248_I01A	3	2	12	2	450	5	13	PM6-092	12	0	0		30	True	True		True		P06	SR	ライブ	アクセ	VIVID STAR	シルバー	ダンス
+953	ロイヤルチェック	SPCW10315_T01A	3	3	8	1	400	1	20	PM6-093	12	0	0	章コレクション2	31	True	True	2022年9月15日（木）～	True	9	P06	R	ライブ	トップス	Radiant Abyss	あお	エレガント
+954	ロイヤルチェック	SPCW10315_B01A	3	3	8	1	400	3	10	PM6-094	12	0	0		31	True	True		True		P06	R	ライブ	ボトムス	Radiant Abyss	あお	ゴシック
+955	ロイヤルチェック	SPCW10315_P01A	3	3	8	1	350	4	15	PM6-095	12	0	0		31	True	True		True		P06	R	ライブ	シューズ	Radiant Abyss	あお	ミステリアス
+956	ロイヤルチェック	SPCW10315_I01A	3	3	8	1	350	5	5	PM6-096	12	0	0		31	True	True		True		P06	R	ライブ	アクセ	Radiant Abyss	あお	ガーリー
+957	ゴージャスネックレスジャケット	SPCW10174_T01A	2	7	6	1	400	1	11	PM6-097	12	0	0	章コレクション2	32	True	True	2022年9月15日（木）～	True	10	P06	R	スタイリッシュ	トップス	SHINING DIVA	みどり	ジュエル
+958	ゴールドラインパンツ	SPCW10174_B01A	2	7	6	1	400	3	13	PM6-098	12	0	0		32	True	True		True		P06	R	スタイリッシュ	ボトムス	SHINING DIVA	みどり	ダンス
+959	トリプルカラーショートブーツ	SPCW10174_P01A	2	7	10	1	350	4	18	PM6-099	12	0	0		32	True	True		True		P06	R	スタイリッシュ	シューズ	SHINING DIVA	くろ	ベーシック
+960	リングカチューシャ	SPCW10174_I01A	2	7	4	1	350	5	16	PM6-100	12	0	0		32	True	True		True		P06	R	スタイリッシュ	アクセ	SHINING DIVA	オレンジ	ラブリー
+961	バカンスドレス	SPCW10157_D01A	1	7	7	1	800	2	9	PM6-101	12	0	0	章コレクション2	33	True	True	2022年9月15日（木）～	True	11	P06	R	カジュアル	ワンピ	SHINING DIVA	みずいろ	クール
+963	リゾートサンダル	SPCW10157_P01A	1	7	8	1	350	4	5	PM6-102	12	0	0		33	True	True		True		P06	R	カジュアル	シューズ	SHINING DIVA	あお	ガーリー
+964	ラグジュアリーカチューシャ	SPCW10157_I01A	1	7	11	1	350	5	11	PM6-103	12	0	0		33	True	True		True		P06	R	カジュアル	アクセ	SHINING DIVA	しろ	ジュエル
+965	フラワーラインブラウス	SPCW10289_T01A	1	1	11	1	400	1	6	PM6-104	12	0	0	章コレクション2	34	True	True	2022年9月15日（木）～	True	12	P06	R	カジュアル	トップス	LOVELY MELODY	しろ	キュート
+966	プチフラワースカート	SPCW10289_B01A	1	1	8	1	400	3	16	PM6-105	12	0	0		34	True	True		True		P06	R	カジュアル	ボトムス	LOVELY MELODY	あお	ラブリー
+967	フラワーポイントパンプス	SPCW10289_P01A	1	1	8	1	350	4	15	PM6-106	12	0	0		34	True	True		True		P06	R	カジュアル	シューズ	LOVELY MELODY	あお	ミステリアス
+968	プチフラワーバレッタ	SPCW10289_I01A	1	1	8	1	350	5	8	PM6-107	12	0	0		34	True	True		True		P06	R	カジュアル	アクセ	LOVELY MELODY	あお	リボン
+969	チェッカーセットアップ	SPCW10316_T01A	1	4	4	1	400	1	7	PM6-108	12	0	0	章コレクション2	35	True	True	2022年9月15日（木）～	True	13	P06	R	カジュアル	トップス	Eternal Revue	オレンジ	チェック
+970	チェッカーセットアップ	SPCW10316_B01A	1	4	4	1	400	3	14	PM6-109	12	0	0		35	True	True		True		P06	R	カジュアル	ボトムス	Eternal Revue	オレンジ	ポップ
+971	おとなめブーティー	SPCW10316_P01A	1	4	11	1	350	4	13	PM6-110	12	0	0		35	True	True		True		P06	R	カジュアル	シューズ	Eternal Revue	しろ	ダンス
+972	カジュアルホワイトハット	SPCW10316_I01A	1	4	11	1	350	5	9	PM6-111	12	0	0		35	True	True		True		P06	R	カジュアル	アクセ	Eternal Revue	しろ	クール
+973	ハートプリントプルオーバー	SPCW10250_T01A	1	1	7	1	400	1	12	PM6-112	12	0	0	章コレクション2	36	True	True	2022年9月15日（木）～	True	14	P06	R	カジュアル	トップス	LOVELY MELODY	みずいろ	スポーツ
+974	バックルつきプリーツスカート	SPCW10250_B01A	1	1	8	1	400	3	18	PM6-113	12	0	0		36	True	True		True		P06	R	カジュアル	ボトムス	LOVELY MELODY	あお	ベーシック
+975	レースアップハイカット	SPCW10250_P01A	1	1	11	1	350	4	4	PM6-114	12	0	0		36	True	True		True		P06	R	カジュアル	シューズ	LOVELY MELODY	しろ	ハート
+976	バイカラーピン	SPCW10250_I01A	1	1	3	1	350	5	6	PM6-115	12	0	0		36	True	True		True		P06	R	カジュアル	アクセ	LOVELY MELODY	ピンク	キュート
+977	オフショルニット	SPCW10251_T01A	1	2	11	1	400	1	16	PM6-116	12	0	0	章コレクション2	37	True	True	2022年9月15日（木）～	True	15	P06	R	カジュアル	トップス	VIVID STAR	しろ	ラブリー
+978	ジッパーラインスカート	SPCW10251_B01A	1	2	2	1	400	3	5	PM6-117	12	0	0		37	True	True		True		P06	R	カジュアル	ボトムス	VIVID STAR	あか	ガーリー
+979	ジッパーニーハイブーツ	SPCW10251_P01A	1	2	1	1	350	4	20	PM6-118	12	0	0		37	True	True		True		P06	R	カジュアル	シューズ	VIVID STAR	ちゃ	エレガント
+980	ゴールドラメアクセ	SPCW10251_I01A	1	2	13	1	350	5	13	PM6-119	12	0	0		37	True	True		True		P06	R	カジュアル	アクセ	VIVID STAR	ゴールド	ダンス
+981	サンシャインエレメンツ	SPCW20026_D01A	3	7	13	4	1300	2	20	PM6-209	12	0	0	エレメンツコーデ	38	True	True	2022年8月4日(木)～2022年8月31日(水) 	True	8	P06	PMR	ライブ	ワンピ	SHINING DIVA	ゴールド	エレガント
+982	サンシャインエレメンツ	SPCW20026_P01A	3	7	13	4	600	4	9	PM6-210	12	0	0		38	True	True		True		P06	PMR	ライブ	シューズ	SHINING DIVA	ゴールド	クール
+983	サンシャインエレメンツ	SPCW20026_I01A	3	7	13	4	600	5	15	PM6-211	12	0	0		38	True	True		True		P06	PMR	ライブ	アクセ	SHINING DIVA	ゴールド	ミステリアス
+987	スマイルエレメンツ	SPCW20022_D01A	3	8	7	4	1300	2	6	PM6-215	12	0	0	エレメンツコーデ	39	True	True	第6章フレンドポイント　1200ポイント	True	10	P06	PMR	ライブ	ワンピ	PrismStone	みずいろ	キュート
+988	アーガイルニットいちご	SPCW10331_T01A	2	1	2	1	400	1	16	PM6-205	12	0	0	めちゃマジフレンドコーデ	55	True	True	第6章フレンドポイント　 4000ポイント	True	2	P06	R	スタイリッシュ	トップス	LOVELY MELODY	あか	ラブリー
+989	アーガイルニットいちご	SPCW10331_B01A	2	1	11	1	400	3	5	PM6-206	12	0	0		55	True	True		True		P06	R	スタイリッシュ	ボトムス	LOVELY MELODY	しろ	ガーリー
+990	アーガイルニットいちご	SPCW10331_P01A	2	1	1	1	350	4	14	PM6-207	12	0	0		55	True	True		True		P06	R	スタイリッシュ	シューズ	LOVELY MELODY	ちゃ	ポップ
+991	アーガイルニットいちご	SPCW10331_I01A	2	1	11	1	350	5	13	PM6-208	12	0	0		55	True	True		True		P06	R	スタイリッシュ	アクセ	LOVELY MELODY	しろ	ダンス
+992	スタイリッシュレディいちご	SPCW10338_T01A	2	2	2	1	400	1	18	PM6-201	12	0	0	めちゃマジフレンドコーデ	56	True	True	第6章フレンドポイント　2500ポイント	True	1	P06	R	スタイリッシュ	トップス	VIVID STAR	あか	ベーシック
+993	スタイリッシュレディいちご	SPCW10338_B01A	2	2	2	1	400	3	13	PM6-202	12	0	0		56	True	True		True		P06	R	スタイリッシュ	ボトムス	VIVID STAR	あか	ダンス
+994	スタイリッシュレディいちご	SPCW10338_P01A	2	2	2	1	350	4	9	PM6-203	12	0	0		56	True	True		True		P06	R	スタイリッシュ	シューズ	VIVID STAR	あか	クール
+995	スタイリッシュレディいちご	SPCW10338_I01A	2	2	11	1	350	5	16	PM6-204	12	0	0		56	True	True		True		P06	R	スタイリッシュ	アクセ	VIVID STAR	しろ	ラブリー
+996	ハートバルーンクラシカル	SPCW20038_T01A	3	1	11	2	500	1	4	PM6-120	12	0	0	スペシャル	40	True	True	2022年8月4日(木)～2022年8月6日(土) 	True	1	P06	SR	ライブ	トップス	LOVELY MELODY	しろ	ハート
+997	ハートバルーンクラシカル	SPCW20038_B01A	3	1	11	2	500	3	14	PM6-121	12	0	0		40	True	True		True		P06	SR	ライブ	ボトムス	LOVELY MELODY	しろ	ポップ
+998	ハートバルーンクラシカル	SPCW20038_P01A	3	1	10	2	450	4	8	PM6-122	12	0	0		40	True	True		True		P06	SR	ライブ	シューズ	LOVELY MELODY	くろ	リボン
+999	ハートバルーンクラシカル	SPCW20038_I01A	3	1	10	2	450	5	5	PM6-123	12	0	0		40	True	True		True		P06	SR	ライブ	アクセ	LOVELY MELODY	くろ	ガーリー
+1000	フローラルパターンピンク	SPCW10320_T01A	1	3	3	1	400	1	2	PM6-124	12	0	0	スペシャル	41	True	True	2022年8月4日(木)～2022年8月6日(土) 	True	2	P06	R	カジュアル	トップス	Radiant Abyss	ピンク	フラワー
+1001	フローラルパターンピンク	SPCW10320_B01A	1	3	3	1	400	3	10	PM6-125	12	0	0		41	True	True		True		P06	R	カジュアル	ボトムス	Radiant Abyss	ピンク	ゴシック
+1002	フローラルパターンピンク	SPCW10320_P01A	1	3	3	1	350	4	18	PM6-126	12	0	0		41	True	True		True		P06	R	カジュアル	シューズ	Radiant Abyss	ピンク	ベーシック
+1003	フローラルパターンピンク	SPCW10320_I01A	1	3	3	1	350	5	8	PM6-127	12	0	0		41	True	True		True		P06	R	カジュアル	アクセ	Radiant Abyss	ピンク	リボン
+1004	メモリージュエルパール	SPCW10321_T01A	3	1	11	3	600	1	11	PM6-128	12	0	0	スペシャル	42	True	True	2022年8月7日(日)～2022年8月13日(土) 	True	3	P06	UR	ライブ	トップス	LOVELY MELODY	しろ	ジュエル
+1005	メモリージュエルパール	SPCW10321_B01A	3	1	11	3	600	3	2	PM6-129	12	0	0		42	True	True		True		P06	UR	ライブ	ボトムス	LOVELY MELODY	しろ	フラワー
+1006	メモリージュエルパール	SPCW10321_P01A	3	1	11	3	550	4	16	PM6-130	12	0	0		42	True	True		True		P06	UR	ライブ	シューズ	LOVELY MELODY	しろ	ラブリー
+1007	メモリージュエルパール	SPCW10321_I01A	3	1	11	3	550	5	20	PM6-131	12	0	0		42	True	True		True		P06	UR	ライブ	アクセ	LOVELY MELODY	しろ	エレガント
+87	ひなスクール	SPCW10093_D01A	2	8	5	1	800	2	14	PM1-110	1	2	0	スペシャル	30	True	True	https://primagi.jp/item/P01_details30/	True	4	P01	R	カジュアル	トップス	ELECTRO REMIX	くろ	デジタル
+88	ひなスクール	SPCW10093_P01A	2	8	10	1	350	4	9	PM1-111	1	2	0			True	True		True		P01	R	カジュアル	ボトムス	ELECTRO REMIX	みどり	ポップ
+89	ひなスクール	SPCW10093_I01A	2	8	7	1	350	5	18	PM1-112	1	2	0			True	True		True		P01	R	カジュアル	シューズ	ELECTRO REMIX	くろ	スポーツ
+1008	ツートンジャケットブラック	SPCW10322_T01A	1	5	10	1	400	1	21	PM6-132	12	0	0	スペシャル	44	True	True	2022年8月14日(日)～2022年8月20日(土) 	True	5	P06	R	カジュアル	アクセ	ELECTRO REMIX	きいろ	キュート
+1009	グリーンデニムパンツ	SPCW10322_B01A	1	5	6	1	400	3	14	PM6-133	12	0	0		44	True	True		True		P06	SR	ライブ	トップス	ELECTRO REMIX	オレンジ	スポーツ
+1010	げんきビビッドスニーカーブラック	SPCW10322_P01A	1	5	10	1	350	4	12	PM6-134	12	0	0		44	True	True		True		P06	SR	ライブ	ボトムス	ELECTRO REMIX	オレンジ	スター
+1011	ワンポイントキャップイエロー	SPCW10322_I01A	1	5	5	1	350	5	6	PM6-135	12	0	0		44	True	True		True		P06	SR	ライブ	シューズ	ELECTRO REMIX	オレンジ	キュート
+84	まつりスクール	SPCW10018_D01A	2	8	3	1	800	2	5	PM1-107	1	2	0	スペシャル	29	True	True	https://primagi.jp/item/P01_details29/	True	6	P01	SR	ライブ	アクセ	ELECTRO REMIX	オレンジ	ポップ
+85	まつりスクール	SPCW10018_P01A	2	8	1	1	350	4	16	PM1-108	1	2	0			True	True		True		P01	UR	ライブ	トップス	Radiant Abyss	むらさき	ミステリアス
+86	まつりスクール	SPCW10018_I01A	2	8	7	1	350	5	6	PM1-109	1	2	0			True	True		True		P01	UR	ライブ	ボトムス	Radiant Abyss	むらさき	エレガント
+1012	スペーストラベラーマーズ	SPCW10323_T01A	3	5	4	2	500	1	12	PM6-136	12	0	0	スペシャル	46	True	True	2022年8月21日(日)～2022年8月27日(土)	True	7	P06	UR	ライブ	シューズ	Radiant Abyss	むらさき	クール
+1013	スペーストラベラーマーズ	SPCW10323_B01A	3	5	4	2	500	3	3	PM6-137	12	0	0		46	True	True		True		P06	UR	ライブ	アクセ	Radiant Abyss	むらさき	ゴシック
+1014	スペーストラベラーマーズ	SPCW10323_P01A	3	5	4	2	450	4	6	PM6-138	12	0	0		46	True	True		True		P06	R	カジュアル	トップス	SHINING DIVA	むらさき	ベーシック
+1015	スペーストラベラーマーズ	SPCW10323_I01A	3	5	4	2	450	5	14	PM6-139	12	0	0		46	True	True		True		P06	R	カジュアル	ボトムス	SHINING DIVA	しろ	スポーツ
+530	みるきスクール	SPCW10130_T01A	2	8	3	1	400	1	6	PM4-050	8	0	0	スペシャル	14	True	True	https://primagi.jp/item/P04_details14/	True	8	P04	R	カジュアル	シューズ	SHINING DIVA	みどり	ダンス
+531	みるきスクール	SPCW10130_B01A	2	8	3	1	400	3	5	PM4-051	8	0	0			True	True		True		P04	R	カジュアル	アクセ	SHINING DIVA	みどり	ジュエル
+532	みるきスクール	SPCW10130_P01A	2	8	1	1	350	4	18	PM4-052	8	0	0			True	True		True		P04	SR	ライブ	トップス	Cherry Sugar	みずいろ	ポップ
+1016	ホーリィモノクロームパープル	SPCW10324_T01A	3	3	9	3	600	1	15	PM6-140	12	0	0	スペシャル	48	True	True	2022年8月28日(日)～2022年9月3日(土) 	True	9	P06	SR	ライブ	ボトムス	Cherry Sugar	みずいろ	ハート
+1017	ホーリィモノクロームパープル	SPCW10324_B01A	3	3	9	3	600	3	20	PM6-141	12	0	0		48	True	True		True		P06	SR	ライブ	シューズ	Cherry Sugar	みずいろ	リボン
+1018	ホーリィモノクロームパープル	SPCW10324_P01A	3	3	9	3	550	4	9	PM6-142	12	0	0		48	True	True		True		P06	SR	ライブ	アクセ	Cherry Sugar	しろ	ラブリー
+1019	ホーリィモノクロームパープル	SPCW10324_I01A	3	3	9	3	550	5	10	PM6-143	12	0	0		48	True	True		True		P06	R	ライブ	トップス	Radiant Abyss	ちゃ	ゴシック
+1020	ショルダーフリルベリーペリー	SPCW10325_T01A	1	7	9	1	400	1	18	PM6-144	12	0	0	スペシャル	49	True	True	2022年9月4日(日)～2022年9月10日(土) 	True	10	P06	R	ライブ	ボトムス	Radiant Abyss	むらさき	チェック
+1021	ゴールドボタンショーパンホワイト	SPCW10325_B01A	1	7	11	1	400	3	12	PM6-145	12	0	0		49	True	True		True		P06	R	ライブ	シューズ	Radiant Abyss	ちゃ	エレガント
+1022	プレミアムニーハイブーツモス	SPCW10325_P01A	1	7	6	1	350	4	13	PM6-146	12	0	0		49	True	True		True		P06	R	ライブ	アクセ	Radiant Abyss	ちゃ	リボン
+1023	ジュエリーピンエメラルド	SPCW10325_I01A	1	7	6	1	350	5	11	PM6-147	12	0	0		49	True	True		True		P06	SR	ライブ	トップス	VIVID STAR	むらさき	チェック
+1024	ハートケープライトブルー	SPCW10326_T01A	3	6	7	2	500	1	14	PM6-148	12	0	0	スペシャル	50	True	True	2022年9月11日(日)～2022年9月17日(土) 	True	11	P06	SR	ライブ	ボトムス	VIVID STAR	むらさき	ダンス
+1025	ハートケープライトブルー	SPCW10326_B01A	3	6	7	2	500	3	4	PM6-149	12	0	0		50	True	True		True		P06	SR	ライブ	シューズ	VIVID STAR	くろ	ジュエル
+1026	ハートケープライトブルー	SPCW10326_P01A	3	6	7	2	450	4	8	PM6-150	12	0	0		50	True	True		True		P06	SR	ライブ	アクセ	VIVID STAR	シルバー	キュート
+1027	ハートケープライトブルー	SPCW10326_I01A	3	6	11	2	450	5	16	PM6-151	12	0	0		50	True	True		True		P06	SR	ライブ	トップス	Eternal Revue	あお	クール
+1028	ロイヤルチェックパープル	SPCW10327_T01A	3	3	1	1	400	1	10	PM6-152	12	0	0	スペシャル	51	True	True	2022年9月18日(日)～2022年9月24日(土) 	True	12	P06	SR	ライブ	ボトムス	Eternal Revue	あお	エレガント
+1029	ロイヤルチェックパープル	SPCW10327_B01A	3	3	9	1	400	3	7	PM6-153	12	0	0		51	True	True		True		P06	SR	ライブ	シューズ	Eternal Revue	みずいろ	ガーリー
+1030	ロイヤルチェックパープル	SPCW10327_P01A	3	3	1	1	350	4	20	PM6-154	12	0	0		51	True	True		True		P06	SR	ライブ	アクセ	Eternal Revue	あお	ラブリー
+1031	ロイヤルチェックパープル	SPCW10327_I01A	3	3	1	1	350	5	8	PM6-155	12	0	0		51	True	True		True		P06	SR	ライブ	トップス	LOVELY MELODY	むらさき	フラワー
+1032	ハードチェックパープル	SPCW10328_T01A	3	2	9	2	500	1	7	PM6-156	12	0	0	スペシャル	52	True	True	2022年9月25日(日)～2022年10月1日(土) 	True	13	P06	SR	ライブ	ボトムス	LOVELY MELODY	むらさき	リボン
+1033	ハードチェックパープル	SPCW10328_B01A	3	2	9	2	500	3	13	PM6-157	12	0	0		52	True	True		True		P06	SR	ライブ	シューズ	LOVELY MELODY	むらさき	ラブリー
+1034	ハードチェックパープル	SPCW10328_P01A	3	2	10	2	450	4	11	PM6-158	12	0	0		52	True	True		True		P06	SR	ライブ	アクセ	LOVELY MELODY	むらさき	キュート
+1035	ハードチェックパープル	SPCW10328_I01A	3	2	12	2	450	5	6	PM6-159	12	0	0		52	True	True		True		P06	SR	ライブ	トップス	Cherry Sugar	ピンク	リボン
+1036	パッションエトワールブルー	SPCW10329_T01A	3	4	8	2	500	1	9	PM6-160	12	0	0	スペシャル	53	True	True	2022年10月2日(日)～2022年10月8日(土) 	True	14	P06	SR	ライブ	ボトムス	Cherry Sugar	ピンク	キュート
+1037	パッションエトワールブルー	SPCW10329_B01A	3	4	8	2	500	3	20	PM6-161	12	0	0		53	True	True		True		P06	SR	ライブ	シューズ	Cherry Sugar	ピンク	ポップ
+1038	パッションエトワールブルー	SPCW10329_P01A	3	4	7	2	450	4	5	PM6-162	12	0	0		53	True	True		True		P06	SR	ライブ	アクセ	Cherry Sugar	ピンク	ガーリー
+1039	パッションエトワールブルー	SPCW10329_I01A	3	4	8	2	450	5	16	PM6-163	12	0	0		53	True	True		True		P06	SR	ライブ	トップス	Radiant Abyss	くろ	クール
+238	チェックセットアップ	SPCW10030_T01A	2	1	11	1	400	1	7	PM2-071	4	0	0	スペシャル	54	True	True	2022年10月2日(日)～2022年10月8日(土) 	True	15	P06	SR	ライブ	ボトムス	Radiant Abyss	くろ	ゴシック
+242	チェックセットスマート	SPCW10031_B01A	2	1	11	1	400	3	18	PM2-075	4	0	0		54	True	True		True		P06	SR	ライブ	シューズ	Radiant Abyss	むらさき	ダンス
+240	チェックセットアップ	SPCW10030_P01A	2	1	9	1	350	4	18	PM2-073	4	0	0		54	True	True		True		P06	SR	ライブ	アクセ	Radiant Abyss	くろ	ミステリアス
+241	チェックセットアップ	SPCW10030_I01A	2	1	11	1	350	5	8	PM2-074	4	0	0		54	True	True		True		P06	SR	ライブ	トップス	VIVID STAR	ピンク	スポーツ
+1061	はんなりゆかたふじいろ	SPCW10332_T01A	3	1	9	2	500	1	2	PM6-185	12	0	0	期間限定	57	True	True	2022年8月4日(木) 〜 2022年9月7日(水)	True	1	P06	SR	ライブ	ボトムス	VIVID STAR	ピンク	ポップ
+1062	はんなりゆかたふじいろ	SPCW10332_B01A	3	1	9	2	500	3	8	PM6-186	12	0	0		57	True	True		True		P06	SR	ライブ	シューズ	VIVID STAR	しろ	ダンス
+1063	はんなりゆかたふじいろ	SPCW10332_P01A	3	1	9	2	450	4	16	PM6-187	12	0	0		57	True	True		True		P06	SR	ライブ	アクセ	VIVID STAR	オレンジ	クール
+1064	はんなりゆかたふじいろ	SPCW10332_I01A	3	1	9	2	450	5	6	PM6-188	12	0	0		57	True	True		True		P06	R	カジュアル	トップス	Cherry Sugar	あお	ハート
+20327	マイメロディだいすき	SPCW10191_T01A	3	6	3	2	500	1	8	PM6-193	12	0	10	期間限定	59	True	True	2022年8月4日(木) 〜 2022年9月14日(水)	True	3	P06	R	カジュアル	ボトムス	Cherry Sugar	むらさき	ベーシック
+20328	マイメロディだいすき	SPCW10191_B01A	3	6	3	2	500	3	6	PM6-194	12	0	10		59	True	True		True	4	P06	R	カジュアル	シューズ	Cherry Sugar	あお	ゴシック
+20329	マイメロディだいすき	SPCW10191_P01A	3	6	3	2	450	4	14	PM6-195	12	0	10		59	True	True		True		P06	R	カジュアル	アクセ	Cherry Sugar	しろ	ポップ
+20330	マイメロディだいすき	SPCW10191_I01A	3	6	3	2	450	5	5	PM6-196	12	0	10		59	True	True		True		P06	UR	ライブ	トップス	LOVELY MELODY	あか	ラブリー
+20331	クロミだいすき	SPCW10192_T01A	3	3	10	2	500	1	9	PM6-197	12	0	11	期間限定	60	True	True	2022年8月4日(木) 〜 2022年9月14日(水)	True	5	P06	UR	ライブ	ボトムス	LOVELY MELODY	あか	フラワー
+20332	クロミだいすき	SPCW10192_B01A	3	3	10	2	500	3	10	PM6-198	12	0	11		60	True	True		True	6	P06	UR	ライブ	シューズ	LOVELY MELODY	あか	エレガント
+20333	クロミだいすき	SPCW10192_P01A	3	3	9	2	450	4	13	PM6-199	12	0	11		60	True	True		True		P06	UR	ライブ	アクセ	LOVELY MELODY	あか	ハート
+20334	クロミだいすき	SPCW10192_I01A	3	3	10	2	450	5	15	PM6-200	12	0	11		60	True	True		True		P06	R	ライブ	トップス	Radiant Abyss	あか	エレガント
+20053	ヒップホップピンク	SPCW10083_T01A	3	2	3	2	500	1	12	P-181	13	0	0	プロモ	61	True	True	2022年8月 マイキャラルームガッチャ 8月4日（木）～8月31日（水）	True	3	P06	R	ライブ	ボトムス	Radiant Abyss	あか	チェック
+20054	ヒップホップピンク	SPCW10083_B01A	3	2	3	2	500	3	14	P-182	13	0	0		61	True	True		True		P06	R	ライブ	シューズ	Radiant Abyss	あか	ミステリアス
+20055	ヒップホップピンク	SPCW10083_P01A	3	2	11	2	450	4	13	P-183	13	0	0		61	True	True		True		P06	R	ライブ	アクセ	Radiant Abyss	あか	ガーリー
+20056	ヒップホップピンク	SPCW10083_I01A	3	2	4	2	450	5	9	P-184	13	0	0		61	True	True		True		P06	SR	ライブ	トップス	Radiant Abyss	むらさき	ゴシック
+20213	ファンシードリームパープル	SPCW10228_T01A	1	6	8	1	400	1	4	P-185	13	0	0	プロモ	62	True	True	2022年9月 マイキャラルームガッチャ 9月1日（木）～9月30日（金）	True	4	P06	SR	ライブ	ボトムス	Radiant Abyss	むらさき	フラワー
+20214	ファンシードリームパープル	SPCW10228_B01A	1	6	9	1	400	3	18	P-186	13	0	0		62	True	True		True		P06	SR	ライブ	シューズ	Radiant Abyss	しろ	キュート
+20215	リボンレザーブルーブーツ	SPCW10228_P01A	1	6	8	1	350	4	10	P-187	13	0	0		62	True	True		True		P06	SR	ライブ	アクセ	Radiant Abyss	しろ	エレガント
+20216	リトルベアホワイトベレー	SPCW10228_I01A	1	6	11	1	350	5	14	P-188	13	0	0		62	True	True		True		P06	SR	ライブ	トップス	LOVELY MELODY	しろ	リボン
+20279	メモリージュエルルージュ	SPCW10272_T01A	3	1	2	3	600	1	16	P-169	13	0	3	プロモ	63	True	True	2022年8月4日発売　公式ファンブック第6章	True	5	P06	SR	ライブ	ボトムス	LOVELY MELODY	しろ	エレガント
+20280	メモリージュエルルージュ	SPCW10272_B01A	3	1	2	3	600	3	2	P-170	13	0	3		63	True	True		True		P06	SR	ライブ	シューズ	LOVELY MELODY	しろ	ラブリー
+20281	メモリージュエルルージュ	SPCW10272_P01A	3	1	2	3	550	4	20	P-171	13	0	3		63	True	True		True		P06	SR	ライブ	アクセ	LOVELY MELODY	あか	フラワー
+20282	メモリージュエルルージュ	SPCW10272_I01A	3	1	2	3	550	5	4	P-172	13	0	3		63	True	True		True		P06	SR	ライブ	トップス	LOVELY MELODY	しろ	ダンス
+20283	ロイヤルチェックレッド	SPCW10334_T01A	3	3	2	1	400	1	20	P-173	13	0	1	プロモ	64	True	True	2022年8月3日発売　ちゃお9月号ふろく	True	6	P06	SR	ライブ	ボトムス	LOVELY MELODY	しろ	ガーリー
+20284	ロイヤルチェックレッド	SPCW10334_B01A	3	3	2	1	400	3	7	P-174	13	0	1		64	True	True		True		P06	SR	ライブ	シューズ	LOVELY MELODY	しろ	ゴシック
+20285	ロイヤルチェックレッド	SPCW10334_P01A	3	3	2	1	350	4	15	P-175	13	0	1		64	True	True		True		P06	SR	ライブ	アクセ	LOVELY MELODY	あか	ハート
+20286	ロイヤルチェックレッド	SPCW10334_I01A	3	3	2	1	350	5	5	P-176	13	0	1		64	True	True		True		P06	SR	ライブ	ボトムス	Eternal Revue	みどり	エレガント
