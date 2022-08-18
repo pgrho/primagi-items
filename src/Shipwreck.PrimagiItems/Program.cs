@@ -65,8 +65,8 @@ internal class Program
         Console.WriteLine("Downloaded: {0}", src);
 
         var jd = JArray.Parse(json);
-        var items = jd.ToObject<List<Item>>()!;
-        items = items.GroupBy(e => e.SealId).Select(e => e.First()).ToList();
+        var rawitems = jd.ToObject<List<Item>>()!;
+        var items = rawitems.GroupBy(e => e.SealId).Select(e => e.First()).ToList();
 
         var fe = (JObject)jd[0];
 
@@ -256,7 +256,7 @@ internal class Program
             e.directoryNumber,
         }))
         {
-            var gf = cg.FirstOrDefault(e => !string.IsNullOrEmpty(e.span)) ?? cg.First();
+            var gf = rawitems.FirstOrDefault(e => e.collection == cg.Key.collection && e.directoryNumber == cg.Key.directoryNumber && !string.IsNullOrEmpty(e.span)) ?? cg.First();
             var coord = new Coordination
             {
                 Collection = cg.Key.collection,
