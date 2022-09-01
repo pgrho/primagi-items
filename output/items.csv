@@ -1278,3 +1278,7 @@ id,coordinationName,modelName,genre,brand,color,rarity,watcha,category,subCatego
 20288,ハードチェックオレンジ,SPCW10335_B01A,3,2,4,2,500,3,14,P-178,13,0,0,,69,True,True,,True,,P06,SR,ライブ,シューズ,LOVELY MELODY,しろ,ゴシック
 20289,ハードチェックオレンジ,SPCW10335_P01A,3,2,11,2,450,4,12,P-179,13,0,0,,69,True,True,,True,,P06,SR,ライブ,アクセ,LOVELY MELODY,あか,ハート
 20290,ハードチェックオレンジ,SPCW10335_I01A,3,2,12,2,450,5,11,P-180,13,0,0,,69,True,True,,True,,P06,SR,ライブ,ボトムス,Eternal Revue,みどり,エレガント
+20295,すずらんかれんパープル,SPCW10318_T01A,3,3,9,2,500,1,10,P-193,13,0,0,プロモ,81,True,True,鈴木杏奈「Magic×Color」アニメ盤初回特典,True,,P06,R,ライブ,トップス,LOVELY MELODY,あお,ミステリアス
+20296,すずらんかれんパープル,SPCW10318_B01A,3,3,9,2,500,3,2,P-194,13,0,0,,81,True,True,,True,,P06,R,ライブ,ボトムス,LOVELY MELODY,あお,ガーリー
+20297,すずらんかれんパープル,SPCW10318_P01A,3,3,11,2,450,4,6,P-195,13,0,0,,81,True,True,,True,,P06,R,ライブ,シューズ,LOVELY MELODY,しろ,スター
+20298,すずらんかれんパープル,SPCW10318_I01A,3,3,11,2,450,5,20,P-196,13,0,0,,81,True,True,,True,,P06,R,ライブ,アクセ,LOVELY MELODY,しろ,キュート
