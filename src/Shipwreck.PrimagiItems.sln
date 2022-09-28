@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipwreck.PrimagiItems.Web"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipwreck.PrimagiItems.Core", "Shipwreck.PrimagiItems.Core\Shipwreck.PrimagiItems.Core.csproj", "{817173E4-6E1C-4351-A225-707F9780BC27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shipwreck.PrimagiItems.Browser", "Shipwreck.PrimagiItems.Browser\Shipwreck.PrimagiItems.Browser.csproj", "{56F34856-48A9-4727-93A3-F2AAD5492E4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipwreck.PrimagiItems.Browser", "Shipwreck.PrimagiItems.Browser\Shipwreck.PrimagiItems.Browser.csproj", "{56F34856-48A9-4727-93A3-F2AAD5492E4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shipwreck.PrimagiItems.Tests", "Shipwreck.PrimagiItems.Tests\Shipwreck.PrimagiItems.Tests.csproj", "{622D9FE4-EDD6-4125-85D6-48CCD45FEB99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +57,10 @@ Global
 		{56F34856-48A9-4727-93A3-F2AAD5492E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56F34856-48A9-4727-93A3-F2AAD5492E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56F34856-48A9-4727-93A3-F2AAD5492E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{622D9FE4-EDD6-4125-85D6-48CCD45FEB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622D9FE4-EDD6-4125-85D6-48CCD45FEB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622D9FE4-EDD6-4125-85D6-48CCD45FEB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622D9FE4-EDD6-4125-85D6-48CCD45FEB99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

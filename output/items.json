@@ -520,6 +520,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 1,
       "chapter": "P01",
       "items": [
@@ -602,6 +604,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 2,
       "chapter": "P01",
       "items": [
@@ -684,6 +688,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 3,
       "chapter": "P01",
       "items": [
@@ -749,6 +755,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 4,
       "chapter": "P01",
       "items": [
@@ -814,6 +822,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 5,
       "chapter": "P01",
       "items": [
@@ -896,6 +906,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 6,
       "chapter": "P01",
       "items": [
@@ -978,6 +990,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 7,
       "chapter": "P01",
       "items": [
@@ -1060,6 +1074,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 8,
       "chapter": "P01",
       "items": [
@@ -1142,6 +1158,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 9,
       "chapter": "P01",
       "items": [
@@ -1224,6 +1242,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 10,
       "chapter": "P01",
       "items": [
@@ -1306,6 +1326,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 11,
       "chapter": "P01",
       "items": [
@@ -1388,6 +1410,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 12,
       "chapter": "P01",
       "items": [
@@ -1470,6 +1494,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 13,
       "chapter": "P01",
       "items": [
@@ -1552,6 +1578,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 14,
       "chapter": "P01",
       "items": [
@@ -1634,6 +1662,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 15,
       "chapter": "P01",
       "items": [
@@ -1716,6 +1746,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 16,
       "chapter": "P01",
       "items": [
@@ -1798,6 +1830,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 17,
       "chapter": "P01",
       "items": [
@@ -1880,6 +1914,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 18,
       "chapter": "P01",
       "items": [
@@ -1962,6 +1998,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 19,
       "chapter": "P01",
       "items": [
@@ -2044,6 +2082,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 20,
       "chapter": "P01",
       "items": [
@@ -2126,6 +2166,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 21,
       "chapter": "P01",
       "items": [
@@ -2208,6 +2250,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 22,
       "chapter": "P01",
       "items": [
@@ -2290,6 +2334,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 23,
       "chapter": "P01",
       "items": [
@@ -2372,6 +2418,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 24,
       "chapter": "P01",
       "items": [
@@ -2454,6 +2502,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 25,
       "chapter": "P01",
       "items": [
@@ -2536,6 +2586,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 26,
       "chapter": "P01",
       "items": [
@@ -2618,6 +2670,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 27,
       "chapter": "P01",
       "items": [
@@ -2683,6 +2737,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 28,
       "chapter": "P01",
       "items": [
@@ -2714,6 +2770,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 29,
       "chapter": "P01",
       "items": [
@@ -2779,6 +2837,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）～2021年12月1日（水） ",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 30,
       "chapter": "P01",
       "items": [
@@ -2844,6 +2904,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月1日（金）〜2021年10月9日（土）",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-10-09T00:00:00",
       "order": 1,
       "chapter": "P01",
       "items": [
@@ -2926,6 +2988,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月10日（日）〜2021年10月16日（土）",
+      "spanStart": "2021-10-10T00:00:00",
+      "spanEnd": "2021-10-16T00:00:00",
       "order": 2,
       "chapter": "P01",
       "items": [
@@ -3008,6 +3072,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月17日（日）〜2021年10月23日（土）",
+      "spanStart": "2021-10-17T00:00:00",
+      "spanEnd": "2021-10-23T00:00:00",
       "order": 3,
       "chapter": "P01",
       "items": [
@@ -3090,6 +3156,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月24日（日）〜2021年10月30日（土）",
+      "spanStart": "2021-10-24T00:00:00",
+      "spanEnd": "2021-10-30T00:00:00",
       "order": 4,
       "chapter": "P01",
       "items": [
@@ -3172,6 +3240,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月31日（日）〜2021年11月6日（土）",
+      "spanStart": "2021-10-31T00:00:00",
+      "spanEnd": "2021-11-06T00:00:00",
       "order": 5,
       "chapter": "P01",
       "items": [
@@ -3254,6 +3324,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年11月7日（日）〜2021年11月13日（土）",
+      "spanStart": "2021-11-07T00:00:00",
+      "spanEnd": "2021-11-13T00:00:00",
       "order": 6,
       "chapter": "P01",
       "items": [
@@ -3336,6 +3408,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年11月21日（日）〜2021年11月27日（土）",
+      "spanStart": "2021-11-21T00:00:00",
+      "spanEnd": "2021-11-27T00:00:00",
       "order": 8,
       "chapter": "P01",
       "items": [
@@ -3418,6 +3492,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年11月28日（日）〜2021年12月4日（土）",
+      "spanStart": "2021-11-28T00:00:00",
+      "spanEnd": "2021-12-04T00:00:00",
       "order": 9,
       "chapter": "P01",
       "items": [
@@ -3483,6 +3559,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年11月14日（日）〜2021年11月20日（土）",
+      "spanStart": "2021-11-14T00:00:00",
+      "spanEnd": "2021-11-20T00:00:00",
       "order": 7,
       "chapter": "P01",
       "items": [
@@ -3565,6 +3643,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年11月4日（木）〜2021年12年1日（水）",
+      "spanStart": "2021-11-04T00:00:00",
+      "spanEnd": "2021-12-01T00:00:00",
       "order": 1,
       "chapter": "P01",
       "items": [
@@ -3647,6 +3727,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月　マクドナルドハッピーセット",
+      "spanEventName": "マクドナルドハッピーセット",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-10-31T00:00:00",
       "order": 1,
       "chapter": "P01",
       "items": [
@@ -3678,6 +3761,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月　まほうつかいみゃむとHIMAWARIちゃんねる まーちゃん・おーちゃんからのしょうたいじょうキャンペーン！など",
+      "spanEventName": "まほうつかいみゃむとHIMAWARIちゃんねる まーちゃん・おーちゃんからのしょうたいじょうキャンペーン！など",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-10-31T00:00:00",
       "order": 2,
       "chapter": "P01",
       "items": [
@@ -3709,6 +3795,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月　無料体験チケット",
+      "spanEventName": "無料体験チケット",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-10-31T00:00:00",
       "order": 3,
       "chapter": "P01",
       "items": [
@@ -3774,6 +3863,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月　公式ファンブック　第1章",
+      "spanEventName": "公式ファンブック　第1章",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-10-31T00:00:00",
       "order": 4,
       "chapter": "P01",
       "items": [
@@ -3856,6 +3948,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月　ぷっちぐみ11月号ふろく",
+      "spanEventName": "ぷっちぐみ11月号ふろく",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-10-31T00:00:00",
       "order": 7,
       "chapter": "P01",
       "items": [
@@ -3887,6 +3982,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年11月　ちゃお・ぷっちぐみ12月号　スペシャルプリマジ",
+      "spanEventName": "ちゃお・ぷっちぐみ12月号　スペシャルプリマジ",
+      "spanStart": "2021-11-01T00:00:00",
+      "spanEnd": "2021-11-30T00:00:00",
       "order": 8,
       "chapter": "P01",
       "items": [
@@ -3969,6 +4067,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月　マイキャラルームガチャ（10月）",
+      "spanEventName": "マイキャラルームガチャ（10月）",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-10-31T00:00:00",
       "order": 9,
       "chapter": "P01",
       "items": [
@@ -4051,6 +4152,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月　マイキャラルームガチャ（11月）",
+      "spanEventName": "マイキャラルームガチャ（11月）",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-10-31T00:00:00",
       "order": 10,
       "chapter": "P01",
       "items": [
@@ -4133,6 +4237,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月　プリマジコーデカード♪コレクショングミ vol.1",
+      "spanEventName": "プリマジコーデカード♪コレクショングミ vol.1",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-10-31T00:00:00",
       "order": 11,
       "chapter": "P01",
       "items": [
@@ -4215,6 +4322,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月　プリマジコーデカード♪コレクショングミ vol.1",
+      "spanEventName": "プリマジコーデカード♪コレクショングミ vol.1",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-10-31T00:00:00",
       "order": 14,
       "chapter": "P01",
       "items": [
@@ -4263,6 +4373,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月　プリマジコーデカード♪コレクショングミ vol.1",
+      "spanEventName": "プリマジコーデカード♪コレクショングミ vol.1",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-10-31T00:00:00",
       "order": 12,
       "chapter": "P01",
       "items": [
@@ -4345,6 +4458,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月　プリマジコーデカード♪コレクショングミ vol.1",
+      "spanEventName": "プリマジコーデカード♪コレクショングミ vol.1",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-10-31T00:00:00",
       "order": 13,
       "chapter": "P01",
       "items": [
@@ -4427,6 +4543,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年10月　ちゃお11月号ふろく",
+      "spanEventName": "ちゃお11月号ふろく",
+      "spanStart": "2021-10-01T00:00:00",
+      "spanEnd": "2021-10-31T00:00:00",
       "order": 5,
       "chapter": "P01",
       "items": [
@@ -4509,6 +4628,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 1,
       "chapter": "P02",
       "items": [
@@ -4574,6 +4695,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 2,
       "chapter": "P02",
       "items": [
@@ -4639,6 +4762,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 3,
       "chapter": "P02",
       "items": [
@@ -4704,6 +4829,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 4,
       "chapter": "P02",
       "items": [
@@ -4769,6 +4896,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 5,
       "chapter": "P02",
       "items": [
@@ -4851,6 +4980,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 6,
       "chapter": "P02",
       "items": [
@@ -4933,6 +5064,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 7,
       "chapter": "P02",
       "items": [
@@ -5015,6 +5148,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 8,
       "chapter": "P02",
       "items": [
@@ -5097,6 +5232,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 9,
       "chapter": "P02",
       "items": [
@@ -5162,6 +5299,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 10,
       "chapter": "P02",
       "items": [
@@ -5227,6 +5366,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 11,
       "chapter": "P02",
       "items": [
@@ -5309,6 +5450,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 12,
       "chapter": "P02",
       "items": [
@@ -5391,6 +5534,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 13,
       "chapter": "P02",
       "items": [
@@ -5473,6 +5618,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 14,
       "chapter": "P02",
       "items": [
@@ -5555,6 +5702,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 15,
       "chapter": "P02",
       "items": [
@@ -5637,6 +5786,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 16,
       "chapter": "P02",
       "items": [
@@ -5719,6 +5870,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 17,
       "chapter": "P02",
       "items": [
@@ -5801,6 +5954,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 18,
       "chapter": "P02",
       "items": [
@@ -5883,6 +6038,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 19,
       "chapter": "P02",
       "items": [
@@ -5965,6 +6122,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 20,
       "chapter": "P02",
       "items": [
@@ -6047,6 +6206,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 21,
       "chapter": "P02",
       "items": [
@@ -6078,6 +6239,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 22,
       "chapter": "P02",
       "items": [
@@ -6160,6 +6323,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 23,
       "chapter": "P02",
       "items": [
@@ -6242,6 +6407,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 24,
       "chapter": "P02",
       "items": [
@@ -6307,6 +6474,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 25,
       "chapter": "P02",
       "items": [
@@ -6389,6 +6558,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 26,
       "chapter": "P02",
       "items": [
@@ -6471,6 +6642,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 27,
       "chapter": "P02",
       "items": [
@@ -6553,6 +6726,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 28,
       "chapter": "P02",
       "items": [
@@ -6635,6 +6810,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 29,
       "chapter": "P02",
       "items": [
@@ -6700,6 +6877,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2022年2月2日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 30,
       "chapter": "P02",
       "items": [
@@ -6765,6 +6944,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月19日（日）〜2022年1月19日（水）",
+      "spanStart": "2021-12-19T00:00:00",
+      "spanEnd": "2022-01-19T00:00:00",
       "order": 1,
       "chapter": "P02",
       "items": [
@@ -6830,6 +7011,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月5日（日）〜2021年12月11日（土）",
+      "spanStart": "2021-12-05T00:00:00",
+      "spanEnd": "2021-12-11T00:00:00",
       "order": 1,
       "chapter": "P02",
       "items": [
@@ -6912,6 +7095,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月12日（日） 〜2021年12月18日（土）",
+      "spanStart": "2021-12-12T00:00:00",
+      "spanEnd": "2021-12-18T00:00:00",
       "order": 2,
       "chapter": "P02",
       "items": [
@@ -6994,6 +7179,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月19日（日）〜2021年12月25日（土）",
+      "spanStart": "2021-12-19T00:00:00",
+      "spanEnd": "2021-12-25T00:00:00",
       "order": 3,
       "chapter": "P02",
       "items": [
@@ -7076,6 +7263,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月26日（日）〜2022年1月1日（土）",
+      "spanStart": "2021-12-26T00:00:00",
+      "spanEnd": "2022-01-01T00:00:00",
       "order": 4,
       "chapter": "P02",
       "items": [
@@ -7158,6 +7347,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年1月2日（日）〜2022年1月8日（土）",
+      "spanStart": "2022-01-02T00:00:00",
+      "spanEnd": "2022-01-08T00:00:00",
       "order": 5,
       "chapter": "P02",
       "items": [
@@ -7223,6 +7414,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年1月2日（日）〜2022年1月8日（土）",
+      "spanStart": "2022-01-02T00:00:00",
+      "spanEnd": "2022-01-08T00:00:00",
       "order": 6,
       "chapter": "P02",
       "items": [
@@ -7288,6 +7481,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年1月9日（日）〜2022年1月15日（土）",
+      "spanStart": "2022-01-09T00:00:00",
+      "spanEnd": "2022-01-15T00:00:00",
       "order": 7,
       "chapter": "P02",
       "items": [
@@ -7370,6 +7565,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年1月16日（日）〜2022年1月22日（土）",
+      "spanStart": "2022-01-16T00:00:00",
+      "spanEnd": "2022-01-22T00:00:00",
       "order": 8,
       "chapter": "P02",
       "items": [
@@ -7452,6 +7649,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年1月23日（日）〜2022年1月29日（土）",
+      "spanStart": "2022-01-23T00:00:00",
+      "spanEnd": "2022-01-29T00:00:00",
       "order": 9,
       "chapter": "P02",
       "items": [
@@ -7534,6 +7733,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年1月30日（日）〜2022年2月5日（土）",
+      "spanStart": "2022-01-30T00:00:00",
+      "spanEnd": "2022-02-05T00:00:00",
       "order": 10,
       "chapter": "P02",
       "items": [
@@ -7616,6 +7817,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月2日（木）〜2021年12月29日（水）",
+      "spanStart": "2021-12-02T00:00:00",
+      "spanEnd": "2021-12-29T00:00:00",
       "order": 1,
       "chapter": "P02",
       "items": [
@@ -7698,6 +7901,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年1月6日（木）〜2022年2月2日（水）",
+      "spanStart": "2022-01-06T00:00:00",
+      "spanEnd": "2022-02-02T00:00:00",
       "order": 2,
       "chapter": "P02",
       "items": [
@@ -7763,6 +7968,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月　公式ファンブック　第2章",
+      "spanEventName": "公式ファンブック　第2章",
+      "spanStart": "2021-12-01T00:00:00",
+      "spanEnd": "2021-12-31T00:00:00",
       "order": 1,
       "chapter": "P02",
       "items": [
@@ -7845,6 +8053,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月　ちゃお1月号ふろく",
+      "spanEventName": "ちゃお1月号ふろく",
+      "spanStart": "2021-12-01T00:00:00",
+      "spanEnd": "2021-12-31T00:00:00",
       "order": 2,
       "chapter": "P02",
       "items": [
@@ -7910,6 +8121,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年1月　ちゃお・ぷっちぐみ2月号　スペシャルプリマジ",
+      "spanEventName": "ちゃお・ぷっちぐみ2月号　スペシャルプリマジ",
+      "spanStart": "2022-01-01T00:00:00",
+      "spanEnd": "2022-01-31T00:00:00",
       "order": 3,
       "chapter": "P02",
       "items": [
@@ -7992,6 +8206,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月　マイキャラルームガッチャ（12月）",
+      "spanEventName": "マイキャラルームガッチャ（12月）",
+      "spanStart": "2021-12-01T00:00:00",
+      "spanEnd": "2021-12-31T00:00:00",
       "order": 4,
       "chapter": "P02",
       "items": [
@@ -8074,6 +8291,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年1月　マイキャラルームガッチャ（1月）",
+      "spanEventName": "マイキャラルームガッチャ（1月）",
+      "spanStart": "2022-01-01T00:00:00",
+      "spanEnd": "2022-01-31T00:00:00",
       "order": 5,
       "chapter": "P02",
       "items": [
@@ -8156,6 +8376,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2021年12月　鈴木杏奈「Dreaming Sound」CDアニメ盤（初回生産分）",
+      "spanEventName": "鈴木杏奈「Dreaming Sound」CDアニメ盤（初回生産分）",
+      "spanStart": "2021-12-01T00:00:00",
+      "spanEnd": "2021-12-31T00:00:00",
       "order": 6,
       "chapter": "P02",
       "items": [
@@ -8238,6 +8461,7 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "ガッチャモールでゲット！　HIMAWARIちゃんねるおすすめコーデ＆無料たいけんチケット",
+      "spanEventName": "ガッチャモールでゲット！　HIMAWARIちゃんねるおすすめコーデ＆無料たいけんチケット",
       "order": 9,
       "chapter": "P02",
       "items": [
@@ -8320,6 +8544,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 1,
       "chapter": "P03",
       "items": [
@@ -8385,6 +8611,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 2,
       "chapter": "P03",
       "items": [
@@ -8450,6 +8678,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 3,
       "chapter": "P03",
       "items": [
@@ -8515,6 +8745,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 4,
       "chapter": "P03",
       "items": [
@@ -8580,6 +8812,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 5,
       "chapter": "P03",
       "items": [
@@ -8662,6 +8896,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 6,
       "chapter": "P03",
       "items": [
@@ -8744,6 +8980,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 7,
       "chapter": "P03",
       "items": [
@@ -8826,6 +9064,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 8,
       "chapter": "P03",
       "items": [
@@ -8908,6 +9148,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 12,
       "chapter": "P03",
       "items": [
@@ -8990,6 +9232,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 13,
       "chapter": "P03",
       "items": [
@@ -9072,6 +9316,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 10,
       "chapter": "P03",
       "items": [
@@ -9154,6 +9400,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 11,
       "chapter": "P03",
       "items": [
@@ -9236,6 +9484,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 9,
       "chapter": "P03",
       "items": [
@@ -9318,6 +9568,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 14,
       "chapter": "P03",
       "items": [
@@ -9383,6 +9635,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 15,
       "chapter": "P03",
       "items": [
@@ -9448,6 +9702,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 17,
       "chapter": "P03",
       "items": [
@@ -9530,6 +9786,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 16,
       "chapter": "P03",
       "items": [
@@ -9612,6 +9870,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 18,
       "chapter": "P03",
       "items": [
@@ -9694,6 +9954,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 19,
       "chapter": "P03",
       "items": [
@@ -9776,6 +10038,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 20,
       "chapter": "P03",
       "items": [
@@ -9858,6 +10122,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 21,
       "chapter": "P03",
       "items": [
@@ -9940,6 +10206,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 22,
       "chapter": "P03",
       "items": [
@@ -10022,6 +10290,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 23,
       "chapter": "P03",
       "items": [
@@ -10104,6 +10374,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 24,
       "chapter": "P03",
       "items": [
@@ -10186,6 +10458,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 25,
       "chapter": "P03",
       "items": [
@@ -10251,6 +10525,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 26,
       "chapter": "P03",
       "items": [
@@ -10316,6 +10592,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 27,
       "chapter": "P03",
       "items": [
@@ -10398,6 +10676,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 28,
       "chapter": "P03",
       "items": [
@@ -10480,6 +10760,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 29,
       "chapter": "P03",
       "items": [
@@ -10528,6 +10810,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月3日（木）〜2022年3月30日（水）",
+      "spanStart": "2022-03-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 1,
       "chapter": "P03",
       "items": [
@@ -10593,6 +10877,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月6日（日）〜2022年2月12日（土）",
+      "spanStart": "2022-02-06T00:00:00",
+      "spanEnd": "2022-02-12T00:00:00",
       "order": 1,
       "chapter": "P03",
       "items": [
@@ -10675,6 +10961,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月13日（日）〜2022年2月19日（土）",
+      "spanStart": "2022-02-13T00:00:00",
+      "spanEnd": "2022-02-19T00:00:00",
       "order": 2,
       "chapter": "P03",
       "items": [
@@ -10757,6 +11045,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月20日（日）〜2022年2月26日（土）",
+      "spanStart": "2022-02-20T00:00:00",
+      "spanEnd": "2022-02-26T00:00:00",
       "order": 3,
       "chapter": "P03",
       "items": [
@@ -10839,6 +11129,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月27日（日）〜2022年3月5日（土）",
+      "spanStart": "2022-02-27T00:00:00",
+      "spanEnd": "2022-03-05T00:00:00",
       "order": 4,
       "chapter": "P03",
       "items": [
@@ -10921,6 +11213,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月6日（日）〜2022年3月12日（土）",
+      "spanStart": "2022-03-06T00:00:00",
+      "spanEnd": "2022-03-12T00:00:00",
       "order": 5,
       "chapter": "P03",
       "items": [
@@ -11003,6 +11297,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月13日（日）〜2022年3月19日（土）",
+      "spanStart": "2022-03-13T00:00:00",
+      "spanEnd": "2022-03-19T00:00:00",
       "order": 6,
       "chapter": "P03",
       "items": [
@@ -11085,6 +11381,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月20日（日）〜2022年3月26日（土）",
+      "spanStart": "2022-03-20T00:00:00",
+      "spanEnd": "2022-03-26T00:00:00",
       "order": 7,
       "chapter": "P03",
       "items": [
@@ -11150,6 +11448,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月27日（日）〜2022年3月30日（水）",
+      "spanStart": "2022-03-27T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 8,
       "chapter": "P03",
       "items": [
@@ -11232,6 +11532,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜2022年3月2日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-02T00:00:00",
       "order": 1,
       "chapter": "P03",
       "items": [
@@ -11314,6 +11616,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月　公式ファンブック　第3章",
+      "spanEventName": "公式ファンブック　第3章",
+      "spanStart": "2022-02-01T00:00:00",
+      "spanEnd": "2022-02-28T00:00:00",
       "order": 1,
       "chapter": "P03",
       "items": [
@@ -11396,6 +11701,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月　ちゃお・ぷっちぐみ4月号　スペシャルプリマジ",
+      "spanEventName": "ちゃお・ぷっちぐみ4月号　スペシャルプリマジ",
+      "spanStart": "2022-03-01T00:00:00",
+      "spanEnd": "2022-03-31T00:00:00",
       "order": 2,
       "chapter": "P03",
       "items": [
@@ -11478,6 +11786,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月　マイキャラルームガッチャ（2月3日～2月28日）",
+      "spanEventName": "マイキャラルームガッチャ",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-02-28T00:00:00",
       "order": 3,
       "chapter": "P03",
       "items": [
@@ -11560,6 +11871,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月　マイキャラルームガッチャ（3月1日～3月30日）",
+      "spanEventName": "マイキャラルームガッチャ",
+      "spanStart": "2022-03-01T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 4,
       "chapter": "P03",
       "items": [
@@ -11642,6 +11956,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月　モーリーファンタジー・PALO　ゲットキャンペーン",
+      "spanEventName": "モーリーファンタジー・PALO　ゲットキャンペーン",
+      "spanStart": "2022-03-01T00:00:00",
+      "spanEnd": "2022-03-31T00:00:00",
       "order": 7,
       "chapter": "P03",
       "items": [
@@ -11724,6 +12041,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月　ナムコ　ゲットチャンス",
+      "spanEventName": "ナムコ　ゲットチャンス",
+      "spanStart": "2022-03-01T00:00:00",
+      "spanEnd": "2022-03-31T00:00:00",
       "order": 8,
       "chapter": "P03",
       "items": [
@@ -11806,6 +12126,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月　プリマジコーデカード♪コレクショングミ vol.2",
+      "spanEventName": "プリマジコーデカード♪コレクショングミ vol.2",
+      "spanStart": "2022-02-01T00:00:00",
+      "spanEnd": "2022-02-28T00:00:00",
       "order": 9,
       "chapter": "P03",
       "items": [
@@ -11888,6 +12211,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月　プリマジコーデカード♪コレクショングミ vol.2",
+      "spanEventName": "プリマジコーデカード♪コレクショングミ vol.2",
+      "spanStart": "2022-02-01T00:00:00",
+      "spanEnd": "2022-02-28T00:00:00",
       "order": 10,
       "chapter": "P03",
       "items": [
@@ -11936,6 +12262,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月　プリマジコーデカード♪コレクショングミ vol.2",
+      "spanEventName": "プリマジコーデカード♪コレクショングミ vol.2",
+      "spanStart": "2022-02-01T00:00:00",
+      "spanEnd": "2022-02-28T00:00:00",
       "order": 11,
       "chapter": "P03",
       "items": [
@@ -12018,6 +12347,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月　プリマジコーデカード♪コレクショングミ vol.2",
+      "spanEventName": "プリマジコーデカード♪コレクショングミ vol.2",
+      "spanStart": "2022-02-01T00:00:00",
+      "spanEnd": "2022-02-28T00:00:00",
       "order": 12,
       "chapter": "P03",
       "items": [
@@ -12100,6 +12432,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月　ディッパーダンコラボ",
+      "spanEventName": "ディッパーダンコラボ",
+      "spanStart": "2022-03-01T00:00:00",
+      "spanEnd": "2022-03-31T00:00:00",
       "order": 13,
       "chapter": "P03",
       "items": [
@@ -12182,6 +12517,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年2月3日（木）〜3月30日（水）",
+      "spanStart": "2022-02-03T00:00:00",
+      "spanEnd": "2022-03-30T00:00:00",
       "order": 2,
       "chapter": "P03",
       "items": [
@@ -12264,6 +12601,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年4月27日（水）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-04-27T00:00:00",
       "order": 1,
       "chapter": "P04",
       "items": [
@@ -12329,6 +12668,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年4月27日（水）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-04-27T00:00:00",
       "order": 2,
       "chapter": "P04",
       "items": [
@@ -12394,6 +12735,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年4月27日（水）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-04-27T00:00:00",
       "order": 3,
       "chapter": "P04",
       "items": [
@@ -12459,6 +12802,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年4月27日（水）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-04-27T00:00:00",
       "order": 4,
       "chapter": "P04",
       "items": [
@@ -12541,6 +12886,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年4月27日（水）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-04-27T00:00:00",
       "order": 5,
       "chapter": "P04",
       "items": [
@@ -12623,6 +12970,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年4月27日（水）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-04-27T00:00:00",
       "order": 6,
       "chapter": "P04",
       "items": [
@@ -12705,6 +13054,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年4月27日（水）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-04-27T00:00:00",
       "order": 7,
       "chapter": "P04",
       "items": [
@@ -12787,6 +13138,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年4月27日（水）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-04-27T00:00:00",
       "order": 8,
       "chapter": "P04",
       "items": [
@@ -12869,6 +13222,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年4月27日（水）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-04-27T00:00:00",
       "order": 9,
       "chapter": "P04",
       "items": [
@@ -12951,6 +13306,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年4月27日（水）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-04-27T00:00:00",
       "order": 10,
       "chapter": "P04",
       "items": [
@@ -13033,6 +13390,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年4月27日（水）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-04-27T00:00:00",
       "order": 11,
       "chapter": "P04",
       "items": [
@@ -13115,6 +13474,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年4月27日（水）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-04-27T00:00:00",
       "order": 12,
       "chapter": "P04",
       "items": [
@@ -13197,6 +13558,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年4月27日（水）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-04-27T00:00:00",
       "order": 13,
       "chapter": "P04",
       "items": [
@@ -13279,6 +13642,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年4月27日（水）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-04-27T00:00:00",
       "order": 14,
       "chapter": "P04",
       "items": [
@@ -13361,6 +13726,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月28日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-04-28T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 1,
       "chapter": "P04",
       "items": [
@@ -13426,6 +13793,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月28日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-04-28T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 2,
       "chapter": "P04",
       "items": [
@@ -13491,6 +13860,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月28日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-04-28T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 3,
       "chapter": "P04",
       "items": [
@@ -13556,6 +13927,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月28日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-04-28T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 4,
       "chapter": "P04",
       "items": [
@@ -13638,6 +14011,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月28日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-04-28T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 5,
       "chapter": "P04",
       "items": [
@@ -13720,6 +14095,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月28日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-04-28T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 6,
       "chapter": "P04",
       "items": [
@@ -13802,6 +14179,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月28日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-04-28T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 7,
       "chapter": "P04",
       "items": [
@@ -13884,6 +14263,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月28日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-04-28T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 8,
       "chapter": "P04",
       "items": [
@@ -13966,6 +14347,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月28日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-04-28T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 9,
       "chapter": "P04",
       "items": [
@@ -14048,6 +14431,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月28日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-04-28T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 10,
       "chapter": "P04",
       "items": [
@@ -14130,6 +14515,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月28日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-04-28T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 11,
       "chapter": "P04",
       "items": [
@@ -14212,6 +14599,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月28日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-04-28T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 12,
       "chapter": "P04",
       "items": [
@@ -14294,6 +14683,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月28日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-04-28T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 13,
       "chapter": "P04",
       "items": [
@@ -14376,6 +14767,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月28日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-04-28T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 14,
       "chapter": "P04",
       "items": [
@@ -14441,6 +14834,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月28日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-04-28T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 15,
       "chapter": "P04",
       "items": [
@@ -14523,6 +14918,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月28日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-04-28T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 16,
       "chapter": "P04",
       "items": [
@@ -14588,6 +14985,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月28日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-04-28T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 1,
       "chapter": "P04",
       "items": [
@@ -14653,6 +15052,7 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年6月1日（水）第4章フレンドポイント　2500ポイント",
+      "spanFriendPoint": 2500,
       "order": 1,
       "chapter": "P04",
       "items": [
@@ -14735,6 +15135,7 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年6月1日（水）第4章フレンドポイント　4000ポイント",
+      "spanFriendPoint": 4000,
       "order": 2,
       "chapter": "P04",
       "items": [
@@ -14817,6 +15218,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年4月2日（土）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-04-02T00:00:00",
       "order": 1,
       "chapter": "P04",
       "items": [
@@ -14899,6 +15302,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年4月2日（土）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-04-02T00:00:00",
       "order": 2,
       "chapter": "P04",
       "items": [
@@ -14981,6 +15386,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月3日（日）〜2022年4月9日（土）",
+      "spanStart": "2022-04-03T00:00:00",
+      "spanEnd": "2022-04-09T00:00:00",
       "order": 3,
       "chapter": "P04",
       "items": [
@@ -15063,6 +15470,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月10日（日）～2022年4月16日（土）",
+      "spanStart": "2022-04-10T00:00:00",
+      "spanEnd": "2022-04-16T00:00:00",
       "order": 4,
       "chapter": "P04",
       "items": [
@@ -15145,6 +15554,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月17日（日）〜2022年4月23日（土）",
+      "spanStart": "2022-04-17T00:00:00",
+      "spanEnd": "2022-04-23T00:00:00",
       "order": 5,
       "chapter": "P04",
       "items": [
@@ -15227,6 +15638,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月24日（日）〜2022年4月30日（土）",
+      "spanStart": "2022-04-24T00:00:00",
+      "spanEnd": "2022-04-30T00:00:00",
       "order": 6,
       "chapter": "P04",
       "items": [
@@ -15309,6 +15722,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年5月1日（日）〜2022年5月7日（土）",
+      "spanStart": "2022-05-01T00:00:00",
+      "spanEnd": "2022-05-07T00:00:00",
       "order": 7,
       "chapter": "P04",
       "items": [
@@ -15391,6 +15806,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年5月8日（日）〜2022年5月14日（土）",
+      "spanStart": "2022-05-08T00:00:00",
+      "spanEnd": "2022-05-14T00:00:00",
       "order": 8,
       "chapter": "P04",
       "items": [
@@ -15473,6 +15890,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年5月15日（日）〜2022年5月21日（土）",
+      "spanStart": "2022-05-15T00:00:00",
+      "spanEnd": "2022-05-21T00:00:00",
       "order": 9,
       "chapter": "P04",
       "items": [
@@ -15555,6 +15974,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年5月22日（日）〜2022年5月28日（土）",
+      "spanStart": "2022-05-22T00:00:00",
+      "spanEnd": "2022-05-28T00:00:00",
       "order": 10,
       "chapter": "P04",
       "items": [
@@ -15637,6 +16058,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年5月29日（日）〜2022年6月1日（水）",
+      "spanStart": "2022-05-29T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 11,
       "chapter": "P04",
       "items": [
@@ -15719,6 +16142,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年5月29日（日）〜2022年6月1日（水）",
+      "spanStart": "2022-05-29T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 12,
       "chapter": "P04",
       "items": [
@@ -15801,6 +16226,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年4月27日（水）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-04-27T00:00:00",
       "order": 3,
       "chapter": "P04",
       "items": [
@@ -15883,6 +16310,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 4,
       "chapter": "P04",
       "items": [
@@ -15965,6 +16394,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 5,
       "chapter": "P04",
       "items": [
@@ -16047,6 +16478,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年6月1日（水）",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 6,
       "chapter": "P04",
       "items": [
@@ -16129,6 +16562,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）発売　公式ファンブック　第4章",
+      "spanEventName": "公式ファンブック　第4章",
+      "spanStart": "2022-03-31T00:00:00",
       "order": 2147483647,
       "chapter": "P04",
       "items": [
@@ -16211,6 +16646,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月　ちゃお5月号ふろく",
+      "spanEventName": "ちゃお5月号ふろく",
+      "spanStart": "2022-04-01T00:00:00",
+      "spanEnd": "2022-04-30T00:00:00",
       "order": 2147483647,
       "chapter": "P04",
       "items": [
@@ -16293,6 +16731,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年5月　ちゃお・ぷっちぐみ6月号　スペシャルプリマジ",
+      "spanEventName": "ちゃお・ぷっちぐみ6月号　スペシャルプリマジ",
+      "spanStart": "2022-05-01T00:00:00",
+      "spanEnd": "2022-05-31T00:00:00",
       "order": 2147483647,
       "chapter": "P04",
       "items": [
@@ -16375,6 +16816,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月　マイキャラルームガッチャ 3月31日（木）～4月30日（土）",
+      "spanEventName": "マイキャラルームガッチャ",
+      "spanStart": "2022-03-31T00:00:00",
+      "spanEnd": "2022-04-30T00:00:00",
       "order": 2147483647,
       "chapter": "P04",
       "items": [
@@ -16457,6 +16901,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年5月　マイキャラルームガッチャ 5月1日（日）～6月1日（水）",
+      "spanEventName": "マイキャラルームガッチャ",
+      "spanStart": "2022-05-01T00:00:00",
+      "spanEnd": "2022-06-01T00:00:00",
       "order": 2147483647,
       "chapter": "P04",
       "items": [
@@ -16539,6 +16986,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月　ガチャ　ワッチャプリマジ！ミニカードチャーム",
+      "spanEventName": "ガチャ　ワッチャプリマジ！ミニカードチャーム",
+      "spanStart": "2022-04-01T00:00:00",
+      "spanEnd": "2022-04-30T00:00:00",
       "order": 2147483647,
       "chapter": "P04",
       "items": [
@@ -16621,6 +17071,7 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "鈴木杏奈「Chasing the dream」アニメ盤初回特典",
+      "spanEventName": "鈴木杏奈「Chasing the dream」アニメ盤初回特典",
       "order": 2147483647,
       "chapter": "P04",
       "items": [
@@ -16703,6 +17154,7 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "ワッチャプリマジ！Blu-rayBox1",
+      "spanEventName": "ワッチャプリマジ！Blu-rayBox1",
       "order": 2147483647,
       "chapter": "P04",
       "items": [
@@ -16785,6 +17237,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月　モーリーファンタジー・PALO　ゲットキャンペーン",
+      "spanEventName": "モーリーファンタジー・PALO　ゲットキャンペーン",
+      "spanStart": "2022-04-01T00:00:00",
+      "spanEnd": "2022-04-30T00:00:00",
       "order": 2147483647,
       "chapter": "P04",
       "items": [
@@ -16867,6 +17322,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年4月　ナムコ　ゲットチャンス",
+      "spanEventName": "ナムコ　ゲットチャンス",
+      "spanStart": "2022-04-01T00:00:00",
+      "spanEnd": "2022-04-30T00:00:00",
       "order": 2147483647,
       "chapter": "P04",
       "items": [
@@ -16949,6 +17407,7 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年3月31日（木）〜2022年6月1日（水）第4章フレンドポイント　1200ポイント",
+      "spanFriendPoint": 1200,
       "order": 2,
       "chapter": "P04",
       "items": [
@@ -16980,6 +17439,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年7月6日（水）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-07-06T00:00:00",
       "order": 1,
       "chapter": "P05",
       "items": [
@@ -17045,6 +17506,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年7月6日（水）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-07-06T00:00:00",
       "order": 2,
       "chapter": "P05",
       "items": [
@@ -17127,6 +17590,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年7月6日（水）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-07-06T00:00:00",
       "order": 3,
       "chapter": "P05",
       "items": [
@@ -17209,6 +17674,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年7月6日（水）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-07-06T00:00:00",
       "order": 4,
       "chapter": "P05",
       "items": [
@@ -17291,6 +17758,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年7月6日（水）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-07-06T00:00:00",
       "order": 5,
       "chapter": "P05",
       "items": [
@@ -17373,6 +17842,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年7月6日（水）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-07-06T00:00:00",
       "order": 6,
       "chapter": "P05",
       "items": [
@@ -17455,6 +17926,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年7月6日（水）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-07-06T00:00:00",
       "order": 7,
       "chapter": "P05",
       "items": [
@@ -17537,6 +18010,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年7月6日（水）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-07-06T00:00:00",
       "order": 8,
       "chapter": "P05",
       "items": [
@@ -17619,6 +18094,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年7月6日（水）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-07-06T00:00:00",
       "order": 9,
       "chapter": "P05",
       "items": [
@@ -17701,6 +18178,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年7月6日（水）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-07-06T00:00:00",
       "order": 10,
       "chapter": "P05",
       "items": [
@@ -17783,6 +18262,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年7月6日（水）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-07-06T00:00:00",
       "order": 11,
       "chapter": "P05",
       "items": [
@@ -17865,6 +18346,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年7月6日（水）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-07-06T00:00:00",
       "order": 12,
       "chapter": "P05",
       "items": [
@@ -17947,6 +18430,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年7月6日（水）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-07-06T00:00:00",
       "order": 13,
       "chapter": "P05",
       "items": [
@@ -18029,6 +18514,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年7月6日（水）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-07-06T00:00:00",
       "order": 14,
       "chapter": "P05",
       "items": [
@@ -18111,6 +18598,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年7月6日（水）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-07-06T00:00:00",
       "order": 15,
       "chapter": "P05",
       "items": [
@@ -18193,6 +18682,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年7月6日（水）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-07-06T00:00:00",
       "order": 16,
       "chapter": "P05",
       "items": [
@@ -18275,6 +18766,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月7日（木）〜2022年8月3日（水）",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 17,
       "chapter": "P05",
       "items": [
@@ -18340,6 +18833,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月7日（木）〜2022年8月3日（水）",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 18,
       "chapter": "P05",
       "items": [
@@ -18422,6 +18917,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月7日（木）〜2022年8月3日（水）",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 19,
       "chapter": "P05",
       "items": [
@@ -18504,6 +19001,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月7日（木）〜2022年8月3日（水）",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 20,
       "chapter": "P05",
       "items": [
@@ -18586,6 +19085,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月7日（木）〜2022年8月3日（水）",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 21,
       "chapter": "P05",
       "items": [
@@ -18668,6 +19169,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月7日（木）〜2022年8月3日（水）",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 22,
       "chapter": "P05",
       "items": [
@@ -18750,6 +19253,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月7日（木）〜2022年8月3日（水）",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 23,
       "chapter": "P05",
       "items": [
@@ -18832,6 +19337,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月7日（木）〜2022年8月3日（水）",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 24,
       "chapter": "P05",
       "items": [
@@ -18914,6 +19421,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月7日（木）〜2022年8月3日（水）",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 25,
       "chapter": "P05",
       "items": [
@@ -18996,6 +19505,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月7日（木）〜2022年8月3日（水）",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 26,
       "chapter": "P05",
       "items": [
@@ -19078,6 +19589,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月7日（木）〜2022年8月3日（水）",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 27,
       "chapter": "P05",
       "items": [
@@ -19160,6 +19673,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月7日（木）〜2022年8月3日（水）",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 28,
       "chapter": "P05",
       "items": [
@@ -19225,6 +19740,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月7日（木）〜2022年8月3日（水）",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 29,
       "chapter": "P05",
       "items": [
@@ -19307,6 +19824,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月7日（木）〜2022年8月3日（水）",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 30,
       "chapter": "P05",
       "items": [
@@ -19389,6 +19908,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月7日（木）〜2022年8月3日（水）",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 31,
       "chapter": "P05",
       "items": [
@@ -19471,6 +19992,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月7日（木）〜2022年8月3日（水）",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 32,
       "chapter": "P05",
       "items": [
@@ -19553,6 +20076,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月7日（木）〜2022年8月3日（水）",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 33,
       "chapter": "P05",
       "items": [
@@ -19618,6 +20143,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月7日（木）〜2022年8月3日（水）",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 34,
       "chapter": "P05",
       "items": [
@@ -19683,6 +20210,7 @@
       "isShow": true,
       "hasMainImage": false,
       "span": "第5章フレンドポイント　1200ポイント",
+      "spanFriendPoint": 1200,
       "order": 35,
       "chapter": "P05",
       "items": [
@@ -19714,6 +20242,7 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "第5章フレンドポイント　2500ポイント",
+      "spanFriendPoint": 2500,
       "order": 36,
       "chapter": "P05",
       "items": [
@@ -19796,6 +20325,7 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "第5章フレンドポイント　4000ポイント",
+      "spanFriendPoint": 4000,
       "order": 37,
       "chapter": "P05",
       "items": [
@@ -19878,6 +20408,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年6月4日（土）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-06-04T00:00:00",
       "order": 39,
       "chapter": "P05",
       "items": [
@@ -19960,6 +20492,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月5日（日）〜2022年6月11日（土）",
+      "spanStart": "2022-06-05T00:00:00",
+      "spanEnd": "2022-06-11T00:00:00",
       "order": 40,
       "chapter": "P05",
       "items": [
@@ -20042,6 +20576,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月12日（日）〜2022年6月18日（土）",
+      "spanStart": "2022-06-12T00:00:00",
+      "spanEnd": "2022-06-18T00:00:00",
       "order": 41,
       "chapter": "P05",
       "items": [
@@ -20124,6 +20660,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月19日（日）〜2022年6月25日（土）",
+      "spanStart": "2022-06-19T00:00:00",
+      "spanEnd": "2022-06-25T00:00:00",
       "order": 42,
       "chapter": "P05",
       "items": [
@@ -20206,6 +20744,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月26日（日）〜2022年7月2日（土）",
+      "spanStart": "2022-06-26T00:00:00",
+      "spanEnd": "2022-07-02T00:00:00",
       "order": 43,
       "chapter": "P05",
       "items": [
@@ -20288,6 +20828,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月3日（日）〜2022年7月9日（土）",
+      "spanStart": "2022-07-03T00:00:00",
+      "spanEnd": "2022-07-09T00:00:00",
       "order": 44,
       "chapter": "P05",
       "items": [
@@ -20370,6 +20912,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月10日（日）〜2022年7月16日（土）",
+      "spanStart": "2022-07-10T00:00:00",
+      "spanEnd": "2022-07-16T00:00:00",
       "order": 45,
       "chapter": "P05",
       "items": [
@@ -20452,6 +20996,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月17日（日）〜2022年7月23日（土）",
+      "spanStart": "2022-07-17T00:00:00",
+      "spanEnd": "2022-07-23T00:00:00",
       "order": 46,
       "chapter": "P05",
       "items": [
@@ -20534,6 +21080,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月24日（日）〜2022年7月30日（土）",
+      "spanStart": "2022-07-24T00:00:00",
+      "spanEnd": "2022-07-30T00:00:00",
       "order": 47,
       "chapter": "P05",
       "items": [
@@ -20616,6 +21164,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月31日（日）〜2022年8月3日（水）",
+      "spanStart": "2022-07-31T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 48,
       "chapter": "P05",
       "items": [
@@ -20681,6 +21231,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "フォーチュンスターオレンジチャンス 2022年6月2日（木）〜2022年7月6日（水）",
+      "spanEventName": "フォーチュンスターオレンジチャンス",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-07-06T00:00:00",
       "order": 49,
       "chapter": "P05",
       "items": [
@@ -20763,6 +21316,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年6月4日（土）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-06-04T00:00:00",
       "order": 38,
       "chapter": "P05",
       "items": [
@@ -20845,6 +21400,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年8月3日（土）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 50,
       "chapter": "P05",
       "items": [
@@ -20927,6 +21484,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）〜2022年8月3日（土）",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 51,
       "chapter": "P05",
       "items": [
@@ -21009,6 +21568,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月2日（木）発売 公式ファンブック 第5章",
+      "spanEventName": "公式ファンブック 第5章",
+      "spanStart": "2022-06-02T00:00:00",
       "order": 52,
       "chapter": "P05",
       "items": [
@@ -21091,6 +21652,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月　ワッチャプリマジ！コーデカード♪コレクショングミ vol.3",
+      "spanEventName": "ワッチャプリマジ！コーデカード♪コレクショングミ vol.3",
+      "spanStart": "2022-06-01T00:00:00",
+      "spanEnd": "2022-06-30T00:00:00",
       "order": 53,
       "chapter": "P05",
       "items": [
@@ -21173,6 +21737,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月　ワッチャプリマジ！コーデカード♪コレクショングミ vol.3",
+      "spanEventName": "ワッチャプリマジ！コーデカード♪コレクショングミ vol.3",
+      "spanStart": "2022-06-01T00:00:00",
+      "spanEnd": "2022-06-30T00:00:00",
       "order": 54,
       "chapter": "P05",
       "items": [
@@ -21221,6 +21788,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月　ワッチャプリマジ！コーデカード♪コレクショングミ vol.3",
+      "spanEventName": "ワッチャプリマジ！コーデカード♪コレクショングミ vol.3",
+      "spanStart": "2022-06-01T00:00:00",
+      "spanEnd": "2022-06-30T00:00:00",
       "order": 55,
       "chapter": "P05",
       "items": [
@@ -21303,6 +21873,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月　ワッチャプリマジ！コーデカード♪コレクショングミ vol.3",
+      "spanEventName": "ワッチャプリマジ！コーデカード♪コレクショングミ vol.3",
+      "spanStart": "2022-06-01T00:00:00",
+      "spanEnd": "2022-06-30T00:00:00",
       "order": 56,
       "chapter": "P05",
       "items": [
@@ -21368,6 +21941,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月　ワッチャプリマジ！コーデカード♪コレクショングミ vol.3",
+      "spanEventName": "ワッチャプリマジ！コーデカード♪コレクショングミ vol.3",
+      "spanStart": "2022-06-01T00:00:00",
+      "spanEnd": "2022-06-30T00:00:00",
       "order": 57,
       "chapter": "P05",
       "items": [
@@ -21399,6 +21975,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月　モーリーファンタジー・PALO　ゲットキャンペーン",
+      "spanEventName": "モーリーファンタジー・PALO　ゲットキャンペーン",
+      "spanStart": "2022-07-01T00:00:00",
+      "spanEnd": "2022-07-31T00:00:00",
       "order": 58,
       "chapter": "P05",
       "items": [
@@ -21481,6 +22060,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月　ナムコ　ゲットチャンス",
+      "spanEventName": "ナムコ　ゲットチャンス",
+      "spanStart": "2022-07-01T00:00:00",
+      "spanEnd": "2022-07-31T00:00:00",
       "order": 59,
       "chapter": "P05",
       "items": [
@@ -21563,6 +22145,7 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "JENNI loveコラボ",
+      "spanEventName": "JENNI loveコラボ",
       "order": 60,
       "chapter": "P05",
       "items": [
@@ -21645,6 +22228,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月　ちゃお・ぷっちぐみ8月号　スペシャルプリマジ",
+      "spanEventName": "ちゃお・ぷっちぐみ8月号　スペシャルプリマジ",
+      "spanStart": "2022-07-01T00:00:00",
+      "spanEnd": "2022-07-31T00:00:00",
       "order": 61,
       "chapter": "P05",
       "items": [
@@ -21727,6 +22313,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年6月　マイキャラルームガッチャ　6月2日（木）～6月30日（木）",
+      "spanEventName": "マイキャラルームガッチャ",
+      "spanStart": "2022-06-02T00:00:00",
+      "spanEnd": "2022-06-30T00:00:00",
       "order": 62,
       "chapter": "P05",
       "items": [
@@ -21809,6 +22398,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月　マイキャラルームガッチャ　7月1日（金）～8月3日（水）",
+      "spanEventName": "マイキャラルームガッチャ",
+      "spanStart": "2022-07-01T00:00:00",
+      "spanEnd": "2022-08-03T00:00:00",
       "order": 63,
       "chapter": "P05",
       "items": [
@@ -21891,6 +22483,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年7月　ウエルシアコラボ　2022年7月7日（木）～8月31日（水）",
+      "spanEventName": "ウエルシアコラボ",
+      "spanStart": "2022-07-07T00:00:00",
+      "spanEnd": "2022-08-31T00:00:00",
       "order": 64,
       "chapter": "P05",
       "items": [
@@ -21973,6 +22568,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日（木）～ 2022年8月24日（水）",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-08-24T00:00:00",
       "order": 1,
       "chapter": "P06",
       "items": [
@@ -22038,6 +22635,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日（木）～ 2022年8月24日（水）",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-08-24T00:00:00",
       "order": 2,
       "chapter": "P06",
       "items": [
@@ -22103,6 +22702,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月25日（木）～ 2022年9月14日（水）",
+      "spanStart": "2022-08-25T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 3,
       "chapter": "P06",
       "items": [
@@ -22168,6 +22769,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月25日（木）～ 2022年9月14日（水）",
+      "spanStart": "2022-08-25T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 4,
       "chapter": "P06",
       "items": [
@@ -22233,6 +22836,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月15日（木）～ 2022年10月5日（水）",
+      "spanStart": "2022-09-15T00:00:00",
+      "spanEnd": "2022-10-05T00:00:00",
       "order": 5,
       "chapter": "P06",
       "items": [
@@ -22298,6 +22903,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月15日（木）～ 2022年10月5日（水）",
+      "spanStart": "2022-09-15T00:00:00",
+      "spanEnd": "2022-10-05T00:00:00",
       "order": 6,
       "chapter": "P06",
       "items": [
@@ -22363,6 +22970,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年10月6日（木）～ 2022年11月1日（火）",
+      "spanStart": "2022-10-06T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 7,
       "chapter": "P06",
       "items": [
@@ -22428,6 +23037,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日（木）～ 2022年9月14日（水）",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 1,
       "chapter": "P06",
       "items": [
@@ -22493,6 +23104,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日（木）～ 2022年9月14日（水）",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 2,
       "chapter": "P06",
       "items": [
@@ -22575,6 +23188,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日（木）～ 2022年9月14日（水）",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 3,
       "chapter": "P06",
       "items": [
@@ -22640,6 +23255,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日（木）～ 2022年9月14日（水）",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 4,
       "chapter": "P06",
       "items": [
@@ -22722,6 +23339,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日（木）～ 2022年9月14日（水）",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 5,
       "chapter": "P06",
       "items": [
@@ -22804,6 +23423,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日（木）～ 2022年9月14日（水）",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 6,
       "chapter": "P06",
       "items": [
@@ -22869,6 +23490,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日（木）～ 2022年9月14日（水）",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 7,
       "chapter": "P06",
       "items": [
@@ -22951,6 +23574,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日（木）～ 2022年9月14日（水）",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 8,
       "chapter": "P06",
       "items": [
@@ -23033,6 +23658,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日（木）～ 2022年9月14日（水）",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 9,
       "chapter": "P06",
       "items": [
@@ -23115,6 +23742,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日（木）～ 2022年9月14日（水）",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 10,
       "chapter": "P06",
       "items": [
@@ -23197,6 +23826,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日（木）～ 2022年9月14日（水）",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 11,
       "chapter": "P06",
       "items": [
@@ -23279,6 +23910,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日（木）～ 2022年9月14日（水）",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 12,
       "chapter": "P06",
       "items": [
@@ -23361,6 +23994,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日（木）～ 2022年9月14日（水）",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 13,
       "chapter": "P06",
       "items": [
@@ -23443,6 +24078,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日（木）～ 2022年9月14日（水）",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 14,
       "chapter": "P06",
       "items": [
@@ -23525,6 +24162,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日（木）～ 2022年9月14日（水）",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 15,
       "chapter": "P06",
       "items": [
@@ -23607,6 +24246,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日（木）～ 2022年9月14日（水）",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 16,
       "chapter": "P06",
       "items": [
@@ -23689,6 +24330,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月15日（木）～ 2022年11月1日（火）",
+      "spanStart": "2022-09-15T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 1,
       "chapter": "P06",
       "items": [
@@ -23754,6 +24397,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月15日（木）～ 2022年11月1日（火）",
+      "spanStart": "2022-09-15T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 2,
       "chapter": "P06",
       "items": [
@@ -23836,6 +24481,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月15日（木）～ 2022年11月1日（火）",
+      "spanStart": "2022-09-15T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 3,
       "chapter": "P06",
       "items": [
@@ -23918,6 +24565,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月15日（木）～ 2022年11月1日（火）",
+      "spanStart": "2022-09-15T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 4,
       "chapter": "P06",
       "items": [
@@ -24000,6 +24649,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月15日（木）～ 2022年11月1日（火）",
+      "spanStart": "2022-09-15T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 5,
       "chapter": "P06",
       "items": [
@@ -24082,6 +24733,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月15日（木）～ 2022年11月1日（火）",
+      "spanStart": "2022-09-15T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 6,
       "chapter": "P06",
       "items": [
@@ -24164,6 +24817,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月15日（木）～ 2022年11月1日（火）",
+      "spanStart": "2022-09-15T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 7,
       "chapter": "P06",
       "items": [
@@ -24246,6 +24901,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月15日（木）～ 2022年11月1日（火）",
+      "spanStart": "2022-09-15T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 8,
       "chapter": "P06",
       "items": [
@@ -24328,6 +24985,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月15日（木）～ 2022年11月1日（火）",
+      "spanStart": "2022-09-15T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 9,
       "chapter": "P06",
       "items": [
@@ -24410,6 +25069,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月15日（木）～ 2022年11月1日（火）",
+      "spanStart": "2022-09-15T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 10,
       "chapter": "P06",
       "items": [
@@ -24492,6 +25153,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月15日（木）～ 2022年11月1日（火）",
+      "spanStart": "2022-09-15T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 11,
       "chapter": "P06",
       "items": [
@@ -24557,6 +25220,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月15日（木）～ 2022年11月1日（火）",
+      "spanStart": "2022-09-15T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 12,
       "chapter": "P06",
       "items": [
@@ -24639,6 +25304,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月15日（木）～ 2022年11月1日（火）",
+      "spanStart": "2022-09-15T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 13,
       "chapter": "P06",
       "items": [
@@ -24721,6 +25388,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月15日（木）～ 2022年11月1日（火）",
+      "spanStart": "2022-09-15T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 14,
       "chapter": "P06",
       "items": [
@@ -24803,6 +25472,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月15日（木）～ 2022年11月1日（火）",
+      "spanStart": "2022-09-15T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 15,
       "chapter": "P06",
       "items": [
@@ -24885,6 +25556,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日(木)～2022年8月31日(水) ",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-08-31T00:00:00",
       "order": 8,
       "chapter": "P06",
       "items": [
@@ -24950,6 +25623,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月29日（木）～2022年11月1日（火）",
+      "spanStart": "2022-09-29T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 9,
       "chapter": "P06",
       "items": [
@@ -25015,6 +25690,7 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "第6章フレンドポイント　1200ポイント",
+      "spanFriendPoint": 1200,
       "order": 10,
       "chapter": "P06",
       "items": [
@@ -25046,6 +25722,7 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "第6章フレンドポイント　 4000ポイント",
+      "spanFriendPoint": 4000,
       "order": 2,
       "chapter": "P06",
       "items": [
@@ -25128,6 +25805,7 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "第6章フレンドポイント　2500ポイント",
+      "spanFriendPoint": 2500,
       "order": 1,
       "chapter": "P06",
       "items": [
@@ -25210,6 +25888,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日(木)～2022年8月6日(土) ",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-08-06T00:00:00",
       "order": 1,
       "chapter": "P06",
       "items": [
@@ -25292,6 +25972,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日(木)～2022年8月6日(土) ",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-08-06T00:00:00",
       "order": 2,
       "chapter": "P06",
       "items": [
@@ -25374,6 +26056,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月7日(日)～2022年8月13日(土) ",
+      "spanStart": "2022-08-07T00:00:00",
+      "spanEnd": "2022-08-13T00:00:00",
       "order": 3,
       "chapter": "P06",
       "items": [
@@ -25456,6 +26140,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月14日(日)～2022年8月20日(土) ",
+      "spanStart": "2022-08-14T00:00:00",
+      "spanEnd": "2022-08-20T00:00:00",
       "order": 5,
       "chapter": "P06",
       "items": [
@@ -25538,6 +26224,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月21日(日)～2022年8月27日(土)",
+      "spanStart": "2022-08-21T00:00:00",
+      "spanEnd": "2022-08-27T00:00:00",
       "order": 7,
       "chapter": "P06",
       "items": [
@@ -25620,6 +26308,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月28日(日)～2022年9月3日(土) ",
+      "spanStart": "2022-08-28T00:00:00",
+      "spanEnd": "2022-09-03T00:00:00",
       "order": 9,
       "chapter": "P06",
       "items": [
@@ -25702,6 +26392,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月4日(日)～2022年9月10日(土) ",
+      "spanStart": "2022-09-04T00:00:00",
+      "spanEnd": "2022-09-10T00:00:00",
       "order": 10,
       "chapter": "P06",
       "items": [
@@ -25784,6 +26476,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月11日(日)～2022年9月17日(土) ",
+      "spanStart": "2022-09-11T00:00:00",
+      "spanEnd": "2022-09-17T00:00:00",
       "order": 11,
       "chapter": "P06",
       "items": [
@@ -25866,6 +26560,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月18日(日)～2022年9月24日(土) ",
+      "spanStart": "2022-09-18T00:00:00",
+      "spanEnd": "2022-09-24T00:00:00",
       "order": 12,
       "chapter": "P06",
       "items": [
@@ -25948,6 +26644,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月25日(日)～2022年10月1日(土) ",
+      "spanStart": "2022-09-25T00:00:00",
+      "spanEnd": "2022-10-01T00:00:00",
       "order": 13,
       "chapter": "P06",
       "items": [
@@ -26030,6 +26728,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年10月2日(日)～2022年10月8日(土) ",
+      "spanStart": "2022-10-02T00:00:00",
+      "spanEnd": "2022-10-08T00:00:00",
       "order": 14,
       "chapter": "P06",
       "items": [
@@ -26112,6 +26812,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日(木) 〜 2022年9月7日(水)",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-07T00:00:00",
       "order": 1,
       "chapter": "P06",
       "items": [
@@ -26194,6 +26896,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月29日(木) 〜2022年11月1日（火）",
+      "spanStart": "2022-09-29T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 2,
       "chapter": "P06",
       "items": [
@@ -26276,6 +26980,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月 モーリーファンタジー・PALO ゲットキャンペーン",
+      "spanEventName": "モーリーファンタジー・PALO ゲットキャンペーン",
+      "spanStart": "2022-09-01T00:00:00",
+      "spanEnd": "2022-09-30T00:00:00",
       "order": 1,
       "chapter": "P06",
       "items": [
@@ -26358,6 +27065,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月 ナムコ ゲットチャンス",
+      "spanEventName": "ナムコ ゲットチャンス",
+      "spanStart": "2022-09-01T00:00:00",
+      "spanEnd": "2022-09-30T00:00:00",
       "order": 2,
       "chapter": "P06",
       "items": [
@@ -26440,6 +27150,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日(木) 〜 2022年9月14日(水)",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 3,
       "chapter": "P06",
       "items": [
@@ -26522,6 +27234,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日(木) 〜 2022年9月14日(水)",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-09-14T00:00:00",
       "order": 5,
       "chapter": "P06",
       "items": [
@@ -26604,6 +27318,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月 マイキャラルームガッチャ 8月4日（木）～8月31日（水）",
+      "spanEventName": "マイキャラルームガッチャ",
+      "spanStart": "2022-08-04T00:00:00",
+      "spanEnd": "2022-08-31T00:00:00",
       "order": 3,
       "chapter": "P06",
       "items": [
@@ -26686,6 +27403,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月 マイキャラルームガッチャ 9月1日（木）～9月30日（金）",
+      "spanEventName": "マイキャラルームガッチャ",
+      "spanStart": "2022-09-01T00:00:00",
+      "spanEnd": "2022-09-30T00:00:00",
       "order": 4,
       "chapter": "P06",
       "items": [
@@ -26768,6 +27488,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月4日発売　公式ファンブック第6章",
+      "spanEventName": "公式ファンブック第6章",
+      "spanStart": "2022-08-04T00:00:00",
       "order": 5,
       "chapter": "P06",
       "items": [
@@ -26850,6 +27572,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月3日発売　ちゃお9月号ふろく",
+      "spanEventName": "ちゃお9月号ふろく",
+      "spanStart": "2022-08-03T00:00:00",
       "order": 6,
       "chapter": "P06",
       "items": [
@@ -26932,6 +27656,8 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年9月1日発売　ちゃお・ぷっちぐみ10月号　スペシャルプリマジ",
+      "spanEventName": "ちゃお・ぷっちぐみ10月号　スペシャルプリマジ",
+      "spanStart": "2022-09-01T00:00:00",
       "order": 7,
       "chapter": "P06",
       "items": [
@@ -27014,6 +27740,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年10月 マイキャラルームガッチャ 10月1日（土）〜11月1日（火）",
+      "spanEventName": "マイキャラルームガッチャ",
+      "spanStart": "2022-10-01T00:00:00",
+      "spanEnd": "2022-11-01T00:00:00",
       "order": 8,
       "chapter": "P06",
       "items": [
@@ -27096,6 +27825,7 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "鈴木杏奈「Magic×Color」アニメ盤初回特典",
+      "spanEventName": "鈴木杏奈「Magic×Color」アニメ盤初回特典",
       "order": 2147483647,
       "chapter": "P06",
       "items": [
@@ -27178,6 +27908,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月　ディッパーダンコラボ第2弾",
+      "spanEventName": "ディッパーダンコラボ第2弾",
+      "spanStart": "2022-08-01T00:00:00",
+      "spanEnd": "2022-08-31T00:00:00",
       "order": 9,
       "chapter": "P06",
       "items": [
@@ -27260,6 +27993,9 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "2022年8月　ディッパーダンコラボ第2弾",
+      "spanEventName": "ディッパーダンコラボ第2弾",
+      "spanStart": "2022-08-01T00:00:00",
+      "spanEnd": "2022-08-31T00:00:00",
       "order": 10,
       "chapter": "P06",
       "items": [
@@ -27342,6 +28078,7 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "マイキャラルーム お知らせボード",
+      "spanEventName": "マイキャラルーム お知らせボード",
       "order": 2147483647,
       "chapter": "P06",
       "items": [
@@ -27373,6 +28110,7 @@
       "isShow": true,
       "hasMainImage": true,
       "span": "ちゃおフェス2022",
+      "spanEventName": "ちゃおフェス2022",
       "order": 2147483647,
       "chapter": "P06",
       "items": [
@@ -27455,6 +28193,7 @@
       "isShow": true,
       "hasMainImage": false,
       "span": "2022年1月1日（土）～",
+      "spanStart": "2022-01-01T00:00:00",
       "order": 1,
       "chapter": "UNKNOWN",
       "items": [
@@ -27537,6 +28276,7 @@
       "isShow": true,
       "hasMainImage": false,
       "span": "2022年3月～",
+      "spanStart": "2022-03-01T00:00:00",
       "order": 2,
       "chapter": "UNKNOWN",
       "items": [
