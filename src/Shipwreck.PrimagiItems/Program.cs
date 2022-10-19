@@ -23,6 +23,7 @@ internal class Program
         "Cherry Sugar",
         "SHINING DIVA",
         "PrismStone",
+        "Princess Magic",
     };
 
     private static readonly string[] KNOWN_COLORS = new[] { "ちゃ", "あか", "ピンク", "オレンジ", "きいろ", "みどり", "みずいろ", "あお", "むらさき", "くろ", "しろ", "シルバー", "ゴールド", };
@@ -169,10 +170,10 @@ internal class Program
             ("色", e => getValue(colors, e.Color)),
             ("テイスト", e => getValue(subcategories, e.SubCategory)),
             ("ワッチャ", e => e.Watcha),
-            ("画像", e => $"https://cdn.primagi.jp/assets/images/item/{e.Chapter}/{e.Id}.png"),
+            ("画像", e => $"https://cdn.primagi.jp/assets/images/item/{e.Chapter ?? e.ChapterName}/{e.Id}.png"),
         };
 
-        foreach (var cg in items.GroupBy(e => e.Chapter))
+        foreach (var cg in items.GroupBy(e => e.ChapterName ?? e.Chapter))
         {
             using var sw = new StreamWriter(new FileStream(Path.Combine(di.FullName, cg.Key + ".md"), FileMode.Create), Encoding.UTF8, 4096);
 
@@ -263,7 +264,7 @@ internal class Program
                 DirectoryNumber = cg.Key.directoryNumber ?? int.MaxValue,
 
                 Name = gf.CoordinationName,
-                ChapterId = gf.Chapter,
+                ChapterId = gf.ChapterName ?? gf.Chapter,
                 IsShow = gf.isShow,
                 HasMainImage = gf.hasMainImage,
                 Kinds = gf.kinds,

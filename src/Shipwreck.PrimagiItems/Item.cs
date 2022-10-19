@@ -25,4 +25,5 @@ class Item
     public bool isShowItem { get; set; }
     public int? order { get; set; }
     public string? Chapter { get; set; }
+    public string? ChapterName { get; set; }
 }
