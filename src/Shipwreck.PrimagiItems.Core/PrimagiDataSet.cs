@@ -1,5 +1,5 @@
-﻿using Newtonsoft.Json;
-using System.Text;
+﻿using System.Text;
+using Newtonsoft.Json;
 
 namespace Shipwreck.PrimagiItems;
 
@@ -180,6 +180,63 @@ public sealed class PrimagiDataSet
     }
 
     #endregion Coordinations
+
+    #region PartCategories
+
+    private KeyedCollection<int, PartCategory>? _PartCategories;
+
+    public IList<PartCategory> PartCategories
+    {
+        get => this.GetOrCreate(ref _PartCategories);
+        set => this.Set(ref _PartCategories, value);
+    }
+
+    internal PartCategory? GetPartCategory(int id)
+        => _PartCategories != null
+        && _PartCategories.TryGetValue(id, out var g) ? g : null;
+
+    #endregion PartCategories
+
+    #region PartGetTypes
+
+    private KeyedCollection<int, PartGetType>? _PartGetTypes;
+
+    public IList<PartGetType> PartGetTypes
+    {
+        get => this.GetOrCreate(ref _PartGetTypes);
+        set => this.Set(ref _PartGetTypes, value);
+    }
+
+    internal PartGetType? GetPartGetType(int id)
+        => _PartGetTypes != null
+        && _PartGetTypes.TryGetValue(id, out var g) ? g : null;
+
+    #endregion PartGetTypes
+
+    #region Parts
+
+    private PartCollection? _Parts;
+
+    public IList<Part> Parts
+    {
+        get => _Parts ??= new(this);
+        set
+        {
+            if (value != _Parts)
+            {
+                _Parts?.Clear();
+                if (value != null)
+                {
+                    foreach (var e in value)
+                    {
+                        Parts.Add(e);
+                    }
+                }
+            }
+        }
+    }
+
+    #endregion Parts
 
     public static PrimagiDataSet Parse(Stream stream)
     {
