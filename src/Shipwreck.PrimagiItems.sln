@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32210.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E86E468D-A76B-4308-97FF-9B43627EDE8A}"
 	ProjectSection(SolutionItems) = preProject
+		..\.editorconfig = ..\.editorconfig
 		..\output\2P01.md = ..\output\2P01.md
+		Directory.build.props = Directory.build.props
 		..\output\items.csv = ..\output\items.csv
 		..\output\items.json = ..\output\items.json
 		..\output\items.raw.json = ..\output\items.raw.json
@@ -37,6 +39,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipwreck.PrimagiItems.Brow
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipwreck.PrimagiItems.Tests", "Shipwreck.PrimagiItems.Tests\Shipwreck.PrimagiItems.Tests.csproj", "{622D9FE4-EDD6-4125-85D6-48CCD45FEB99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shipwreck.PrimagiItems.Accessor", "Shipwreck.PrimagiItems.Accessor\Shipwreck.PrimagiItems.Accessor.csproj", "{ED667880-B16E-4AB2-A329-FA9A3E092D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shipwreck.PrimagiItems.Accessor.Tests", "Shipwreck.PrimagiItems.Accessor.Tests\Shipwreck.PrimagiItems.Accessor.Tests.csproj", "{4BCF672E-5388-4A05-9438-860BC242DE49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +73,14 @@ Global
 		{622D9FE4-EDD6-4125-85D6-48CCD45FEB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{622D9FE4-EDD6-4125-85D6-48CCD45FEB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{622D9FE4-EDD6-4125-85D6-48CCD45FEB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED667880-B16E-4AB2-A329-FA9A3E092D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED667880-B16E-4AB2-A329-FA9A3E092D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED667880-B16E-4AB2-A329-FA9A3E092D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED667880-B16E-4AB2-A329-FA9A3E092D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BCF672E-5388-4A05-9438-860BC242DE49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BCF672E-5388-4A05-9438-860BC242DE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BCF672E-5388-4A05-9438-860BC242DE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BCF672E-5388-4A05-9438-860BC242DE49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

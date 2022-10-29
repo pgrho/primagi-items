@@ -1,12 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-	<PropertyGroup>
-		<TargetFramework>net6.0</TargetFramework>
-		<ImplicitUsings>enable</ImplicitUsings>
-		<Nullable>enable</Nullable>
-		<RootNamespace>Shipwreck.PrimagiItems</RootNamespace>
-	</PropertyGroup>
-	<ItemGroup>
-		<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
-	</ItemGroup>
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net6.0</TargetFrameworks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Shipwreck.PrimagiItems</RootNamespace>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
 </Project>

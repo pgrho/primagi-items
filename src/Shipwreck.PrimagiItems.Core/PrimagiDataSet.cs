@@ -1,4 +1,4 @@
-﻿using System.Text;
+using System.Text;
 using Newtonsoft.Json;
 
 namespace Shipwreck.PrimagiItems;
@@ -240,7 +240,7 @@ public sealed class PrimagiDataSet
 
     public static PrimagiDataSet Parse(Stream stream)
     {
-        using (var sr = new StreamReader(stream, Encoding.UTF8, leaveOpen: true))
+        using (var sr = new StreamReader(stream, Encoding.UTF8, false, -1, true))
         {
             return Parse(sr);
         }
@@ -254,7 +254,7 @@ public sealed class PrimagiDataSet
 
     public static Task<PrimagiDataSet> ParseAsync(Stream stream, CancellationToken cancellationToken = default)
     {
-        using (var sr = new StreamReader(stream, Encoding.UTF8, leaveOpen: true))
+        using (var sr = new StreamReader(stream, Encoding.UTF8, false, -1, true))
         {
             return ParseAsync(sr, cancellationToken);
         }

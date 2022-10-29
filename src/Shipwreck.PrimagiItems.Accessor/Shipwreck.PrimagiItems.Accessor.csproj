@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<RootNamespace>Shipwreck.PrimagiItems</RootNamespace>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="LibGit2Sharp" Version="0.26.2" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Shipwreck.PrimagiItems.Core\Shipwreck.PrimagiItems.Core.csproj" />
+	</ItemGroup>
+
+</Project>
