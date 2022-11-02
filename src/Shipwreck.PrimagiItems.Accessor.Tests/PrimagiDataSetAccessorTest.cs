@@ -5,11 +5,11 @@ namespace Shipwreck.PrimagiItems;
 public class PrimagiDataSetAccessorTest
 {
     [Fact]
-    public void InitializeTest()
+    public void GetItemFileNameTest()
     {
         var dir = new DirectoryInfo(GetRepositoryDirectory());
         var repPath = Path.Combine(dir.FullName, "primagi-items");
-        var jsonPath = Path.Combine(repPath, "output", "items.json");
+        string? jsonPath = null;
 
         if (dir.Exists)
         {
@@ -20,7 +20,7 @@ public class PrimagiDataSetAccessorTest
         {
             using (var ac = new PrimagiDataSetAccessor(dir.FullName))
             {
-                ac.Initialize();
+                jsonPath = ac.GetItemFileName();
             }
 
             Assert.True(File.Exists(jsonPath));
@@ -29,7 +29,7 @@ public class PrimagiDataSetAccessorTest
         // 新規作成
         assert();
 
-        File.Delete(jsonPath);
+        File.Delete(jsonPath!);
 
         // リセット
         assert();

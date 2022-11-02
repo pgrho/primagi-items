@@ -12,10 +12,10 @@ public sealed class PrimagiDataSetAccessor : IDisposable
         _Directory = new DirectoryInfo(Path.Combine(directoryPath, "primagi-items"));
     }
 
-    public Task InitializeAsync(CancellationToken cancellationToken = default)
-        => Task.Run(Initialize, cancellationToken);
+    public Task<string> GetItemFileNameAsync(CancellationToken cancellationToken = default)
+        => Task.Run(GetItemFileName, cancellationToken);
 
-    public void Initialize()
+    public string GetItemFileName()
     {
         if (_Directory.Exists)
         {
@@ -33,7 +33,8 @@ public sealed class PrimagiDataSetAccessor : IDisposable
                         master = Commands.Checkout(repo, master);
 
                         Commands.Pull(repo, new Signature("p", "u", DateTimeOffset.Now), new PullOptions());
-                        return;
+
+                        return Path.Combine(_Directory.FullName, "output", "items.json");
                     }
                 }
             }
@@ -49,6 +50,8 @@ public sealed class PrimagiDataSetAccessor : IDisposable
             Repository.Clone(URL, _Directory.FullName);
             _Directory.Refresh();
         }
+
+        return Path.Combine(_Directory.FullName, "output", "items.json");
     }
 
     void IDisposable.Dispose()
