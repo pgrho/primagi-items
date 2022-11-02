@@ -46,10 +46,10 @@ public sealed class PrimagiDataSetAccessor : IDisposable
         if (!pd.Exists)
         {
             pd.Create();
-
-            Repository.Clone(URL, _Directory.FullName);
-            _Directory.Refresh();
         }
+
+        Repository.Clone(URL, _Directory.FullName);
+        _Directory.Refresh();
 
         return Path.Combine(_Directory.FullName, "output", "items.json");
     }
