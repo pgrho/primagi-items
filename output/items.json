@@ -30564,6 +30564,38 @@
     },
     {
       "collection": 14,
+      "name": "プリマジスタジオTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 47,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "プリマジスタジオライブ2022年12月\n期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。\n※該当アイテム以外は期間によりスタジオ第1章・第2章のコーデがラインナップされています",
+      "spanEventName": "プリマジスタジオライブ2022年12月\n期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。\n※該当アイテム以外は期間によりスタジオ第1章・第2章のコーデがラインナップされています",
+      "order": 2147483647,
+      "chapter": "2P01",
+      "items": [
+        {
+          "id": 1239,
+          "modelName": "SPCW10568_T01A",
+          "sealId": "PM2-1-262",
+          "name": "プリマジスタジオTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 8,
+          "color": 8,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 9,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1239.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 14,
       "name": "リトルプリンセスパープル",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 57,
@@ -30646,6 +30678,38 @@
         }
       ],
       "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/img_codination_57_main.jpg"
+    },
+    {
+      "collection": 14,
+      "name": "みゃむ&チムムTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 58,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "Tシャツショップ どっちでSHOWに投票する（11月6日～11月11日）",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する（11月6日～11月11日）",
+      "order": 14,
+      "chapter": "2P01",
+      "items": [
+        {
+          "id": 1253,
+          "modelName": "SPCW10594_T01A",
+          "sealId": "PM2-1-152",
+          "name": "みゃむ&チムムTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 8,
+          "color": 7,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 19,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1253.png"
+        }
+      ],
+      "imageUrl": null
     },
     {
       "collection": 14,
@@ -30815,6 +30879,38 @@
     },
     {
       "collection": 14,
+      "name": "すしVSピザTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 61,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "Tシャツショップ どっちでSHOWに投票する（11月13日～11月18日）",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する（11月13日～11月18日）",
+      "order": 15,
+      "chapter": "2P01",
+      "items": [
+        {
+          "id": 1262,
+          "modelName": "SPCW10595_T01A",
+          "sealId": "PM2-1-161",
+          "name": "すしVSピザTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 8,
+          "color": 8,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 14,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1262.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 14,
       "name": "わんぱくにぎりずし",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 62,
@@ -30944,6 +31040,38 @@
         }
       ],
       "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/img_codination_63_main.jpg"
+    },
+    {
+      "collection": 14,
+      "name": "まつりVSひなTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 64,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "Tシャツショップ どっちでSHOWに投票する（11月20日～11月25日）",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する（11月20日～11月25日）",
+      "order": 16,
+      "chapter": "2P01",
+      "items": [
+        {
+          "id": 1269,
+          "modelName": "SPCW10596_T01A",
+          "sealId": "PM2-1-168",
+          "name": "まつりVSひなTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 8,
+          "color": 11,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 18,
+          "isShowItem": false,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1269.png"
+        }
+      ],
+      "imageUrl": null
     },
     {
       "collection": 14,
@@ -31179,6 +31307,134 @@
     },
     {
       "collection": 14,
+      "name": "ハッピーセーラースカイベリーTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 68,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "Tシャツショップ どっちでSHOWに投票する（11月27日～12月2日）",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する（11月27日～12月2日）",
+      "order": 17,
+      "chapter": "2P01",
+      "items": [
+        {
+          "id": 1281,
+          "modelName": "SPCW10606_T01A",
+          "sealId": "PM2-1-177",
+          "name": "ハッピーセーラースカイベリーTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 6,
+          "color": 3,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 14,
+          "isShowItem": false,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1281.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 14,
+      "name": "レースアップギンガムTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 69,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "Tシャツショップ どっちでSHOWに投票する（12月4日～12月9日）",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する（12月4日～12月9日）",
+      "order": 18,
+      "chapter": "2P01",
+      "items": [
+        {
+          "id": 1282,
+          "modelName": "SPCW10643_T01A",
+          "sealId": "PM2-1-181",
+          "name": "レースアップギンガムTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 8,
+          "color": 9,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 5,
+          "isShowItem": false,
+          "icon": 12,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1282.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 14,
+      "name": "ハッピー&ラッキーコーデメイツTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 70,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "Tシャツショップ\n「ハッピーラッキーコーデメイツ！ワッチャをあつめてだいかいほう」に参加する",
+      "spanEventName": "Tシャツショップ\n「ハッピーラッキーコーデメイツ！ワッチャをあつめてだいかいほう」に参加する",
+      "order": 19,
+      "chapter": "2P01",
+      "items": [
+        {
+          "id": 1283,
+          "modelName": "SPCW10607_T01A",
+          "sealId": "PM2-1-268",
+          "name": "ハッピー&ラッキーコーデメイツTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 8,
+          "color": 11,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 4,
+          "isShowItem": false,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1283.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 14,
+      "name": "サンタVSトナカイTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 72,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "Tシャツショップ どっちでSHOWに投票する（12月11日～12月16日）",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する（12月11日～12月16日）",
+      "order": 20,
+      "chapter": "2P01",
+      "items": [
+        {
+          "id": 1291,
+          "modelName": "SPCW10597_T01A",
+          "sealId": "PM2-1-182",
+          "name": "サンタVSトナカイTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 8,
+          "color": 6,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 9,
+          "isShowItem": false,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1291.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 14,
       "name": "あったかニットサンタ",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 73,
@@ -31308,6 +31564,70 @@
         }
       ],
       "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/img_codination_74_main.jpg"
+    },
+    {
+      "collection": 14,
+      "name": "プリマジスタジオロゴTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 94,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "プリマジスタジオライブ2022年12月\n期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。\n※該当アイテム以外は期間によりスタジオ第1章・第2章のコーデがラインナップされています",
+      "spanEventName": "プリマジスタジオライブ2022年12月\n期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。\n※該当アイテム以外は期間によりスタジオ第1章・第2章のコーデがラインナップされています",
+      "order": 2147483647,
+      "chapter": "2P01",
+      "items": [
+        {
+          "id": 1351,
+          "modelName": "SPCW10641_T01A",
+          "sealId": "PM2-1-263",
+          "name": "プリマジスタジオロゴTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 8,
+          "color": 11,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 13,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1351.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 14,
+      "name": "マジアピショータイムTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 95,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "プリマジスタジオライブ2022年12月\n期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。\n※該当アイテム以外は期間によりスタジオ第1章・第2章のコーデがラインナップされています",
+      "spanEventName": "プリマジスタジオライブ2022年12月\n期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。\n※該当アイテム以外は期間によりスタジオ第1章・第2章のコーデがラインナップされています",
+      "order": 2147483647,
+      "chapter": "2P01",
+      "items": [
+        {
+          "id": 1352,
+          "modelName": "SPCW10637_T01A",
+          "sealId": "PM2-1-264",
+          "name": "マジアピショータイムTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 8,
+          "color": 11,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 9,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1352.png"
+        }
+      ],
+      "imageUrl": null
     },
     {
       "collection": 11,
@@ -32193,7 +32513,7 @@
       "hasMainImage": false,
       "span": "プレミアムプラン 2022年11月",
       "spanEventName": "プレミアムプラン 2022年11月",
-      "order": 2147483647,
+      "order": 1,
       "chapter": "2P01",
       "items": [
         {
@@ -32225,7 +32545,7 @@
       "hasMainImage": false,
       "span": "プレミアムプラン 11月お誕生日",
       "spanEventName": "プレミアムプラン 11月お誕生日",
-      "order": 2147483647,
+      "order": 2,
       "chapter": "2P01",
       "items": [
         {
@@ -32257,7 +32577,7 @@
       "hasMainImage": false,
       "span": "プレミアムプラン 2022年12月",
       "spanEventName": "プレミアムプラン 2022年12月",
-      "order": 2147483647,
+      "order": 3,
       "chapter": "2P01",
       "items": [
         {
@@ -32289,7 +32609,7 @@
       "hasMainImage": false,
       "span": "プレミアムプラン 12月お誕生日",
       "spanEventName": "プレミアムプラン 12月お誕生日",
-      "order": 2147483647,
+      "order": 4,
       "chapter": "2P01",
       "items": [
         {
@@ -32399,6 +32719,38 @@
     },
     {
       "collection": 14,
+      "name": "レインボーハートTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 126,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "JENNI loveコラボ　無料体験コード",
+      "spanEventName": "JENNI loveコラボ　無料体験コード",
+      "order": 5,
+      "chapter": "2P01",
+      "items": [
+        {
+          "id": 20444,
+          "modelName": "SPCW10644_T01A",
+          "sealId": "T-010",
+          "name": "レインボーハートTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 8,
+          "color": 3,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 5,
+          "isShowItem": true,
+          "icon": 12,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/20444.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 14,
       "name": "プリズムストーンとうきょうTシャツ",
       "kinds": "Tシャツ",
       "directoryNumber": 127,
@@ -32406,7 +32758,7 @@
       "hasMainImage": false,
       "span": "プリズムストーンショップ店舗",
       "spanEventName": "プリズムストーンショップ店舗",
-      "order": 2147483647,
+      "order": 6,
       "chapter": "2P01",
       "items": [
         {
@@ -32438,7 +32790,7 @@
       "hasMainImage": false,
       "span": "プリズムストーンショップ店舗",
       "spanEventName": "プリズムストーンショップ店舗",
-      "order": 2147483647,
+      "order": 7,
       "chapter": "2P01",
       "items": [
         {
@@ -32470,7 +32822,7 @@
       "hasMainImage": false,
       "span": "プリズムストーンショップ店舗",
       "spanEventName": "プリズムストーンショップ店舗",
-      "order": 2147483647,
+      "order": 8,
       "chapter": "2P01",
       "items": [
         {
@@ -32502,7 +32854,7 @@
       "hasMainImage": false,
       "span": "プリズムストーンショップ店舗",
       "spanEventName": "プリズムストーンショップ店舗",
-      "order": 2147483647,
+      "order": 9,
       "chapter": "2P01",
       "items": [
         {
@@ -32534,7 +32886,7 @@
       "hasMainImage": false,
       "span": "プリズムストーンショップ店舗",
       "spanEventName": "プリズムストーンショップ店舗",
-      "order": 2147483647,
+      "order": 10,
       "chapter": "2P01",
       "items": [
         {
@@ -32566,7 +32918,7 @@
       "hasMainImage": false,
       "span": "プリズムストーンショップ店舗",
       "spanEventName": "プリズムストーンショップ店舗",
-      "order": 2147483647,
+      "order": 11,
       "chapter": "2P01",
       "items": [
         {
@@ -32598,7 +32950,7 @@
       "hasMainImage": false,
       "span": "プリズムストーンショップ店舗",
       "spanEventName": "プリズムストーンショップ店舗",
-      "order": 2147483647,
+      "order": 12,
       "chapter": "2P01",
       "items": [
         {
@@ -32630,7 +32982,7 @@
       "hasMainImage": false,
       "span": "プリズムストーンショップ店舗",
       "spanEventName": "プリズムストーンショップ店舗",
-      "order": 2147483647,
+      "order": 13,
       "chapter": "2P01",
       "items": [
         {
