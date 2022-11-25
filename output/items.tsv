@@ -1445,7 +1445,7 @@
 1266	たっぷりチーズピザ	SPCW10542_D01A	3	2	5	2	1000	2	6	PM2-1-165	14	0	0	めちゃマジ注目スペシャルコーデ	63	False	True	こんしゅうのみんなでどっちでSHOW！11月13日～11月18日 おなかすいたー！たべたいのはどっち？ 	True			R	カジュアル	トップス	PrismStone	しろ	ハート
 1267	たっぷりチーズピザ	SPCW10542_P01A	3	2	5	2	450	4	14	PM2-1-166	14	0	0		63	False	True		True			R	カジュアル	トップス	PrismStone	みどり	クール
 1268	たっぷりチーズピザ	SPCW10542_I01A	3	2	5	2	450	5	16	PM2-1-167	14	0	0		63	False	True		True			R	ライブ	ワンピ	LOVELY MELODY	あか	キュート
-1269	まつりVSひなTシャツ	SPCW10596_T01A	1	8	11	1	400	1	18	PM2-1-168	14	0	0	Tシャツ	64	True	False	Tシャツショップ どっちでSHOWに投票する（11月20日～11月25日）	False	16		R	ライブ	シューズ	LOVELY MELODY	ちゃ	ガーリー
+1269	まつりVSひなTシャツ	SPCW10596_T01A	1	8	11	1	400	1	18	PM2-1-168	14	0	0	Tシャツ	64	True	False	Tシャツショップ どっちでSHOWに投票する（11月20日～11月25日）	True	16		R	ライブ	シューズ	LOVELY MELODY	ちゃ	ガーリー
 1270	おとめハートバルーン	SPCW10577_T01A	3	1	3	2	500	1	4	PM2-1-169	14	0	0	めちゃマジ注目スペシャルコーデ	65	False	True	こんしゅうのみんなでどっちでSHOW！11月20日～11月25日 まつり？ひな？いっしょにプリマジしたいのはどっち？	True			R	ライブ	アクセ	LOVELY MELODY	あか	リボン
 1271	おとめハートバルーン	SPCW10577_B01A	3	1	3	2	500	3	8	PM2-1-170	14	0	0		65	False	True		True			R	ライブ	ワンピ	LOVELY MELODY	ちゃ	ラブリー
 1272	おとめハートバルーン	SPCW10577_P01A	3	1	11	2	450	4	5	PM2-1-171	14	0	0		65	False	True		True			R	ライブ	シューズ	LOVELY MELODY	ちゃ	ポップ
@@ -1497,20 +1497,28 @@
 20373	タテロゴロングブーツブラウン	SPCW10631_P01A	1	1	1	1	350	4	18	P-294	14	0	12		106	False	False		True			R	カジュアル	シューズ	Princess Magic	ピンク	ベーシック
 20374	フェイクファーベレーホワイト	SPCW10631_I01A	1	1	11	1	350	5	6	P-295	14	0	12		106	False	False		True			R	カジュアル	アクセ	Princess Magic	ピンク	ハート
 20375	チェリーキルティングセットアップブラック	SPCW10632_D01A	1	1	10	1	800	2	9	P-296	14	0	12	めちゃマジ注目スペシャルコーデ	107	False	True	こんしゅうのみんなでどっちでSHOW！ 12月4日～12月9日 JENNI loveコーデでおでかけ！ほしいのはどっち？	True			R	カジュアル	ワンピ	LOVELY MELODY	ちゃ	チェック
-20377	タテロゴロングブーツブラック	SPCW10632_P01A	1	1	10	1	350	4	12	P-297	14	0	12		107	False	False		True			R	カジュアル	トップス	Cherry Sugar	しろ	ハート
-20378	フェイクファーベレーブラウン	SPCW10632_I01A	1	1	1	1	350	5	19	P-298	14	0	12		107	False	False		True			R	カジュアル	トップス	PrismStone	オレンジ	スイーツ
-20379	PMグミアニバーサリーグレープ	SPCW10505_T01A	3	5	9	2	500	1	12	C-043	15	0	0	プロモ	108	True	True	2022年11月　プリマジコーデカードコレクショングミvol.4	True			R	カジュアル	トップス	VIVID STAR	しろ	ダンス
-20380	PMグミアニバーサリーグレープ	SPCW10505_B01A	3	5	9	2	500	3	17	C-044	15	0	0		108	True	True		True			R	カジュアル	トップス	PrismStone	みどり	ポップ
-20381	PMグミアニバーサリーグレープ	SPCW10505_P01A	3	5	11	2	450	4	8	C-045	15	0	0		108	True	True		True			SR	カジュアル	トップス	Radiant Abyss	むらさき	リボン
-20382	PMグミアニバーサリーグレープ	SPCW10505_I01A	3	5	9	2	450	5	6	C-046	15	0	0		108	True	True		True			SR	カジュアル	ボトムス	Radiant Abyss	むらさき	ゴシック
-20383	PMグミアニバーサリーいちご	SPCW10508_T01A	3	5	3	2	500	1	14	C-047	15	0	0	プロモ	109	True	True	2022年11月　プリマジコーデカードコレクショングミvol.4	False			SR	カジュアル	シューズ	Radiant Abyss	むらさき	ガーリー
-20384	PMグミアニバーサリーいちご	SPCW10508_B01A	3	5	3	2	500	3	13	C-048	15	0	0		109	True	True		False			SR	カジュアル	アクセ	Radiant Abyss	むらさき	ジュエル
-20385	ジュエリーサテンホワイト	SPCW10559_T01A	3	7	11	2	500	1	11	C-049	15	0	0	プロモ	110	True	True	2022年11月　プリマジコーデカードコレクショングミvol.4	True			R	カジュアル	トップス	PrismStone	ピンク	ガーリー
-20386	ジュエリーサテンホワイト	SPCW10559_B01A	3	7	11	2	500	3	20	C-050	15	0	0		110	True	True		True			R	カジュアル	トップス	PrismStone	くろ	ダンス
-20387	ジュエリーサテンホワイト	SPCW10559_P01A	3	7	11	2	450	4	15	C-051	15	0	0		110	True	True		True			R	カジュアル	トップス	PrismStone	ピンク	ラブリー
-20388	ジュエリーサテンホワイト	SPCW10559_I01A	3	7	11	2	450	5	9	C-052	15	0	0		110	True	True		True			R	カジュアル	トップス	PrismStone	みずいろ	ポップ
-20389	ワンダーランドピンク	SPCW10509_T01A	1	9	11	1	400	1	16	C-053	15	0	0	プロモ	111	True	True	2022年11月　プリマジコーデカードコレクショングミvol.4	True			R	カジュアル	トップス	PrismStone	あお	スポーツ
-20390	ワンダーランドピンク	SPCW10509_B01A	1	9	11	1	400	3	8	C-054	15	0	0		111	True	True		True			R	カジュアル	トップス	PrismStone	あか	ベーシック
-20391	ワンダーランドピンク	SPCW10509_P01A	1	9	3	1	350	4	18	C-055	15	0	0		111	True	True		True			R	カジュアル	トップス	PrismStone	きいろ	ポップ
-20392	ワンダーランドピンク	SPCW10509_I01A	1	9	3	1	350	5	4	C-056	15	0	0		111	True	True		True			R	カジュアル	トップス	PrismStone	ちゃ	ガーリー
-20393	ガーリーニットブラウン	SPCW10535_D01A	1	1	1	1	800	2	7	C-057	15	0	0	プロモ	112	True	True	2022年11月　プリマジコーデカードコレクショングミvol.4	True			R	カジュアル	トップス	PrismStone	オレンジ	キュート
+20377	タテロゴロングブーツブラック	SPCW10632_P01A	1	1	10	1	350	4	12	P-297	14	0	12		107	False	False		True			SR	ライブ	ワンピ	LOVELY MELODY	あお	リボン
+20378	フェイクファーベレーブラウン	SPCW10632_I01A	1	1	1	1	350	5	19	P-298	14	0	12		107	False	False		True			SR	ライブ	シューズ	LOVELY MELODY	ちゃ	ガーリー
+20379	PMグミアニバーサリーグレープ	SPCW10505_T01A	3	5	9	2	500	1	12	C-043	15	0	0	プロモ	108	True	True	2022年11月　プリマジコーデカードコレクショングミvol.4	True			SR	ライブ	アクセ	LOVELY MELODY	きいろ	ラブリー
+20380	PMグミアニバーサリーグレープ	SPCW10505_B01A	3	5	9	2	500	3	17	C-044	15	0	0		108	True	True		True			UR	ライブ	トップス	Princess Magic	むらさき	ミステリアス
+20381	PMグミアニバーサリーグレープ	SPCW10505_P01A	3	5	11	2	450	4	8	C-045	15	0	0		108	True	True		True			UR	ライブ	ボトムス	Princess Magic	むらさき	エレガント
+20382	PMグミアニバーサリーグレープ	SPCW10505_I01A	3	5	9	2	450	5	6	C-046	15	0	0		108	True	True		True			UR	ライブ	シューズ	Princess Magic	むらさき	クール
+20383	PMグミアニバーサリーいちご	SPCW10508_T01A	3	5	3	2	500	1	14	C-047	15	0	0	プロモ	109	True	True	2022年11月　プリマジコーデカードコレクショングミvol.4	False			UR	ライブ	アクセ	Princess Magic	むらさき	アニマル
+20384	PMグミアニバーサリーいちご	SPCW10508_B01A	3	5	3	2	500	3	13	C-048	15	0	0		109	True	True		False			R	カジュアル	トップス	Cherry Sugar	しろ	ハート
+20385	ジュエリーサテンホワイト	SPCW10559_T01A	3	7	11	2	500	1	11	C-049	15	0	0	プロモ	110	True	True	2022年11月　プリマジコーデカードコレクショングミvol.4	True			R	カジュアル	トップス	PrismStone	オレンジ	スイーツ
+20386	ジュエリーサテンホワイト	SPCW10559_B01A	3	7	11	2	500	3	20	C-050	15	0	0		110	True	True		True			R	カジュアル	トップス	VIVID STAR	しろ	ダンス
+20387	ジュエリーサテンホワイト	SPCW10559_P01A	3	7	11	2	450	4	15	C-051	15	0	0		110	True	True		True			R	カジュアル	トップス	PrismStone	みどり	ポップ
+20388	ジュエリーサテンホワイト	SPCW10559_I01A	3	7	11	2	450	5	9	C-052	15	0	0		110	True	True		True			SR	カジュアル	トップス	Radiant Abyss	むらさき	リボン
+20389	ワンダーランドピンク	SPCW10509_T01A	1	9	11	1	400	1	16	C-053	15	0	0	プロモ	111	True	True	2022年11月　プリマジコーデカードコレクショングミvol.4	True			SR	カジュアル	ボトムス	Radiant Abyss	むらさき	ゴシック
+20390	ワンダーランドピンク	SPCW10509_B01A	1	9	11	1	400	3	8	C-054	15	0	0		111	True	True		True			SR	カジュアル	シューズ	Radiant Abyss	むらさき	ガーリー
+20391	ワンダーランドピンク	SPCW10509_P01A	1	9	3	1	350	4	18	C-055	15	0	0		111	True	True		True			SR	カジュアル	アクセ	Radiant Abyss	むらさき	ジュエル
+20392	ワンダーランドピンク	SPCW10509_I01A	1	9	3	1	350	5	4	C-056	15	0	0		111	True	True		True			R	カジュアル	トップス	PrismStone	ピンク	ガーリー
+20393	ガーリーニットブラウン	SPCW10535_D01A	1	1	1	1	800	2	7	C-057	15	0	0	プロモ	112	True	True	2022年11月　プリマジコーデカードコレクショングミvol.4	True			R	カジュアル	トップス	PrismStone	くろ	ダンス
+20411	ドリコラフェスまつり	SPCW10523_D01A	3	1	8	2	1000	2	8	PM2-1-239	14	0	0	期間限定	140	True	True	2022年12月8日(木)～12月28日(水) ドリコラフェスチャンス	True			R	カジュアル	トップス	PrismStone	ピンク	ラブリー
+20412	ドリコラフェスまつり	SPCW10523_P01A	3	1	1	2	450	4	5	PM2-1-240	14	0	0		140	True	True		True			R	カジュアル	トップス	PrismStone	みずいろ	ポップ
+20413	ドリコラフェスまつり	SPCW10523_I01A	3	1	5	2	450	5	16	PM2-1-241	14	0	0		140	True	True		True			R	カジュアル	トップス	PrismStone	あお	スポーツ
+20418	フローラルバタフライパープル	SPCW10561_T01A	3	9	9	3	600	1	15	P-269	15	0	0	プロモ	116	True	True	12月1日(木)～12月22日(木)　ワッチャプリマジ！×プリズムストーンカフェ 第4弾
+プリンセスマジックカフェ	True			R	カジュアル	トップス	PrismStone	あか	ベーシック
+20419	フローラルバタフライパープル	SPCW10561_B01A	3	9	9	3	600	3	20	P-270	15	0	0		116	True	True		True			R	カジュアル	トップス	PrismStone	きいろ	ポップ
+20420	フローラルバタフライパープル	SPCW10561_P01A	3	9	9	3	550	4	9	P-271	15	0	0		116	True	True		True			R	カジュアル	トップス	PrismStone	ちゃ	ガーリー
+20421	フローラルバタフライパープル	SPCW10561_I01A	3	9	9	3	550	5	19	P-272	15	0	0		116	True	True		True			R	カジュアル	トップス	PrismStone	オレンジ	キュート
