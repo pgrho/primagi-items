@@ -66,6 +66,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3233.png "ホワイトラビット")|id3233|ホワイトラビット|第6章のスクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3233.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3234.png "ラブキュート")|id3234|ラブキュート|「メイクアップチャレンジ～ラブエレメンツ～」開催期間中にプリマジを5回プレイする|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3234.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3135.png "デリシャスマンゴー")|id3135|デリシャスマンゴー|プリマジスタランクが72になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3135.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3336.png "ロイヤルリリィ")|id3336|ロイヤルリリィ|2023年1月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3336.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3137.png "ハッピーライトブルー")|id3137|ハッピーライトブルー|フレンドランクが35になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3137.png|
 ## ヘアスタイル
 
@@ -93,6 +94,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id5119.png "ゆったりおさげ")|id5119|ゆったりおさげ|プリマジスタランクが70になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id5119.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id5320.png "フラワープリンセス")|id5320|フラワープリンセス|2022年11月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id5320.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id5221.png "ポップポップおだんご")|id5221|ポップポップおだんご|スタジオ第1章・第2章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id5221.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id5122.png "ぴょんぴょんツインテール")|id5122|ぴょんぴょんツインテール|プリマジスタランクが76になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id5122.png|
 ## まえがみ
 
 ||ID|名前|取得条件|画像|
@@ -110,6 +112,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id6210.png "さわやかナナメ")|id6210|さわやかナナメ|第6章のスクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id6210.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id6311.png "ハンサムセット")|id6311|ハンサムセット|2022年11月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id6311.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id6112.png "うちまきスウィート")|id6112|うちまきスウィート|プリマジスタランクが73になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id6112.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id6313.png "ラフぱっつん")|id6313|ラフぱっつん|2023年1月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id6313.png|
 ## アイカラー
 
 ||ID|名前|取得条件|画像|
@@ -198,6 +201,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id1214.png "スマイルリップ")|id1214|スマイルリップ|フレンドランクが18になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id1214.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id1215.png "うるつやブルー")|id1215|うるつやブルー|プリマジスタランクが65になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id1215.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id1226.png "ふっくらホットケーキ")|id1226|ふっくらホットケーキ|第6章のスクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id1226.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id1217.png "ぷっくりオレンジ")|id1217|ぷっくりオレンジ|プリマジスタランクが74になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id1217.png|
 ## イヤリング
 
 ||ID|名前|取得条件|画像|
@@ -218,6 +222,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13213.png "サンシャインルビー")|id13213|サンシャインルビー|「メイクアップチャレンジ～サンシャインエレメンツ～」開催期間中にプリマジを15回プレイする|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13213.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13214.png "ラブクリスタル")|id13214|ラブクリスタル|「メイクアップチャレンジ～ラブエレメンツ～」開催期間中にプリマジを15回プレイする|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13214.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13315.png "ポンポンイヤリング")|id13315|ポンポンイヤリング|2022年12月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13315.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13116.png "レッドローズ")|id13116|レッドローズ|プリマジスタランクが75になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13116.png|
 ## ネイル
 
 ||ID|名前|取得条件|画像|
