@@ -32822,7 +32822,7 @@
       "name": "ハッピーセーラースカイベリー",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 67,
-      "isShow": false,
+      "isShow": true,
       "hasMainImage": true,
       "span": "こんしゅうのみんなでどっちでSHOW！11月27日～12月2日 マイキャラパーツをスクラッチでゲット！にあうのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！11月27日～12月2日 マイキャラパーツをスクラッチでゲット！にあうのはどっち？",
@@ -32939,7 +32939,7 @@
           "rarity": 1,
           "category": 1,
           "subCategory": 5,
-          "isShowItem": false,
+          "isShowItem": true,
           "icon": 12,
           "release": 0,
           "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1282.png"
@@ -37545,11 +37545,25 @@
       "imageUrl": "https://cdn.primagi.jp/assets/images/parts/thumb/img_id3137.png"
     },
     {
+      "id": "id3238",
+      "file": 38,
+      "isNew": true,
+      "date": "2022-12-03T00:00:00",
+      "partsName": "シャドウナイト",
+      "psd": "",
+      "modalText": "スタジオ第1章・第2章スクラッチでポイントをあつめる",
+      "destination": null,
+      "url": null,
+      "type": 2,
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/parts/thumb/img_id3238.png"
+    },
+    {
       "id": "id401",
       "file": 1,
-      "isNew": true,
+      "isNew": false,
       "date": "2022-10-19T00:00:00",
-      "partsName": "細メッシュ",
+      "partsName": "ほそメッシュ",
       "psd": "",
       "modalText": null,
       "destination": null,
@@ -37627,6 +37641,20 @@
       "type": 1,
       "category": 6,
       "imageUrl": "https://cdn.primagi.jp/assets/images/parts/thumb/img_id6112.png"
+    },
+    {
+      "id": "id7230",
+      "file": 30,
+      "isNew": true,
+      "date": "2022-10-19T00:00:00",
+      "partsName": "キラッとスカイ",
+      "psd": "",
+      "modalText": "スタジオ第1章・第2章スクラッチでポイントをあつめる",
+      "destination": null,
+      "url": null,
+      "type": 2,
+      "category": 7,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/parts/thumb/img_id7230.png"
     },
     {
       "id": "id7332",

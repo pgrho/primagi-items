@@ -68,6 +68,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3135.png "デリシャスマンゴー")|id3135|デリシャスマンゴー|プリマジスタランクが72になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3135.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3336.png "ロイヤルリリィ")|id3336|ロイヤルリリィ|2023年1月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3336.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3137.png "ハッピーライトブルー")|id3137|ハッピーライトブルー|フレンドランクが35になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3137.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3238.png "シャドウナイト")|id3238|シャドウナイト|スタジオ第1章・第2章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3238.png|
 ## ヘアスタイル
 
 ||ID|名前|取得条件|画像|
@@ -148,6 +149,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7227.png "はちみつテディベア")|id7227|はちみつテディベア|第6章のスクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7227.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7228.png "サンシャインなひとみ")|id7228|サンシャインなひとみ|「メイクアップチャレンジ～サンシャインエレメンツ～」開催期間中にプリマジを20回プレイする|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7228.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7229.png "ラブなひとみ")|id7229|ラブなひとみ|「メイクアップチャレンジ～ラブエレメンツ～」開催期間中にプリマジを20回プレイする|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7229.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7230.png "キラッとスカイ")|id7230|キラッとスカイ|スタジオ第1章・第2章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7230.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7332.png "スノードーム")|id7332|スノードーム|2022年12月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7332.png|
 ## アイシャドウ
 
@@ -242,5 +244,5 @@
 
 ||ID|名前|取得条件|画像|
 |-|-|-|-|-|
-|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id401.png "細メッシュ")|id401|細メッシュ||https://cdn.primagi.jp/assets/images/parts/thumb/img_id401.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id401.png "ほそメッシュ")|id401|ほそメッシュ||https://cdn.primagi.jp/assets/images/parts/thumb/img_id401.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id430.png "グラデ")|id430|グラデ|2022年11月～ プレミアムプランに追加 ※ヘアスタイルにより使用できない場合があります|https://cdn.primagi.jp/assets/images/parts/thumb/img_id430.png|
