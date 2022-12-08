@@ -1,4 +1,4 @@
-﻿using System.Runtime.CompilerServices;
+using System.Runtime.CompilerServices;
 using System.Text;
 using Newtonsoft.Json.Linq;
 
@@ -78,6 +78,9 @@ partial class Program
                     Name = (jp.Value as JObject)?.Property("Name")?.Value?.Value<string>(),
                     Prefecture = p,
                     Address = (jp.Value as JObject)?.Property("Address")?.Value?.Value<string>(),
+                    Latitude = (jp.Value as JObject)?.Property("Latitude")?.Value?.Value<double?>(),
+                    Longitude = (jp.Value as JObject)?.Property("Longitude")?.Value?.Value<double?>(),
+                    ShopGroup = (jp.Value as JObject)?.Property("ShopGroup")?.Value?.Value<string>(),
                 });
             }
 
@@ -105,6 +108,12 @@ partial class Program
             sw.Write(sep);
             sw.Write(nameof(Item.Address));
             sw.Write(sep);
+            sw.Write(nameof(Item.Latitude));
+            sw.Write(sep);
+            sw.Write(nameof(Item.Longitude));
+            sw.Write(sep);
+            sw.Write(nameof(Item.ShopGroup));
+            sw.Write(sep);
             sw.WriteLine(nameof(Item.FullAddress));
 
             foreach (var e in items)
@@ -118,6 +127,12 @@ partial class Program
                 sw.Write(e.Name);
                 sw.Write(sep);
                 sw.Write(e.Address);
+                sw.Write(sep);
+                sw.Write(e.Latitude);
+                sw.Write(sep);
+                sw.Write(e.Longitude);
+                sw.Write(sep);
+                sw.Write(e.ShopGroup);
                 sw.Write(sep);
                 sw.WriteLine(e.FullAddress);
             }

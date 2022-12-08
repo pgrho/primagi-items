@@ -1,4 +1,4 @@
-﻿using System.Text.RegularExpressions;
+using System.Text.RegularExpressions;
 
 class Item
 {
@@ -14,6 +14,9 @@ class Item
     public string? Name { get; set; }
     public string? Prefecture { get; set; }
     public string? Address { get; set; }
+    public double? Latitude { get; set; }
+    public double? Longitude { get; set; }
+    public string? ShopGroup { get; set; }
 
     public string? FullAddress
         => Prefecture + Address;
