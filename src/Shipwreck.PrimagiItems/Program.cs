@@ -1,4 +1,4 @@
-﻿using System.Runtime.CompilerServices;
+using System.Runtime.CompilerServices;
 using System.Text;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
@@ -19,6 +19,7 @@ internal class Program
         var ds = new PrimagiDataSet();
         await ItemWriter.GenerateAsync(hc, di, ds);
         await PartsWriter.GenerateAsync(hc, di, ds);
+        await ShopWriter.GenerateAsync(hc, di, ds);
 
         var jss = new JsonSerializerSettings
         {

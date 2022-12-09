@@ -238,6 +238,31 @@ public sealed class PrimagiDataSet
 
     #endregion Parts
 
+    #region Shops
+
+    private ShopCollection? _Shops;
+
+    public IList<Shop> Shops
+    {
+        get => _Shops ??= new(this);
+        set
+        {
+            if (value != _Shops)
+            {
+                _Shops?.Clear();
+                if (value != null)
+                {
+                    foreach (var e in value)
+                    {
+                        Shops.Add(e);
+                    }
+                }
+            }
+        }
+    }
+
+    #endregion Shops
+
     public static PrimagiDataSet Parse(Stream stream)
     {
         using (var sr = new StreamReader(stream, Encoding.UTF8, false, -1, true))
