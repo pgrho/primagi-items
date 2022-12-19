@@ -1,17 +1,17 @@
-using System.Collections.ObjectModel;
+﻿using System.Collections.ObjectModel;
 
 namespace Shipwreck.PrimagiItems;
 
-internal sealed class PartCollection : Collection<Part>
+internal sealed class ShopCollection : Collection<Shop>
 {
     private readonly PrimagiDataSet _DataSet;
 
-    public PartCollection(PrimagiDataSet dataSet)
+    public ShopCollection(PrimagiDataSet dataSet)
     {
         _DataSet = dataSet;
     }
 
-    protected override void InsertItem(int index, Part item)
+    protected override void InsertItem(int index, Shop item)
     {
         if ((item ?? throw new ArgumentNullException(nameof(item))).DataSet != null)
         {
@@ -37,7 +37,7 @@ internal sealed class PartCollection : Collection<Part>
         base.RemoveItem(index);
     }
 
-    protected override void SetItem(int index, Part item)
+    protected override void SetItem(int index, Shop item)
     {
         var old = this[index];
         if (old != item)

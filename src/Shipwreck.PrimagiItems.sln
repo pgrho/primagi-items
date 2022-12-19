@@ -29,11 +29,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipwreck.PrimagiItems", "Shipwreck.PrimagiItems\Shipwreck.PrimagiItems.csproj", "{D1708EA3-03D4-447A-B42C-005D5536DA99}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipwreck.PrimagiItems.Web", "Shipwreck.PrimagiItems.Web\Shipwreck.PrimagiItems.Web.csproj", "{992F5E95-BBC8-41ED-B202-68BB0C863088}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipwreck.PrimagiItems.Core", "Shipwreck.PrimagiItems.Core\Shipwreck.PrimagiItems.Core.csproj", "{817173E4-6E1C-4351-A225-707F9780BC27}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipwreck.PrimagiItems.Browser", "Shipwreck.PrimagiItems.Browser\Shipwreck.PrimagiItems.Browser.csproj", "{56F34856-48A9-4727-93A3-F2AAD5492E4C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipwreck.PrimagiItems.Tests", "Shipwreck.PrimagiItems.Tests\Shipwreck.PrimagiItems.Tests.csproj", "{622D9FE4-EDD6-4125-85D6-48CCD45FEB99}"
 EndProject
@@ -51,18 +47,10 @@ Global
 		{D1708EA3-03D4-447A-B42C-005D5536DA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1708EA3-03D4-447A-B42C-005D5536DA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1708EA3-03D4-447A-B42C-005D5536DA99}.Release|Any CPU.Build.0 = Release|Any CPU
-		{992F5E95-BBC8-41ED-B202-68BB0C863088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{992F5E95-BBC8-41ED-B202-68BB0C863088}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{992F5E95-BBC8-41ED-B202-68BB0C863088}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{992F5E95-BBC8-41ED-B202-68BB0C863088}.Release|Any CPU.Build.0 = Release|Any CPU
 		{817173E4-6E1C-4351-A225-707F9780BC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{817173E4-6E1C-4351-A225-707F9780BC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{817173E4-6E1C-4351-A225-707F9780BC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{817173E4-6E1C-4351-A225-707F9780BC27}.Release|Any CPU.Build.0 = Release|Any CPU
-		{56F34856-48A9-4727-93A3-F2AAD5492E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{56F34856-48A9-4727-93A3-F2AAD5492E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{56F34856-48A9-4727-93A3-F2AAD5492E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{56F34856-48A9-4727-93A3-F2AAD5492E4C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{622D9FE4-EDD6-4125-85D6-48CCD45FEB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{622D9FE4-EDD6-4125-85D6-48CCD45FEB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{622D9FE4-EDD6-4125-85D6-48CCD45FEB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
