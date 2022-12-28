@@ -236,11 +236,33 @@ internal static class ItemWriter
         }
         foreach (var kv in colors.OrderBy(e => e.Key))
         {
-            ds.Colors.Add(new()
+            var c = new Color()
             {
                 Key = kv.Key,
                 Value = kv.Value.Contains('#') ? null : kv.Value
-            });
+            };
+            ds.Colors.Add(c);
+            try
+            {
+                if (c.Images.FirstOrDefault(e => e.GenreIndex == 3) is GenreColorImage gci)
+                {
+                    using var ir = await http.GetAsync(gci.ImageUrl).ConfigureAwait(false);
+                    if (ir.IsSuccessStatusCode)
+                    {
+                        using var st = await ir.Content.ReadAsStreamAsync().ConfigureAwait(false);
+
+                        if (Image.FromStream(st) is Bitmap bmp)
+                        {
+                            var cc = bmp.GetPixel(12, 22);
+
+                            c.R = cc.R;
+                            c.G = cc.G;
+                            c.B = cc.B;
+                        }
+                    }
+                }
+            }
+            catch { }
         }
         foreach (var kv in rarities.OrderBy(e => e.Key))
         {

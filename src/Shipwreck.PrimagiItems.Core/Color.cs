@@ -1,7 +1,11 @@
-﻿namespace Shipwreck.PrimagiItems;
+namespace Shipwreck.PrimagiItems;
 
 public sealed class Color : EnumBase
 {
+    public byte? R { get; set; }
+    public byte? G { get; set; }
+    public byte? B { get; set; }
+
     #region Images
 
     private List<GenreColorImage>? _Images;
