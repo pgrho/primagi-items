@@ -32498,13 +32498,14 @@
     {
       "collection": 14,
       "name": "プリマジユニフォームビビッドチムム",
-      "kinds": "めちゃマジ注目スペシャルコーデ",
+      "kinds": "期間限定",
       "directoryNumber": 60,
-      "isShow": false,
+      "isShow": true,
       "hasMainImage": true,
-      "span": "こんしゅうのみんなでどっちでSHOW！11月6日～11月11日 プリマジユニフォーム！ほしいのはどっち？",
-      "spanEventName": "こんしゅうのみんなでどっちでSHOW！11月6日～11月11日 プリマジユニフォーム！ほしいのはどっち？",
-      "order": 2147483647,
+      "span": "2023年1月12日(木)～1月25日(水)　どっちでSHOW！ふっかつパーティーショップ",
+      "spanEventName": "1月25日(水)　どっちでSHOW！ふっかつパーティーショップ",
+      "spanStart": "2023-01-12T00:00:00",
+      "order": 100,
       "chapter": "2P01",
       "items": [
         {
@@ -32613,13 +32614,14 @@
     {
       "collection": 14,
       "name": "わんぱくにぎりずし",
-      "kinds": "めちゃマジ注目スペシャルコーデ",
+      "kinds": "期間限定",
       "directoryNumber": 62,
-      "isShow": false,
+      "isShow": true,
       "hasMainImage": true,
-      "span": "こんしゅうのみんなでどっちでSHOW！11月13日～11月18日 おなかすいたー！たべたいのはどっち？ ",
-      "spanEventName": "こんしゅうのみんなでどっちでSHOW！11月13日～11月18日 おなかすいたー！たべたいのはどっち？ ",
-      "order": 2147483647,
+      "span": "2023年1月12日(木)～1月25日(水)　どっちでSHOW！ふっかつパーティーショップ",
+      "spanEventName": "1月25日(水)　どっちでSHOW！ふっかつパーティーショップ",
+      "spanStart": "2023-01-12T00:00:00",
+      "order": 100,
       "chapter": "2P01",
       "items": [
         {
@@ -32860,13 +32862,14 @@
     {
       "collection": 14,
       "name": "ネオンハードチェック",
-      "kinds": "めちゃマジ注目スペシャルコーデ",
+      "kinds": "期間限定",
       "directoryNumber": 66,
-      "isShow": false,
+      "isShow": true,
       "hasMainImage": true,
-      "span": "こんしゅうのみんなでどっちでSHOW！11月20日～11月25日 まつり？ひな？いっしょにプリマジしたいのはどっち？",
-      "spanEventName": "こんしゅうのみんなでどっちでSHOW！11月20日～11月25日 まつり？ひな？いっしょにプリマジしたいのはどっち？",
-      "order": 2147483647,
+      "span": "2023年1月12日(木)～1月25日(水)　どっちでSHOW！ふっかつパーティーショップ",
+      "spanEventName": "1月25日(水)　どっちでSHOW！ふっかつパーティーショップ",
+      "spanStart": "2023-01-12T00:00:00",
+      "order": 100,
       "chapter": "2P01",
       "items": [
         {
@@ -33235,14 +33238,15 @@
     {
       "collection": 14,
       "name": "もふもふトナカイ",
-      "kinds": "めちゃマジ注目スペシャルコーデ",
+      "kinds": "期間限定",
       "directoryNumber": 74,
-      "isShow": false,
+      "isShow": true,
       "hasMainImage": true,
-      "span": "こんしゅうのみんなでどっちでSHOW！12月11日～12月16日 ちょっとはやめのクリスマス！なりきるならどっち？",
-      "spanEventName": "こんしゅうのみんなでどっちでSHOW！12月11日～12月16日 ちょっとはやめのクリスマス！なりきるならどっち？",
-      "order": 2147483647,
-      "chapter": "2P02",
+      "span": "2023年1月12日(木)～1月25日(水)　どっちでSHOW！ふっかつパーティーショップ",
+      "spanEventName": "1月25日(水)　どっちでSHOW！ふっかつパーティーショップ",
+      "spanStart": "2023-01-12T00:00:00",
+      "order": 100,
+      "chapter": "2P01",
       "items": [
         {
           "id": 1295,
@@ -33259,7 +33263,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1295.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1295.png"
         },
         {
           "id": 1296,
@@ -33276,7 +33280,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1296.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1296.png"
         },
         {
           "id": 1297,
@@ -33293,10 +33297,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1297.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1297.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/img_codination_74_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/img_codination_74_main.jpg"
     },
     {
       "collection": 14,
@@ -33340,7 +33344,7 @@
       "span": "こんしゅうのみんなでどっちでSHOW！12月18日～12月23日 かわいくデコレーション！おうちにかざるならどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！12月18日～12月23日 かわいくデコレーション！おうちにかざるならどっち？",
       "order": 2147483647,
-      "chapter": "2P02",
+      "chapter": "2P01",
       "items": [
         {
           "id": 1299,
@@ -33357,7 +33361,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1299.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1299.png"
         },
         {
           "id": 1300,
@@ -33374,7 +33378,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1300.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1300.png"
         },
         {
           "id": 1301,
@@ -33391,22 +33395,23 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1301.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1301.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/img_codination_76_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/img_codination_76_main.jpg"
     },
     {
       "collection": 14,
       "name": "クリスマスツリースマイル",
-      "kinds": "めちゃマジ注目スペシャルコーデ",
+      "kinds": "期間限定",
       "directoryNumber": 77,
-      "isShow": false,
+      "isShow": true,
       "hasMainImage": true,
-      "span": "こんしゅうのみんなでどっちでSHOW！12月18日～12月23日 かわいくデコレーション！おうちにかざるならどっち？",
-      "spanEventName": "こんしゅうのみんなでどっちでSHOW！12月18日～12月23日 かわいくデコレーション！おうちにかざるならどっち？",
-      "order": 2147483647,
-      "chapter": "2P02",
+      "span": "2023年1月12日(木)～1月25日(水)　どっちでSHOW！ふっかつパーティーショップ",
+      "spanEventName": "1月25日(水)　どっちでSHOW！ふっかつパーティーショップ",
+      "spanStart": "2023-01-12T00:00:00",
+      "order": 100,
+      "chapter": "2P01",
       "items": [
         {
           "id": 1302,
@@ -33423,7 +33428,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1302.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1302.png"
         },
         {
           "id": 1303,
@@ -33440,7 +33445,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1303.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1303.png"
         },
         {
           "id": 1304,
@@ -33457,10 +33462,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1304.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1304.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/img_codination_77_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/img_codination_77_main.jpg"
     },
     {
       "collection": 14,
@@ -33471,7 +33476,7 @@
       "hasMainImage": false,
       "span": "Tシャツショップ どっちでSHOWに投票する（12月25日～12月30日）",
       "spanEventName": "Tシャツショップ どっちでSHOWに投票する（12月25日～12月30日）",
-      "order": 2147483647,
+      "order": 26,
       "chapter": "2P02",
       "items": [
         {
@@ -33503,8 +33508,8 @@
       "hasMainImage": true,
       "span": "こんしゅうのみんなでどっちでSHOW！12月25日～12月30日 こうはくたいけつ！すきないろはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！12月25日～12月30日 こうはくたいけつ！すきないろはどっち？",
-      "order": 26,
-      "chapter": "2P02",
+      "order": 2147483647,
+      "chapter": "2P01",
       "items": [
         {
           "id": 1306,
@@ -33521,7 +33526,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1306.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1306.png"
         },
         {
           "id": 1307,
@@ -33538,7 +33543,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1307.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1307.png"
         },
         {
           "id": 1308,
@@ -33555,7 +33560,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1308.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1308.png"
         },
         {
           "id": 1309,
@@ -33572,22 +33577,23 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1309.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1309.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/img_codination_79_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/img_codination_79_main.jpg"
     },
     {
       "collection": 14,
       "name": "じゅんぱくのマーチングプリンス",
-      "kinds": "めちゃマジ注目スペシャルコーデ",
+      "kinds": "期間限定",
       "directoryNumber": 80,
-      "isShow": false,
+      "isShow": true,
       "hasMainImage": true,
-      "span": "こんしゅうのみんなでどっちでSHOW！12月25日～12月30日 こうはくたいけつ！すきないろはどっち？",
-      "spanEventName": "こんしゅうのみんなでどっちでSHOW！12月25日～12月30日 こうはくたいけつ！すきないろはどっち？",
-      "order": 2147483647,
-      "chapter": "2P02",
+      "span": "2023年1月12日(木)～1月25日(水)　どっちでSHOW！ふっかつパーティーショップ",
+      "spanEventName": "1月25日(水)　どっちでSHOW！ふっかつパーティーショップ",
+      "spanStart": "2023-01-12T00:00:00",
+      "order": 101,
+      "chapter": "2P01",
       "items": [
         {
           "id": 1310,
@@ -33604,7 +33610,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1310.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1310.png"
         },
         {
           "id": 1311,
@@ -33621,7 +33627,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1311.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1311.png"
         },
         {
           "id": 1312,
@@ -33638,7 +33644,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1312.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1312.png"
         },
         {
           "id": 1313,
@@ -33655,10 +33661,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1313.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1313.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/img_codination_80_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/img_codination_80_main.jpg"
     },
     {
       "collection": 14,
@@ -33670,7 +33676,7 @@
       "span": "こんしゅうのみんなでどっちでSHOW！ 1月1日～1月6日 あけましておめでとう！おいわいコーデならどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ 1月1日～1月6日 あけましておめでとう！おいわいコーデならどっち？",
       "order": 2147483647,
-      "chapter": "2P02",
+      "chapter": "2P01",
       "items": [
         {
           "id": 1315,
@@ -33687,7 +33693,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1315.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1315.png"
         },
         {
           "id": 1316,
@@ -33704,7 +33710,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1316.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1316.png"
         },
         {
           "id": 1317,
@@ -33721,10 +33727,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1317.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1317.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/img_codination_82_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/img_codination_82_main.jpg"
     },
     {
       "collection": 14,
@@ -33736,7 +33742,7 @@
       "span": "こんしゅうのみんなでどっちでSHOW！ 1月1日～1月6日 あけましておめでとう！おいわいコーデならどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ 1月1日～1月6日 あけましておめでとう！おいわいコーデならどっち？",
       "order": 2147483647,
-      "chapter": "2P02",
+      "chapter": "2P01",
       "items": [
         {
           "id": 1318,
@@ -33753,7 +33759,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1318.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1318.png"
         },
         {
           "id": 1319,
@@ -33770,7 +33776,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1319.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1319.png"
         },
         {
           "id": 1320,
@@ -33787,10 +33793,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1320.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1320.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/img_codination_83_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/img_codination_83_main.jpg"
     },
     {
       "collection": 14,
@@ -33802,7 +33808,7 @@
       "span": "こんしゅうのみんなでどっちでSHOW！ 1月8日～1月13日 ビビッとげんきに！ほしいいろはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ 1月8日～1月13日 ビビッとげんきに！ほしいいろはどっち？",
       "order": 2147483647,
-      "chapter": "2P02",
+      "chapter": "2P01",
       "items": [
         {
           "id": 1322,
@@ -33819,7 +33825,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1322.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1322.png"
         },
         {
           "id": 1323,
@@ -33836,7 +33842,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1323.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1323.png"
         },
         {
           "id": 1324,
@@ -33853,7 +33859,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1324.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1324.png"
         },
         {
           "id": 1325,
@@ -33870,10 +33876,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1325.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1325.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/img_codination_85_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/img_codination_85_main.jpg"
     },
     {
       "collection": 14,
@@ -33885,7 +33891,7 @@
       "span": "こんしゅうのみんなでどっちでSHOW！ 1月8日～1月13日 ビビッとげんきに！ほしいいろはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ 1月8日～1月13日 ビビッとげんきに！ほしいいろはどっち？",
       "order": 2147483647,
-      "chapter": "2P02",
+      "chapter": "2P01",
       "items": [
         {
           "id": 1326,
@@ -33902,7 +33908,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1326.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1326.png"
         },
         {
           "id": 1327,
@@ -33919,7 +33925,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1327.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1327.png"
         },
         {
           "id": 1328,
@@ -33936,7 +33942,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1328.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1328.png"
         },
         {
           "id": 1329,
@@ -33953,10 +33959,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1329.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1329.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/img_codination_86_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/img_codination_86_main.jpg"
     },
     {
       "collection": 14,
@@ -33968,7 +33974,7 @@
       "span": "こんしゅうのみんなでどっちでSHOW！ 1月15日～1月20日 うちゅうをめざせ！こてつくんとおそろいにするならどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ 1月15日～1月20日 うちゅうをめざせ！こてつくんとおそろいにするならどっち？",
       "order": 2147483647,
-      "chapter": "2P02",
+      "chapter": "2P01",
       "items": [
         {
           "id": 1331,
@@ -33985,7 +33991,7 @@
           "isShowItem": true,
           "icon": 13,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1331.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1331.png"
         },
         {
           "id": 1332,
@@ -34002,7 +34008,7 @@
           "isShowItem": true,
           "icon": 13,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1332.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1332.png"
         },
         {
           "id": 1333,
@@ -34019,7 +34025,7 @@
           "isShowItem": true,
           "icon": 13,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1333.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1333.png"
         },
         {
           "id": 1334,
@@ -34036,10 +34042,10 @@
           "isShowItem": true,
           "icon": 13,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1334.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1334.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/img_codination_88_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/img_codination_88_main.jpg"
     },
     {
       "collection": 14,
@@ -34051,7 +34057,7 @@
       "span": "こんしゅうのみんなでどっちでSHOW！ 1月15日～1月20日 うちゅうをめざせ！こてつくんとおそろいにするならどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ 1月15日～1月20日 うちゅうをめざせ！こてつくんとおそろいにするならどっち？",
       "order": 2147483647,
-      "chapter": "2P02",
+      "chapter": "2P01",
       "items": [
         {
           "id": 1335,
@@ -34068,7 +34074,7 @@
           "isShowItem": true,
           "icon": 13,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1335.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1335.png"
         },
         {
           "id": 1336,
@@ -34085,7 +34091,7 @@
           "isShowItem": true,
           "icon": 13,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1336.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1336.png"
         },
         {
           "id": 1337,
@@ -34102,7 +34108,7 @@
           "isShowItem": true,
           "icon": 13,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1337.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1337.png"
         },
         {
           "id": 1338,
@@ -34119,10 +34125,10 @@
           "isShowItem": true,
           "icon": 13,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1338.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1338.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/img_codination_89_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/img_codination_89_main.jpg"
     },
     {
       "collection": 14,
@@ -34134,7 +34140,7 @@
       "span": "こんしゅうのみんなでどっちでSHOW！ 1月22日～1月27日 プリンセスマジックのだいにんきコーデ！ほしいのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ 1月22日～1月27日 プリンセスマジックのだいにんきコーデ！ほしいのはどっち？",
       "order": 2147483647,
-      "chapter": "2P02",
+      "chapter": "2P01",
       "items": [
         {
           "id": 1340,
@@ -34151,7 +34157,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1340.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1340.png"
         },
         {
           "id": 1341,
@@ -34168,7 +34174,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1341.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1341.png"
         },
         {
           "id": 1342,
@@ -34185,7 +34191,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1342.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1342.png"
         },
         {
           "id": 1343,
@@ -34202,10 +34208,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1343.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1343.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/img_codination_91_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/img_codination_91_main.jpg"
     },
     {
       "collection": 14,
@@ -34217,7 +34223,7 @@
       "span": "こんしゅうのみんなでどっちでSHOW！ 1月22日～1月27日 プリンセスマジックのだいにんきコーデ！ほしいのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ 1月22日～1月27日 プリンセスマジックのだいにんきコーデ！ほしいのはどっち？",
       "order": 2147483647,
-      "chapter": "2P02",
+      "chapter": "2P01",
       "items": [
         {
           "id": 1344,
@@ -34234,7 +34240,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1344.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1344.png"
         },
         {
           "id": 1345,
@@ -34251,7 +34257,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1345.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1345.png"
         },
         {
           "id": 1346,
@@ -34268,7 +34274,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1346.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1346.png"
         },
         {
           "id": 1347,
@@ -34285,10 +34291,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1347.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/1347.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/img_codination_92_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P01/img_codination_92_main.jpg"
     },
     {
       "collection": 14,
@@ -34954,13 +34960,14 @@
     {
       "collection": 14,
       "name": "チェリーキルティングセットアップブラック",
-      "kinds": "めちゃマジ注目スペシャルコーデ",
+      "kinds": "期間限定",
       "directoryNumber": 107,
-      "isShow": false,
+      "isShow": true,
       "hasMainImage": true,
-      "span": "こんしゅうのみんなでどっちでSHOW！ 12月4日～12月9日 JENNI loveコーデでおでかけ！ほしいのはどっち？",
-      "spanEventName": "こんしゅうのみんなでどっちでSHOW！ 12月4日～12月9日 JENNI loveコーデでおでかけ！ほしいのはどっち？",
-      "order": 2147483647,
+      "span": "2023年1月12日(木)～1月25日(水)　どっちでSHOW！ふっかつパーティーショップ",
+      "spanEventName": "1月25日(水)　どっちでSHOW！ふっかつパーティーショップ",
+      "spanStart": "2023-01-12T00:00:00",
+      "order": 100,
       "chapter": "2P01",
       "items": [
         {
