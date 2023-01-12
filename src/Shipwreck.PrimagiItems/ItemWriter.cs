@@ -37,7 +37,7 @@ internal static class ItemWriter
     private const string ITEM_URL = "https://cdnprimagiimg01.blob.core.windows.net/primagi/assets/data/item.json";
     private static readonly string[] KNOWN_GENRES = new[] { "カジュアル", "スタイリッシュ", "ライブ" };
     private static readonly string[] KNOWN_CATEGORIES = new[] { "トップス", "ワンピ", "ボトムス", "シューズ", "アクセ" };
-    private static readonly string[] KNOWN_RARITIES = new[] { "R", "SR", "UR", "PMR", "HR" };
+    private static readonly string[] KNOWN_RARITIES = new[] { "R", "SR", "UR", "PMR", "HR", "OPR" };
 
     private static readonly string?[] KNOWN_BRANDS = new[] {
         "LOVELY MELODY",

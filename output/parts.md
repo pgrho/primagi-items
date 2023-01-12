@@ -69,6 +69,8 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3336.png "ロイヤルリリィ")|id3336|ロイヤルリリィ|2023年1月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3336.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3137.png "ハッピーライトブルー")|id3137|ハッピーライトブルー|フレンドランクが35になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3137.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3238.png "シャドウナイト")|id3238|シャドウナイト|スタジオ第1章・第2章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3238.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3242.png "ウィッチローブ")|id3242|ウィッチローブ|スタジオ第3章・第4章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3242.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3143.png "ローストアーモンド")|id3143|ローストアーモンド|プリマジスタランクが78になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3143.png|
 ## ヘアスタイル
 
 ||ID|名前|取得条件|画像|
@@ -96,6 +98,8 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id5320.png "フラワープリンセス")|id5320|フラワープリンセス|2022年11月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id5320.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id5221.png "ポップポップおだんご")|id5221|ポップポップおだんご|スタジオ第1章・第2章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id5221.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id5122.png "ぴょんぴょんツインテール")|id5122|ぴょんぴょんツインテール|プリマジスタランクが76になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id5122.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id5325.png "オーロラプリンセス")|id5325|オーロラプリンセス|2023年2月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id5325.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id5226.png "すっきりショート")|id5226|すっきりショート|スタジオ第3章・第4章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id5226.png|
 ## まえがみ
 
 ||ID|名前|取得条件|画像|
@@ -114,6 +118,8 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id6311.png "ハンサムセット")|id6311|ハンサムセット|2022年11月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id6311.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id6112.png "うちまきスウィート")|id6112|うちまきスウィート|プリマジスタランクが73になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id6112.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id6313.png "ラフぱっつん")|id6313|ラフぱっつん|2023年1月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id6313.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id6115.png "くるりんエスじバング")|id6115|くるりんエスじバング|プリマジスタランクが79になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id6115.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id6316.png "なだらかサイドパート")|id6316|なだらかサイドパート|2023年4月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id6316.png|
 ## アイカラー
 
 ||ID|名前|取得条件|画像|
@@ -151,6 +157,9 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7229.png "ラブなひとみ")|id7229|ラブなひとみ|「メイクアップチャレンジ～ラブエレメンツ～」開催期間中にプリマジを20回プレイする|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7229.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7230.png "キラッとスカイ")|id7230|キラッとスカイ|スタジオ第1章・第2章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7230.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7332.png "スノードーム")|id7332|スノードーム|2022年12月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7332.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7235.png "ハツラツいちばんぼし")|id7235|ハツラツいちばんぼし|スタジオ第3章・第4章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7235.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7337.png "オーロラロゼッタ")|id7337|オーロラロゼッタ|2023年3月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7337.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7240.png "みるきアイ")|id7240|みるきアイ|プリマジ公式ファンブック スタジオ第3・4章|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7240.png|
 ## アイシャドウ
 
 ||ID|名前|取得条件|画像|
@@ -162,6 +171,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id814.png "くっきりレッドライン")|id814|くっきりレッドライン|プリマジスタランクが52になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id814.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id825.png "なでしこスイート")|id825|なでしこスイート|第6章のスクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id825.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id826.png "くっきりシックライン")|id826|くっきりシックライン|スタジオ第1章・第2章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id826.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id819.png "ハッピーラメ")|id819|ハッピーラメ|フレンドランクが39になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id819.png|
 ## めがね
 
 ||ID|名前|取得条件|画像|
@@ -170,6 +180,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id911.png "ひすればはな")|id911|ひすればはな|プリマジスタランクが31になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id911.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id912.png "ボストンメガネ")|id912|ボストンメガネ|プリマジスタランクが66になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id912.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id923.png "トゥインクルサングラス")|id923|トゥインクルサングラス|スタジオ第1章・第2章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id923.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id935.png "シャープモノクル")|id935|シャープモノクル|2023年3月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id935.png|
 ## アクセント
 
 ||ID|名前|取得条件|画像|
@@ -192,6 +203,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id1125.png "スマイルチーク")|id1125|スマイルチーク|フレンドランクが4になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id1125.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id1126.png "サンシャインゴージャス")|id1126|サンシャインゴージャス|「メイクアップチャレンジ～サンシャインエレメンツ～」開催期間中にプリマジを10回プレイする|https://cdn.primagi.jp/assets/images/parts/thumb/img_id1126.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id1117.png "どきどきチーク")|id1117|どきどきチーク|プリマジスタランクが71になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id1117.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id11210.png "マシュマロピーチ")|id11210|マシュマロピーチ|スタジオ第3章・第4章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id11210.png|
 ## リップ
 
 ||ID|名前|取得条件|画像|
@@ -204,6 +216,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id1215.png "うるつやブルー")|id1215|うるつやブルー|プリマジスタランクが65になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id1215.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id1226.png "ふっくらホットケーキ")|id1226|ふっくらホットケーキ|第6章のスクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id1226.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id1217.png "ぷっくりオレンジ")|id1217|ぷっくりオレンジ|プリマジスタランクが74になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id1217.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id1219.png "マジックスペル")|id1219|マジックスペル|プリマジスタランクが77になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id1219.png|
 ## イヤリング
 
 ||ID|名前|取得条件|画像|
@@ -240,9 +253,11 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id1419.png "ラメブルーピンク")|id1419|ラメブルーピンク|プリマジスタランクが63になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id1419.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id14210.png "ラブオーロラネイル")|id14210|ラブオーロラネイル|「メイクアップチャレンジ～ラブエレメンツ～」開催期間中にプリマジを10回プレイする|https://cdn.primagi.jp/assets/images/parts/thumb/img_id14210.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id14211.png "ダークゴシック")|id14211|ダークゴシック|スタジオ第1章・第2章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id14211.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id1439.png "はるめきイエロー")|id1439|はるめきイエロー|2023年2月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id1439.png|
 ## メッシュ
 
 ||ID|名前|取得条件|画像|
 |-|-|-|-|-|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id401.png "ほそメッシュ")|id401|ほそメッシュ||https://cdn.primagi.jp/assets/images/parts/thumb/img_id401.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id430.png "グラデ")|id430|グラデ|2022年11月～ プレミアムプランに追加 ※ヘアスタイルにより使用できない場合があります|https://cdn.primagi.jp/assets/images/parts/thumb/img_id430.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id432.png "インナーカラー")|id432|インナーカラー|2023年2月～プレミアムプランに追加 ※ヘアスタイルにより使用できない場合があります|https://cdn.primagi.jp/assets/images/parts/thumb/img_id432.png|
