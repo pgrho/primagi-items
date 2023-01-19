@@ -1563,23 +1563,24 @@
 1310	じゅんぱくのマーチングプリンス	SPCW10567_T01A	3	4	11	2	500	1	8	PM2-1-201	14	0	0	期間限定	80	True	True	2023年1月12日(木)～1月25日(水)　どっちでSHOW！ふっかつパーティーショップ	True	101		R	カジュアル	ボトムス	VIVID STAR	しろ	ミステリアス
 1311	じゅんぱくのマーチングプリンス	SPCW10567_B01A	3	4	11	2	500	3	11	PM2-1-202	14	0	0		80	True	False		True			R	カジュアル	シューズ	VIVID STAR	しろ	ダンス
 1312	じゅんぱくのマーチングプリンス	SPCW10567_P01A	3	4	11	2	450	4	9	PM2-1-203	14	0	0		80	True	False		True			R	カジュアル	アクセ	VIVID STAR	むらさき	クール
-1313	じゅんぱくのマーチングプリンス	SPCW10567_I01A	3	4	11	2	450	5	20	PM2-1-204	14	0	0		80	True	False		True			SR	ライブ	トップス	ELECTRO REMIX	オレンジ	ポップ
-1314	ハッピーニューイヤーTシャツ	SPCW10600_T01A	1	8	2	1	400	1	13	PM2-1-205	14	0	0	Tシャツ	81	True	False	Tシャツショップ どっちでSHOWに投票する（1月1日～1月6日）	True	27		SR	ライブ	ボトムス	ELECTRO REMIX	オレンジ	デジタル
-1315	あけおめラブエレメンツ	SPCW20114_D01A	3	1	2	4	1300	2	11	PM2-1-206	14	0	0	めちゃマジ注目スペシャルコーデ	82	False	True	こんしゅうのみんなでどっちでSHOW！ 1月1日～1月6日 あけましておめでとう！おいわいコーデならどっち？	True			SR	ライブ	シューズ	ELECTRO REMIX	オレンジ	スポーツ
-1316	あけおめラブエレメンツ	SPCW20114_P01A	3	1	2	4	600	4	4	PM2-1-207	14	0	0		82	False	False		True			SR	ライブ	アクセ	ELECTRO REMIX	オレンジ	ダンス
-1317	あけおめラブエレメンツ	SPCW20114_I01A	3	1	13	4	600	5	16	PM2-1-208	14	0	0		82	False	False		True			SR	ライブ	トップス	ELECTRO REMIX	あお	クール
-1318	ことよろサンシャインエレメンツ	SPCW20115_D01A	3	7	2	4	1300	2	15	PM2-1-209	14	0	0	めちゃマジ注目スペシャルコーデ	83	False	True	こんしゅうのみんなでどっちでSHOW！ 1月1日～1月6日 あけましておめでとう！おいわいコーデならどっち？	True			SR	ライブ	ボトムス	ELECTRO REMIX	あお	スター
-1319	ことよろサンシャインエレメンツ	SPCW20115_P01A	3	7	13	4	600	4	11	PM2-1-210	14	0	0		83	False	False		True			SR	ライブ	シューズ	ELECTRO REMIX	あお	デジタル
-1320	ことよろサンシャインエレメンツ	SPCW20115_I01A	3	7	13	4	600	5	9	PM2-1-211	14	0	0		83	False	False		True			SR	ライブ	アクセ	ELECTRO REMIX	あお	キュート
-1321	ペイントルックTシャツ	SPCW10609_T01A	1	2	11	1	400	1	12	PM2-1-212	14	0	0	Tシャツ	84	True	False	Tシャツショップ どっちでSHOWに投票する（1月8日～1月13日）	True	28		UR	ライブ	トップス	Princess Magic	あか	フラワー
-1322	ペイントルックビビッド	SPCW10603_T01A	1	2	5	1	400	1	18	PM2-1-213	14	0	0	めちゃマジ注目スペシャルコーデ	85	False	True	こんしゅうのみんなでどっちでSHOW！ 1月8日～1月13日 ビビッとげんきに！ほしいいろはどっち？	True			UR	ライブ	ボトムス	Princess Magic	あか	リボン
-1323	ペイントルックビビッド	SPCW10603_B01A	1	2	6	1	400	3	21	PM2-1-214	14	0	0		85	False	False		True			UR	ライブ	シューズ	Princess Magic	あか	エレガント
-1324	ペイントルックビビッド	SPCW10603_P01A	1	2	6	1	350	4	5	PM2-1-215	14	0	0		85	False	False		True			UR	ライブ	アクセ	Princess Magic	あか	ラブリー
-1325	ペイントルックビビッド	SPCW10603_I01A	1	2	6	1	350	5	3	PM2-1-216	14	0	0		85	False	False		True			UR	ライブ	トップス	Princess Magic	みずいろ	ミステリアス
-1326	ペイントルックスポーティー	SPCW10604_T01A	1	2	9	1	400	1	12	PM2-1-217	14	0	0	めちゃマジ注目スペシャルコーデ	86	False	True	こんしゅうのみんなでどっちでSHOW！ 1月8日～1月13日 ビビッとげんきに！ほしいいろはどっち？	True			UR	ライブ	ボトムス	Princess Magic	みずいろ	クール
-1327	ペイントルックスポーティー	SPCW10604_B01A	1	2	11	1	400	3	15	PM2-1-218	14	0	0		86	False	False		True			UR	ライブ	シューズ	Princess Magic	みずいろ	ガーリー
-1328	ペイントルックスポーティー	SPCW10604_P01A	1	2	11	1	350	4	13	PM2-1-219	14	0	0		86	False	False		True			UR	ライブ	アクセ	Princess Magic	みずいろ	キュート
-1329	ペイントルックスポーティー	SPCW10604_I01A	1	2	9	1	350	5	9	PM2-1-220	14	0	0		86	False	False		True			R	カジュアル	トップス	PrismStone	しろ	ダンス
+1313	じゅんぱくのマーチングプリンス	SPCW10567_I01A	3	4	11	2	450	5	20	PM2-1-204	14	0	0		80	True	False		True			R	カジュアル	トップス	ELECTRO REMIX	しろ	アニマル
+1314	ハッピーニューイヤーTシャツ	SPCW10600_T01A	1	8	2	1	400	1	13	PM2-1-205	14	0	0	Tシャツ	81	True	False	Tシャツショップ どっちでSHOWに投票する（1月1日～1月6日）	True	27		SR	ライブ	トップス	ELECTRO REMIX	オレンジ	ポップ
+1315	あけおめラブエレメンツ	SPCW20114_D01A	3	1	2	4	1300	2	11	PM2-1-206	14	0	0	めちゃマジ注目スペシャルコーデ	82	False	True	こんしゅうのみんなでどっちでSHOW！ 1月1日～1月6日 あけましておめでとう！おいわいコーデならどっち？	True			SR	ライブ	ボトムス	ELECTRO REMIX	オレンジ	デジタル
+1316	あけおめラブエレメンツ	SPCW20114_P01A	3	1	2	4	600	4	4	PM2-1-207	14	0	0		82	False	False		True			SR	ライブ	シューズ	ELECTRO REMIX	オレンジ	スポーツ
+1317	あけおめラブエレメンツ	SPCW20114_I01A	3	1	13	4	600	5	16	PM2-1-208	14	0	0		82	False	False		True			SR	ライブ	アクセ	ELECTRO REMIX	オレンジ	ダンス
+1318	ことよろサンシャインエレメンツ	SPCW20115_D01A	3	7	2	4	1300	2	15	PM2-1-209	14	0	0	めちゃマジ注目スペシャルコーデ	83	False	True	こんしゅうのみんなでどっちでSHOW！ 1月1日～1月6日 あけましておめでとう！おいわいコーデならどっち？	True			SR	ライブ	トップス	ELECTRO REMIX	あお	クール
+1319	ことよろサンシャインエレメンツ	SPCW20115_P01A	3	7	13	4	600	4	11	PM2-1-210	14	0	0		83	False	False		True			SR	ライブ	ボトムス	ELECTRO REMIX	あお	スター
+1320	ことよろサンシャインエレメンツ	SPCW20115_I01A	3	7	13	4	600	5	9	PM2-1-211	14	0	0		83	False	False		True			SR	ライブ	シューズ	ELECTRO REMIX	あお	デジタル
+1321	ペイントルックTシャツ	SPCW10609_T01A	1	2	11	1	400	1	12	PM2-1-212	14	0	0	Tシャツ	84	True	False	Tシャツショップ どっちでSHOWに投票する（1月8日～1月13日）	True	28		SR	ライブ	アクセ	ELECTRO REMIX	あお	キュート
+1322	ペイントルックビビッド	SPCW10603_T01A	1	2	5	1	400	1	18	PM2-1-213	14	0	0	めちゃマジ注目スペシャルコーデ	85	False	True	こんしゅうのみんなでどっちでSHOW！ 1月8日～1月13日 ビビッとげんきに！ほしいいろはどっち？	True			UR	ライブ	トップス	Princess Magic	あか	フラワー
+1323	ペイントルックビビッド	SPCW10603_B01A	1	2	6	1	400	3	21	PM2-1-214	14	0	0		85	False	False		True			UR	ライブ	ボトムス	Princess Magic	あか	リボン
+1324	ペイントルックビビッド	SPCW10603_P01A	1	2	6	1	350	4	5	PM2-1-215	14	0	0		85	False	False		True			UR	ライブ	シューズ	Princess Magic	あか	エレガント
+1325	ペイントルックビビッド	SPCW10603_I01A	1	2	6	1	350	5	3	PM2-1-216	14	0	0		85	False	False		True			UR	ライブ	アクセ	Princess Magic	あか	ラブリー
+1326	ペイントルックスポーティー	SPCW10604_T01A	1	2	9	1	400	1	12	PM2-1-217	14	0	0	めちゃマジ注目スペシャルコーデ	86	False	True	こんしゅうのみんなでどっちでSHOW！ 1月8日～1月13日 ビビッとげんきに！ほしいいろはどっち？	True			UR	ライブ	トップス	Princess Magic	みずいろ	ミステリアス
+1327	ペイントルックスポーティー	SPCW10604_B01A	1	2	11	1	400	3	15	PM2-1-218	14	0	0		86	False	False		True			UR	ライブ	ボトムス	Princess Magic	みずいろ	クール
+1328	ペイントルックスポーティー	SPCW10604_P01A	1	2	11	1	350	4	13	PM2-1-219	14	0	0		86	False	False		True			UR	ライブ	シューズ	Princess Magic	みずいろ	ガーリー
+1329	ペイントルックスポーティー	SPCW10604_I01A	1	2	9	1	350	5	9	PM2-1-220	14	0	0		86	False	False		True			UR	ライブ	アクセ	Princess Magic	みずいろ	キュート
+1330	こてつくんりょうかい！　Tシャツ	SPCW10635_T01A	1	5	11	1	400	1	19	PM2-1-221	14	0	13	Tシャツ	87	True	False	Tシャツショップ どっちでSHOWに投票する（1月15日～1月20日）	True	29		R	カジュアル	トップス	PrismStone	しろ	ダンス
 1331	スペースこてつくんオレンジ	SPCW10633_T01A	3	5	4	2	500	1	14	PM2-1-222	14	0	13	めちゃマジ注目スペシャルコーデ	88	False	True	こんしゅうのみんなでどっちでSHOW！ 1月15日～1月20日 うちゅうをめざせ！こてつくんとおそろいにするならどっち？	True			R	カジュアル	トップス	PrismStone	しろ	クール
 1332	スペースこてつくんオレンジ	SPCW10633_B01A	3	5	4	2	500	3	21	PM2-1-223	14	0	13		88	False	False		True			R	カジュアル	トップス	PrismStone	しろ	ガーリー
 1333	スペースこてつくんオレンジ	SPCW10633_P01A	3	5	4	2	450	4	12	PM2-1-224	14	0	13		88	False	False		True			R	カジュアル	トップス	PrismStone	きいろ	キュート
