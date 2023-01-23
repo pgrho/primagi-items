@@ -238,6 +238,47 @@ public sealed class PrimagiDataSet
 
     #endregion Parts
 
+    #region CatchCopyCategories
+
+    private KeyedCollection<int, CatchCopyCategory>? _CatchCopyCategories;
+
+    public IList<CatchCopyCategory> CatchCopyCategories
+    {
+        get => this.GetOrCreate(ref _CatchCopyCategories);
+        set => this.Set(ref _CatchCopyCategories, value);
+    }
+
+    internal CatchCopyCategory? GetCatchCopyCategory(int id)
+        => _CatchCopyCategories != null
+        && _CatchCopyCategories.TryGetValue(id, out var g) ? g : null;
+
+    #endregion CatchCopyCategories 
+
+    #region CatchCopys
+
+    private CatchCopyCollection? _CatchCopys;
+
+    public IList<CatchCopy> CatchCopies
+    {
+        get => _CatchCopys ??= new(this);
+        set
+        {
+            if (value != _CatchCopys)
+            {
+                _CatchCopys?.Clear();
+                if (value != null)
+                {
+                    foreach (var e in value)
+                    {
+                        CatchCopies.Add(e);
+                    }
+                }
+            }
+        }
+    }
+
+    #endregion CatchCopys
+
     #region Shops
 
     private ShopCollection? _Shops;

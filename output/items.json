@@ -43082,6 +43082,2264 @@
       "imageUrl": "https://cdn.primagi.jp/assets/images/parts/thumb/img_id1439.png"
     }
   ],
+  "catchCopyCategories": [
+    {
+      "value": "プリマジスタランクでゲット",
+      "key": 1
+    },
+    {
+      "value": "コーデでゲット",
+      "key": 2
+    },
+    {
+      "value": "リズムゲームでゲット",
+      "key": 3
+    },
+    {
+      "value": "マイキャラメイクでゲット",
+      "key": 4
+    },
+    {
+      "value": "イベント・キャンペーンでゲット",
+      "key": 5
+    },
+    {
+      "value": "期間限定でゲット",
+      "key": 6
+    },
+    {
+      "value": "プリマジスタジオランウェイでゲット",
+      "key": 7
+    },
+    {
+      "value": "プリマジフレンドカードでゲット",
+      "key": 8
+    },
+    {
+      "value": "プレミアムプランでゲット",
+      "key": 9
+    },
+    {
+      "value": "ミックスコーデコンテストでゲット",
+      "key": 10
+    }
+  ],
+  "catchCopies": [
+    {
+      "chapter": "P01",
+      "id": 1,
+      "conditions": "プリ☆チャンスターMAXのフォロチケを1かいつかう",
+      "url": null,
+      "name": "永遠のプリ☆チャンアイドル",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/1.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 2,
+      "conditions": "プリズムストーンのおみせで1かいあそぶ",
+      "url": null,
+      "name": "ウェルカムプリズムストーン",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/2.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 3,
+      "conditions": "こだわりメイクパーツを1かいつかう",
+      "url": null,
+      "name": "こだわりメイクの世界",
+      "category": 4,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/3.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 4,
+      "conditions": "プリマジスタジオランウェイを1かいする",
+      "url": null,
+      "name": "うきうきファッションランウェイ",
+      "category": 7,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/4.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 5,
+      "conditions": "プリマジスタジオランウェイを10かいする",
+      "url": null,
+      "name": "ドキドキモデルスカウト",
+      "category": 7,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/5.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 6,
+      "conditions": "プリマジスタジオランウェイを100かいする",
+      "url": null,
+      "name": "まちかどファッションモンスター",
+      "category": 7,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/6.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 7,
+      "conditions": "プリマジスタジオランウェイを250かいする",
+      "url": null,
+      "name": "ワールドファッションヴィーナス",
+      "category": 7,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/7.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 8,
+      "conditions": "コーデメイツタッチを500かいする",
+      "url": null,
+      "name": "ふれあいコーデメイツ",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/8.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 9,
+      "conditions": "コーデメイツタッチを1000かいする",
+      "url": null,
+      "name": "コーデメイツ追いかけ隊！",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/9.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 10,
+      "conditions": "コーデメイツタッチを5000かいする",
+      "url": null,
+      "name": "コーデメイツとマジとも！",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/10.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 11,
+      "conditions": "コーデメイツタッチを10000かいする",
+      "url": null,
+      "name": "コーデメイツよフォーエバー",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/11.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 12,
+      "conditions": "マイキャラメイクを1かいする",
+      "url": null,
+      "name": "楽しいマイキャラチェンジ！",
+      "category": 4,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/12.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 13,
+      "conditions": "マイキャラメイクを5かいする",
+      "url": null,
+      "name": "チェンジっ娘",
+      "category": 4,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/13.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 14,
+      "conditions": "マイキャラメイクを10かいする",
+      "url": null,
+      "name": "変幻自在ガール",
+      "category": 4,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/14.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 15,
+      "conditions": "マイキャラメイクを25かいする",
+      "url": null,
+      "name": "マイキャラ20面相",
+      "category": 4,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/15.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 16,
+      "conditions": "マイキャラメイクを50かいする",
+      "url": null,
+      "name": "とことんマイキャラ",
+      "category": 4,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/16.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 17,
+      "conditions": "めちゃマジちゅうもくスペシャルコーデを20まいゲットする",
+      "url": null,
+      "name": "あつまる注目コレクション",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/17.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 18,
+      "conditions": "めちゃマジちゅうもくスペシャルコーデを100まいゲットする",
+      "url": null,
+      "name": "あふれる注目コレクション",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/18.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 19,
+      "conditions": "めちゃマジちゅうもくスペシャルコーデを200まいゲットする",
+      "url": null,
+      "name": "無限の注目コレクション",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/19.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 20,
+      "conditions": "マイキャラで10かいあそぶ",
+      "url": null,
+      "name": "マイキャラ大好き💛",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/20.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 21,
+      "conditions": "マイキャラで50かいあそぶ",
+      "url": null,
+      "name": "マイキャラ一番！",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/21.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 22,
+      "conditions": "マイキャラで100かいあそぶ",
+      "url": null,
+      "name": "マイキャラ至上主義！",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/22.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 23,
+      "conditions": "「ワッチャフル」を100かいとる",
+      "url": null,
+      "name": "ワッチャフル！",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/23.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 24,
+      "conditions": "「ワッチャフル」を1000かいとる",
+      "url": null,
+      "name": "ワッチャフルフル！",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/24.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 25,
+      "conditions": "「ワッチャフル」を5000かいとる",
+      "url": null,
+      "name": "ワッチャフルフルフル！",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/25.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 26,
+      "conditions": "「ワッチャフル」を10000かいとる",
+      "url": null,
+      "name": "ワッチャフルフルフルフル！",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/26.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 27,
+      "conditions": "コーデカードを20まいゲットする",
+      "url": null,
+      "name": "フレッシュプリマジコレクター",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/27.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 28,
+      "conditions": "コーデカードを100まいゲットする",
+      "url": null,
+      "name": "ブロンズプリマジコレクター",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/28.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 29,
+      "conditions": "コーデカードを250まいゲットする",
+      "url": null,
+      "name": "シルバープリマジコレクター",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/29.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 30,
+      "conditions": "コーデカードを500まいゲットする",
+      "url": null,
+      "name": "ゴールドプリマジコレクター",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/30.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 31,
+      "conditions": "コーデカードを1000まいゲットする",
+      "url": null,
+      "name": "プラチナプリマジコレクター",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/31.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 32,
+      "conditions": "プリマジフロートタイムで1まいカードゲットする",
+      "url": null,
+      "name": "ワッチャの予感",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/32.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 33,
+      "conditions": "プリマジフロートタイムで10まいカードゲットする",
+      "url": null,
+      "name": "ワッチャの目覚め",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/33.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 34,
+      "conditions": "プリマジフロートタイムで50まいカードゲットする",
+      "url": null,
+      "name": "ワッチャの申し子",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/34.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 35,
+      "conditions": "プリマジフロートタイムで100まいカードゲットする",
+      "url": null,
+      "name": "ワッチャのキセキ",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/35.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 36,
+      "conditions": "プリマジフロートタイムで300まいカードゲットする",
+      "url": null,
+      "name": "ワッチャの神",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/36.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 37,
+      "conditions": "だい1しょうでプリマジを30かいあそぶ",
+      "url": null,
+      "name": "第1章プリマジマスター",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/37.png"
+    },
+    {
+      "chapter": "P02",
+      "id": 38,
+      "conditions": "だい2しょうでプリマジを30かいあそぶ",
+      "url": null,
+      "name": "第2章プリマジマスター",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/38.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 39,
+      "conditions": "だい3しょうでプリマジを30かいあそぶ",
+      "url": null,
+      "name": "第3章プリマジマスター",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/39.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 40,
+      "conditions": "だい4しょうでプリマジを30かいあそぶ",
+      "url": null,
+      "name": "第4章プリマジマスター",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/40.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 41,
+      "conditions": "だい5しょうでプリマジを30かいあそぶ",
+      "url": null,
+      "name": "第5章プリマジマスター",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/41.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 42,
+      "conditions": "だい6しょうでプリマジを30かいあそぶ",
+      "url": null,
+      "name": "第6章プリマジマスター",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/42.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 43,
+      "conditions": "ミックスコーデコンテストを1かいあそぶ",
+      "url": null,
+      "name": "ミックスコンテストはじめました！",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/43.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 44,
+      "conditions": "ミックスコーデコンテストを20かいあそぶ",
+      "url": null,
+      "name": "ミックスコーデビギナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/44.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 45,
+      "conditions": "ミックスコーデコンテストを100かいあそぶ",
+      "url": null,
+      "name": "ミックスコーデのプロ",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/45.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 46,
+      "conditions": "ミックスコーデコンテストを300かいあそぶ",
+      "url": null,
+      "name": "ミックスコーデの達人",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/46.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 47,
+      "conditions": "ミックスコーデコンテストでぴったりボーナスを30かいとる",
+      "url": null,
+      "name": "ぴったりスタイル！",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/47.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 48,
+      "conditions": "ミックスコーデコンテストでぴったりボーナスを100かいとる",
+      "url": null,
+      "name": "マジぴったりスタイル！",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/48.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 49,
+      "conditions": "ミックスコーデコンテストでぴったりボーナスを300かいとる",
+      "url": null,
+      "name": "マジマジぴったりスタイル！",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/49.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 50,
+      "conditions": "ミックスコーデコンテストでぴったりボーナスを500かいとる",
+      "url": null,
+      "name": "マジマジマジぴったりスタイル！",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/50.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 51,
+      "conditions": "プリマジスタジオランウェイを500かいする",
+      "url": null,
+      "name": "グローバルファッションスター",
+      "category": 7,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/51.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 52,
+      "conditions": "プリマジスタジオランウェイを1000かいする",
+      "url": null,
+      "name": "GOGO！ランウェイ１０００！",
+      "category": 7,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/52.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 53,
+      "conditions": "「ワッチャフル」を50000かいとる",
+      "url": null,
+      "name": "ワッチャフルフルフルフルフル！",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/53.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 54,
+      "conditions": "「ワッチャフル」を100000かいとる",
+      "url": null,
+      "name": "ワッチャフルフルフルフルフルフル！",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/54.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 60,
+      "conditions": "めちゃマジちゅうもくスペシャルコーデを350まいゲットする",
+      "url": null,
+      "name": "果てしない注目コレクション",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/60.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 61,
+      "conditions": "めちゃマジちゅうもくスペシャルコーデを500まいゲットする",
+      "url": null,
+      "name": "いつでも注目コレクション",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/61.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 62,
+      "conditions": "マイキャラで500かいあそぶ",
+      "url": null,
+      "name": "マイキャラ以外マイキャラじゃないの！",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/62.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 63,
+      "conditions": "マイキャラで1000かいあそぶ",
+      "url": null,
+      "name": "マイキャラ＝わたし！",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/63.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 64,
+      "conditions": "プリマジスタジオだい1しょうでプリマジを30かいあそぶ",
+      "url": null,
+      "name": "プリマジスタジオ第1章プリマジマスター",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/64.png"
+    },
+    {
+      "chapter": "2P02",
+      "id": 65,
+      "conditions": "プリマジスタジオだい2しょうでプリマジを30かいあそぶ",
+      "url": null,
+      "name": "プリマジスタジオ第2章プリマジマスター",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/65.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 72,
+      "conditions": "タントちゃんを500かいおうえんする",
+      "url": null,
+      "name": "タントちゃんがんばって！",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/72.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 73,
+      "conditions": "タントちゃんを5000かいおうえんする",
+      "url": null,
+      "name": "タントちゃんそっち！そっち！",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/73.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 74,
+      "conditions": "タントちゃんを10000かいおうえんする",
+      "url": null,
+      "name": "タントちゃんいつもありがとう！",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/74.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 75,
+      "conditions": "プレミアムプランに1かいはいった",
+      "url": null,
+      "name": "プレミアムなプリマジライフ",
+      "category": 9,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/75.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 76,
+      "conditions": "プレミアムプランに6かいはいった",
+      "url": null,
+      "name": "圧倒的プレミアム",
+      "category": 9,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/76.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 77,
+      "conditions": "プレミアムプランに12かいはいった",
+      "url": null,
+      "name": "プレミアムオブプレミアム",
+      "category": 9,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/77.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 78,
+      "conditions": "プリマジスタジオライブを5かいあそんだ",
+      "url": "https://primagi.jp/howto/details18/",
+      "name": "プリマジスタジオライブデビュー！",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/78.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 79,
+      "conditions": "プリマジスタジオライブを50かいあそんだ",
+      "url": "https://primagi.jp/howto/details18/",
+      "name": "プリマジスタジオライブレギュラー",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/79.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 80,
+      "conditions": "プリマジスタジオライブを100かいあそんだ",
+      "url": "https://primagi.jp/howto/details18/",
+      "name": "プリマジスタジオライブトップスター",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/80.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 81,
+      "conditions": "プリマジスタジオライブを300かいあそんだ",
+      "url": "https://primagi.jp/howto/details18/",
+      "name": "プリマジスタジオライブ殿堂入り",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/81.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 82,
+      "conditions": "こんしゅうのみんなでどっちでSHOWに5かいとうひょうした",
+      "url": null,
+      "name": "どっちもいいからまよっちゃう！",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/82.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 83,
+      "conditions": "こんしゅうのみんなでどっちでSHOWに50かいとうひょうした",
+      "url": null,
+      "name": "ど・ち・ら・に・し・よ・う・か・な",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/83.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 84,
+      "conditions": "こんしゅうのみんなでどっちでSHOWに200かいとうひょうした",
+      "url": null,
+      "name": "こっち！そっち！どっち？",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/84.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 85,
+      "conditions": "こんしゅうのみんなでどっちでSHOWに400かいとうひょうした",
+      "url": null,
+      "name": "わたしの一票が結果を変える！",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/85.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 101,
+      "conditions": "プリマジを1かいする",
+      "url": null,
+      "name": "はじめてのプリマジスタ",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/101.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 102,
+      "conditions": "プリマジを10かいする",
+      "url": null,
+      "name": "うわさのルーキープリマジスタ",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/102.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 103,
+      "conditions": "プリマジを20かいする",
+      "url": null,
+      "name": "がんばるフレッシュプリマジスタ",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/103.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 104,
+      "conditions": "プリマジを50かいする",
+      "url": null,
+      "name": "人気急上昇！プリマジスタ界のエース",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/104.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 105,
+      "conditions": "プリマジを100かいする",
+      "url": null,
+      "name": "世界が注目！トッププリマジスタ",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/105.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 106,
+      "conditions": "プリマジを200かいする",
+      "url": null,
+      "name": "感動のスーパープリマジスタ",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/106.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 107,
+      "conditions": "プリマジを300かいする",
+      "url": null,
+      "name": "栄光のプリマジスターダム",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/107.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 108,
+      "conditions": "プリマジを600かいする",
+      "url": null,
+      "name": "憧れベストプリマジスタ",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/108.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 109,
+      "conditions": "プリマジを1000かいする",
+      "url": null,
+      "name": "華麗なカリスマプリマジスタ",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/109.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 151,
+      "conditions": "ランクが5になる",
+      "url": null,
+      "name": "1つ星プリマジスタ",
+      "category": 1,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/151.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 152,
+      "conditions": "ランクが10になる",
+      "url": null,
+      "name": "2つ星プリマジスタ",
+      "category": 1,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/152.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 153,
+      "conditions": "ランクが15になる",
+      "url": null,
+      "name": "3つ星プリマジスタ",
+      "category": 1,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/153.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 154,
+      "conditions": "ランクが20になる",
+      "url": null,
+      "name": "4つ星プリマジスタ",
+      "category": 1,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/154.png"
+    },
+    {
+      "chapter": "P02",
+      "id": 155,
+      "conditions": "ランクが25になる",
+      "url": null,
+      "name": "5つ星プリマジスタ",
+      "category": 1,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/155.png"
+    },
+    {
+      "chapter": "P02",
+      "id": 156,
+      "conditions": "ランクが30になる",
+      "url": null,
+      "name": "6つ星プリマジスタ",
+      "category": 1,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/156.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 157,
+      "conditions": "ランクが35になる",
+      "url": null,
+      "name": "7つ星プリマジスタ",
+      "category": 1,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/157.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 158,
+      "conditions": "ランクが40になる",
+      "url": null,
+      "name": "8つ星プリマジスタ",
+      "category": 1,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/158.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 159,
+      "conditions": "ランクが45になる",
+      "url": null,
+      "name": "9つ星プリマジスタ",
+      "category": 1,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/159.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 160,
+      "conditions": "ランクが50になる",
+      "url": null,
+      "name": "10星プリマジスタ",
+      "category": 1,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/160.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 161,
+      "conditions": "ランクが55になる",
+      "url": null,
+      "name": "11星プリマジスタ",
+      "category": 1,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/161.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 162,
+      "conditions": "ランクが60になる",
+      "url": null,
+      "name": "12星プリマジスタ",
+      "category": 1,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/162.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 163,
+      "conditions": "ランクが65になる",
+      "url": null,
+      "name": "13星プリマジスタ",
+      "category": 1,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/163.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 164,
+      "conditions": "ランクが70になる",
+      "url": null,
+      "name": "14星プリマジスタ",
+      "category": 1,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/164.png"
+    },
+    {
+      "chapter": "2P02",
+      "id": 165,
+      "conditions": "プリマジスタランクが75になる",
+      "url": null,
+      "name": "15星プリマジスタ",
+      "category": 1,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/165.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 201,
+      "conditions": "ラブリーメロディのコーデを50かいきる",
+      "url": null,
+      "name": "ラブリーメロディ好き♡",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/201.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 202,
+      "conditions": "ラブリーメロディのコーデを100かいきる",
+      "url": null,
+      "name": "ラブリーメロディマジLOVE",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/202.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 203,
+      "conditions": "ラブリーメロディのコーデを300かいきる",
+      "url": null,
+      "name": "ラブリーメロディマジマニア",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/203.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 204,
+      "conditions": "ビビッドスターのコーデを50かいきる",
+      "url": null,
+      "name": "ビビッドスター好き♡",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/204.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 205,
+      "conditions": "ビビッドスターのコーデを100かいきる",
+      "url": null,
+      "name": "ビビッドスターマジLOVE",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/205.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 206,
+      "conditions": "ビビッドスターのコーデを300かいきる",
+      "url": null,
+      "name": "ビビッドスターマジマニア",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/206.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 207,
+      "conditions": "プリズムストーンのコーデを50かいきる",
+      "url": null,
+      "name": "プリズムストーン好き♡",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/207.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 208,
+      "conditions": "プリズムストーンのコーデを100かいきる",
+      "url": null,
+      "name": "プリズムストーンマジLOVE",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/208.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 209,
+      "conditions": "プリズムストーンのコーデを300かいきる",
+      "url": null,
+      "name": "プリズムストーンマジマニア",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/209.png"
+    },
+    {
+      "chapter": "P02",
+      "id": 210,
+      "conditions": "レディアントアビスのコーデを50かいきる",
+      "url": null,
+      "name": "レディアントアビス好き♡",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/210.png"
+    },
+    {
+      "chapter": "P02",
+      "id": 211,
+      "conditions": "レディアントアビスのコーデを100かいきる",
+      "url": null,
+      "name": "レディアントアビスマジLOVE",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/211.png"
+    },
+    {
+      "chapter": "P02",
+      "id": 212,
+      "conditions": "レディアントアビスのコーデを300かいきる",
+      "url": null,
+      "name": "レディアントアビスマジマニア",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/212.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 213,
+      "conditions": "エターナルレヴューのコーデを50かいきる",
+      "url": null,
+      "name": "エターナルレヴュー好き♡",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/213.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 214,
+      "conditions": "エターナルレヴューのコーデを100かいきる",
+      "url": null,
+      "name": "エターナルレヴューマジLOVE",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/214.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 215,
+      "conditions": "エターナルレヴューのコーデを300かいきる",
+      "url": null,
+      "name": "エターナルレヴューマジマニア",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/215.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 216,
+      "conditions": "シャイニングディーバのコーデを50かいきる",
+      "url": null,
+      "name": "シャイニングディーバ好き♡",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/216.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 217,
+      "conditions": "シャイニングディーバのコーデを100かいきる",
+      "url": null,
+      "name": "シャイニングディーバマジLOVE",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/217.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 218,
+      "conditions": "シャイニングディーバのコーデを300かいきる",
+      "url": null,
+      "name": "シャイニングディーバマジマニア",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/218.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 219,
+      "conditions": "エレクトロリミックスのコーデを50かいきる",
+      "url": null,
+      "name": "エレクトロリミックス好き♡",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/219.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 220,
+      "conditions": "エレクトロリミックスのコーデを100かいきる",
+      "url": null,
+      "name": "エレクトロリミックスマジLOVE",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/220.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 221,
+      "conditions": "エレクトロリミックスのコーデを300かいきる",
+      "url": null,
+      "name": "エレクトロリミックスマジマニア",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/221.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 222,
+      "conditions": "チェリーシュガーのコーデを50かいきる",
+      "url": null,
+      "name": "チェリーシュガー好き♡",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/222.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 223,
+      "conditions": "チェリーシュガーのコーデを100かいきる",
+      "url": null,
+      "name": "チェリーシュガーマジLOVE",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/223.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 224,
+      "conditions": "チェリーシュガーのコーデを300かいきる",
+      "url": null,
+      "name": "チェリーシュガーマジマニア",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/224.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 225,
+      "conditions": "プリンセスマジックのコーデを50かいきる",
+      "url": null,
+      "name": "プリンセスマジック好き♡",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/225.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 226,
+      "conditions": "プリンセスマジックのコーデを100かいきる",
+      "url": null,
+      "name": "プリンセスマジックマジLOVE",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/226.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 227,
+      "conditions": "プリンセスマジックのコーデを300かいきる",
+      "url": null,
+      "name": "プリンセスマジックマジマニア",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/227.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 301,
+      "conditions": "だい１しょうのさいごのしゅうに10かいあそぶ",
+      "url": null,
+      "name": "第1章ラストプリンセス",
+      "category": 6,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/301.png"
+    },
+    {
+      "chapter": "P02",
+      "id": 302,
+      "conditions": "だい２しょうのさいごのしゅうに10かいあそぶ",
+      "url": null,
+      "name": "第2章ラストプリンセス",
+      "category": 6,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/302.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 303,
+      "conditions": "だい３しょうのさいごのしゅうに10かいあそぶ",
+      "url": null,
+      "name": "第3章ラストプリンセス",
+      "category": 6,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/303.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 304,
+      "conditions": "だい４しょうのさいごのしゅうに10かいあそぶ",
+      "url": null,
+      "name": "第4章ラストプリンセス",
+      "category": 6,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/304.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 305,
+      "conditions": "だい５しょうのさいごのしゅうに10かいあそぶ",
+      "url": null,
+      "name": "第5章ラストプリンセス",
+      "category": 6,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/305.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 306,
+      "conditions": "だい６しょうのさいごのしゅうに10かいあそぶ",
+      "url": null,
+      "name": "第6章ラストプリンセス",
+      "category": 6,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/306.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 307,
+      "conditions": "プリマジスタジオだい1しょうのさいごのしゅうに10かいあそぶ",
+      "url": null,
+      "name": "プリマジスタジオ第1章ラストプリンセス",
+      "category": 6,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/307.png"
+    },
+    {
+      "chapter": "2P02",
+      "id": 308,
+      "conditions": "プリマジスタジオだい2しょうのさいごのしゅうに10かいあそぶ ※ 2023年1月19日(木)～1月25日(水)",
+      "url": null,
+      "name": "プリマジスタジオ第2章ラストプリンセス",
+      "category": 6,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/308.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 321,
+      "conditions": "だい４しょうのさいしょのしゅうに10かいあそぶ",
+      "url": null,
+      "name": "ファーストプリンセス2022春",
+      "category": 6,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/321.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 322,
+      "conditions": "だい5しょうのさいしょのしゅうに10かいあそぶ",
+      "url": null,
+      "name": "ファーストプリンセス2022初夏",
+      "category": 6,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/322.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 323,
+      "conditions": "だい6しょうのさいしょのしゅうに10かいあそぶ",
+      "url": null,
+      "name": "ファーストプリンセス2022夏",
+      "category": 6,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/323.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 324,
+      "conditions": "プリマジスタジオだい1しょうのさいしょのしゅうに10かいあそぶ 2022年11月2日（水）～11月8日（火）",
+      "url": null,
+      "name": "ファーストプリンセス2022秋",
+      "category": 6,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/324.png"
+    },
+    {
+      "chapter": "2P02",
+      "id": 325,
+      "conditions": "プリマジスタジオだい2しょうのさいしょのしゅうに10かいあそぶ ※2022年12月15日(木)～12月21日(水)",
+      "url": null,
+      "name": "ファーストプリンセス2022冬",
+      "category": 6,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/325.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 401,
+      "conditions": "「私のミラクルステージ」を10かいあそぶ",
+      "url": null,
+      "name": "私のミラクルステージ",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/401.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 402,
+      "conditions": "「マジ・ワッチャパレード」を10かいあそぶ",
+      "url": null,
+      "name": "マジ・ワッチャパレード",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/402.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 403,
+      "conditions": "「Starlight!」を10かいあそぶ",
+      "url": null,
+      "name": "Starlight!",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/403.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 404,
+      "conditions": "「本気の夢ストーリー」を10かいあそぶ",
+      "url": null,
+      "name": "本気の夢ストーリー",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/404.png"
+    },
+    {
+      "chapter": "P02",
+      "id": 405,
+      "conditions": "「Dreaming Sound」を10かいあそぶ",
+      "url": null,
+      "name": "Dreaming Sound",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/405.png"
+    },
+    {
+      "chapter": "P02",
+      "id": 406,
+      "conditions": "「こんな世界に告ぐ」を10かいあそぶ",
+      "url": null,
+      "name": "こんな世界に告ぐ",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/406.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 407,
+      "conditions": "「The Secret Garden」を10かいあそぶ",
+      "url": null,
+      "name": "The Secret Garden",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/407.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 408,
+      "conditions": "「VIVIマジ ct☆STAR」を10かいあそぶ",
+      "url": null,
+      "name": "VIVIマジ ct☆STAR",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/408.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 409,
+      "conditions": "「Believe」を10かいあそぶ",
+      "url": null,
+      "name": "Believe",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/409.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 410,
+      "conditions": "「滲む、馨る、」 を10かいあそぶ",
+      "url": null,
+      "name": "滲む、馨る、",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/410.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 411,
+      "conditions": "「イワナイ」を10かいあそぶ",
+      "url": null,
+      "name": "イワナイ",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/411.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 412,
+      "conditions": "「私のミラクルステージ -コーデメイツ本日お休み- 」を1かいあそぶ",
+      "url": null,
+      "name": "本日はお休みです",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/412.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 413,
+      "conditions": "「奇跡の降る」を10かいあそぶ",
+      "url": null,
+      "name": "奇跡の降る",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/413.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 414,
+      "conditions": "「マジでマジマジプリマジDuoParty」を10かいあそぶ",
+      "url": null,
+      "name": "マジでマジマジプリマジDuoParty",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/414.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 415,
+      "conditions": "「天頂のコンフィアンサ」を10かいあそぶ",
+      "url": null,
+      "name": "天頂のコンフィアンサ",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/415.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 416,
+      "conditions": "「Sweetness×Darkness」を10かいあそぶ",
+      "url": null,
+      "name": "Sweetness×Darkness",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/416.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 417,
+      "conditions": "「Lux Aeterna」を10かいあそぶ",
+      "url": null,
+      "name": "Lux Aeterna",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/417.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 418,
+      "conditions": "「ワッチャ！プリーズ！マジック！」5人Verを10かいあそぶ",
+      "url": null,
+      "name": "ワッチャ！プリーズ！マジック！ -What's your \"Please\" Magic?-",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/418.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 419,
+      "conditions": "「ワッチャ！プリーズ！マジック！」6人Verを10かいあそぶ",
+      "url": null,
+      "name": "ワッチャ！プリーズ！マジック！ -What's your \"Please\" Magic?-",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/419.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 420,
+      "conditions": "「ワッチャ！プリーズ！マジック！ なつやすみおつかれサマー ！を」1かいあそぶ",
+      "url": null,
+      "name": "おつかれサマー！",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/420.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 421,
+      "conditions": "「おしゃれプリンセス♡マジックスター！」を10かいあそぶ",
+      "url": null,
+      "name": "おしゃれプリンセス♡マジックスター！",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/421.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 422,
+      "conditions": "「本気アピショータイム」を10かいあそぶ",
+      "url": null,
+      "name": "本気アピショータイム",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/422.png"
+    },
+    {
+      "chapter": "2P02",
+      "id": 423,
+      "conditions": "「どっちなどっちもどっちでミラクルNo.1」を10かいあそぶ",
+      "url": null,
+      "name": "どっちなどっちもどっちでミラクルNo.1",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/423.png"
+    },
+    {
+      "chapter": "P01",
+      "id": 501,
+      "conditions": "「フルーツパフェもりもりプリマジ」を1かいあそぶ",
+      "url": null,
+      "name": "フルーツパフェサイコー！",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/501.png"
+    },
+    {
+      "chapter": "P02",
+      "id": 502,
+      "conditions": "「クリスマスベルチャンス」を1かいあそぶ",
+      "url": null,
+      "name": "ホーリーナイトクリスマス！",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/502.png"
+    },
+    {
+      "chapter": "P02",
+      "id": 503,
+      "conditions": "「2022!マナマナみゃむチャンス」を1かいあそぶ",
+      "url": null,
+      "name": "2022年もよろしくな！",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/503.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 504,
+      "conditions": "「ショコラティエホワイトチャンス」を1かいあそぶ",
+      "url": null,
+      "name": "ハッピースイートショコラティエ！",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/504.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 505,
+      "conditions": "だい3しょうで「キラパワサニーキラリコーデ」を5かいきる",
+      "url": null,
+      "name": "ビビ～～っとキッタぁ～～～！",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/505.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 506,
+      "conditions": "「イースターバニーブラックチャンス」を1かいあそぶ",
+      "url": null,
+      "name": "ハッピーうさうさイースター！",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/506.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 507,
+      "conditions": "だい4しょうで「キラパワムーンユヅキコーデ」を5かいきる",
+      "url": null,
+      "name": "私が力になれるなら！",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/507.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 508,
+      "conditions": "だい４しょうで「ハローキティだいすきコーデ」を10かいきる",
+      "url": null,
+      "name": "ハローキティだいすき",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/508.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 509,
+      "conditions": "だい４しょうで「ポムポムプリンだいすきコーデ」を10かいきる",
+      "url": null,
+      "name": "ポムポムプリンだいすき",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/509.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 510,
+      "conditions": "「フォーチュンスターオレンジチャンス」を1かいあそぶ",
+      "url": null,
+      "name": "輝くフォーチュンスター",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/510.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 511,
+      "conditions": "「シナモロールだいすきコーデ」を10かいきる",
+      "url": null,
+      "name": "シナモロールだいすき",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/511.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 512,
+      "conditions": "「ポチャッコだいすきコーデ」を10かいきる",
+      "url": null,
+      "name": "ポチャッコだいすき",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/512.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 513,
+      "conditions": "「はんなりゆかたふじいろチャンス」を1かいあそぶ",
+      "url": null,
+      "name": "はんなりキ・ブ・ン",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/513.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 514,
+      "conditions": "「ハロウィンフリルパンプキンチャンス」を1かいあそぶ",
+      "url": null,
+      "name": "トリック・オア・パンプキン",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/514.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 515,
+      "conditions": "「マイメロディだいすきコーデ」を10かいきる",
+      "url": null,
+      "name": "マイメロディだいすき",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/515.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 516,
+      "conditions": "「クロミだいすきコーデ」を10かいきる",
+      "url": null,
+      "name": "クロミだいすき",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/516.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 517,
+      "conditions": "「ショートケーキストロベリーチャンス」を1かいあそぶ",
+      "url": null,
+      "name": "ケーキといえば！ショートケーキ！",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/517.png"
+    },
+    {
+      "chapter": "2P02",
+      "id": 518,
+      "conditions": "「パウダースノーナイトチャンス」を1かいあそぶ",
+      "url": null,
+      "name": "キラふわスノーナイト",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/518.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 601,
+      "conditions": "あつまれ！ベストフレンドでまつりのなかよしどが10になる",
+      "url": null,
+      "name": "まつり大好き💛",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/601.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 602,
+      "conditions": "あつまれ！ベストフレンドでみゃむのなかよしどが10になる",
+      "url": null,
+      "name": "みゃむ大好き💛",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/602.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 603,
+      "conditions": "あつまれ！ベストフレンドでひなのなかよしどが10になる",
+      "url": null,
+      "name": "ひな大好き💛",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/603.png"
+    },
+    {
+      "chapter": "2P02",
+      "id": 604,
+      "conditions": "あつまれ！ベストフレンドでチムムのなかよしどが10になる",
+      "url": null,
+      "name": "チムム大好き💛",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/604.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 605,
+      "conditions": "あつまれ！ベストフレンドでれもんのなかよしどが10になる",
+      "url": null,
+      "name": "れもん大好き💛",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/605.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 607,
+      "conditions": "あつまれ！ベストフレンドであまねのなかよしどが10になる",
+      "url": null,
+      "name": "あまね大好き💛",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/607.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 609,
+      "conditions": "あつまれ！ベストフレンドであうるのなかよしどが10になる",
+      "url": null,
+      "name": "あうる大好き💛",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/609.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 611,
+      "conditions": "あつまれ！ベストフレンドでみるきのなかよしどが10になる",
+      "url": null,
+      "name": "みるき大好き💛",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/611.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 613,
+      "conditions": "あつまれ！ベストフレンドでジェニファーのなかよしどが10になる",
+      "url": null,
+      "name": "ジェニファー大好き💛",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/613.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 641,
+      "conditions": "はじめてフレンドができる",
+      "url": null,
+      "name": "はじめてのフレンド",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/641.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 642,
+      "conditions": "フレンドのかずが10にんになる",
+      "url": null,
+      "name": "ちっこいフレンドの輪！",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/642.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 643,
+      "conditions": "フレンドのかずが100にんになる",
+      "url": null,
+      "name": "たのしいフレンドの輪！",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/643.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 644,
+      "conditions": "フレンドのかずが300にんになる",
+      "url": null,
+      "name": "ひろーいフレンドの輪！",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/644.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 645,
+      "conditions": "フレンドのかずが500にんになる",
+      "url": null,
+      "name": "おっきいフレンドの輪！",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/645.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 661,
+      "conditions": "フレンドランクが10になる",
+      "url": null,
+      "name": "フレンドパークのにんきもの！",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/661.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 681,
+      "conditions": "あつまれ！ベストフレンドでなかよしど20のフレンドができる",
+      "url": null,
+      "name": "はじめましてベストフレンドです。",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/681.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 682,
+      "conditions": "あつまれ！ベストフレンドでなかよしど50のフレンドができる",
+      "url": null,
+      "name": "ベストフレンドフォーエバー！",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/682.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 683,
+      "conditions": "あつまれ！ベストフレンドでなかよしど99のフレンドができる",
+      "url": null,
+      "name": "3150フレンドフォーエバー！",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/683.png"
+    },
+    {
+      "chapter": "P02",
+      "id": 701,
+      "conditions": "フレアエレメンツコーデをフルコーデきて「フレアエレメンツコーデフェス」のアンコールライブを1かいあそぶ",
+      "url": null,
+      "name": "フレアエレメンツマスター",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/701.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 702,
+      "conditions": "アクアエレメンツコーデをフルコーデきて「アクアエレメンツコーデフェス」のアンコールライブを1かいあそぶ",
+      "url": null,
+      "name": "アクアエレメンツマスター",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/702.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 703,
+      "conditions": "フラッシュエレメンツコーデをフルコーデきて「フラッシュエレメンツコーデフェス」のアンコールライブを1かいあそぶ",
+      "url": null,
+      "name": "フラッシュエレメンツマスター",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/703.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 704,
+      "conditions": "ダークネスエレメンツコーデをフルコーデきて「ダークネスエレメンツコーデフェス」のアンコールライブを1かいあそぶ",
+      "url": null,
+      "name": "ダークネスエレメンツマスター",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/704.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 705,
+      "conditions": "ブライトネスエレメンツコーデをフルコーデきて「ブライトネスエレメンツコーデフェス」のアンコールライブを1かいあそぶ",
+      "url": null,
+      "name": "ブライトネスエレメンツマスター",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/705.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 706,
+      "conditions": "サンシャインエレメンツコーデをフルコーデきて「サンシャインエレメンツコーデフェス」のアンコールライブを1かいあそぶ",
+      "url": null,
+      "name": "サンシャインエレメンツマスター",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/706.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 707,
+      "conditions": "ラブエレメンツコーデをフルコーデきて「ラブエレメンツコーデフェス」のアンコールライブを1かいあそぶ",
+      "url": null,
+      "name": "ラブエレメンツマスター",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/707.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 708,
+      "conditions": "エレメンツマスターのキャッチコピーをすべてあつめる1かいあそぶ",
+      "url": null,
+      "name": "エレメンツレジェンド",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/708.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 801,
+      "conditions": "「むらさき×スタイリッシュコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "むらさきイリッシュ！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/801.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 802,
+      "conditions": "「ポップ×スポーティーコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ポッポーティー！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/802.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 803,
+      "conditions": "「あか×リボンコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "あかボン！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/803.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 804,
+      "conditions": "「ゴシック×ライブコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ゴシライブ！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/804.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 805,
+      "conditions": "「みどり×クールコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "みどール！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/805.png"
+    },
+    {
+      "chapter": "P03",
+      "id": 806,
+      "conditions": "「ガーリー×きいろコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "きガーリー！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/806.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 807,
+      "conditions": "「ラブリー×スイーツコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ラブィーツ！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/807.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 808,
+      "conditions": "「あお×チェックコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "あおェック！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/808.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 809,
+      "conditions": "「ちゃいろ×キュートコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ちゃいート！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/809.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 810,
+      "conditions": "「カジュアル×ピンクコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "カジュンク！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/810.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 811,
+      "conditions": "「みずいろ×デジタルコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "みずタル！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/811.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 812,
+      "conditions": "「エレガント×ミステリアスコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "エレステリアス！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/812.png"
+    },
+    {
+      "chapter": "P04",
+      "id": 813,
+      "conditions": "「ダンス×オレンジコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ダンレンジ！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/813.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 814,
+      "conditions": "「あか×ベーシックコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "あかーシック！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/814.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 815,
+      "conditions": "「ジュエル×クールコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ジュエール！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/815.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 816,
+      "conditions": "「フラワー×ハートコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "フラワート！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/816.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 817,
+      "conditions": "「スター×ライブコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "スターイブ！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/817.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 818,
+      "conditions": "「むらさき×キュートコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "むらさキュート！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/818.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 819,
+      "conditions": "「ゴシック×きいろコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ゴシッき！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/819.png"
+    },
+    {
+      "chapter": "P05",
+      "id": 820,
+      "conditions": "「しろ×スタイリッシュコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "しろイリッシュ！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/820.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 821,
+      "conditions": "「オレンジ×ポップコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "オレンップ！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/821.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 822,
+      "conditions": "「カジュアル×ミステリアスコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "カジュアリアス！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/822.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 823,
+      "conditions": "「ジュエル×スポーティーコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ジュエポーティー！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/823.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 824,
+      "conditions": "「リボン×ラブリーコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "リボブリー！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/824.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 825,
+      "conditions": "「みどり×ベーシックコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "みどシック！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/825.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 826,
+      "conditions": "「エレガント×ゴールドコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "エレガールド！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/826.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 827,
+      "conditions": "「みずいろ×ガーリーコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "みずーリー！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/827.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 828,
+      "conditions": "「ピンク×ハートコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ピンハート！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/828.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 829,
+      "conditions": "「シルバー×ダンスコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "シルバンス！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/829.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 830,
+      "conditions": "「くろ×アニマルコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "くろニマル！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/830.png"
+    },
+    {
+      "chapter": "P06",
+      "id": 831,
+      "conditions": "「しろ×ライブコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "しろイブ！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/831.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 832,
+      "conditions": "「みどり×チェックコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "みェック！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/832.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 833,
+      "conditions": "「あお×カジュアルコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "あジュアル！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/833.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 834,
+      "conditions": "「しろ×スターコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "しろター！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/834.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 835,
+      "conditions": "「オレンジ×キュートコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "オレート！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/835.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 836,
+      "conditions": "「くろ×クールコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "くろール！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/836.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 837,
+      "conditions": "「ライブ×デジタルコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ラジタル！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/837.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 838,
+      "conditions": "「アニマル×スタイリッシュコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "アニマリッシュ！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/838.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 839,
+      "conditions": "「きいろ×スイーツコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "きイーツ！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/839.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 840,
+      "conditions": "「みずいろ×ジュエルコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "みジュエル！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/840.png"
+    },
+    {
+      "chapter": "2P01",
+      "id": 841,
+      "conditions": "「むらさき×ラブリーコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "むらブリー！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/841.png"
+    }
+  ],
   "shops": [
     {
       "id": "1523",

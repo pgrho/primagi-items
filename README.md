@@ -18,6 +18,11 @@
 - [CSV](./output/parts.csv)
 - [TSV](./output/parts.tsv)
 
+## キャッチコピー
+- [一覧](./output/copies.md)
+- [CSV](./output/copies.csv)
+- [TSV](./output/copies.tsv)
+
 ## あそべるお店
 - [Googleマップ](https://www.google.com/maps/d/u/0/edit?mid=1YwYdH5Wf2qnXj8e9jBUFDVdsHnI12jK2&usp=sharing)
 - [CSV](./output/shops.csv)

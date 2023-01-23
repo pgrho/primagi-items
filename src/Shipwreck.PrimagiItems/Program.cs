@@ -18,6 +18,7 @@ internal class Program
         }
         var ds = new PrimagiDataSet();
         await ItemWriter.GenerateAsync(hc, di, ds);
+        await CatchCopyWriter.GenerateAsync(hc, di, ds);
         await PartsWriter.GenerateAsync(hc, di, ds);
         await ShopWriter.GenerateAsync(hc, di, ds);
 
