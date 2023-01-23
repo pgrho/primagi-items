@@ -34239,6 +34239,38 @@
     },
     {
       "collection": 14,
+      "name": "コスメバタフライTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 90,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "Tシャツショップ どっちでSHOWに投票する（1月22日～1月27日）",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する（1月22日～1月27日）",
+      "order": 30,
+      "chapter": "2P02",
+      "items": [
+        {
+          "id": 1339,
+          "modelName": "SPCW10639_T01A",
+          "sealId": "PM2-1-230",
+          "name": "コスメバタフライTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 9,
+          "color": 11,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 2,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P02/1339.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 14,
       "name": "コスメティックフラワーベリー",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 91,
