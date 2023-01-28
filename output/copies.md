@@ -98,6 +98,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/63.png "マイキャラ＝わたし！")|63|1|4|リズムゲームでゲット|マイキャラ＝わたし！|マイキャラで1000かいあそぶ|https://cdn.primagi.jp/assets/images/copy/63.png|
 |![](https://cdn.primagi.jp/assets/images/copy/64.png "プリマジスタジオ第1章プリマジマスター")|64|2|1|リズムゲームでゲット|プリマジスタジオ第1章プリマジマスター|プリマジスタジオだい1しょうでプリマジを30かいあそぶ|https://cdn.primagi.jp/assets/images/copy/64.png|
 |![](https://cdn.primagi.jp/assets/images/copy/65.png "プリマジスタジオ第2章プリマジマスター")|65|2|2|リズムゲームでゲット|プリマジスタジオ第2章プリマジマスター|プリマジスタジオだい2しょうでプリマジを30かいあそぶ|https://cdn.primagi.jp/assets/images/copy/65.png|
+|![](https://cdn.primagi.jp/assets/images/copy/66.png "プリマジスタジオ第3章プリマジマスター")|66|2|3|リズムゲームでゲット|プリマジスタジオ第3章プリマジマスター|プリマジスタジオだい3しょうでプリマジを30かいあそぶ|https://cdn.primagi.jp/assets/images/copy/66.png|
 |![](https://cdn.primagi.jp/assets/images/copy/72.png "タントちゃんがんばって！")|72|2|1|リズムゲームでゲット|タントちゃんがんばって！|タントちゃんを500かいおうえんする|https://cdn.primagi.jp/assets/images/copy/72.png|
 |![](https://cdn.primagi.jp/assets/images/copy/73.png "タントちゃんそっち！そっち！")|73|2|1|リズムゲームでゲット|タントちゃんそっち！そっち！|タントちゃんを5000かいおうえんする|https://cdn.primagi.jp/assets/images/copy/73.png|
 |![](https://cdn.primagi.jp/assets/images/copy/74.png "タントちゃんいつもありがとう！")|74|2|1|リズムゲームでゲット|タントちゃんいつもありがとう！|タントちゃんを10000かいおうえんする|https://cdn.primagi.jp/assets/images/copy/74.png|
@@ -137,6 +138,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/421.png "おしゃれプリンセス♡マジックスター！")|421|2|1|リズムゲームでゲット|おしゃれプリンセス♡マジックスター！|「おしゃれプリンセス♡マジックスター！」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/421.png|
 |![](https://cdn.primagi.jp/assets/images/copy/422.png "本気アピショータイム")|422|2|1|リズムゲームでゲット|本気アピショータイム|「本気アピショータイム」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/422.png|
 |![](https://cdn.primagi.jp/assets/images/copy/423.png "どっちなどっちもどっちでミラクルNo.1")|423|2|2|リズムゲームでゲット|どっちなどっちもどっちでミラクルNo.1|「どっちなどっちもどっちでミラクルNo.1」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/423.png|
+|![](https://cdn.primagi.jp/assets/images/copy/424.png "バズパズルピピピース")|424|2|3|リズムゲームでゲット|バズパズルピピピース|「バズパズルピピピース」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/424.png|
 ## マイキャラメイクでゲット
 
 ||ID|年|章|カテゴリー|名前|取得条件|画像|
@@ -167,6 +169,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/514.png "トリック・オア・パンプキン")|514|1|6|イベント・キャンペーンでゲット|トリック・オア・パンプキン|「ハロウィンフリルパンプキンチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/514.png|
 |![](https://cdn.primagi.jp/assets/images/copy/517.png "ケーキといえば！ショートケーキ！")|517|2|1|イベント・キャンペーンでゲット|ケーキといえば！ショートケーキ！|「ショートケーキストロベリーチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/517.png|
 |![](https://cdn.primagi.jp/assets/images/copy/518.png "キラふわスノーナイト")|518|2|2|イベント・キャンペーンでゲット|キラふわスノーナイト|「パウダースノーナイトチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/518.png|
+|![](https://cdn.primagi.jp/assets/images/copy/519.png "すましおすましひなまつり")|519|2|3|イベント・キャンペーンでゲット|すましおすましひなまつり|「おすましおだいりさまチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/519.png|
 |![](https://cdn.primagi.jp/assets/images/copy/701.png "フレアエレメンツマスター")|701|1|2|イベント・キャンペーンでゲット|フレアエレメンツマスター|フレアエレメンツコーデをフルコーデきて「フレアエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/701.png|
 |![](https://cdn.primagi.jp/assets/images/copy/702.png "アクアエレメンツマスター")|702|1|3|イベント・キャンペーンでゲット|アクアエレメンツマスター|アクアエレメンツコーデをフルコーデきて「アクアエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/702.png|
 |![](https://cdn.primagi.jp/assets/images/copy/703.png "フラッシュエレメンツマスター")|703|1|4|イベント・キャンペーンでゲット|フラッシュエレメンツマスター|フラッシュエレメンツコーデをフルコーデきて「フラッシュエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/703.png|
@@ -175,6 +178,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/706.png "サンシャインエレメンツマスター")|706|1|6|イベント・キャンペーンでゲット|サンシャインエレメンツマスター|サンシャインエレメンツコーデをフルコーデきて「サンシャインエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/706.png|
 |![](https://cdn.primagi.jp/assets/images/copy/707.png "ラブエレメンツマスター")|707|1|6|イベント・キャンペーンでゲット|ラブエレメンツマスター|ラブエレメンツコーデをフルコーデきて「ラブエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/707.png|
 |![](https://cdn.primagi.jp/assets/images/copy/708.png "エレメンツレジェンド")|708|1|6|イベント・キャンペーンでゲット|エレメンツレジェンド|エレメンツマスターのキャッチコピーをすべてあつめる1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/708.png|
+|![](https://cdn.primagi.jp/assets/images/copy/710.png "はじまりのおしゃれプリンセス")|710|2|3|イベント・キャンペーンでゲット|はじまりのおしゃれプリンセス|店頭大会「プリンセスコレクション～はじまりのプリンセス～」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/710.png|
 ## 期間限定でゲット
 
 ||ID|年|章|カテゴリー|名前|取得条件|画像|
@@ -187,11 +191,13 @@
 |![](https://cdn.primagi.jp/assets/images/copy/306.png "第6章ラストプリンセス")|306|1|6|期間限定でゲット|第6章ラストプリンセス|だい６しょうのさいごのしゅうに10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/306.png|
 |![](https://cdn.primagi.jp/assets/images/copy/307.png "プリマジスタジオ第1章ラストプリンセス")|307|2|1|期間限定でゲット|プリマジスタジオ第1章ラストプリンセス|プリマジスタジオだい1しょうのさいごのしゅうに10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/307.png|
 |![](https://cdn.primagi.jp/assets/images/copy/308.png "プリマジスタジオ第2章ラストプリンセス")|308|2|2|期間限定でゲット|プリマジスタジオ第2章ラストプリンセス|プリマジスタジオだい2しょうのさいごのしゅうに10かいあそぶ ※ 2023年1月19日(木)～1月25日(水)|https://cdn.primagi.jp/assets/images/copy/308.png|
+|![](https://cdn.primagi.jp/assets/images/copy/309.png "プリマジスタジオ第3章ラストプリンセス")|309|2|3|期間限定でゲット|プリマジスタジオ第3章ラストプリンセス|プリマジスタジオだい3しょうのさいごのしゅうに10かいあそぶ ※2023年3月2日(木)～3月8日(水)|https://cdn.primagi.jp/assets/images/copy/309.png|
 |![](https://cdn.primagi.jp/assets/images/copy/321.png "ファーストプリンセス2022春")|321|1|4|期間限定でゲット|ファーストプリンセス2022春|だい４しょうのさいしょのしゅうに10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/321.png|
 |![](https://cdn.primagi.jp/assets/images/copy/322.png "ファーストプリンセス2022初夏")|322|1|5|期間限定でゲット|ファーストプリンセス2022初夏|だい5しょうのさいしょのしゅうに10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/322.png|
 |![](https://cdn.primagi.jp/assets/images/copy/323.png "ファーストプリンセス2022夏")|323|1|6|期間限定でゲット|ファーストプリンセス2022夏|だい6しょうのさいしょのしゅうに10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/323.png|
 |![](https://cdn.primagi.jp/assets/images/copy/324.png "ファーストプリンセス2022秋")|324|2|1|期間限定でゲット|ファーストプリンセス2022秋|プリマジスタジオだい1しょうのさいしょのしゅうに10かいあそぶ 2022年11月2日（水）～11月8日（火）|https://cdn.primagi.jp/assets/images/copy/324.png|
 |![](https://cdn.primagi.jp/assets/images/copy/325.png "ファーストプリンセス2022冬")|325|2|2|期間限定でゲット|ファーストプリンセス2022冬|プリマジスタジオだい2しょうのさいしょのしゅうに10かいあそぶ ※2022年12月15日(木)～12月21日(水)|https://cdn.primagi.jp/assets/images/copy/325.png|
+|![](https://cdn.primagi.jp/assets/images/copy/326.png "ファーストプリンセス2023冬")|326|2|3|期間限定でゲット|ファーストプリンセス2023冬|プリマジスタジオだい3しょうのさいしょのしゅうに10かいあそぶ ※2023年1月26日(木)～2月1日(水)|https://cdn.primagi.jp/assets/images/copy/326.png|
 ## プリマジスタジオランウェイでゲット
 
 ||ID|年|章|カテゴリー|名前|取得条件|画像|
@@ -214,6 +220,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/607.png "あまね大好き💛")|607|1|4|プリマジフレンドカードでゲット|あまね大好き💛|あつまれ！ベストフレンドであまねのなかよしどが10になる|https://cdn.primagi.jp/assets/images/copy/607.png|
 |![](https://cdn.primagi.jp/assets/images/copy/609.png "あうる大好き💛")|609|1|4|プリマジフレンドカードでゲット|あうる大好き💛|あつまれ！ベストフレンドであうるのなかよしどが10になる|https://cdn.primagi.jp/assets/images/copy/609.png|
 |![](https://cdn.primagi.jp/assets/images/copy/611.png "みるき大好き💛")|611|1|4|プリマジフレンドカードでゲット|みるき大好き💛|あつまれ！ベストフレンドでみるきのなかよしどが10になる|https://cdn.primagi.jp/assets/images/copy/611.png|
+|![](https://cdn.primagi.jp/assets/images/copy/612.png "はにたん大好き💛")|612|2|3|プリマジフレンドカードでゲット|はにたん大好き💛|あつまれ！ベストフレンドではにたんのなかよしどが10になる|https://cdn.primagi.jp/assets/images/copy/612.png|
 |![](https://cdn.primagi.jp/assets/images/copy/613.png "ジェニファー大好き💛")|613|1|6|プリマジフレンドカードでゲット|ジェニファー大好き💛|あつまれ！ベストフレンドでジェニファーのなかよしどが10になる|https://cdn.primagi.jp/assets/images/copy/613.png|
 |![](https://cdn.primagi.jp/assets/images/copy/641.png "はじめてのフレンド")|641|1|4|プリマジフレンドカードでゲット|はじめてのフレンド|はじめてフレンドができる|https://cdn.primagi.jp/assets/images/copy/641.png|
 |![](https://cdn.primagi.jp/assets/images/copy/642.png "ちっこいフレンドの輪！")|642|1|4|プリマジフレンドカードでゲット|ちっこいフレンドの輪！|フレンドのかずが10にんになる|https://cdn.primagi.jp/assets/images/copy/642.png|

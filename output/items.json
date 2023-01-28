@@ -38343,6 +38343,172 @@
     },
     {
       "collection": 16,
+      "name": "パステルマカロンチョコミント",
+      "kinds": "めちゃマジフレンドコーデ",
+      "directoryNumber": 45,
+      "isShow": true,
+      "hasMainImage": true,
+      "span": "スタジオ第3・4章フレンドポイント 2500ポイント",
+      "spanFriendPoint": 2500,
+      "order": 2,
+      "chapter": "2P03",
+      "items": [
+        {
+          "id": 1507,
+          "modelName": "SPCW10701_T01A",
+          "sealId": "PM2-2-127",
+          "name": "パステルマカロンチョコミント",
+          "watcha": 500,
+          "genre": 1,
+          "brand": 1,
+          "color": 6,
+          "rarity": 2,
+          "category": 1,
+          "subCategory": 8,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/1507.png"
+        },
+        {
+          "id": 1508,
+          "modelName": "SPCW10701_B01A",
+          "sealId": "PM2-2-128",
+          "name": "パステルマカロンチョコミント",
+          "watcha": 500,
+          "genre": 1,
+          "brand": 1,
+          "color": 6,
+          "rarity": 2,
+          "category": 3,
+          "subCategory": 14,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/1508.png"
+        },
+        {
+          "id": 1509,
+          "modelName": "SPCW10701_P01A",
+          "sealId": "PM2-2-129",
+          "name": "パステルマカロンチョコミント",
+          "watcha": 450,
+          "genre": 1,
+          "brand": 1,
+          "color": 6,
+          "rarity": 2,
+          "category": 4,
+          "subCategory": 17,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/1509.png"
+        },
+        {
+          "id": 1510,
+          "modelName": "SPCW10701_I01A",
+          "sealId": "PM2-2-130",
+          "name": "パステルマカロンチョコミント",
+          "watcha": 450,
+          "genre": 1,
+          "brand": 1,
+          "color": 6,
+          "rarity": 2,
+          "category": 5,
+          "subCategory": 4,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/1510.png"
+        }
+      ],
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/img_codination_45_main.jpg"
+    },
+    {
+      "collection": 16,
+      "name": "フルーツパフェチョコミント",
+      "kinds": "めちゃマジフレンドコーデ",
+      "directoryNumber": 46,
+      "isShow": true,
+      "hasMainImage": true,
+      "span": "スタジオ第3・4章フレンドポイント 4000ポイント",
+      "spanFriendPoint": 4000,
+      "order": 3,
+      "chapter": "2P03",
+      "items": [
+        {
+          "id": 1511,
+          "modelName": "SPCW10702_T01A",
+          "sealId": "PM2-2-131",
+          "name": "フルーツパフェチョコミント",
+          "watcha": 500,
+          "genre": 1,
+          "brand": 1,
+          "color": 6,
+          "rarity": 2,
+          "category": 1,
+          "subCategory": 4,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/1511.png"
+        },
+        {
+          "id": 1512,
+          "modelName": "SPCW10702_B01A",
+          "sealId": "PM2-2-132",
+          "name": "フルーツパフェチョコミント",
+          "watcha": 500,
+          "genre": 1,
+          "brand": 1,
+          "color": 6,
+          "rarity": 2,
+          "category": 3,
+          "subCategory": 8,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/1512.png"
+        },
+        {
+          "id": 1513,
+          "modelName": "SPCW10702_P01A",
+          "sealId": "PM2-2-133",
+          "name": "フルーツパフェチョコミント",
+          "watcha": 450,
+          "genre": 1,
+          "brand": 1,
+          "color": 6,
+          "rarity": 2,
+          "category": 4,
+          "subCategory": 5,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/1513.png"
+        },
+        {
+          "id": 1514,
+          "modelName": "SPCW10702_I01A",
+          "sealId": "PM2-2-134",
+          "name": "フルーツパフェチョコミント",
+          "watcha": 450,
+          "genre": 1,
+          "brand": 1,
+          "color": 1,
+          "rarity": 2,
+          "category": 5,
+          "subCategory": 17,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/1514.png"
+        }
+      ],
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/img_codination_46_main.jpg"
+    },
+    {
+      "collection": 16,
       "name": "おすましおだいりさま",
       "kinds": "期間限定",
       "directoryNumber": 47,
@@ -39318,6 +39484,38 @@
     },
     {
       "collection": 17,
+      "name": "めざめのプリンセスパープル",
+      "kinds": "プロモ",
+      "directoryNumber": 111,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "2月18日（土）～3月5日（日）店頭大会　プリンセスコレクション～はじまりのプリンセス～",
+      "spanEventName": "2月18日（土）～3月5日（日）店頭大会　プリンセスコレクション～はじまりのプリンセス～",
+      "order": 21,
+      "chapter": "2P03",
+      "items": [
+        {
+          "id": 20458,
+          "modelName": "SPCW20130_I01A",
+          "sealId": "P-299",
+          "name": "めざめのプリンセスパープル",
+          "watcha": 550,
+          "genre": 3,
+          "brand": 9,
+          "color": 13,
+          "rarity": 3,
+          "category": 5,
+          "subCategory": 11,
+          "isShowItem": true,
+          "icon": 18,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/20458.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 17,
       "name": "フラワーブロッサムブルー",
       "kinds": "プロモ",
       "directoryNumber": 112,
@@ -40007,6 +40205,72 @@
         }
       ],
       "imageUrl": null
+    },
+    {
+      "collection": 16,
+      "name": "マナマナはにたんベア",
+      "kinds": "期間限定",
+      "directoryNumber": 134,
+      "isShow": true,
+      "hasMainImage": true,
+      "span": "ナムコでSR「マナマナはにたんベア」ゲットチャンス！",
+      "spanEventName": "ナムコでSR「マナマナはにたんベア」ゲットチャンス！",
+      "order": 5,
+      "chapter": "2P03",
+      "items": [
+        {
+          "id": 20537,
+          "modelName": "SPCW10674_D01A",
+          "sealId": "P-319",
+          "name": "マナマナはにたんベア",
+          "watcha": 1000,
+          "genre": 3,
+          "brand": 6,
+          "color": 1,
+          "rarity": 2,
+          "category": 2,
+          "subCategory": 19,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/20537.png"
+        },
+        {
+          "id": 20538,
+          "modelName": "SPCW10674_P01A",
+          "sealId": "P-320",
+          "name": "マナマナはにたんベア",
+          "watcha": 450,
+          "genre": 3,
+          "brand": 6,
+          "color": 1,
+          "rarity": 2,
+          "category": 4,
+          "subCategory": 6,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/20538.png"
+        },
+        {
+          "id": 20539,
+          "modelName": "SPCW10674_I01A",
+          "sealId": "P-321",
+          "name": "マナマナはにたんベア",
+          "watcha": 450,
+          "genre": 3,
+          "brand": 6,
+          "color": 1,
+          "rarity": 2,
+          "category": 5,
+          "subCategory": 16,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/20539.png"
+        }
+      ],
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/img_codination_134_main.jpg"
     },
     {
       "collection": 1,
@@ -43666,6 +43930,15 @@
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/65.png"
     },
     {
+      "chapter": "2P03",
+      "id": 66,
+      "conditions": "プリマジスタジオだい3しょうでプリマジを30かいあそぶ",
+      "url": null,
+      "name": "プリマジスタジオ第3章プリマジマスター",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/66.png"
+    },
+    {
       "chapter": "2P01",
       "id": 72,
       "conditions": "タントちゃんを500かいおうえんする",
@@ -44323,6 +44596,15 @@
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/308.png"
     },
     {
+      "chapter": "2P03",
+      "id": 309,
+      "conditions": "プリマジスタジオだい3しょうのさいごのしゅうに10かいあそぶ ※2023年3月2日(木)～3月8日(水)",
+      "url": null,
+      "name": "プリマジスタジオ第3章ラストプリンセス",
+      "category": 6,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/309.png"
+    },
+    {
       "chapter": "P04",
       "id": 321,
       "conditions": "だい４しょうのさいしょのしゅうに10かいあそぶ",
@@ -44366,6 +44648,15 @@
       "name": "ファーストプリンセス2022冬",
       "category": 6,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/325.png"
+    },
+    {
+      "chapter": "2P03",
+      "id": 326,
+      "conditions": "プリマジスタジオだい3しょうのさいしょのしゅうに10かいあそぶ ※2023年1月26日(木)～2月1日(水)",
+      "url": null,
+      "name": "ファーストプリンセス2023冬",
+      "category": 6,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/326.png"
     },
     {
       "chapter": "P01",
@@ -44575,6 +44866,15 @@
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/423.png"
     },
     {
+      "chapter": "2P03",
+      "id": 424,
+      "conditions": "「バズパズルピピピース」を10かいあそぶ",
+      "url": null,
+      "name": "バズパズルピピピース",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/424.png"
+    },
+    {
       "chapter": "P01",
       "id": 501,
       "conditions": "「フルーツパフェもりもりプリマジ」を1かいあそぶ",
@@ -44737,6 +45037,15 @@
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/518.png"
     },
     {
+      "chapter": "2P03",
+      "id": 519,
+      "conditions": "「おすましおだいりさまチャンス」を1かいあそぶ",
+      "url": null,
+      "name": "すましおすましひなまつり",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/519.png"
+    },
+    {
       "chapter": "P04",
       "id": 601,
       "conditions": "あつまれ！ベストフレンドでまつりのなかよしどが10になる",
@@ -44807,6 +45116,15 @@
       "name": "みるき大好き💛",
       "category": 8,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/611.png"
+    },
+    {
+      "chapter": "2P03",
+      "id": 612,
+      "conditions": "あつまれ！ベストフレンドではにたんのなかよしどが10になる",
+      "url": null,
+      "name": "はにたん大好き💛",
+      "category": 8,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/612.png"
     },
     {
       "chapter": "P06",
@@ -44969,6 +45287,15 @@
       "name": "エレメンツレジェンド",
       "category": 5,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/708.png"
+    },
+    {
+      "chapter": "2P03",
+      "id": 710,
+      "conditions": "店頭大会「プリンセスコレクション～はじまりのプリンセス～」を1かいあそぶ",
+      "url": null,
+      "name": "はじまりのおしゃれプリンセス",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/710.png"
     },
     {
       "chapter": "P03",
@@ -49371,7 +49698,7 @@
       "address": "船橋市本町1丁目6-1",
       "latitude": 35.699881,
       "longitude": 139.986003,
-      "shopGroup": "1"
+      "shopGroup": "2"
     },
     {
       "id": "725",
