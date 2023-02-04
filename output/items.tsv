@@ -1774,29 +1774,31 @@
 1428	かさなりリボンレッド	SPCW10741_I01A	1	1	2	1	350	5	5	PM2-2-052	16	0	0		24	True	False		True			SR	ライブ	アクセ	PrismStone	あお	クール
 1429	デニムスーツピンク	SPCW10718_T01A	1	2	3	1	400	1	20	PM2-2-053	16	0	0	スタジオ第3章コーデ	25	True	True	2023年1月26日(木)〜2023年3月8日(水)	True	15		R	カジュアル	トップス	PrismStone	しろ	スポーツ
 1430	デニムスーツピンク	SPCW10718_B01A	1	2	10	1	400	3	12	PM2-2-054	16	0	0		25	True	False		True			R	カジュアル	トップス	PrismStone	くろ	キュート
-1431	デニムスーツピンク	SPCW10718_P01A	1	2	3	1	350	4	9	PM2-2-055	16	0	0		25	True	False		True			SR	ライブ	トップス	VIVID STAR	あか	ポップ
-1432	デニムスーツピンク	SPCW10718_I01A	1	2	3	1	350	5	8	PM2-2-056	16	0	0		25	True	False		True			SR	ライブ	ボトムス	VIVID STAR	くろ	クール
-1433	チェッカーセットアップグリーン	SPCW10719_T01A	1	4	6	1	400	1	13	PM2-2-057	16	0	0	スタジオ第3章コーデ	26	True	True	2023年1月26日(木)〜2023年3月8日(水)	True	16		SR	ライブ	シューズ	VIVID STAR	あお	ガーリー
-1434	チェッカーセットアップグリーン	SPCW10719_B01A	1	4	6	1	400	3	7	PM2-2-058	16	0	0		26	True	False		True			SR	ライブ	アクセ	VIVID STAR	きいろ	ミステリアス
-1435	おとなめブーティーブラウン	SPCW10719_P01A	1	4	1	1	350	4	5	PM2-2-059	16	0	0		26	True	False		True			SR	ライブ	トップス	VIVID STAR	くろ	リボン
-1436	カジュアルブラウンハット	SPCW10719_I01A	1	4	1	1	350	5	18	PM2-2-060	16	0	0		26	True	False		True			SR	ライブ	ボトムス	VIVID STAR	あか	ミステリアス
-1437	ビッグシルエットブルー	SPCW10720_T01A	1	5	8	1	400	1	7	PM2-2-061	16	0	0	スタジオ第3章コーデ	27	True	True	2023年1月26日(木)〜2023年3月8日(水)	True	17		SR	ライブ	シューズ	VIVID STAR	あか	キュート
-1438	フレアベルトパンツブルー	SPCW10720_B01A	1	5	8	1	400	3	18	PM2-2-062	16	0	0		27	True	False		True			SR	ライブ	アクセ	VIVID STAR	ちゃ	ポップ
-1439	ストラップシューズブラック	SPCW10720_P01A	1	5	10	1	350	4	6	PM2-2-063	16	0	0		27	True	False		True			UR	ライブ	ワンピ	Cherry Sugar	あか	チェック
-1440	バイカラーカチューシャブルー	SPCW10720_I01A	1	5	8	1	350	5	12	PM2-2-064	16	0	0		27	True	False		True			UR	ライブ	シューズ	Cherry Sugar	ちゃ	リボン
-1507	パステルマカロンチョコミント	SPCW10701_T01A	1	1	6	2	500	1	8	PM2-2-127	16	0	0	めちゃマジフレンドコーデ	45	True	True	スタジオ第3・4章フレンドポイント 2500ポイント	True	2		UR	ライブ	アクセ	Cherry Sugar	ちゃ	アニマル
-1508	パステルマカロンチョコミント	SPCW10701_B01A	1	1	6	2	500	3	14	PM2-2-128	16	0	0		45	True	False		True			UR	ライブ	ワンピ	Radiant Abyss	ちゃ	ハート
-1509	パステルマカロンチョコミント	SPCW10701_P01A	1	1	6	2	450	4	17	PM2-2-129	16	0	0		45	True	False		True			UR	ライブ	シューズ	Radiant Abyss	ちゃ	クール
-1510	パステルマカロンチョコミント	SPCW10701_I01A	1	1	6	2	450	5	4	PM2-2-130	16	0	0		45	True	False		True			UR	ライブ	アクセ	Radiant Abyss	あか	ジュエル
-1511	フルーツパフェチョコミント	SPCW10702_T01A	1	1	6	2	500	1	4	PM2-2-131	16	0	0	めちゃマジフレンドコーデ	46	True	True	スタジオ第3・4章フレンドポイント 4000ポイント	True	3		SR	ライブ	トップス	Cherry Sugar	きいろ	ガーリー
-1512	フルーツパフェチョコミント	SPCW10702_B01A	1	1	6	2	500	3	8	PM2-2-132	16	0	0		46	True	False		True			SR	ライブ	ボトムス	Cherry Sugar	しろ	ポップ
-1513	フルーツパフェチョコミント	SPCW10702_P01A	1	1	6	2	450	4	5	PM2-2-133	16	0	0		46	True	False		True			SR	ライブ	シューズ	Cherry Sugar	きいろ	スイーツ
-1514	フルーツパフェチョコミント	SPCW10702_I01A	1	1	1	2	450	5	17	PM2-2-134	16	0	0		46	True	False		True			SR	ライブ	アクセ	Cherry Sugar	むらさき	キュート
-1515	おすましおだいりさま	SPCW10665_D01A	3	8	8	2	1000	2	15	PM2-2-135	16	0	0	期間限定	47	True	True	2月2日（木）～3月1日（水）おすましおだいりさまチャンス	True	2		SR	ライブ	トップス	Cherry Sugar	しろ	リボン
-1516	おすましおだいりさま	SPCW10665_P01A	3	8	11	2	450	4	8	PM2-2-136	16	0	0		47	True	False		True			SR	ライブ	ボトムス	Cherry Sugar	みずいろ	ラブリー
-1517	おすましおだいりさま	SPCW10665_I01A	3	8	8	2	450	5	9	PM2-2-137	16	0	0		47	True	False		True			SR	ライブ	シューズ	Cherry Sugar	みずいろ	キュート
-1524	にじむ、かおるTシャツ	SPCW10693_T01A	1	8	11	1	400	1	12	PM2-2-267	16	0	0	Tシャツ	50	True	False	プリマジスタジオライブ2023年2月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第3章のコーデがラインナップされています	True	4		SR	ライブ	アクセ	Cherry Sugar	みずいろ	スイーツ
-1525	れもんシルエットTシャツ	SPCW10528_T01A	1	8	10	1	400	1	6	PM2-2-268	16	0	0	Tシャツ	51	True	False	プリマジスタジオライブ2023年2月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第3章のコーデがラインナップされています	True	5		SR	カジュアル	トップス	Radiant Abyss	むらさき	ミステリアス
+1431	デニムスーツピンク	SPCW10718_P01A	1	2	3	1	350	4	9	PM2-2-055	16	0	0		25	True	False		True			R	カジュアル	トップス	PrismStone	くろ	ダンス
+1432	デニムスーツピンク	SPCW10718_I01A	1	2	3	1	350	5	8	PM2-2-056	16	0	0		25	True	False		True			R	カジュアル	トップス	VIVID STAR	あか	ポップ
+1433	チェッカーセットアップグリーン	SPCW10719_T01A	1	4	6	1	400	1	13	PM2-2-057	16	0	0	スタジオ第3章コーデ	26	True	True	2023年1月26日(木)〜2023年3月8日(水)	True	16		SR	ライブ	トップス	VIVID STAR	あか	ポップ
+1434	チェッカーセットアップグリーン	SPCW10719_B01A	1	4	6	1	400	3	7	PM2-2-058	16	0	0		26	True	False		True			SR	ライブ	ボトムス	VIVID STAR	くろ	クール
+1435	おとなめブーティーブラウン	SPCW10719_P01A	1	4	1	1	350	4	5	PM2-2-059	16	0	0		26	True	False		True			SR	ライブ	シューズ	VIVID STAR	あお	ガーリー
+1436	カジュアルブラウンハット	SPCW10719_I01A	1	4	1	1	350	5	18	PM2-2-060	16	0	0		26	True	False		True			SR	ライブ	アクセ	VIVID STAR	きいろ	ミステリアス
+1437	ビッグシルエットブルー	SPCW10720_T01A	1	5	8	1	400	1	7	PM2-2-061	16	0	0	スタジオ第3章コーデ	27	True	True	2023年1月26日(木)〜2023年3月8日(水)	True	17		SR	ライブ	トップス	VIVID STAR	くろ	リボン
+1438	フレアベルトパンツブルー	SPCW10720_B01A	1	5	8	1	400	3	18	PM2-2-062	16	0	0		27	True	False		True			SR	ライブ	ボトムス	VIVID STAR	あか	ミステリアス
+1439	ストラップシューズブラック	SPCW10720_P01A	1	5	10	1	350	4	6	PM2-2-063	16	0	0		27	True	False		True			SR	ライブ	シューズ	VIVID STAR	あか	キュート
+1440	バイカラーカチューシャブルー	SPCW10720_I01A	1	5	8	1	350	5	12	PM2-2-064	16	0	0		27	True	False		True			SR	ライブ	アクセ	VIVID STAR	ちゃ	ポップ
+1507	パステルマカロンチョコミント	SPCW10701_T01A	1	1	6	2	500	1	8	PM2-2-127	16	0	0	めちゃマジフレンドコーデ	45	True	True	スタジオ第3・4章フレンドポイント 2500ポイント	True	2		UR	ライブ	ワンピ	Cherry Sugar	あか	チェック
+1508	パステルマカロンチョコミント	SPCW10701_B01A	1	1	6	2	500	3	14	PM2-2-128	16	0	0		45	True	False		True			UR	ライブ	シューズ	Cherry Sugar	ちゃ	リボン
+1509	パステルマカロンチョコミント	SPCW10701_P01A	1	1	6	2	450	4	17	PM2-2-129	16	0	0		45	True	False		True			UR	ライブ	アクセ	Cherry Sugar	ちゃ	アニマル
+1510	パステルマカロンチョコミント	SPCW10701_I01A	1	1	6	2	450	5	4	PM2-2-130	16	0	0		45	True	False		True			UR	ライブ	ワンピ	Radiant Abyss	ちゃ	ハート
+1511	フルーツパフェチョコミント	SPCW10702_T01A	1	1	6	2	500	1	4	PM2-2-131	16	0	0	めちゃマジフレンドコーデ	46	True	True	スタジオ第3・4章フレンドポイント 4000ポイント	True	3		UR	ライブ	シューズ	Radiant Abyss	ちゃ	クール
+1512	フルーツパフェチョコミント	SPCW10702_B01A	1	1	6	2	500	3	8	PM2-2-132	16	0	0		46	True	False		True			UR	ライブ	アクセ	Radiant Abyss	あか	ジュエル
+1513	フルーツパフェチョコミント	SPCW10702_P01A	1	1	6	2	450	4	5	PM2-2-133	16	0	0		46	True	False		True			SR	ライブ	トップス	Cherry Sugar	きいろ	ガーリー
+1514	フルーツパフェチョコミント	SPCW10702_I01A	1	1	1	2	450	5	17	PM2-2-134	16	0	0		46	True	False		True			SR	ライブ	ボトムス	Cherry Sugar	しろ	ポップ
+1515	おすましおだいりさま	SPCW10665_D01A	3	8	8	2	1000	2	15	PM2-2-135	16	0	0	期間限定	47	True	True	2月2日（木）～3月1日（水）おすましおだいりさまチャンス	True	2		SR	ライブ	シューズ	Cherry Sugar	きいろ	スイーツ
+1516	おすましおだいりさま	SPCW10665_P01A	3	8	11	2	450	4	8	PM2-2-136	16	0	0		47	True	False		True			SR	ライブ	アクセ	Cherry Sugar	むらさき	キュート
+1517	おすましおだいりさま	SPCW10665_I01A	3	8	8	2	450	5	9	PM2-2-137	16	0	0		47	True	False		True			SR	ライブ	トップス	Cherry Sugar	しろ	リボン
+1524	にじむ、かおるTシャツ	SPCW10693_T01A	1	8	11	1	400	1	12	PM2-2-267	16	0	0	Tシャツ	50	True	False	プリマジスタジオライブ2023年2月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第3章のコーデがラインナップされています	True	4		SR	ライブ	ボトムス	Cherry Sugar	みずいろ	ラブリー
+1525	れもんシルエットTシャツ	SPCW10528_T01A	1	8	10	1	400	1	6	PM2-2-268	16	0	0	Tシャツ	51	True	False	プリマジスタジオライブ2023年2月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第3章のコーデがラインナップされています	True	5		SR	ライブ	シューズ	Cherry Sugar	みずいろ	キュート
+1530	だい２かいそうせんきょTシャツ	SPCW10527_T01A	1	8	10	1	400	1	13	PM2-2-275	16	0	0	Tシャツ	54	True	False	プリマジコーデ総選挙に1回参加するとTシャツショップに追加	True	20		SR	ライブ	アクセ	Cherry Sugar	みずいろ	スイーツ
+1532	おにVSまめTシャツ	SPCW10751_T01A	1	2	2	1	400	1	14	PM2-2-141	16	0	0	Tシャツ	55	True	False	Tシャツショップ どっちでSHOWに投票する（1月29日～2月3日）	True	19		SR	カジュアル	トップス	Radiant Abyss	むらさき	ミステリアス
 1533	おこおこおに	SPCW10657_T01A	3	2	2	2	500	1	14	PM2-2-142	16	0	0	めちゃマジ注目スペシャルコーデ	56	False	True	こんしゅうのみんなでどっちでSHOW！ まく？たべる？せつぶんをたのしむならどっち？	True	1		SR	カジュアル	ボトムス	Radiant Abyss	むらさき	スター
 1534	おこおこおに	SPCW10657_B01A	3	2	10	2	500	3	9	PM2-2-143	16	0	0		56	True	False		True			SR	カジュアル	シューズ	Radiant Abyss	むらさき	ゴシック
 1535	おこおこおに	SPCW10657_P01A	3	2	8	2	450	4	5	PM2-2-144	16	0	0		56	True	False		True			SR	カジュアル	アクセ	Radiant Abyss	むらさき	クール

@@ -291,3 +291,4 @@
 |![](https://cdn.primagi.jp/assets/images/copy/839.png "きイーツ！ウィナー")|839|2|1|ミックスコーデコンテストでゲット|きイーツ！ウィナー|「きいろ×スイーツコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/839.png|
 |![](https://cdn.primagi.jp/assets/images/copy/840.png "みジュエル！ウィナー")|840|2|1|ミックスコーデコンテストでゲット|みジュエル！ウィナー|「みずいろ×ジュエルコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/840.png|
 |![](https://cdn.primagi.jp/assets/images/copy/841.png "むらブリー！ウィナー")|841|2|1|ミックスコーデコンテストでゲット|むらブリー！ウィナー|「むらさき×ラブリーコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/841.png|
+|![](https://cdn.primagi.jp/assets/images/copy/842.png "くシック！ウィナー")|842|2|3|ミックスコーデコンテストでゲット|くシック！ウィナー|「くろ×ゴシックコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/842.png|

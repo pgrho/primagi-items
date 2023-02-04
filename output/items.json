@@ -38639,6 +38639,70 @@
     },
     {
       "collection": 16,
+      "name": "だい２かいそうせんきょTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 54,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "プリマジコーデ総選挙に1回参加するとTシャツショップに追加",
+      "spanEventName": "プリマジコーデ総選挙に1回参加するとTシャツショップに追加",
+      "order": 20,
+      "chapter": "2P03",
+      "items": [
+        {
+          "id": 1530,
+          "modelName": "SPCW10527_T01A",
+          "sealId": "PM2-2-275",
+          "name": "だい２かいそうせんきょTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 8,
+          "color": 10,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 13,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/1530.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 16,
+      "name": "おにVSまめTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 55,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "Tシャツショップ どっちでSHOWに投票する（1月29日～2月3日）",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する（1月29日～2月3日）",
+      "order": 19,
+      "chapter": "2P03",
+      "items": [
+        {
+          "id": 1532,
+          "modelName": "SPCW10751_T01A",
+          "sealId": "PM2-2-141",
+          "name": "おにVSまめTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 2,
+          "color": 2,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 14,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/1532.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 16,
       "name": "おこおこおに",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 56,
@@ -45665,6 +45729,15 @@
       "name": "むらブリー！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/841.png"
+    },
+    {
+      "chapter": "2P03",
+      "id": 842,
+      "conditions": "「くろ×ゴシックコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "くシック！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/842.png"
     }
   ],
   "shops": [
