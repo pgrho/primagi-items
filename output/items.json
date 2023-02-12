@@ -39644,7 +39644,7 @@
         {
           "id": 20457,
           "modelName": "SPCW10587_I01A",
-          "sealId": "P-398 ",
+          "sealId": "P-358",
           "name": "はじまりのプリンセス",
           "watcha": 550,
           "genre": 3,
@@ -45853,6 +45853,15 @@
       "name": "くシック！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/842.png"
+    },
+    {
+      "chapter": "2P03",
+      "id": 843,
+      "conditions": "「フラワー×むらさきコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "フラさき！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/843.png"
     }
   ],
   "shops": [
