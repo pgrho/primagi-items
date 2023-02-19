@@ -36782,6 +36782,38 @@
     },
     {
       "collection": 16,
+      "name": "プリンセスマジックTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 3,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "プリマジスタジオライブ2023年3月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第3章・第4章のコーデがラインナップされています",
+      "spanEventName": "プリマジスタジオライブ2023年3月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第3章・第4章のコーデがラインナップされています",
+      "order": 22,
+      "chapter": "2P03",
+      "items": [
+        {
+          "id": 1248,
+          "modelName": "SPCW10605_T01A",
+          "sealId": "PM2-2-269",
+          "name": "プリンセスマジックTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 9,
+          "color": 11,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 5,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/1248.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 16,
       "name": "クリスタルラブエレメンツ",
       "kinds": "クリスタルコーデ",
       "directoryNumber": 4,
@@ -38639,6 +38671,70 @@
     },
     {
       "collection": 16,
+      "name": "おしゃれプリンセスマジックスター！Tシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 52,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "プリマジスタジオライブ2023年3月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第3章・第4章のコーデがラインナップされています",
+      "spanEventName": "プリマジスタジオライブ2023年3月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第3章・第4章のコーデがラインナップされています",
+      "order": 23,
+      "chapter": "2P03",
+      "items": [
+        {
+          "id": 1526,
+          "modelName": "SPCW10727_T01A",
+          "sealId": "PM2-2-270",
+          "name": "おしゃれプリンセスマジックスター！Tシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 8,
+          "color": 11,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 14,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/1526.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 16,
+      "name": "プリマジスタジオポップTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 53,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "プリマジスタジオライブ2023年3月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第3章・第4章のコーデがラインナップされています",
+      "spanEventName": "プリマジスタジオライブ2023年3月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第3章・第4章のコーデがラインナップされています",
+      "order": 24,
+      "chapter": "2P03",
+      "items": [
+        {
+          "id": 1527,
+          "modelName": "SPCW10526_T01A",
+          "sealId": "PM2-2-271",
+          "name": "プリマジスタジオポップTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 8,
+          "color": 7,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 14,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/1527.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 16,
       "name": "だい２かいそうせんきょTシャツ",
       "kinds": "Tシャツ",
       "directoryNumber": 54,
@@ -40355,6 +40451,89 @@
     },
     {
       "collection": 17,
+      "name": "ナイトドリームグリーン",
+      "kinds": "プロモ",
+      "directoryNumber": 126,
+      "isShow": true,
+      "hasMainImage": true,
+      "span": "マイキャラルームガッチャ3月（3月1日（水）～3月31日（金））",
+      "spanEventName": "マイキャラルームガッチャ3月（3月1日（水）～3月31日（金））",
+      "order": 22,
+      "chapter": "2P03",
+      "items": [
+        {
+          "id": 20517,
+          "modelName": "SPCW10743_T01A",
+          "sealId": "P-311",
+          "name": "ナイトドリームグリーン",
+          "watcha": 500,
+          "genre": 3,
+          "brand": 9,
+          "color": 6,
+          "rarity": 2,
+          "category": 1,
+          "subCategory": 16,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/20517.png"
+        },
+        {
+          "id": 20518,
+          "modelName": "SPCW10743_B01A",
+          "sealId": "P-312",
+          "name": "ナイトドリームグリーン",
+          "watcha": 500,
+          "genre": 3,
+          "brand": 9,
+          "color": 6,
+          "rarity": 2,
+          "category": 3,
+          "subCategory": 20,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/20518.png"
+        },
+        {
+          "id": 20519,
+          "modelName": "SPCW10743_P01A",
+          "sealId": "P-313",
+          "name": "ナイトドリームグリーン",
+          "watcha": 450,
+          "genre": 3,
+          "brand": 9,
+          "color": 6,
+          "rarity": 2,
+          "category": 4,
+          "subCategory": 9,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/20519.png"
+        },
+        {
+          "id": 20520,
+          "modelName": "SPCW10743_I01A",
+          "sealId": "P-314",
+          "name": "ナイトドリームグリーン",
+          "watcha": 450,
+          "genre": 3,
+          "brand": 9,
+          "color": 13,
+          "rarity": 2,
+          "category": 5,
+          "subCategory": 3,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/20520.png"
+        }
+      ],
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/img_codination_126_main.jpg"
+    },
+    {
+      "collection": 17,
       "name": "タントちゃんなりきりTシャツ",
       "kinds": "Tシャツ",
       "directoryNumber": 128,
@@ -40413,6 +40592,70 @@
           "icon": 0,
           "release": 0,
           "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/20526.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 17,
+      "name": "アイラブマイキャラTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 130,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "プレミアムプラン 2023年3月",
+      "spanEventName": "プレミアムプラン 2023年3月",
+      "order": 25,
+      "chapter": "2P03",
+      "items": [
+        {
+          "id": 20527,
+          "modelName": "SPCW10759_T01A",
+          "sealId": "T-021",
+          "name": "アイラブマイキャラTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 8,
+          "color": 11,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 18,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/20527.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 17,
+      "name": "ハッピーバースデー3！",
+      "kinds": "Tシャツ",
+      "directoryNumber": 131,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "プレミアムプラン 3月お誕生日",
+      "spanEventName": "プレミアムプラン 3月お誕生日",
+      "order": 26,
+      "chapter": "2P03",
+      "items": [
+        {
+          "id": 20528,
+          "modelName": "SPCW10689_T01A",
+          "sealId": "T-022",
+          "name": "ハッピーバースデー3！",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 8,
+          "color": 7,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 17,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/20528.png"
         }
       ],
       "imageUrl": null
@@ -45894,6 +46137,15 @@
       "name": "フラさき！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/843.png"
+    },
+    {
+      "chapter": "2P03",
+      "id": 844,
+      "conditions": "「ポップ×ピンクコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ポップンク！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/844.png"
     }
   ],
   "shops": [
@@ -56659,6 +56911,15 @@
       "address": "吹田市千里万博公園2-13F30060 ららぽｰとEXPOCITY",
       "latitude": 34.805489,
       "longitude": 135.534467,
+      "shopGroup": "1"
+    },
+    {
+      "id": "1582",
+      "name": "namcoニッケパークタウン加古川店",
+      "prefecture": "兵庫県",
+      "address": "加古川市加古川町寺家町173-1",
+      "latitude": 34.769658,
+      "longitude": 134.835802,
       "shopGroup": "1"
     },
     {
