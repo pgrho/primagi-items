@@ -39327,6 +39327,38 @@
     },
     {
       "collection": 16,
+      "name": "ムーン&スターナイトTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 64,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 27,
+      "chapter": "2P03",
+      "items": [
+        {
+          "id": 1557,
+          "modelName": "SPCW10728_T01A",
+          "sealId": "PM2-2-166",
+          "name": "ムーン&スターナイトTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 3,
+          "color": 9,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 15,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/1557.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 16,
       "name": "ムーン&スターナイト",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 65,
