@@ -10,6 +10,7 @@
 - [スタジオ第１章](./output/2P01.md)
 - [スタジオ第２章](./output/2P02.md)
 - [スタジオ第３章](./output/2P03.md)
+- [スタジオ第４章](./output/2P04.md)
 - [CSV](./output/items.csv)
 - [TSV](./output/items.tsv)
 

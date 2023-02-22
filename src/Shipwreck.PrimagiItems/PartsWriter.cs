@@ -1,4 +1,4 @@
-﻿using System.Text;
+using System.Text;
 using System.Text.RegularExpressions;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
@@ -48,12 +48,18 @@ internal static class PartsWriter
 
         foreach (var e in items)
         {
+            e.Id = sanitize(e.Id);
+            e.FileName = sanitize(e.FileName);
+            e.Date = sanitize(e.Date);
+
             e.PartsName = sanitize(e.PartsName);
-            e.ModalText = sanitize(e.ModalText);
-            e.Destination = sanitize(e.Destination);
-            e.Url = sanitize(e.Url);
             e.CategoryName = sanitize(e.CategoryName);
+            e.Psd = sanitize(e.Psd);
+
             e.Type = sanitize(e.Type);
+            e.Destination = sanitize(e.Destination);
+            e.ModalText = sanitize(e.ModalText);
+            e.Url = sanitize(e.Url);
         }
 
         foreach (var g in items.GroupBy(e => e.CategoryId).OrderBy(e => e.Key))
@@ -98,7 +104,17 @@ internal static class PartsWriter
                 foreach (var p in props)
                 {
                     obj.TryGetValue(p, out var jp);
-                    sw.Write(jp);
+                    var v = jp?.ToString();
+                    var nl = v?.IndexOfAny(new[] { '\r', '\n', sep }) >= 0;
+                    if (nl)
+                    {
+                        sw.Write('"');
+                    }
+                    sw.Write(v);
+                    if (nl)
+                    {
+                        sw.Write('"');
+                    }
                     sw.Write(sep);
                 }
 
