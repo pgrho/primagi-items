@@ -48149,6 +48149,15 @@
       "name": "ポップンク！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/844.png"
+    },
+    {
+      "chapter": "2P03",
+      "id": 845,
+      "conditions": "「ミステリアス×あか×ライブコンテスト」の けっしょうせんをクリアする",
+      "url": null,
+      "name": "ミスあかイブ！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/845.png"
     }
   ],
   "shops": [
