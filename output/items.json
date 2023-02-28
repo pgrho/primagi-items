@@ -40945,7 +40945,7 @@
       "name": "ムーン&スターナイト",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 65,
-      "isShow": false,
+      "isShow": true,
       "hasMainImage": true,
       "span": "こんしゅうのみんなでどっちでSHOW！ マイキャラパーツをスクラッチでゲット！にあうのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ マイキャラパーツをスクラッチでゲット！にあうのはどっち？",
@@ -45691,6 +45691,20 @@
       "imageUrl": "https://cdn.primagi.jp/assets/images/parts/thumb/img_id7337.png"
     },
     {
+      "id": "id7238",
+      "file": 38,
+      "isNew": true,
+      "date": "2023-02-27T00:00:00",
+      "partsName": "まよなかのクレッセントムーン",
+      "psd": null,
+      "modalText": "スタジオ第3章・第4章スクラッチでポイントをあつめる",
+      "destination": null,
+      "url": null,
+      "type": 2,
+      "category": 7,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/parts/thumb/img_id7238.png"
+    },
+    {
       "id": "id7240",
       "file": 40,
       "isNew": true,
@@ -45787,6 +45801,20 @@
       "type": 1,
       "category": 12,
       "imageUrl": "https://cdn.primagi.jp/assets/images/parts/thumb/img_id1219.png"
+    },
+    {
+      "id": "id13217",
+      "file": 17,
+      "isNew": true,
+      "date": "2023-02-27T00:00:00",
+      "partsName": "ゴールドクレッセントムーン",
+      "psd": null,
+      "modalText": "スタジオ第3章・第4章スクラッチでポイントをあつめる",
+      "destination": null,
+      "url": null,
+      "type": 2,
+      "category": 13,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/parts/thumb/img_id13217.png"
     },
     {
       "id": "id1439",
@@ -50880,15 +50908,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "1565",
-      "name": "レジャーランド川越",
-      "prefecture": "埼玉県",
-      "address": "川越市新富町1-17-4",
-      "latitude": 35.914955,
-      "longitude": 139.4834,
-      "shopGroup": "1"
-    },
-    {
       "id": "1562",
       "name": "パシオス秩父",
       "prefecture": "埼玉県",
@@ -50904,15 +50923,6 @@
       "address": "熊谷市美土里町1-169",
       "latitude": 36.171004,
       "longitude": 139.318334,
-      "shopGroup": "1"
-    },
-    {
-      "id": "1549",
-      "name": "ゲームプリンスランド上尾",
-      "prefecture": "埼玉県",
-      "address": "上尾市柏座1丁目1-27 上尾ﾌﾟﾘﾝｽﾋﾞﾙ2F",
-      "latitude": 35.974535,
-      "longitude": 139.588059,
       "shopGroup": "1"
     },
     {
@@ -51339,15 +51349,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "776",
-      "name": "テクモピア南越谷",
-      "prefecture": "埼玉県",
-      "address": "越谷市南越谷1-15-1 ﾗｸｰﾝ南越谷2F",
-      "latitude": 35.875013,
-      "longitude": 139.793168,
-      "shopGroup": "1"
-    },
-    {
       "id": "769",
       "name": "タイトーステーション 和光",
       "prefecture": "埼玉県",
@@ -51489,15 +51490,6 @@
       "address": "川口市栄町1-10-5",
       "latitude": 35.802497,
       "longitude": 139.725593,
-      "shopGroup": "1"
-    },
-    {
-      "id": "478",
-      "name": "キャッツアイ狭山",
-      "prefecture": "埼玉県",
-      "address": "狭山市入間川3141",
-      "latitude": 35.846569,
-      "longitude": 139.42745,
       "shopGroup": "1"
     },
     {
@@ -52743,15 +52735,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "1445",
-      "name": "西友福生",
-      "prefecture": "東京都",
-      "address": "福生市東町5-1",
-      "latitude": 35.743369,
-      "longitude": 139.327989,
-      "shopGroup": "1"
-    },
-    {
       "id": "1444",
       "name": "西友調布",
       "prefecture": "東京都",
@@ -52995,15 +52978,6 @@
       "shopGroup": "2"
     },
     {
-      "id": "945",
-      "name": "プリズムストーンカフェ原宿店",
-      "prefecture": "東京都",
-      "address": "渋谷区神宮前3-18-272F",
-      "latitude": 35.670373,
-      "longitude": 139.708167,
-      "shopGroup": "1"
-    },
-    {
       "id": "942",
       "name": "プラサカプコン府中",
       "prefecture": "東京都",
@@ -53154,15 +53128,6 @@
       "address": "渋谷区渋谷1-14-14 EST1F",
       "latitude": 35.65992,
       "longitude": 139.702605,
-      "shopGroup": "1"
-    },
-    {
-      "id": "816",
-      "name": "ドン・キホーテ北池袋",
-      "prefecture": "東京都",
-      "address": "豊島区池袋本町2-7-5",
-      "latitude": 35.741185,
-      "longitude": 139.707929,
       "shopGroup": "1"
     },
     {
@@ -53595,15 +53560,6 @@
       "address": "東久留米市本町3-8-1",
       "latitude": 35.759028,
       "longitude": 139.528795,
-      "shopGroup": "1"
-    },
-    {
-      "id": "432",
-      "name": "イトーヨーカドー竹の塚",
-      "prefecture": "東京都",
-      "address": "足立区竹の塚517-1",
-      "latitude": 35.79264,
-      "longitude": 139.794606,
       "shopGroup": "1"
     },
     {
@@ -55173,15 +55129,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "204",
-      "name": "SOYU ATHLETE PARK新発田",
-      "prefecture": "新潟県",
-      "address": "新発田市住吉町五丁目11番5号ｲｵﾝﾓｰﾙ新発田2F",
-      "latitude": 37.942667,
-      "longitude": 139.309379,
-      "shopGroup": "1"
-    },
-    {
       "id": "188",
       "name": "PALO十日町",
       "prefecture": "新潟県",
@@ -56304,15 +56251,6 @@
       "address": "駿東郡長泉町下長窪字城山1076-1 ｳｪﾙﾃﾞｨ長泉2F",
       "latitude": 35.148242,
       "longitude": 138.891053,
-      "shopGroup": "1"
-    },
-    {
-      "id": "972",
-      "name": "ミシマトイス",
-      "prefecture": "静岡県",
-      "address": "三島市本町3-35",
-      "latitude": 35.119464,
-      "longitude": 138.914006,
       "shopGroup": "1"
     },
     {

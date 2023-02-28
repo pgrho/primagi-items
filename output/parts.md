@@ -161,6 +161,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7235.png "ハツラツいちばんぼし")|id7235|ハツラツいちばんぼし|スタジオ第3章・第4章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7235.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7136.png "フラメンコオーレ")|id7136|フラメンコオーレ|プリマジスタランクが81になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7136.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7337.png "オーロラロゼッタ")|id7337|オーロラロゼッタ|2023年3月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7337.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7238.png "まよなかのクレッセントムーン")|id7238|まよなかのクレッセントムーン|スタジオ第3章・第4章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7238.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7240.png "みるきアイ")|id7240|みるきアイ|プリマジ公式ファンブック スタジオ第3・4章|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7240.png|
 ## アイシャドウ
 
@@ -242,6 +243,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13214.png "ラブクリスタル")|id13214|ラブクリスタル|「メイクアップチャレンジ～ラブエレメンツ～」開催期間中にプリマジを15回プレイする|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13214.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13315.png "ポンポンイヤリング")|id13315|ポンポンイヤリング|2022年12月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13315.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13116.png "レッドローズ")|id13116|レッドローズ|プリマジスタランクが75になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13116.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13217.png "ゴールドクレッセントムーン")|id13217|ゴールドクレッセントムーン|スタジオ第3章・第4章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13217.png|
 ## ネイル
 
 ||ID|名前|取得条件|画像|
