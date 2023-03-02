@@ -170,6 +170,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/517.png "ケーキといえば！ショートケーキ！")|517|2|1|イベント・キャンペーンでゲット|ケーキといえば！ショートケーキ！|「ショートケーキストロベリーチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/517.png|
 |![](https://cdn.primagi.jp/assets/images/copy/518.png "キラふわスノーナイト")|518|2|2|イベント・キャンペーンでゲット|キラふわスノーナイト|「パウダースノーナイトチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/518.png|
 |![](https://cdn.primagi.jp/assets/images/copy/519.png "すましおすましひなまつり")|519|2|3|イベント・キャンペーンでゲット|すましおすましひなまつり|「おすましおだいりさまチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/519.png|
+|![](https://cdn.primagi.jp/assets/images/copy/520.png "ぺんぺんぺんぎん参上！")|520|2|4|イベント・キャンペーンでゲット|ぺんぺんぺんぎん参上！|「ぺんぺんぺんぎんブルーチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/520.png|
 |![](https://cdn.primagi.jp/assets/images/copy/701.png "フレアエレメンツマスター")|701|1|2|イベント・キャンペーンでゲット|フレアエレメンツマスター|フレアエレメンツコーデをフルコーデきて「フレアエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/701.png|
 |![](https://cdn.primagi.jp/assets/images/copy/702.png "アクアエレメンツマスター")|702|1|3|イベント・キャンペーンでゲット|アクアエレメンツマスター|アクアエレメンツコーデをフルコーデきて「アクアエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/702.png|
 |![](https://cdn.primagi.jp/assets/images/copy/703.png "フラッシュエレメンツマスター")|703|1|4|イベント・キャンペーンでゲット|フラッシュエレメンツマスター|フラッシュエレメンツコーデをフルコーデきて「フラッシュエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/703.png|
