@@ -49985,6 +49985,15 @@
       "name": "ミスあかイブ！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/845.png"
+    },
+    {
+      "chapter": "2P03",
+      "id": 846,
+      "conditions": "「ちゃいろ×ラブリーコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ちゃブリー！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/846.png"
     }
   ],
   "shops": [
