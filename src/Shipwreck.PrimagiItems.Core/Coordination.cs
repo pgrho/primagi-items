@@ -1,4 +1,4 @@
-﻿using System.Text.RegularExpressions;
+using System.Text.RegularExpressions;
 using Newtonsoft.Json;
 
 namespace Shipwreck.PrimagiItems;
@@ -46,6 +46,11 @@ public sealed class Coordination
         }
     }
 
+    private static readonly Regex _IsChapterCollection = new("^(スタジオ第[1-9])?章(コーデ|コレクション)");
+
+    internal bool IsChapterCollection
+        => Kinds != null && _IsChapterCollection.IsMatch(Kinds);
+
     private static Regex? _YMD_YMD;
     private static Regex? _YM_MD_MD;
     private static Regex? _YM;
@@ -55,6 +60,11 @@ public sealed class Coordination
         if (_ParsedSpanEventName != null)
         {
             return this;
+        }
+
+        if (!IsChapterCollection)
+        {
+            Chapter?.ParseSpan();
         }
 
         var value = _Span ?? string.Empty;
@@ -138,6 +148,7 @@ public sealed class Coordination
     public bool ShouldSerializeSpanEventName()
         => DataSet?.IgnoreCalculatedProperties != true && SpanEventName != null;
 
+    [JsonConverter(typeof(DateConverter))]
     public DateTime? SpanStart
     {
         get => (_SpanStart ?? ParseSpan()._ParsedSpanStart) is DateTime dt && dt > DateTime.MinValue ? dt : null;
@@ -147,6 +158,7 @@ public sealed class Coordination
     public bool ShouldSerializeSpanStart()
         => DataSet?.IgnoreCalculatedProperties != true && SpanStart != null;
 
+    [JsonConverter(typeof(DateConverter))]
     public DateTime? SpanEnd
     {
         get => (_SpanEnd ?? ParseSpan()._ParsedSpanEnd) is DateTime dt && dt < DateTime.MaxValue.AddDays(-2) ? dt : null;

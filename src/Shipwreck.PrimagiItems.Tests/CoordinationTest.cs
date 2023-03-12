@@ -1,4 +1,8 @@
-﻿using Xunit.Abstractions;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Text.RegularExpressions;
+using Xunit.Abstractions;
+using Xunit.Sdk;
 
 namespace Shipwreck.PrimagiItems;
 
@@ -29,6 +33,59 @@ public class CoordinationTest
         Assert.Null(c.SpanEnd);
         Assert.Equal(span, c.SpanEventName);
         Assert.Null(c.SpanFriendPoint);
+    }
+
+    internal abstract class PrimagiDataSetDataAttribute : DataAttribute
+    {
+        private static PrimagiDataSet _DataSet;
+
+        protected PrimagiDataSet GetDataSet([CallerFilePath] string filePath = "")
+        {
+            if (_DataSet != null)
+            {
+                return _DataSet;
+            }
+            var path = Path.Combine(Path.GetDirectoryName(Path.GetDirectoryName(Path.GetDirectoryName(filePath)!)!)!, "output", "items.raw.json");
+            using (var s = new StreamReader(path))
+            {
+                return _DataSet = PrimagiDataSet.Parse(s);
+            }
+        }
+    }
+
+    private sealed class AllSpansDataAttribute : PrimagiDataSetDataAttribute
+    {
+        public override IEnumerable<object?[]> GetData(MethodInfo testMethod)
+            => GetDataSet().Coordinations.Select(e => new { e.Chapter, e.Span })
+                .Distinct()
+                .Select(e => new object?[]
+                {
+                    e.Span!,
+                    e.Chapter?.Start ?? DateTime.MinValue,
+                    e.Chapter?.End ?? DateTime.MaxValue
+                });
+    }
+
+    [Theory]
+    [AllSpansData]
+    public void ParseSpansTest(string? span, DateTime start, DateTime end)
+    {
+        if (string.IsNullOrEmpty(span))
+        {
+            return;
+        }
+
+        var mm = Regex.Match(span, "(1?[0-9])月");
+        if (!mm.Success)
+        {
+            return;
+        }
+        var c = new Coordination
+        {
+            Span = span
+        };
+
+        Assert.Equal(int.Parse(mm.Groups[1].Value), c.SpanStart?.Month);
     }
 
     [Theory]
@@ -260,7 +317,6 @@ public class CoordinationTest
         Assert.Equal(eventName, c.SpanEventName);
         Assert.Null(c.SpanFriendPoint);
     }
-
 
     //[Fact]
     //public void Test1()
