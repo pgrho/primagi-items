@@ -175,7 +175,7 @@ internal static class ItemWriter
             }
         }
 
-        var cols = new (string, Func<Item, object>)[]
+        var cols = new (string dislayName, Func<Item, object?> getter)[]
         {
             ("ID", e => e.Id),
             ("刻印", e => e.SealId),
@@ -194,27 +194,35 @@ internal static class ItemWriter
         {
             using var sw = new StreamWriter(new FileStream(Path.Combine(directory.FullName, cg.Key + ".md"), FileMode.Create), Encoding.UTF8, 4096);
 
-            foreach (var c in cols)
+            foreach (var kg in cg.GroupBy(e => new { e.collection, e.directoryNumber }).GroupBy(e => e.First().kinds))
             {
-                sw.Write('|');
-                sw.Write(c.Item1);
-            }
-            sw.WriteLine("|");
+                sw.Write("## ");
+                sw.WriteLine(kg.Key);
 
-            foreach (var c in cols)
-            {
-                sw.Write("|-");
-            }
-            sw.WriteLine("|");
-
-            foreach (var e in cg)
-            {
                 foreach (var c in cols)
                 {
                     sw.Write('|');
-                    sw.Write(c.Item2(e));
+                    sw.Write(c.dislayName);
                 }
                 sw.WriteLine("|");
+
+                foreach (var c in cols)
+                {
+                    sw.Write("|-");
+                }
+                sw.WriteLine("|");
+
+                foreach (var e in kg.SelectMany(e => e))
+                {
+                    foreach (var c in cols)
+                    {
+                        sw.Write('|');
+                        sw.Write(c.getter(e));
+                    }
+                    sw.WriteLine("|");
+                }
+
+                sw.WriteLine();
             }
         }
 
