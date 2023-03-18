@@ -50650,6 +50650,15 @@
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/426.png"
     },
     {
+      "chapter": "2P04",
+      "id": 427,
+      "conditions": "「MEMORIES FOR FUTURE」を10かいあそぶ",
+      "url": null,
+      "name": "MEMORIES FOR FUTURE",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/427.png"
+    },
+    {
       "chapter": "P01",
       "id": 501,
       "conditions": "「フルーツパフェもりもりプリマジ」を1かいあそぶ",
@@ -50828,6 +50837,15 @@
       "name": "ぺんぺんぺんぎん参上！",
       "category": 5,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/520.png"
+    },
+    {
+      "chapter": "2P04",
+      "id": 521,
+      "conditions": "「スイートハニーキラッとコーデ」を10かいきる",
+      "url": null,
+      "name": "やってみなくちゃわからない！わからなかったらやってみよう！",
+      "category": 2,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/521.png"
     },
     {
       "chapter": "P04",
@@ -51080,6 +51098,15 @@
       "name": "エレメンツレジェンド",
       "category": 5,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/708.png"
+    },
+    {
+      "chapter": "2P04",
+      "id": 709,
+      "conditions": "「クリスタルプリンセスひめめ」をフルコーデきて「クリスタルプリンセスひめめフェス」のアンコールライブを1かいあそぶ",
+      "url": null,
+      "name": "クリスタルおしゃれプリンセス",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/709.png"
     },
     {
       "chapter": "2P03",

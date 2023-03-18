@@ -67,6 +67,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/512.png "ポチャッコだいすき")|512|1|5|コーデでゲット|ポチャッコだいすき|「ポチャッコだいすきコーデ」を10かいきる|https://cdn.primagi.jp/assets/images/copy/512.png|
 |![](https://cdn.primagi.jp/assets/images/copy/515.png "マイメロディだいすき")|515|1|6|コーデでゲット|マイメロディだいすき|「マイメロディだいすきコーデ」を10かいきる|https://cdn.primagi.jp/assets/images/copy/515.png|
 |![](https://cdn.primagi.jp/assets/images/copy/516.png "クロミだいすき")|516|1|6|コーデでゲット|クロミだいすき|「クロミだいすきコーデ」を10かいきる|https://cdn.primagi.jp/assets/images/copy/516.png|
+|![](https://cdn.primagi.jp/assets/images/copy/521.png "やってみなくちゃわからない！わからなかったらやってみよう！")|521|2|4|コーデでゲット|やってみなくちゃわからない！わからなかったらやってみよう！|「スイートハニーキラッとコーデ」を10かいきる|https://cdn.primagi.jp/assets/images/copy/521.png|
 ## リズムゲームでゲット
 
 ||ID|年|章|カテゴリー|名前|取得条件|画像|
@@ -142,6 +143,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/423.png "どっちなどっちもどっちでミラクルNo.1")|423|2|2|リズムゲームでゲット|どっちなどっちもどっちでミラクルNo.1|「どっちなどっちもどっちでミラクルNo.1」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/423.png|
 |![](https://cdn.primagi.jp/assets/images/copy/424.png "バズパズルピピピース")|424|2|3|リズムゲームでゲット|バズパズルピピピース|「バズパズルピピピース」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/424.png|
 |![](https://cdn.primagi.jp/assets/images/copy/426.png "チェンジアップ・トリガー")|426|2|4|リズムゲームでゲット|チェンジアップ・トリガー|「チェンジアップ・トリガー」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/426.png|
+|![](https://cdn.primagi.jp/assets/images/copy/427.png "MEMORIES FOR FUTURE")|427|2|4|リズムゲームでゲット|MEMORIES FOR FUTURE|「MEMORIES FOR FUTURE」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/427.png|
 ## マイキャラメイクでゲット
 
 ||ID|年|章|カテゴリー|名前|取得条件|画像|
@@ -182,6 +184,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/706.png "サンシャインエレメンツマスター")|706|1|6|イベント・キャンペーンでゲット|サンシャインエレメンツマスター|サンシャインエレメンツコーデをフルコーデきて「サンシャインエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/706.png|
 |![](https://cdn.primagi.jp/assets/images/copy/707.png "ラブエレメンツマスター")|707|1|6|イベント・キャンペーンでゲット|ラブエレメンツマスター|ラブエレメンツコーデをフルコーデきて「ラブエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/707.png|
 |![](https://cdn.primagi.jp/assets/images/copy/708.png "エレメンツレジェンド")|708|1|6|イベント・キャンペーンでゲット|エレメンツレジェンド|エレメンツマスターのキャッチコピーをすべてあつめる1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/708.png|
+|![](https://cdn.primagi.jp/assets/images/copy/709.png "クリスタルおしゃれプリンセス")|709|2|4|イベント・キャンペーンでゲット|クリスタルおしゃれプリンセス|「クリスタルプリンセスひめめ」をフルコーデきて「クリスタルプリンセスひめめフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/709.png|
 |![](https://cdn.primagi.jp/assets/images/copy/710.png "はじまりのおしゃれプリンセス")|710|2|3|イベント・キャンペーンでゲット|はじまりのおしゃれプリンセス|店頭大会「プリンセスコレクション～はじまりのプリンセス～」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/710.png|
 ## 期間限定でゲット
 
