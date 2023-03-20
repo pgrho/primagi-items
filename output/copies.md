@@ -61,8 +61,8 @@
 |![](https://cdn.primagi.jp/assets/images/copy/227.png "プリンセスマジックマジマニア")|227|2|1|コーデでゲット|プリンセスマジックマジマニア|プリンセスマジックのコーデを300かいきる|https://cdn.primagi.jp/assets/images/copy/227.png|
 |![](https://cdn.primagi.jp/assets/images/copy/505.png "ビビ～～っとキッタぁ～～～！")|505|1|3|コーデでゲット|ビビ～～っとキッタぁ～～～！|だい3しょうで「キラパワサニーキラリコーデ」を5かいきる|https://cdn.primagi.jp/assets/images/copy/505.png|
 |![](https://cdn.primagi.jp/assets/images/copy/507.png "私が力になれるなら！")|507|1|4|コーデでゲット|私が力になれるなら！|だい4しょうで「キラパワムーンユヅキコーデ」を5かいきる|https://cdn.primagi.jp/assets/images/copy/507.png|
-|![](https://cdn.primagi.jp/assets/images/copy/508.png "ハローキティだいすき")|508|1|4|コーデでゲット|ハローキティだいすき|だい４しょうで「ハローキティだいすきコーデ」を10かいきる|https://cdn.primagi.jp/assets/images/copy/508.png|
-|![](https://cdn.primagi.jp/assets/images/copy/509.png "ポムポムプリンだいすき")|509|1|4|コーデでゲット|ポムポムプリンだいすき|だい４しょうで「ポムポムプリンだいすきコーデ」を10かいきる|https://cdn.primagi.jp/assets/images/copy/509.png|
+|![](https://cdn.primagi.jp/assets/images/copy/508.png "ハローキティだいすき")|508|1|4|コーデでゲット|ハローキティだいすき|「ハローキティだいすきコーデ」を10かいきる|https://cdn.primagi.jp/assets/images/copy/508.png|
+|![](https://cdn.primagi.jp/assets/images/copy/509.png "ポムポムプリンだいすき")|509|1|4|コーデでゲット|ポムポムプリンだいすき|「ポムポムプリンだいすきコーデ」を10かいきる|https://cdn.primagi.jp/assets/images/copy/509.png|
 |![](https://cdn.primagi.jp/assets/images/copy/511.png "シナモロールだいすき")|511|1|5|コーデでゲット|シナモロールだいすき|「シナモロールだいすきコーデ」を10かいきる|https://cdn.primagi.jp/assets/images/copy/511.png|
 |![](https://cdn.primagi.jp/assets/images/copy/512.png "ポチャッコだいすき")|512|1|5|コーデでゲット|ポチャッコだいすき|「ポチャッコだいすきコーデ」を10かいきる|https://cdn.primagi.jp/assets/images/copy/512.png|
 |![](https://cdn.primagi.jp/assets/images/copy/515.png "マイメロディだいすき")|515|1|6|コーデでゲット|マイメロディだいすき|「マイメロディだいすきコーデ」を10かいきる|https://cdn.primagi.jp/assets/images/copy/515.png|
@@ -306,3 +306,4 @@
 |![](https://cdn.primagi.jp/assets/images/copy/844.png "ポップンク！ウィナー")|844|2|3|ミックスコーデコンテストでゲット|ポップンク！ウィナー|「ポップ×ピンクコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/844.png|
 |![](https://cdn.primagi.jp/assets/images/copy/845.png "ミスあかイブ！ウィナー")|845|2|3|ミックスコーデコンテストでゲット|ミスあかイブ！ウィナー|「ミステリアス×あか×ライブコンテスト」の けっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/845.png|
 |![](https://cdn.primagi.jp/assets/images/copy/846.png "ちゃブリー！ウィナー")|846|2|3|ミックスコーデコンテストでゲット|ちゃブリー！ウィナー|「ちゃいろ×ラブリーコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/846.png|
+|![](https://cdn.primagi.jp/assets/images/copy/847.png "ハーずいろ！ウィナー")|847|2|4|ミックスコーデコンテストでゲット|ハーずいろ！ウィナー|「ハート×みずいろコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/847.png|

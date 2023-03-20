@@ -45836,6 +45836,38 @@
       "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/img_codination_146_main.jpg"
     },
     {
+      "collection": 16,
+      "name": "はるのピクニックTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 154,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 39,
+      "chapter": "2P04",
+      "items": [
+        {
+          "id": 1587,
+          "modelName": "SPCW10722_T01A",
+          "sealId": "PM2-2-196",
+          "name": "はるのピクニックTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 6,
+          "color": 5,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 16,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1587.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
       "collection": 15,
       "name": "プリマジユニフォームフレッシュ",
       "kinds": "プロモ",
@@ -50724,7 +50756,7 @@
     {
       "chapter": "P04",
       "id": 508,
-      "conditions": "だい４しょうで「ハローキティだいすきコーデ」を10かいきる",
+      "conditions": "「ハローキティだいすきコーデ」を10かいきる",
       "url": null,
       "name": "ハローキティだいすき",
       "category": 2,
@@ -50733,7 +50765,7 @@
     {
       "chapter": "P04",
       "id": 509,
-      "conditions": "だい４しょうで「ポムポムプリンだいすきコーデ」を10かいきる",
+      "conditions": "「ポムポムプリンだいすきコーデ」を10かいきる",
       "url": null,
       "name": "ポムポムプリンだいすき",
       "category": 2,
@@ -51530,6 +51562,15 @@
       "name": "ちゃブリー！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/846.png"
+    },
+    {
+      "chapter": "2P04",
+      "id": 847,
+      "conditions": "「ハート×みずいろコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ハーずいろ！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/847.png"
     }
   ],
   "shops": [
