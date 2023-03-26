@@ -1,4 +1,4 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 
 namespace Shipwreck.PrimagiItems;
 
@@ -237,7 +237,8 @@ public sealed class CoordinationItem
 
     private string? GetDefaultImageUrl()
         => Coordination?.ChapterId == null ? null
-                : $"https://cdn.primagi.jp/assets/images/item/{Coordination?.ChapterId}/{Id}.png";
+        : !string.IsNullOrEmpty(Coordination.WhichShowId) ? $"https://cdn.primagi.jp/assets/images/item/{Coordination?.ChapterId}/{Coordination?.WhichShowId}/{Id}.png"
+            : $"https://cdn.primagi.jp/assets/images/item/{Coordination?.ChapterId}/{Id}.png";
 
     public bool ShouldSerializeImageUrl()
         => DataSet?.IgnoreCalculatedProperties != true

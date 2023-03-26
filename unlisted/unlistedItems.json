@@ -137,6 +137,26 @@
           "imageUrl": "girly_knit_green_accessory.png"
         }
       ]
+    },
+    {
+      "chapter": "2P04",
+      "name": "ピクニックおにぎり",
+      "whichShowId": "q72an"
+    },
+    {
+      "chapter": "2P04",
+      "name": "ピクニックサンドイッチ",
+      "whichShowId": "q66gi"
+    },
+    {
+      "chapter": "2P04",
+      "name": "にゅうがく&そつぎょうネイビー",
+      "whichShowId": "r5sdw"
+    },
+    {
+      "chapter": "2P04",
+      "name": "にゅうがく&そつぎょうベージュ",
+      "whichShowId": "gggxu"
     }
   ]
 }

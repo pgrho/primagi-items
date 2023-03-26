@@ -175,57 +175,6 @@ internal static class ItemWriter
             }
         }
 
-        var cols = new (string dislayName, Func<Item, object?> getter)[]
-        {
-            ("ID", e => e.Id),
-            ("刻印", e => e.SealId),
-            ("レアリティ", e => getValue(rarities, e.Rarity)),
-            ("コーデ", e => e.CoordinationName),
-            ("ジャンル", e => getValue(genres, e.Genre)),
-            ("部位", e => getValue(categories, e.Category)),
-            ("ブランド", e => getValue(brands, e.Brand)),
-            ("色", e => getValue(colors, e.Color)),
-            ("テイスト", e => getValue(subcategories, e.SubCategory)),
-            ("ワッチャ", e => e.Watcha),
-            ("画像", e => $"https://cdn.primagi.jp/assets/images/item/{e.Chapter ?? e.ChapterName}/{e.Id}.png"),
-        };
-
-        foreach (var cg in items.GroupBy(e => e.ChapterName ?? e.Chapter))
-        {
-            using var sw = new StreamWriter(new FileStream(Path.Combine(directory.FullName, cg.Key + ".md"), FileMode.Create), Encoding.UTF8, 4096);
-
-            foreach (var kg in cg.GroupBy(e => new { e.collection, e.directoryNumber }).GroupBy(e => e.First().kinds))
-            {
-                sw.Write("## ");
-                sw.WriteLine(kg.Key);
-
-                foreach (var c in cols)
-                {
-                    sw.Write('|');
-                    sw.Write(c.dislayName);
-                }
-                sw.WriteLine("|");
-
-                foreach (var c in cols)
-                {
-                    sw.Write("|-");
-                }
-                sw.WriteLine("|");
-
-                foreach (var e in kg.SelectMany(e => e))
-                {
-                    foreach (var c in cols)
-                    {
-                        sw.Write('|');
-                        sw.Write(c.getter(e));
-                    }
-                    sw.WriteLine("|");
-                }
-
-                sw.WriteLine();
-            }
-        }
-
         foreach (var kv in genres.OrderBy(e => e.Key))
         {
             ds.Genres.Add(new()
@@ -346,6 +295,18 @@ internal static class ItemWriter
 
         foreach (var uc in unlisted.Coordinations)
         {
+            if (uc.Items.Count == 0)
+            {
+                var tc = ds.Coordinations.FirstOrDefault(e => e.ChapterId == uc.ChapterId && e.Name == uc.Name);
+
+                if (tc != null)
+                {
+                    tc.WhichShowId = uc.WhichShowId;
+                }
+
+                continue;
+            }
+
             var nc = new Coordination
             {
                 Collection = uc.Collection,
@@ -381,6 +342,57 @@ internal static class ItemWriter
                 });
             }
             ds.Coordinations.Add(nc);
+        }
+
+        var cols = new (string dislayName, Func<CoordinationItem, object?> getter)[]
+        {
+            ("ID", e => e.Id),
+            ("刻印", e => e.SealId),
+            ("レアリティ", e => e.Rarity?.Value),
+            ("コーデ", e => e.Name),
+            ("ジャンル", e => e.Genre?.Value),
+            ("部位", e => e.Category?.Value),
+            ("ブランド", e => e.Brand?.Value),
+            ("色", e => e.Color?.Value),
+            ("テイスト", e => e.SubCategory?.Value),
+            ("ワッチャ", e => e.Watcha),
+            ("画像", e => e.ImageUrl),
+        };
+
+        foreach (var cg in ds.Coordinations.GroupBy(e => e.ChapterId))
+        {
+            using var sw = new StreamWriter(new FileStream(Path.Combine(directory.FullName, cg.Key + ".md"), FileMode.Create), Encoding.UTF8, 4096);
+
+            foreach (var kg in cg.GroupBy(e => new { e.Collection, e.DirectoryNumber }).GroupBy(e => e.First().Kinds))
+            {
+                sw.Write("## ");
+                sw.WriteLine(kg.Key);
+
+                foreach (var c in cols)
+                {
+                    sw.Write('|');
+                    sw.Write(c.dislayName);
+                }
+                sw.WriteLine("|");
+
+                foreach (var c in cols)
+                {
+                    sw.Write("|-");
+                }
+                sw.WriteLine("|");
+
+                foreach (var e in kg.SelectMany(e => e).SelectMany(e => e.Items))
+                {
+                    foreach (var c in cols)
+                    {
+                        sw.Write('|');
+                        sw.Write(c.getter(e));
+                    }
+                    sw.WriteLine("|");
+                }
+
+                sw.WriteLine();
+            }
         }
     }
 }

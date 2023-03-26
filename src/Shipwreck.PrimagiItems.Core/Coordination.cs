@@ -14,6 +14,7 @@ public sealed class Coordination
     public int DirectoryNumber { get; set; }
     public bool IsShow { get; set; }
     public bool HasMainImage { get; set; }
+    public string? WhichShowId { get; set; }
 
     #region Span
 
@@ -240,7 +241,7 @@ public sealed class Coordination
 
     public string? ImageUrl
         => ChapterId == null || !HasMainImage ? null
-        : $"https://cdn.primagi.jp/assets/images/item/{ChapterId}/img_codination_{DirectoryNumber}_main.jpg";
+        : $"https://cdn.primagi.jp/assets/images/item/{ChapterId}/img_codination_{DirectoryNumber}_main{(!string.IsNullOrEmpty(WhichShowId) ? "_" + WhichShowId : "")}.jpg";
 
     public bool ShouldSerializeImageUrl()
         => DataSet?.IgnoreCalculatedProperties != true;
