@@ -144,6 +144,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/424.png "バズパズルピピピース")|424|2|3|リズムゲームでゲット|バズパズルピピピース|「バズパズルピピピース」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/424.png|
 |![](https://cdn.primagi.jp/assets/images/copy/426.png "チェンジアップ・トリガー")|426|2|4|リズムゲームでゲット|チェンジアップ・トリガー|「チェンジアップ・トリガー」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/426.png|
 |![](https://cdn.primagi.jp/assets/images/copy/427.png "MEMORIES FOR FUTURE")|427|2|4|リズムゲームでゲット|MEMORIES FOR FUTURE|「MEMORIES FOR FUTURE」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/427.png|
+|![](https://cdn.primagi.jp/assets/images/copy/428.png "みんな～！うたって！")|428|2|4|リズムゲームでゲット|みんな～！うたって！|「本気アピショータイム~みんな～！うたって！Ver.~」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/428.png|
 ## マイキャラメイクでゲット
 
 ||ID|年|章|カテゴリー|名前|取得条件|画像|
