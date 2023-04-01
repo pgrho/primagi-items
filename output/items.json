@@ -42832,7 +42832,7 @@
       "directoryNumber": 80,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "mx5g5",
       "span": "こんしゅうのみんなでどっちでSHOW！ みんなではるをおいわい！おいわいコーデならどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ みんなではるをおいわい！おいわいコーデならどっち？",
       "order": 18,
@@ -42853,7 +42853,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1604.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/mx5g5/1604.png"
         },
         {
           "id": 1605,
@@ -42870,7 +42870,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1605.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/mx5g5/1605.png"
         },
         {
           "id": 1606,
@@ -42887,7 +42887,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1606.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/mx5g5/1606.png"
         },
         {
           "id": 1607,
@@ -42904,10 +42904,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1607.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/mx5g5/1607.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/img_codination_80_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/img_codination_80_main_mx5g5.jpg"
     },
     {
       "collection": 16,
@@ -42916,7 +42916,7 @@
       "directoryNumber": 81,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "nxgmn",
       "span": "こんしゅうのみんなでどっちでSHOW！ みんなではるをおいわい！おいわいコーデならどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ みんなではるをおいわい！おいわいコーデならどっち？",
       "order": 19,
@@ -42937,7 +42937,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1608.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/nxgmn/1608.png"
         },
         {
           "id": 1609,
@@ -42954,7 +42954,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1609.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/nxgmn/1609.png"
         },
         {
           "id": 1610,
@@ -42971,7 +42971,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1610.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/nxgmn/1610.png"
         },
         {
           "id": 1611,
@@ -42988,10 +42988,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1611.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/nxgmn/1611.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/img_codination_81_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/img_codination_81_main_nxgmn.jpg"
     },
     {
       "collection": 16,
@@ -54471,7 +54471,7 @@
     },
     {
       "id": "620",
-      "name": "セガ龍ヶ崎",
+      "name": "GiGO龍ヶ崎",
       "prefecture": "茨城県",
       "address": "龍ケ崎市藤ｹ丘4-2-8",
       "latitude": 35.938539,
@@ -56019,7 +56019,7 @@
     },
     {
       "id": "1460",
-      "name": "GiGO イオンスタイル新浦安",
+      "name": "GiGOイオン新浦安ショッピングセンター",
       "prefecture": "千葉県",
       "address": "浦安市入船1-4-1 イオンスタイル新浦安4F",
       "latitude": 35.649228,
@@ -60365,6 +60365,15 @@
       "shopGroup": "2"
     },
     {
+      "id": "1592",
+      "name": "サープラ富士あそびタウン",
+      "prefecture": "静岡県",
+      "address": "富士市永田町2-94",
+      "latitude": 35.163559,
+      "longitude": 138.669348,
+      "shopGroup": "2"
+    },
+    {
       "id": "1547",
       "name": "キッズトレイン三島",
       "prefecture": "静岡県",
@@ -60651,15 +60660,6 @@
       "latitude": 34.998412,
       "longitude": 138.944216,
       "shopGroup": "1"
-    },
-    {
-      "id": "223",
-      "name": "THE 3RD PLANET 富士",
-      "prefecture": "静岡県",
-      "address": "富士市永田町2-99",
-      "latitude": 35.162789,
-      "longitude": 138.669294,
-      "shopGroup": "2"
     },
     {
       "id": "211",
@@ -62309,15 +62309,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "1490",
-      "name": "セガワールド松原",
-      "prefecture": "大阪府",
-      "address": "堺市東区八下町3-100",
-      "latitude": 34.557223,
-      "longitude": 135.545834,
-      "shopGroup": "1"
-    },
-    {
       "id": "1488",
       "name": "GiGO大阪第4ビル",
       "prefecture": "大阪府",
@@ -62831,15 +62822,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "476",
-      "name": "キデイランド大阪梅田",
-      "prefecture": "大阪府",
-      "address": "大阪市北区芝田1-1-3阪急三番街",
-      "latitude": 34.705967,
-      "longitude": 135.498475,
-      "shopGroup": "1"
-    },
-    {
       "id": "466",
       "name": "かみしんプラザアミューズパーク",
       "prefecture": "大阪府",
@@ -63089,6 +63071,15 @@
       "address": "吹田市千里万博公園2-13F30060 ららぽｰとEXPOCITY",
       "latitude": 34.805489,
       "longitude": 135.534467,
+      "shopGroup": "1"
+    },
+    {
+      "id": "1591",
+      "name": "TeccLIFESELECT尼崎",
+      "prefecture": "兵庫県",
+      "address": "尼崎市次屋3-13-18 ",
+      "latitude": 34.742549,
+      "longitude": 135.442634,
       "shopGroup": "1"
     },
     {
@@ -64001,15 +63992,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "226",
-      "name": "youmeCIRCUS出雲",
-      "prefecture": "島根県",
-      "address": "出雲市大塚町650-1",
-      "latitude": 35.376962,
-      "longitude": 132.754941,
-      "shopGroup": "2"
-    },
-    {
       "id": "190",
       "name": "PALO松江",
       "prefecture": "島根県",
@@ -64808,15 +64790,6 @@
       "address": "綾歌郡綾川町萱原822-1 ｲｵﾝ綾川SC3階",
       "latitude": 34.251338,
       "longitude": 133.931749,
-      "shopGroup": "1"
-    },
-    {
-      "id": "970",
-      "name": "ポップンパーク坂出",
-      "prefecture": "香川県",
-      "address": "坂出市江尻町北新開1166-1 ﾎﾟｯﾌﾟﾝﾊﾟｰｸ坂出店ﾌﾟﾚﾋﾞﾌﾟﾚｲﾗﾝﾄﾞ",
-      "latitude": 34.315626,
-      "longitude": 133.873585,
       "shopGroup": "1"
     },
     {
@@ -66063,7 +66036,7 @@
     },
     {
       "id": "1551",
-      "name": "セガGIGO",
+      "name": "GiGOｱﾐｭﾌﾟﾗｻﾞみやざき",
       "prefecture": "宮崎県",
       "address": "宮崎市老松2丁目2番22号 ｱﾐｭﾌﾟﾗｻﾞみやざきうみ館4F0401区画",
       "latitude": 31.915054,
