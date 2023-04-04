@@ -42827,6 +42827,39 @@
     },
     {
       "collection": 16,
+      "name": "ハッピーイースターTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 166,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 40,
+      "chapter": "2P04",
+      "items": [
+        {
+          "id": 1603,
+          "modelName": "SPCW10730_T01A",
+          "sealId": "PM2-2-212",
+          "name": "ハッピーイースターTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 1,
+          "color": 7,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 6,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1603.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 16,
       "name": "まんまるイースターエッグ",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 80,
@@ -52378,6 +52411,15 @@
       "name": "みどりボン！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/848.png"
+    },
+    {
+      "chapter": "2P04",
+      "id": 849,
+      "conditions": "「スタイリッシュ×チェックコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "スタイック！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/849.png"
     }
   ],
   "shops": [

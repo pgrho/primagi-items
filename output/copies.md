@@ -309,3 +309,4 @@
 |![](https://cdn.primagi.jp/assets/images/copy/846.png "ちゃブリー！ウィナー")|846|2|3|ミックスコーデコンテストでゲット|ちゃブリー！ウィナー|「ちゃいろ×ラブリーコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/846.png|
 |![](https://cdn.primagi.jp/assets/images/copy/847.png "ハーずいろ！ウィナー")|847|2|4|ミックスコーデコンテストでゲット|ハーずいろ！ウィナー|「ハート×みずいろコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/847.png|
 |![](https://cdn.primagi.jp/assets/images/copy/848.png "みどりボン！ウィナー")|848|2|4|ミックスコーデコンテストでゲット|みどりボン！ウィナー|「みどり×リボンコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/848.png|
+|![](https://cdn.primagi.jp/assets/images/copy/849.png "スタイック！ウィナー")|849|2|4|ミックスコーデコンテストでゲット|スタイック！ウィナー|「スタイリッシュ×チェックコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/849.png|
