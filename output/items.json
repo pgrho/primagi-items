@@ -43033,7 +43033,7 @@
       "directoryNumber": 82,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "it1hy",
       "span": "こんしゅうのみんなでどっちでSHOW！ プリンセスマジックのだいにんきコーデ！ほしいのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ プリンセスマジックのだいにんきコーデ！ほしいのはどっち？",
       "order": 20,
@@ -43054,7 +43054,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1613.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/it1hy/1613.png"
         },
         {
           "id": 1614,
@@ -43071,7 +43071,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1614.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/it1hy/1614.png"
         },
         {
           "id": 1615,
@@ -43088,7 +43088,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1615.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/it1hy/1615.png"
         },
         {
           "id": 1616,
@@ -43105,10 +43105,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1616.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/it1hy/1616.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/img_codination_82_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/img_codination_82_main_it1hy.jpg"
     },
     {
       "collection": 16,
@@ -43117,7 +43117,7 @@
       "directoryNumber": 83,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "jx5e6",
       "span": "こんしゅうのみんなでどっちでSHOW！ プリンセスマジックのだいにんきコーデ！ほしいのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ プリンセスマジックのだいにんきコーデ！ほしいのはどっち？",
       "order": 21,
@@ -43138,7 +43138,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1617.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/jx5e6/1617.png"
         },
         {
           "id": 1618,
@@ -43155,7 +43155,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1618.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/jx5e6/1618.png"
         },
         {
           "id": 1619,
@@ -43172,7 +43172,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1619.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/jx5e6/1619.png"
         },
         {
           "id": 1620,
@@ -43189,10 +43189,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1620.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/jx5e6/1620.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/img_codination_83_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/img_codination_83_main_jx5e6.jpg"
     },
     {
       "collection": 16,
@@ -52740,7 +52740,7 @@
     },
     {
       "id": "538",
-      "name": "スガイディノス帯広",
+      "name": "ディノスパーク帯広",
       "prefecture": "北海道",
       "address": "帯広市白樺十六条西2丁目ﾄﾞﾘｰﾑﾀｳﾝ白樺内",
       "latitude": 42.9187,
@@ -53001,7 +53001,7 @@
     },
     {
       "id": "1497",
-      "name": "セガ弘前",
+      "name": "GiGO弘前",
       "prefecture": "青森県",
       "address": "弘前市末広１－３－３",
       "latitude": 40.604113,
@@ -53370,7 +53370,7 @@
     },
     {
       "id": "598",
-      "name": "セガ水沢",
+      "name": "GiGO水沢",
       "prefecture": "岩手県",
       "address": "奥州市水沢区佐倉河字鐙田4-1",
       "latitude": 39.15262,
@@ -53658,7 +53658,7 @@
     },
     {
       "id": "616",
-      "name": "セガ名取セッツウイングス",
+      "name": "GiGO名取",
       "prefecture": "宮城県",
       "address": "名取市飯野坂字土城堀57-1",
       "latitude": 38.156903,
@@ -53667,7 +53667,7 @@
     },
     {
       "id": "602",
-      "name": "セガ仙台コロナワールド",
+      "name": "GiGO仙台コロナワールド",
       "prefecture": "宮城県",
       "address": "仙台市宮城野区福室字田中前一番53-1",
       "latitude": 38.260169,
@@ -53754,15 +53754,6 @@
       "latitude": 38.258636,
       "longitude": 140.879848,
       "shopGroup": "2"
-    },
-    {
-      "id": "228",
-      "name": "あそびのひろば船岡",
-      "prefecture": "宮城県",
-      "address": "柴田郡柴田町西船迫2-1-15ｲｵﾝ船岡2F",
-      "latitude": 38.063108,
-      "longitude": 140.762317,
-      "shopGroup": "1"
     },
     {
       "id": "75",
@@ -53973,7 +53964,7 @@
     },
     {
       "id": "586",
-      "name": "セガ秋田",
+      "name": "GiGO秋田",
       "prefecture": "秋田県",
       "address": "秋田市茨島1-1-16",
       "latitude": 39.704216,
@@ -54144,7 +54135,7 @@
     },
     {
       "id": "1492",
-      "name": "セガワールド福島",
+      "name": "GiGO福島",
       "prefecture": "福島県",
       "address": "福島市本内字中井１－２",
       "latitude": 37.785235,
@@ -54153,7 +54144,7 @@
     },
     {
       "id": "1486",
-      "name": "セガ日和田",
+      "name": "GiGO日和田",
       "prefecture": "福島県",
       "address": "郡山市日和田町字西中島7-10",
       "latitude": 37.448214,
@@ -54279,7 +54270,7 @@
     },
     {
       "id": "591",
-      "name": "セガ小名浜",
+      "name": "GiGO小名浜",
       "prefecture": "福島県",
       "address": "いわき市小名浜林城字塚前18-1",
       "latitude": 36.985935,
@@ -54441,7 +54432,7 @@
     },
     {
       "id": "902",
-      "name": "ピンクパンサー日立",
+      "name": "ゲームメガ日立",
       "prefecture": "茨城県",
       "address": "日立市東多賀町5-10-10",
       "latitude": 36.548234,
@@ -54522,7 +54513,7 @@
     },
     {
       "id": "600",
-      "name": "セガ石岡",
+      "name": "GiGO石岡",
       "prefecture": "茨城県",
       "address": "石岡市東大橋中峯1976-1",
       "latitude": 36.240203,
@@ -54531,7 +54522,7 @@
     },
     {
       "id": "597",
-      "name": "セガ水戸南",
+      "name": "GiGO水戸南",
       "prefecture": "茨城県",
       "address": "水戸市千波町2017-1 1F",
       "latitude": 36.350322,
@@ -54540,7 +54531,7 @@
     },
     {
       "id": "574",
-      "name": "セガワールド日立",
+      "name": "GiGO日立",
       "prefecture": "茨城県",
       "address": "日立市田尻町3-26-1",
       "latitude": 36.627007,
@@ -54801,7 +54792,7 @@
     },
     {
       "id": "599",
-      "name": "セガ西那須野",
+      "name": "GiGO西那須野",
       "prefecture": "栃木県",
       "address": "那須塩原市南郷屋2-106-27",
       "latitude": 36.895073,
@@ -55035,7 +55026,7 @@
     },
     {
       "id": "573",
-      "name": "セガワールド沼田",
+      "name": "GiGO沼田",
       "prefecture": "群馬県",
       "address": "沼田市下久屋町1100-1",
       "latitude": 36.656781,
@@ -55044,7 +55035,7 @@
     },
     {
       "id": "569",
-      "name": "セガワールド館林",
+      "name": "GiGO館林",
       "prefecture": "群馬県",
       "address": "館林市小桑原町949-1",
       "latitude": 36.235177,
@@ -55053,7 +55044,7 @@
     },
     {
       "id": "557",
-      "name": "セガスマーク伊勢崎",
+      "name": "GiGOスマーク伊勢崎",
       "prefecture": "群馬県",
       "address": "伊勢崎市西小保方町368 ｽﾏｰｸ伊勢崎3F302区画",
       "latitude": 36.339699,
@@ -55143,7 +55134,7 @@
     },
     {
       "id": "1570",
-      "name": "GiGOララポート富士見",
+      "name": "GiGOららぽーと富士見",
       "prefecture": "埼玉県",
       "address": "富士見市山室1-1313 ららぽーと富士見3F 3520区画",
       "latitude": 35.85977,
@@ -55662,15 +55653,6 @@
       "latitude": 36.138841,
       "longitude": 139.393779,
       "shopGroup": "2"
-    },
-    {
-      "id": "619",
-      "name": "GiGO イオンモール与野",
-      "prefecture": "埼玉県",
-      "address": "さいたま市中央区本町西5-2-9 ｲｵﾝ与野ｼｮｯﾋﾟﾝｸﾞｾﾝﾀｰ3F",
-      "latitude": 35.890676,
-      "longitude": 139.614978,
-      "shopGroup": "1"
     },
     {
       "id": "611",
@@ -56510,17 +56492,8 @@
       "shopGroup": "1"
     },
     {
-      "id": "592",
-      "name": "セガ松戸",
-      "prefecture": "千葉県",
-      "address": "松戸市日暮1-1-1 八柱駅第2ﾋﾞﾙ2F",
-      "latitude": 35.791344,
-      "longitude": 139.937771,
-      "shopGroup": "1"
-    },
-    {
       "id": "581",
-      "name": "セガ旭",
+      "name": "GiGO旭",
       "prefecture": "千葉県",
       "address": "旭市二3150-1",
       "latitude": 35.723546,
@@ -56528,17 +56501,8 @@
       "shopGroup": "1"
     },
     {
-      "id": "563",
-      "name": "セガららぽーとTOKYO-BAY",
-      "prefecture": "千葉県",
-      "address": "船橋市浜町2-1-1 北館1FE122区画",
-      "latitude": 35.679301,
-      "longitude": 139.989818,
-      "shopGroup": "1"
-    },
-    {
       "id": "552",
-      "name": "セガイオンモール銚子",
+      "name": "GiGOイオンモール銚子",
       "prefecture": "千葉県",
       "address": "銚子市三崎町2-2660-1 ｲｵﾝﾓｰﾙ銚子2F",
       "latitude": 35.710517,
@@ -56601,7 +56565,7 @@
     },
     {
       "id": "487",
-      "name": "クラブセガ稲毛オーツーパーク",
+      "name": "GiGO稲毛オーツーパーク",
       "prefecture": "千葉県",
       "address": "千葉市稲毛区園生町380-1",
       "latitude": 35.650942,
@@ -57600,7 +57564,7 @@
     },
     {
       "id": "607",
-      "name": "セガ竹の塚",
+      "name": "GiGO竹の塚",
       "prefecture": "東京都",
       "address": "足立区竹の塚6丁目8番6号 ﾋﾟｰくんPlaza-B",
       "latitude": 35.794743,
@@ -57609,7 +57573,7 @@
     },
     {
       "id": "601",
-      "name": "セガ赤羽駅前",
+      "name": "GiGO赤羽駅前",
       "prefecture": "東京都",
       "address": "北区赤羽1-2-4",
       "latitude": 35.778305,
@@ -57717,7 +57681,7 @@
     },
     {
       "id": "489",
-      "name": "クラブセガ自由ヶ丘",
+      "name": "GiGO自由が丘",
       "prefecture": "東京都",
       "address": "目黒区自由ヶ丘2-10-9",
       "latitude": 35.60821,
@@ -58707,7 +58671,7 @@
     },
     {
       "id": "554",
-      "name": "セガイトーヨーカドー古淵",
+      "name": "GiGOイトーヨーカドー古淵",
       "prefecture": "神奈川県",
       "address": "相模原市古淵3-13-33 ｲﾄｰﾖｰｶﾄﾞｰ3F",
       "latitude": 35.553068,
@@ -59031,7 +58995,7 @@
     },
     {
       "id": "216",
-      "name": "THE 3RD PLANET 横浜本店",
+      "name": "サープラ横浜あそびタウン",
       "prefecture": "神奈川県",
       "address": "横浜市都筑区中川中央1-25-1 ﾉｰｽﾎﾟｰﾄ･ﾓｰﾙ6F",
       "latitude": 35.552098,
@@ -59634,7 +59598,7 @@
     },
     {
       "id": "548",
-      "name": "セガイオンタウン金沢示野",
+      "name": "GiGOイオンタウン金沢示野",
       "prefecture": "石川県",
       "address": "金沢市戸板西2-1",
       "latitude": 36.579065,
@@ -59769,7 +59733,7 @@
     },
     {
       "id": "577",
-      "name": "セガワールド武生",
+      "name": "GiGO武生",
       "prefecture": "福井県",
       "address": "越前市新町3-13-4",
       "latitude": 35.905223,
@@ -59904,7 +59868,7 @@
     },
     {
       "id": "1494",
-      "name": "セガ岡谷",
+      "name": "GiGO岡谷",
       "prefecture": "長野県",
       "address": "岡谷市塚間町２－１－２１",
       "latitude": 36.065227,
@@ -60300,7 +60264,7 @@
     },
     {
       "id": "564",
-      "name": "セガワールドアクアウォーク大垣",
+      "name": "GiGOアクアウォーク大垣",
       "prefecture": "岐阜県",
       "address": "大垣市林町6-80-21 ｱｸｱｳｫｰｸ大垣2F",
       "latitude": 35.369882,
@@ -60615,7 +60579,7 @@
     },
     {
       "id": "606",
-      "name": "セガ袋井",
+      "name": "GiGO袋井",
       "prefecture": "静岡県",
       "address": "袋井市川井1142-1",
       "latitude": 34.746268,
@@ -60624,7 +60588,7 @@
     },
     {
       "id": "584",
-      "name": "セガ掛川",
+      "name": "GiGO掛川",
       "prefecture": "静岡県",
       "address": "掛川市細田248",
       "latitude": 34.773801,
@@ -60749,6 +60713,15 @@
       "shopGroup": "1"
     },
     {
+      "id": "1594",
+      "name": "MIRAINOイオンモール豊川",
+      "prefecture": "愛知県",
+      "address": "豊川市白鳥町兎足1-16 ｲｵﾝﾓｰﾙ豊川3階",
+      "latitude": 34.825548,
+      "longitude": 137.351219,
+      "shopGroup": "2"
+    },
+    {
       "id": "1590",
       "name": "アピタ鳴海店",
       "prefecture": "愛知県",
@@ -60773,15 +60746,6 @@
       "address": "豊橋市藤沢町141 MEGAﾄﾞﾝ･ｷﾎｰﾃ豊橋店ｱﾐｭｰｽﾞﾒﾝﾄ棟1階",
       "latitude": 35.9712,
       "longitude": 139.735998,
-      "shopGroup": "1"
-    },
-    {
-      "id": "1556",
-      "name": "GiGO岡崎",
-      "prefecture": "愛知県",
-      "address": "岡崎市上地3-50-4",
-      "latitude": 34.911482,
-      "longitude": 137.169318,
       "shopGroup": "1"
     },
     {
@@ -60822,7 +60786,7 @@
     },
     {
       "id": "1491",
-      "name": "セガワールド知立",
+      "name": "GiGOギャラリエアピタ知立",
       "prefecture": "愛知県",
       "address": "知立市長篠町大山１８－１ギャラリエアピタ１Ｆ",
       "latitude": 34.997845,
@@ -61263,7 +61227,7 @@
     },
     {
       "id": "613",
-      "name": "セガ尾西",
+      "name": "GiGO尾西",
       "prefecture": "愛知県",
       "address": "一宮市篭屋3-9-7 ｱｿﾋﾞｯｸｽびさい1F",
       "latitude": 35.309199,
@@ -61272,7 +61236,7 @@
     },
     {
       "id": "612",
-      "name": "セガ飯村",
+      "name": "GiGO豊橋飯村",
       "prefecture": "愛知県",
       "address": "豊橋市飯村町字西山25-121",
       "latitude": 34.749323,
@@ -61281,7 +61245,7 @@
     },
     {
       "id": "609",
-      "name": "セガ東名ボール",
+      "name": "GiGO東名ボール",
       "prefecture": "愛知県",
       "address": "瀬戸市西原町2-114",
       "latitude": 35.209151,
@@ -61290,7 +61254,7 @@
     },
     {
       "id": "588",
-      "name": "セガ春日井",
+      "name": "GiGO春日井",
       "prefecture": "愛知県",
       "address": "春日井市岩野町4180",
       "latitude": 35.269455,
@@ -61299,7 +61263,7 @@
     },
     {
       "id": "582",
-      "name": "セガ安城",
+      "name": "GiGO安城",
       "prefecture": "愛知県",
       "address": "安城市百石町2-35-13",
       "latitude": 34.947333,
@@ -61317,7 +61281,7 @@
     },
     {
       "id": "549",
-      "name": "セガイオンタウン名西",
+      "name": "GiGOイオンタウン名西",
       "prefecture": "愛知県",
       "address": "名古屋市西区香呑町6-49-1",
       "latitude": 35.203999,
@@ -61326,7 +61290,7 @@
     },
     {
       "id": "547",
-      "name": "セガイオンタウン刈谷",
+      "name": "GiGOイオンタウン刈谷",
       "prefecture": "愛知県",
       "address": "刈谷市東境町京和1",
       "latitude": 35.038865,
@@ -61866,7 +61830,7 @@
     },
     {
       "id": "583",
-      "name": "セガ伊勢",
+      "name": "GiGO伊勢",
       "prefecture": "三重県",
       "address": "伊勢市中須町666",
       "latitude": 34.492032,
@@ -61988,15 +61952,6 @@
       "address": "鈴鹿市庄野羽山4-1-2ｲｵﾝﾓｰﾙ鈴鹿2F",
       "latitude": 34.871766,
       "longitude": 136.5316,
-      "shopGroup": "1"
-    },
-    {
-      "id": "1557",
-      "name": "GiGO甲西",
-      "prefecture": "滋賀県",
-      "address": "湖南市夏見二ﾂ橋356-1",
-      "latitude": 34.995099,
-      "longitude": 136.097155,
       "shopGroup": "1"
     },
     {
@@ -62280,7 +62235,7 @@
     },
     {
       "id": "209",
-      "name": "THE 3RD PLANET BiVi京都二条",
+      "name": "サープラ京都あそびタウン",
       "prefecture": "京都府",
       "address": "京都市中京区西ﾉ京栂尾町107番地 BiVi二条2F",
       "latitude": 35.010255,
@@ -62312,6 +62267,15 @@
       "address": "宇治市莵道平町28番地の1ｱﾙﾌﾟﾗｻﾞ宇治東3F",
       "latitude": 34.902432,
       "longitude": 135.802042,
+      "shopGroup": "1"
+    },
+    {
+      "id": "1593",
+      "name": "プリマジスタジオなんばマルイ店",
+      "prefecture": "大阪府",
+      "address": "大阪市中央区難波3丁目8-9 なんばﾏﾙｲ5F",
+      "latitude": 34.665728,
+      "longitude": 135.500946,
       "shopGroup": "1"
     },
     {
@@ -63926,15 +63890,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "1554",
-      "name": "GiGO米子",
-      "prefecture": "鳥取県",
-      "address": "米子市両三柳2778-2",
-      "latitude": 35.459902,
-      "longitude": 133.322158,
-      "shopGroup": "1"
-    },
-    {
       "id": "1504",
       "name": "トイザらス鳥取",
       "prefecture": "鳥取県",
@@ -64886,15 +64841,6 @@
       "address": "高松市十川西町651-1ﾌｼﾞｸﾞﾗﾝ十川別棟",
       "latitude": 34.272056,
       "longitude": 134.108211,
-      "shopGroup": "1"
-    },
-    {
-      "id": "1559",
-      "name": "GiGO松山",
-      "prefecture": "愛媛県",
-      "address": "松山市枝松5-7-32",
-      "latitude": 33.828411,
-      "longitude": 132.786445,
       "shopGroup": "1"
     },
     {
@@ -65915,15 +65861,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "1553",
-      "name": "GiGO中津",
-      "prefecture": "大分県",
-      "address": "中津市沖代町1-2-16",
-      "latitude": 33.591406,
-      "longitude": 131.202169,
-      "shopGroup": "1"
-    },
-    {
       "id": "1368",
       "name": "ゆめタウン中津店",
       "prefecture": "大分県",
@@ -66074,15 +66011,6 @@
       "address": "佐伯市鶴岡西町2丁目163番地ｺｽﾓﾀｳﾝ佐伯内",
       "latitude": 32.960973,
       "longitude": 131.866225,
-      "shopGroup": "1"
-    },
-    {
-      "id": "1551",
-      "name": "GiGOｱﾐｭﾌﾟﾗｻﾞみやざき",
-      "prefecture": "宮崎県",
-      "address": "宮崎市老松2丁目2番22号 ｱﾐｭﾌﾟﾗｻﾞみやざきうみ館4F0401区画",
-      "latitude": 31.915054,
-      "longitude": 131.431443,
       "shopGroup": "1"
     },
     {
