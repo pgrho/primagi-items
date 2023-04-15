@@ -43209,7 +43209,7 @@
       "directoryNumber": 84,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "2c2sk",
       "span": "こんしゅうのみんなでどっちでSHOW！ おはなみ？おだんご？はるといえばどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ おはなみ？おだんご？はるといえばどっち？",
       "order": 22,
@@ -43230,7 +43230,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1622.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/2c2sk/1622.png"
         },
         {
           "id": 1623,
@@ -43247,7 +43247,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1623.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/2c2sk/1623.png"
         },
         {
           "id": 1624,
@@ -43264,7 +43264,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1624.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/2c2sk/1624.png"
         },
         {
           "id": 1625,
@@ -43281,10 +43281,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1625.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/2c2sk/1625.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/img_codination_84_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/img_codination_84_main_2c2sk.jpg"
     },
     {
       "collection": 16,
@@ -43293,7 +43293,7 @@
       "directoryNumber": 85,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "ccrk6",
       "span": "こんしゅうのみんなでどっちでSHOW！ おはなみ？おだんご？はるといえばどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ おはなみ？おだんご？はるといえばどっち？",
       "order": 23,
@@ -43314,7 +43314,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1626.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/ccrk6/1626.png"
         },
         {
           "id": 1627,
@@ -43331,7 +43331,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1627.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/ccrk6/1627.png"
         },
         {
           "id": 1628,
@@ -43348,7 +43348,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1628.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/ccrk6/1628.png"
         },
         {
           "id": 1629,
@@ -43365,10 +43365,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1629.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/ccrk6/1629.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/img_codination_85_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/img_codination_85_main_ccrk6.jpg"
     },
     {
       "collection": 16,
