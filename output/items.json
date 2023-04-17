@@ -55502,6 +55502,15 @@
       "name": "スタイック！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/849.png"
+    },
+    {
+      "chapter": "2P04",
+      "id": 851,
+      "conditions": "「カジュアル×しろ×ベーシックコンテスト」の けっしょうせんをクリアする",
+      "url": null,
+      "name": "カジュしろック！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/851.png"
     }
   ],
   "shops": [
