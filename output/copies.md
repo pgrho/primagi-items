@@ -69,6 +69,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/515.png "マイメロディだいすき")|515|1|6|コーデでゲット|マイメロディだいすき|「マイメロディだいすきコーデ」を10かいきる|https://cdn.primagi.jp/assets/images/copy/515.png|
 |![](https://cdn.primagi.jp/assets/images/copy/516.png "クロミだいすき")|516|1|6|コーデでゲット|クロミだいすき|「クロミだいすきコーデ」を10かいきる|https://cdn.primagi.jp/assets/images/copy/516.png|
 |![](https://cdn.primagi.jp/assets/images/copy/521.png "やってみなくちゃわからない！わからなかったらやってみよう！")|521|2|4|コーデでゲット|やってみなくちゃわからない！わからなかったらやってみよう！|「スイートハニーキラッとコーデ」を10かいきる|https://cdn.primagi.jp/assets/images/copy/521.png|
+|![](https://cdn.primagi.jp/assets/images/copy/524.png "ハピなる♪")|524|2|5|コーデでゲット|ハピなる♪|「セブンスコーデラブリードレス」を10かいきる|https://cdn.primagi.jp/assets/images/copy/524.png|
 ## リズムゲームでゲット
 
 ||ID|年|章|カテゴリー|名前|取得条件|画像|
