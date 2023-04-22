@@ -50097,7 +50097,7 @@
       "directoryNumber": 54,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "l7gob",
       "span": "こんしゅうのみんなでどっちでSHOW！ ゴールデンウィーク！れんきゅうをたのしむコーデはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ ゴールデンウィーク！れんきゅうをたのしむコーデはどっち？",
       "order": 2147483647,
@@ -50118,7 +50118,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1966.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/l7gob/1966.png"
         },
         {
           "id": 1967,
@@ -50135,7 +50135,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1967.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/l7gob/1967.png"
         },
         {
           "id": 1968,
@@ -50152,7 +50152,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1968.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/l7gob/1968.png"
         },
         {
           "id": 1969,
@@ -50169,10 +50169,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1969.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/l7gob/1969.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_54_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_54_main_l7gob.jpg"
     },
     {
       "collection": 18,
@@ -50181,7 +50181,7 @@
       "directoryNumber": 55,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "rex7l",
       "span": "こんしゅうのみんなでどっちでSHOW！ ゴールデンウィーク！れんきゅうをたのしむコーデはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ ゴールデンウィーク！れんきゅうをたのしむコーデはどっち？",
       "order": 2147483647,
@@ -50202,7 +50202,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1970.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/rex7l/1970.png"
         },
         {
           "id": 1971,
@@ -50219,7 +50219,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1971.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/rex7l/1971.png"
         },
         {
           "id": 1972,
@@ -50236,7 +50236,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1972.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/rex7l/1972.png"
         },
         {
           "id": 1973,
@@ -50253,10 +50253,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1973.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/rex7l/1973.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_55_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_55_main_rex7l.jpg"
     },
     {
       "collection": 18,

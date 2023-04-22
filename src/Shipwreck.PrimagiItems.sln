@@ -37,6 +37,22 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipwreck.PrimagiItems.Acce
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipwreck.PrimagiItems.Accessor.Tests", "Shipwreck.PrimagiItems.Accessor.Tests\Shipwreck.PrimagiItems.Accessor.Tests.csproj", "{4BCF672E-5388-4A05-9438-860BC242DE49}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "items", "items", "{6EA117F7-E44F-4E44-B95E-93488FEC2919}"
+	ProjectSection(SolutionItems) = preProject
+		..\output\2P01.md = ..\output\2P01.md
+		..\output\2P02.md = ..\output\2P02.md
+		..\output\2P03.md = ..\output\2P03.md
+		..\output\2P04.md = ..\output\2P04.md
+		..\output\2P05.md = ..\output\2P05.md
+		..\output\P01.md = ..\output\P01.md
+		..\output\P02.md = ..\output\P02.md
+		..\output\P03.md = ..\output\P03.md
+		..\output\P04.md = ..\output\P04.md
+		..\output\P05.md = ..\output\P05.md
+		..\output\P06.md = ..\output\P06.md
+		..\output\UNKNOWN.md = ..\output\UNKNOWN.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,6 +82,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6EA117F7-E44F-4E44-B95E-93488FEC2919} = {E86E468D-A76B-4308-97FF-9B43627EDE8A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F0483968-D7B3-467A-B255-1D5FF47F553C}
