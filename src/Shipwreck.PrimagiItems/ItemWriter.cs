@@ -22,7 +22,7 @@ internal static class ItemWriter
         public string? SealId { get; set; }
         public int collection { get; set; }
         public int release { get; set; }
-        public int icon { get; set; }
+        public int? icon { get; set; }
         public string? kinds { get; set; }
         public int? directoryNumber { get; set; }
         public bool isShow { get; set; }
@@ -284,7 +284,7 @@ internal static class ItemWriter
                     CategoryIndex = e.Category,
                     SubCategoryIndex = e.SubCategory,
                     IsShowItem = e.isShowItem,
-                    Icon = e.icon,
+                    Icon = e.icon ?? 0,
                     Release = e.release,
                 });
             }

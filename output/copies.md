@@ -191,7 +191,9 @@
 |![](https://cdn.primagi.jp/assets/images/copy/707.png "ラブエレメンツマスター")|707|1|6|イベント・キャンペーンでゲット|ラブエレメンツマスター|ラブエレメンツコーデをフルコーデきて「ラブエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/707.png|
 |![](https://cdn.primagi.jp/assets/images/copy/708.png "エレメンツレジェンド")|708|1|6|イベント・キャンペーンでゲット|エレメンツレジェンド|エレメンツマスターのキャッチコピーをすべてあつめる1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/708.png|
 |![](https://cdn.primagi.jp/assets/images/copy/709.png "クリスタルおしゃれプリンセス")|709|2|4|イベント・キャンペーンでゲット|クリスタルおしゃれプリンセス|「クリスタルプリンセスひめめ」をフルコーデきて「クリスタルプリンセスひめめフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/709.png|
-|![](https://cdn.primagi.jp/assets/images/copy/710.png "はじまりのおしゃれプリンセス")|710|2|3|イベント・キャンペーンでゲット|はじまりのおしゃれプリンセス|店頭大会「プリンセスコレクション～はじまりのプリンセス～」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/710.png|
+|![](https://cdn.primagi.jp/assets/images/copy/710.png "はじまりのおしゃれプリンセス")|710|2|3|イベント・キャンペーンでゲット|はじまりのおしゃれプリンセス|「プリンセスコレクション～はじまりのプリンセス～」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/710.png|
+|![](https://cdn.primagi.jp/assets/images/copy/711.png "はばたきのおしゃれプリンセス")|711|2|5|イベント・キャンペーンでゲット|はばたきのおしゃれプリンセス|「プリンセスコレクション～はじまりのプリンセス～」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/711.png|
+|![](https://cdn.primagi.jp/assets/images/copy/714.png "めざめのおしゃれプリンセス")|714|2|5|イベント・キャンペーンでゲット|めざめのおしゃれプリンセス|めざめのプリンセスひめめコーデをフルコーデきて「めざめのプリンセスひめめコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/714.png|
 ## 期間限定でゲット
 
 ||ID|年|章|カテゴリー|名前|取得条件|画像|
@@ -318,4 +320,5 @@
 |![](https://cdn.primagi.jp/assets/images/copy/847.png "ハーずいろ！ウィナー")|847|2|4|ミックスコーデコンテストでゲット|ハーずいろ！ウィナー|「ハート×みずいろコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/847.png|
 |![](https://cdn.primagi.jp/assets/images/copy/848.png "みどりボン！ウィナー")|848|2|4|ミックスコーデコンテストでゲット|みどりボン！ウィナー|「みどり×リボンコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/848.png|
 |![](https://cdn.primagi.jp/assets/images/copy/849.png "スタイック！ウィナー")|849|2|4|ミックスコーデコンテストでゲット|スタイック！ウィナー|「スタイリッシュ×チェックコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/849.png|
+|![](https://cdn.primagi.jp/assets/images/copy/850.png "あおーティー！ウィナー")|850|2|4|ミックスコーデコンテストでゲット|あおーティー！ウィナー|「あお×スポーティーコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/850.png|
 |![](https://cdn.primagi.jp/assets/images/copy/851.png "カジュしろック！ウィナー")|851|2|4|ミックスコーデコンテストでゲット|カジュしろック！ウィナー|「カジュアル×しろ×ベーシックコンテスト」の けっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/851.png|

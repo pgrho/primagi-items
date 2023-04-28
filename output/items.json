@@ -43036,6 +43036,39 @@
     },
     {
       "collection": 16,
+      "name": "フラワーユニコーンTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 167,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 41,
+      "chapter": "2P04",
+      "items": [
+        {
+          "id": 1612,
+          "modelName": "SPCW10714_T01A",
+          "sealId": "PM2-2-221",
+          "name": "フラワーユニコーンTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 9,
+          "color": 8,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 16,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1612.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 16,
       "name": "フラワーブロッサムナイト",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 82,
@@ -43201,6 +43234,39 @@
         }
       ],
       "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/img_codination_83_main_jx5e6.jpg"
+    },
+    {
+      "collection": 16,
+      "name": "はなVSだんごシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 168,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 42,
+      "chapter": "2P04",
+      "items": [
+        {
+          "id": 1621,
+          "modelName": "SPCW10694_T01A",
+          "sealId": "PM2-2-230",
+          "name": "はなVSだんごシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 1,
+          "color": 3,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 2,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P04/1621.png"
+        }
+      ],
+      "imageUrl": null
     },
     {
       "collection": 16,
@@ -49631,7 +49697,7 @@
       "whichShowId": null,
       "span": "プリマジスタジオライブ2023年5月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第5章のコーデがラインナップされています",
       "spanEventName": "プリマジスタジオライブ2023年5月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第5章のコーデがラインナップされています",
-      "order": 2147483647,
+      "order": 1,
       "chapter": "2P05",
       "items": [
         {
@@ -49664,7 +49730,7 @@
       "whichShowId": null,
       "span": "プリマジスタジオライブ2023年5月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第5章のコーデがラインナップされています",
       "spanEventName": "プリマジスタジオライブ2023年5月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第5章のコーデがラインナップされています",
-      "order": 2147483647,
+      "order": 1,
       "chapter": "2P05",
       "items": [
         {
@@ -49697,7 +49763,7 @@
       "whichShowId": null,
       "span": "プリマジスタジオライブ2023年5月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第5章のコーデがラインナップされています",
       "spanEventName": "プリマジスタジオライブ2023年5月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第5章のコーデがラインナップされています",
-      "order": 2147483647,
+      "order": 1,
       "chapter": "2P05",
       "items": [
         {
@@ -49880,7 +49946,7 @@
       "whichShowId": null,
       "span": "プレミアムプラン2023年5月",
       "spanEventName": "プレミアムプラン2023年5月",
-      "order": 2147483647,
+      "order": 1,
       "chapter": "2P05",
       "items": [
         {
@@ -49913,7 +49979,7 @@
       "whichShowId": null,
       "span": "プレミアムプラン2023年5月お誕生日",
       "spanEventName": "プレミアムプラン2023年5月お誕生日",
-      "order": 2147483647,
+      "order": 1,
       "chapter": "2P05",
       "items": [
         {
@@ -50089,6 +50155,342 @@
         }
       ],
       "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_47_main.jpg"
+    },
+    {
+      "collection": 18,
+      "name": "ゴールデンウィークTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 48,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 2,
+      "chapter": "2P05",
+      "items": [
+        {
+          "id": 1965,
+          "modelName": "SPCW10906_T01A",
+          "sealId": "PM2-3-148",
+          "name": "ゴールデンウィークTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 1,
+          "color": 13,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 14,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1965.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 18,
+      "name": "めざめのプリンセスひめめ",
+      "kinds": "プリンセスひめめコーデ",
+      "directoryNumber": 49,
+      "isShow": true,
+      "hasMainImage": true,
+      "whichShowId": null,
+      "span": "めざめのプリンセスひめめコーデフェス",
+      "spanEventName": "めざめのプリンセスひめめコーデフェス",
+      "order": 2147483647,
+      "chapter": "2P05",
+      "items": [
+        {
+          "id": 1634,
+          "modelName": "SPCW20119_D01A",
+          "sealId": "PM2-3-253",
+          "name": "めざめのプリンセスひめめ",
+          "watcha": 1400,
+          "genre": 3,
+          "brand": 9,
+          "color": 11,
+          "rarity": 6,
+          "category": 2,
+          "subCategory": 20,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1634.png"
+        },
+        {
+          "id": 1635,
+          "modelName": "SPCW20119_P01A",
+          "sealId": "PM2-3-254",
+          "name": "めざめのプリンセスひめめ",
+          "watcha": 650,
+          "genre": 3,
+          "brand": 9,
+          "color": 11,
+          "rarity": 6,
+          "category": 4,
+          "subCategory": 15,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1635.png"
+        },
+        {
+          "id": 1636,
+          "modelName": "SPCW20119_I01A",
+          "sealId": "PM2-3-255",
+          "name": "めざめのプリンセスひめめ",
+          "watcha": 650,
+          "genre": 3,
+          "brand": 9,
+          "color": 13,
+          "rarity": 6,
+          "category": 5,
+          "subCategory": 11,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1636.png"
+        }
+      ],
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_49_main.jpg"
+    },
+    {
+      "collection": 18,
+      "name": "めざめのひめめTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 50,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "「ワッチャをあつめてだいかいほう！めざめのプリンセスコーデフェス」に参加するとTシャツショップに追加",
+      "spanEventName": "「ワッチャをあつめてだいかいほう！めざめのプリンセスコーデフェス」に参加するとTシャツショップに追加",
+      "order": 3,
+      "chapter": "2P05",
+      "items": [
+        {
+          "id": 2087,
+          "modelName": "SPCW10925_T01A",
+          "sealId": "PM2-3-289",
+          "name": "めざめのひめめTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 9,
+          "color": 5,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 16,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/2087.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 19,
+      "name": "はばたきのプリンセス",
+      "kinds": "",
+      "directoryNumber": 51,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "2023年5月13日（土）～5月28日（日）店頭大会　プリンセスコレクション～はばたきのプリンセス～",
+      "spanEventName": "5月28日（日）店頭大会　プリンセスコレクション～はばたきのプリンセス～",
+      "spanStart": "2023-05-13",
+      "order": 2147483647,
+      "chapter": "2P05",
+      "items": [
+        {
+          "id": 20547,
+          "modelName": "SPCW10756_T01A",
+          "sealId": "P-359",
+          "name": "はばたきのプリンセス",
+          "watcha": 600,
+          "genre": 3,
+          "brand": 9,
+          "color": 7,
+          "rarity": 3,
+          "category": 1,
+          "subCategory": 20,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/20547.png"
+        },
+        {
+          "id": 20548,
+          "modelName": "SPCW10756_B01A",
+          "sealId": "P-360",
+          "name": "はばたきのプリンセス",
+          "watcha": 600,
+          "genre": 3,
+          "brand": 9,
+          "color": 7,
+          "rarity": 3,
+          "category": 3,
+          "subCategory": 8,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/20548.png"
+        },
+        {
+          "id": 20549,
+          "modelName": "SPCW10756_P01A",
+          "sealId": "P-361",
+          "name": "はばたきのプリンセス",
+          "watcha": 550,
+          "genre": 3,
+          "brand": 9,
+          "color": 11,
+          "rarity": 3,
+          "category": 4,
+          "subCategory": 5,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/20549.png"
+        },
+        {
+          "id": 20550,
+          "modelName": "SPCW10756_I01A",
+          "sealId": "P-362",
+          "name": "はばたきのプリンセス",
+          "watcha": 550,
+          "genre": 3,
+          "brand": 9,
+          "color": 12,
+          "rarity": 3,
+          "category": 5,
+          "subCategory": 16,
+          "isShowItem": true,
+          "icon": 18,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/20550.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 19,
+      "name": "めざめのプリンセスパープル",
+      "kinds": "期間限定",
+      "directoryNumber": 52,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "2023年5月13日（土）～5月28日（日）店頭大会　プリンセスコレクション～はばたきのプリンセス～",
+      "spanEventName": "5月28日（日）店頭大会　プリンセスコレクション～はばたきのプリンセス～",
+      "spanStart": "2023-05-13",
+      "order": 2147483647,
+      "chapter": "2P05",
+      "items": [
+        {
+          "id": 20551,
+          "modelName": "SPCW20130_P01A",
+          "sealId": "P-363",
+          "name": "めざめのプリンセスパープル",
+          "watcha": 550,
+          "genre": 3,
+          "brand": 9,
+          "color": 3,
+          "rarity": 3,
+          "category": 4,
+          "subCategory": 6,
+          "isShowItem": true,
+          "icon": 18,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/20551.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 18,
+      "name": "ローズハートパープル",
+      "kinds": "プロモ",
+      "directoryNumber": 53,
+      "isShow": true,
+      "hasMainImage": true,
+      "whichShowId": null,
+      "span": "スタジオ第5章　ナムコでSR「ローズハートパープル」ゲットチャンス",
+      "spanEventName": "スタジオ第5章　ナムコでSR「ローズハートパープル」ゲットチャンス",
+      "order": 4,
+      "chapter": "2P05",
+      "items": [
+        {
+          "id": 20612,
+          "modelName": "SPCW10918_T01A",
+          "sealId": "P-406",
+          "name": "ローズハートパープル",
+          "watcha": 500,
+          "genre": 3,
+          "brand": 9,
+          "color": 9,
+          "rarity": 2,
+          "category": 1,
+          "subCategory": 20,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/20612.png"
+        },
+        {
+          "id": 20613,
+          "modelName": "SPCW10918_B01A",
+          "sealId": "P-407",
+          "name": "ローズハートパープル",
+          "watcha": 500,
+          "genre": 3,
+          "brand": 9,
+          "color": 9,
+          "rarity": 2,
+          "category": 3,
+          "subCategory": 6,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/20613.png"
+        },
+        {
+          "id": 20614,
+          "modelName": "SPCW10918_P01A",
+          "sealId": "P-408",
+          "name": "ローズハートパープル",
+          "watcha": 450,
+          "genre": 3,
+          "brand": 9,
+          "color": 9,
+          "rarity": 2,
+          "category": 4,
+          "subCategory": 13,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/20614.png"
+        },
+        {
+          "id": 20615,
+          "modelName": "SPCW10918_I01A",
+          "sealId": "P-409",
+          "name": "ローズハートパープル",
+          "watcha": 450,
+          "genre": 3,
+          "brand": 9,
+          "color": 9,
+          "rarity": 2,
+          "category": 5,
+          "subCategory": 14,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/20615.png"
+        }
+      ],
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_53_main.jpg"
     },
     {
       "collection": 18,
@@ -56306,11 +56708,29 @@
     {
       "chapter": "2P03",
       "id": 710,
-      "conditions": "店頭大会「プリンセスコレクション～はじまりのプリンセス～」を1かいあそぶ",
+      "conditions": "「プリンセスコレクション～はじまりのプリンセス～」を1かいあそぶ",
       "url": null,
       "name": "はじまりのおしゃれプリンセス",
       "category": 5,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/710.png"
+    },
+    {
+      "chapter": "2P05",
+      "id": 711,
+      "conditions": "「プリンセスコレクション～はじまりのプリンセス～」を1かいあそぶ",
+      "url": null,
+      "name": "はばたきのおしゃれプリンセス",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/711.png"
+    },
+    {
+      "chapter": "2P05",
+      "id": 714,
+      "conditions": "めざめのプリンセスひめめコーデをフルコーデきて「めざめのプリンセスひめめコーデフェス」のアンコールライブを1かいあそぶ",
+      "url": null,
+      "name": "めざめのおしゃれプリンセス",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/714.png"
     },
     {
       "chapter": "P03",
@@ -56752,6 +57172,15 @@
       "name": "スタイック！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/849.png"
+    },
+    {
+      "chapter": "2P04",
+      "id": 850,
+      "conditions": "「あお×スポーティーコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "あおーティー！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/850.png"
     },
     {
       "chapter": "2P04",
@@ -57761,6 +58190,24 @@
       "address": "久慈市長内町第30 地割32-2久慈ｼｮｯﾋﾟﾝｸﾞｾﾝﾀｰ1F",
       "latitude": 40.190583,
       "longitude": 141.784651,
+      "shopGroup": "1"
+    },
+    {
+      "id": "1599",
+      "name": "SOYU Game Field 矢本店",
+      "prefecture": "宮城県",
+      "address": "東松島市小松字上浮足43 番地 イオンタウン矢本",
+      "latitude": 38.425402,
+      "longitude": 141.202934,
+      "shopGroup": "1"
+    },
+    {
+      "id": "1598",
+      "name": "PSP泉パークタウン タピオ",
+      "prefecture": "宮城県",
+      "address": "仙台市泉区寺岡６丁目５−１",
+      "latitude": 38.34286,
+      "longitude": 140.836197,
       "shopGroup": "1"
     },
     {
@@ -61040,15 +61487,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "199",
-      "name": "PALO柏",
-      "prefecture": "千葉県",
-      "address": "柏市豊町2-5-25 ｲｵﾝ3F",
-      "latitude": 35.851876,
-      "longitude": 139.961928,
-      "shopGroup": "1"
-    },
-    {
       "id": "187",
       "name": "PALO市川",
       "prefecture": "千葉県",
@@ -61163,6 +61601,15 @@
       "address": "千葉市若葉区千城台北3丁目21-1ｲｺｱｽ千城台3F",
       "latitude": 35.622976,
       "longitude": 140.189036,
+      "shopGroup": "1"
+    },
+    {
+      "id": "1596",
+      "name": "シルクハット大森",
+      "prefecture": "東京都",
+      "address": "東京都大田区山王2-4-1　大森駅前ビル2階",
+      "latitude": 35.589156,
+      "longitude": 139.727305,
       "shopGroup": "1"
     },
     {
@@ -62480,6 +62927,15 @@
       "shopGroup": "1"
     },
     {
+      "id": "1595",
+      "name": "タイトーステーション 川崎 ラ チッタデッラ店",
+      "prefecture": "神奈川県",
+      "address": "神奈川県川崎市川崎区小川町１－１８",
+      "latitude": 35.529007,
+      "longitude": 139.698078,
+      "shopGroup": "1"
+    },
+    {
       "id": "1576",
       "name": "モーリーファンタジー天王町",
       "prefecture": "神奈川県",
@@ -63686,15 +64142,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "152",
-      "name": "namco長岡店",
-      "prefecture": "新潟県",
-      "address": "長岡市堺町字浦田31番地ｱｰｸｶﾞﾚﾘｱ長岡",
-      "latitude": 37.454988,
-      "longitude": 138.810415,
-      "shopGroup": "1"
-    },
-    {
       "id": "149",
       "name": "namco新潟店",
       "prefecture": "新潟県",
@@ -63710,6 +64157,15 @@
       "address": "柏崎市東長浜町4-15",
       "latitude": 37.368421,
       "longitude": 138.579021,
+      "shopGroup": "1"
+    },
+    {
+      "id": "1597",
+      "name": "ＭＥＧＡドン・キホーテＵＮＹ砺波店ゲームコーナー",
+      "prefecture": "富山県",
+      "address": "砺波市太郎丸三丁目６９番地　ＭＥＧＡドン・キホーテＵＮＹ砺波店２Ｆ",
+      "latitude": 36.629614,
+      "longitude": 136.958979,
       "shopGroup": "1"
     },
     {
@@ -66009,7 +66465,7 @@
     },
     {
       "id": "12",
-      "name": "GAZA 3Fゲームコーナー",
+      "name": "タイトーステーション豊田GAZA",
       "prefecture": "愛知県",
       "address": "豊田市喜多町1丁目140番地",
       "latitude": 35.087933,
@@ -69618,7 +70074,7 @@
     },
     {
       "id": "1083",
-      "name": "モーリーファンタジー原",
+      "name": "ゲームコーナー原",
       "prefecture": "福岡県",
       "address": "福岡市早良区原6-27-8 ｲｵﾝ原店3階",
       "latitude": 33.564538,
@@ -70482,7 +70938,7 @@
     },
     {
       "id": "212",
-      "name": "THE 3RD PLANET ジャングルパーク鹿児島",
+      "name": "サープラ鹿児島あそびタウン",
       "prefecture": "鹿児島県",
       "address": "鹿児島市与次郎1丁目11番1号 ﾌﾚｽﾎﾟｼﾞｬﾝｸﾞﾙﾊﾟｰｸ2階",
       "latitude": 31.570298,
