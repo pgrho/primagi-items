@@ -50667,7 +50667,7 @@
       "directoryNumber": 57,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "c3ovm",
       "span": "こんしゅうのみんなでどっちでSHOW！ だいすきをいっしょにさがそう！リカちゃんとおでかけするならどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ だいすきをいっしょにさがそう！リカちゃんとおでかけするならどっち？",
       "order": 2147483647,
@@ -50688,7 +50688,7 @@
           "isShowItem": true,
           "icon": 23,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1975.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/c3ovm/1975.png"
         },
         {
           "id": 1976,
@@ -50705,7 +50705,7 @@
           "isShowItem": true,
           "icon": 23,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1976.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/c3ovm/1976.png"
         },
         {
           "id": 1977,
@@ -50722,10 +50722,10 @@
           "isShowItem": true,
           "icon": 23,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1977.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/c3ovm/1977.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_57_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_57_main_c3ovm.jpg"
     },
     {
       "collection": 18,
@@ -50734,7 +50734,7 @@
       "directoryNumber": 58,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "dmlwm",
       "span": "こんしゅうのみんなでどっちでSHOW！ だいすきをいっしょにさがそう！リカちゃんとおでかけするならどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ だいすきをいっしょにさがそう！リカちゃんとおでかけするならどっち？",
       "order": 2147483647,
@@ -50755,7 +50755,7 @@
           "isShowItem": true,
           "icon": 23,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1978.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/dmlwm/1978.png"
         },
         {
           "id": 1979,
@@ -50772,7 +50772,7 @@
           "isShowItem": true,
           "icon": 23,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1979.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/dmlwm/1979.png"
         },
         {
           "id": 1980,
@@ -50789,10 +50789,10 @@
           "isShowItem": true,
           "icon": 23,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1980.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/dmlwm/1980.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_58_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_58_main_dmlwm.jpg"
     },
     {
       "collection": 18,
@@ -57190,6 +57190,15 @@
       "name": "カジュしろック！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/851.png"
+    },
+    {
+      "chapter": "2P05",
+      "id": 852,
+      "conditions": "「あか×エレガントコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "あかガント！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/852.png"
     }
   ],
   "shops": [
