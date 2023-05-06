@@ -50662,6 +50662,39 @@
     },
     {
       "collection": 18,
+      "name": "ハッシュタグリカTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 56,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 4,
+      "chapter": "2P05",
+      "items": [
+        {
+          "id": 1974,
+          "modelName": "SPCW10881_T01A",
+          "sealId": "PM2-3-157",
+          "name": "ハッシュタグリカTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 6,
+          "color": 10,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 5,
+          "isShowItem": true,
+          "icon": 23,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1974.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 18,
       "name": "ユニコーンミックスクールブルー",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 57,
@@ -50801,7 +50834,7 @@
       "directoryNumber": 60,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "pndbd",
       "span": "こんしゅうのみんなでどっちでSHOW！ おなかすいたー！たべたいのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ おなかすいたー！たべたいのはどっち？",
       "order": 2147483647,
@@ -50822,7 +50855,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/2055.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/pndbd/2055.png"
         },
         {
           "id": 2056,
@@ -50839,7 +50872,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/2056.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/pndbd/2056.png"
         },
         {
           "id": 2057,
@@ -50856,10 +50889,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/2057.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/pndbd/2057.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_60_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_60_main_pndbd.jpg"
     },
     {
       "collection": 18,
@@ -50868,7 +50901,7 @@
       "directoryNumber": 61,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "dgg2p",
       "span": "こんしゅうのみんなでどっちでSHOW！ おなかすいたー！たべたいのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ おなかすいたー！たべたいのはどっち？",
       "order": 2147483647,
@@ -50889,7 +50922,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/2058.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/dgg2p/2058.png"
         },
         {
           "id": 2059,
@@ -50906,7 +50939,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/2059.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/dgg2p/2059.png"
         },
         {
           "id": 2060,
@@ -50923,10 +50956,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/2060.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/dgg2p/2060.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_61_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_61_main_dgg2p.jpg"
     },
     {
       "collection": 18,
@@ -57199,6 +57232,15 @@
       "name": "あかガント！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/852.png"
+    },
+    {
+      "chapter": "2P05",
+      "id": 853,
+      "conditions": "「みどり×ミステリアスコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "みどリアス！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/853.png"
     }
   ],
   "shops": [
