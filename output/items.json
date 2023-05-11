@@ -50829,6 +50829,39 @@
     },
     {
       "collection": 18,
+      "name": "カレーシチューTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 59,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 5,
+      "chapter": "2P05",
+      "items": [
+        {
+          "id": 2054,
+          "modelName": "SPCW10879_T01A",
+          "sealId": "PM2-3-164",
+          "name": "カレーシチューTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 2,
+          "color": 5,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 6,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/2054.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 18,
       "name": "うまうまカレーライス",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 60,
@@ -51296,6 +51329,73 @@
         }
       ],
       "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_115_main.jpg"
+    },
+    {
+      "collection": 19,
+      "name": "ぺんぺんぺんぎんグリーン",
+      "kinds": "プロモ",
+      "directoryNumber": 149,
+      "isShow": true,
+      "hasMainImage": true,
+      "whichShowId": null,
+      "span": "プリズムストーンカフェ　DUOコーデシリーズ特典",
+      "spanEventName": "プリズムストーンカフェ　DUOコーデシリーズ特典",
+      "order": 5,
+      "chapter": "2P05",
+      "items": [
+        {
+          "id": 20636,
+          "modelName": "SPCW10868_D01A",
+          "sealId": "P-416",
+          "name": "ぺんぺんぺんぎんグリーン",
+          "watcha": 1000,
+          "genre": 3,
+          "brand": 5,
+          "color": 6,
+          "rarity": 2,
+          "category": 2,
+          "subCategory": 12,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/20636.png"
+        },
+        {
+          "id": 20637,
+          "modelName": "SPCW10868_P01A",
+          "sealId": "P-417",
+          "name": "ぺんぺんぺんぎんグリーン",
+          "watcha": 450,
+          "genre": 3,
+          "brand": 5,
+          "color": 5,
+          "rarity": 2,
+          "category": 4,
+          "subCategory": 9,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/20637.png"
+        },
+        {
+          "id": 20638,
+          "modelName": "SPCW10868_I01A",
+          "sealId": "P-418",
+          "name": "ぺんぺんぺんぎんグリーン",
+          "watcha": 450,
+          "genre": 3,
+          "brand": 5,
+          "color": 6,
+          "rarity": 2,
+          "category": 5,
+          "subCategory": 19,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/20638.png"
+        }
+      ],
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_149_main.jpg"
     },
     {
       "collection": 1,
