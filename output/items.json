@@ -50996,6 +50996,39 @@
     },
     {
       "collection": 18,
+      "name": "ハッピースプリングTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 62,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 6,
+      "chapter": "2P05",
+      "items": [
+        {
+          "id": 1990,
+          "modelName": "SPCW10898_T01A",
+          "sealId": "PM2-3-171",
+          "name": "ハッピースプリングTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 1,
+          "color": 6,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 2,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1990.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 18,
       "name": "エンジェルクリームソーダ",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 94,
@@ -57341,6 +57374,15 @@
       "name": "みどリアス！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/853.png"
+    },
+    {
+      "chapter": "2P05",
+      "id": 854,
+      "conditions": "「ポップ×ライブ×オレンジコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ポップラインジ！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/854.png"
     }
   ],
   "shops": [
