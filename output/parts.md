@@ -170,6 +170,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7238.png "まよなかのクレッセントムーン")|id7238|まよなかのクレッセントムーン|スタジオ第3章・第4章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7238.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7240.png "みるきアイ")|id7240|みるきアイ|プリマジ公式ファンブック スタジオ第3・4章|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7240.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7234.png "こいするラズベリー")|id7234|こいするラズベリー|スタジオ第5章・第6章スクラッチ(～7月5日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7234.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7341.png "レインボーアイ")|id7341|レインボーアイ|2023年6月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7341.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7244.png "きゃろんアイ")|id7244|きゃろんアイ|ワッチャプリマジ！スタジオ公式ファンブック スタジオ第5・6章|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7244.png|
 ## アイシャドウ
 
@@ -253,6 +254,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13315.png "ポンポンイヤリング")|id13315|ポンポンイヤリング|2022年12月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13315.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13116.png "レッドローズ")|id13116|レッドローズ|プリマジスタランクが75になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13116.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13217.png "ゴールドクレッセントムーン")|id13217|ゴールドクレッセントムーン|スタジオ第3章・第4章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13217.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13320.png "にんぎょのなみだ")|id13320|にんぎょのなみだ|2023年6月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13320.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13121.png "ハッピーイヤリング")|id13121|ハッピーイヤリング|フレンドランクが44になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13121.png|
 ## ネイル
 
