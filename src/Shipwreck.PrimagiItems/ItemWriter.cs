@@ -82,9 +82,7 @@ internal static class ItemWriter
 
     public static async Task GenerateAsync(HttpDownloader http, DirectoryInfo directory, PrimagiDataSet ds)
     {
-        var res = await http.GetAsync(ITEM_URL);
-
-        var json = await res.Content.ReadAsStringAsync(); 
+        var json = await http.GetStringAsync(ITEM_URL);
 
         var jd = JArray.Parse(json);
         var rawitems = jd.ToObject<List<Item>>()!;
@@ -201,19 +199,14 @@ internal static class ItemWriter
             {
                 if (c.Images.FirstOrDefault(e => e.GenreIndex == 3) is GenreColorImage gci)
                 {
-                    using var ir = await http.GetAsync(gci.ImageUrl).ConfigureAwait(false);
-                    if (ir.IsSuccessStatusCode)
+                    using var st = await http.GetAsync(gci.ImageUrl).ConfigureAwait(false);
+                    if (Image.FromStream(st) is Bitmap bmp)
                     {
-                        using var st = await ir.Content.ReadAsStreamAsync().ConfigureAwait(false);
+                        var cc = bmp.GetPixel(12, 22);
 
-                        if (Image.FromStream(st) is Bitmap bmp)
-                        {
-                            var cc = bmp.GetPixel(12, 22);
-
-                            c.R = cc.R;
-                            c.G = cc.G;
-                            c.B = cc.B;
-                        }
+                        c.R = cc.R;
+                        c.G = cc.G;
+                        c.B = cc.B;
                     }
                 }
             }

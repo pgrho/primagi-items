@@ -15,7 +15,8 @@ internal static class CatchCopyWriter
         public string? Url { get; set; }
         public string? Name { get; set; }
     }
-    static readonly string[] categories =
+
+    private static readonly string[] categories =
     {
         "プリマジスタランクでゲット",
         "コーデでゲット",
@@ -33,10 +34,7 @@ internal static class CatchCopyWriter
 
     public static async Task GenerateAsync(HttpDownloader http, DirectoryInfo directory, PrimagiDataSet ds)
     {
-        var res = await http.GetAsync(URL);
-
-        var json = await res.Content.ReadAsStringAsync();
-
+        var json = await http.GetStringAsync(URL);
 
         var jd = JArray.Parse(json);
         var rawitems = jd.ToObject<List<CatchCopyData>>()!;

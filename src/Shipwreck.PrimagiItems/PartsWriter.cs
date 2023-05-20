@@ -33,9 +33,7 @@ internal static class PartsWriter
 
     public static async Task GenerateAsync(HttpDownloader http, DirectoryInfo directory, PrimagiDataSet ds)
     {
-        var res = await http.GetAsync(URL);
-
-        var json = await res.Content.ReadAsStringAsync(); 
+        var json = await http.GetStringAsync(URL);
 
         var jd = JArray.Parse(json);
         var rawitems = jd.ToObject<List<PartData>>()!;

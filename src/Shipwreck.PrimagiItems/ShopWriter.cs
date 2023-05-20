@@ -98,8 +98,7 @@ internal static class ShopWriter
             var p = prefs[pi];
             var url = $"https://cdnprimagiimg01.blob.core.windows.net/primagi/data/json/shop/{pi + 1}.json";
 
-            var res = await http.GetAsync(url);
-            var json = await res.Content.ReadAsStringAsync();
+            var json = await http.GetStringAsync(url);
             var jd = JObject.Parse(json);
 
             foreach (var jp in jd.Properties())
@@ -115,8 +114,6 @@ internal static class ShopWriter
                     ShopGroup = (jp.Value as JObject)?.Property("ShopGroup")?.Value?.Value<string>(),
                 });
             }
-
-            Console.WriteLine("Downloaded: {0} ({1})", p, url);
         }
 
         for (var i = 0; i < 2; i++)
