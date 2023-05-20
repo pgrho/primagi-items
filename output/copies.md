@@ -325,3 +325,4 @@
 |![](https://cdn.primagi.jp/assets/images/copy/852.png "あかガント！ウィナー")|852|2|5|ミックスコーデコンテストでゲット|あかガント！ウィナー|「あか×エレガントコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/852.png|
 |![](https://cdn.primagi.jp/assets/images/copy/853.png "みどリアス！ウィナー")|853|2|5|ミックスコーデコンテストでゲット|みどリアス！ウィナー|「みどり×ミステリアスコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/853.png|
 |![](https://cdn.primagi.jp/assets/images/copy/854.png "ポップラインジ！ウィナー")|854|2|5|ミックスコーデコンテストでゲット|ポップラインジ！ウィナー|「ポップ×ライブ×オレンジコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/854.png|
+|![](https://cdn.primagi.jp/assets/images/copy/855.png "あお―ル！ウィナー")|855|2|5|ミックスコーデコンテストでゲット|あお―ル！ウィナー|「あお×クールコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/855.png|

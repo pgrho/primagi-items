@@ -80,13 +80,11 @@ internal static class ItemWriter
         "デジタル",
     };
 
-    public static async Task GenerateAsync(HttpClient http, DirectoryInfo directory, PrimagiDataSet ds)
+    public static async Task GenerateAsync(HttpDownloader http, DirectoryInfo directory, PrimagiDataSet ds)
     {
         var res = await http.GetAsync(ITEM_URL);
 
-        var json = await res.Content.ReadAsStringAsync();
-
-        Console.WriteLine("Downloaded: {0}", ITEM_URL);
+        var json = await res.Content.ReadAsStringAsync(); 
 
         var jd = JArray.Parse(json);
         var rawitems = jd.ToObject<List<Item>>()!;
@@ -295,7 +293,45 @@ internal static class ItemWriter
 
         foreach (var uc in unlisted.Coordinations)
         {
-            if (uc.Items.Count == 0)
+            if (uc.Items.Any())
+            {
+                var nc = new Coordination
+                {
+                    Collection = uc.Collection,
+                    DirectoryNumber = uc.DirectoryNumber,
+
+                    Name = uc.Name,
+                    ChapterId = uc.ChapterId,
+                    IsShow = uc.IsShow,
+                    HasMainImage = uc.HasMainImage,
+                    Kinds = uc.Kinds,
+                    Span = uc.Span,
+                    Order = uc.Order,
+                };
+                foreach (var ui in uc.Items)
+                {
+                    nc.Items.Add(new CoordinationItem
+                    {
+                        Id = ui.Id,
+                        ModelName = ui.ModelName,
+                        SealId = ui.SealId,
+                        Name = ui.Name,
+                        Watcha = ui.Watcha,
+                        GenreIndex = ui.GenreIndex,
+                        BrandIndex = ui.BrandIndex,
+                        ColorIndex = ui.ColorIndex,
+                        RarityIndex = ui.RarityIndex,
+                        CategoryIndex = ui.CategoryIndex,
+                        SubCategoryIndex = ui.SubCategoryIndex,
+                        IsShowItem = ui.IsShowItem,
+                        Icon = ui.Icon,
+                        Release = ui.Release,
+                        ImageUrl = ui.ShouldSerializeImageUrl() ? new Uri(rawRepo, ui.ImageUrl).ToString() : null,
+                    });
+                }
+                ds.Coordinations.Add(nc);
+            }
+            else if (!string.IsNullOrEmpty(uc.WhichShowId))
             {
                 var tc = ds.Coordinations.FirstOrDefault(e => e.ChapterId == uc.ChapterId && e.Name == uc.Name);
 
@@ -303,45 +339,7 @@ internal static class ItemWriter
                 {
                     tc.WhichShowId = uc.WhichShowId;
                 }
-
-                continue;
             }
-
-            var nc = new Coordination
-            {
-                Collection = uc.Collection,
-                DirectoryNumber = uc.DirectoryNumber,
-
-                Name = uc.Name,
-                ChapterId = uc.ChapterId,
-                IsShow = uc.IsShow,
-                HasMainImage = uc.HasMainImage,
-                Kinds = uc.Kinds,
-                Span = uc.Span,
-                Order = uc.Order,
-            };
-            foreach (var ui in uc.Items)
-            {
-                nc.Items.Add(new CoordinationItem
-                {
-                    Id = ui.Id,
-                    ModelName = ui.ModelName,
-                    SealId = ui.SealId,
-                    Name = ui.Name,
-                    Watcha = ui.Watcha,
-                    GenreIndex = ui.GenreIndex,
-                    BrandIndex = ui.BrandIndex,
-                    ColorIndex = ui.ColorIndex,
-                    RarityIndex = ui.RarityIndex,
-                    CategoryIndex = ui.CategoryIndex,
-                    SubCategoryIndex = ui.SubCategoryIndex,
-                    IsShowItem = ui.IsShowItem,
-                    Icon = ui.Icon,
-                    Release = ui.Release,
-                    ImageUrl = ui.ShouldSerializeImageUrl() ? new Uri(rawRepo, ui.ImageUrl).ToString() : null,
-                });
-            }
-            ds.Coordinations.Add(nc);
         }
 
         var cols = new (string dislayName, Func<CoordinationItem, object?> getter)[]

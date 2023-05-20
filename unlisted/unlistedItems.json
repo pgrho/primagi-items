@@ -217,6 +217,26 @@
       "chapter": "2P05",
       "name": "ほかほかクリームシチュー",
       "whichShowId": "dgg2p"
+    },
+    {
+      "chapter": "2P05",
+      "name": "エンジェルクリームソーダ",
+      "whichShowId": "krcb7"
+    },
+    {
+      "chapter": "2P05",
+      "name": "エンジェルいちごミルク",
+      "whichShowId": "uh8h8"
+    },
+    {
+      "chapter": "2P05",
+      "name": "ピーコックプリマきゃろん",
+      "whichShowId": ""
+    },
+    {
+      "chapter": "2P05",
+      "name": "ピーコックプリマれもん",
+      "whichShowId": ""
     }
   ]
 }

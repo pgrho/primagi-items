@@ -51266,7 +51266,7 @@
       "directoryNumber": 94,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "krcb7",
       "span": "こんしゅうのみんなでどっちでSHOW！ しゅわしゅわ！あまあま！のみたいのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ しゅわしゅわ！あまあま！のみたいのはどっち？",
       "order": 2147483647,
@@ -51287,7 +51287,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1996.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/krcb7/1996.png"
         },
         {
           "id": 1997,
@@ -51304,7 +51304,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1997.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/krcb7/1997.png"
         },
         {
           "id": 1998,
@@ -51321,7 +51321,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1998.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/krcb7/1998.png"
         },
         {
           "id": 1999,
@@ -51338,10 +51338,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/1999.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/krcb7/1999.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_94_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_94_main_krcb7.jpg"
     },
     {
       "collection": 18,
@@ -51350,7 +51350,7 @@
       "directoryNumber": 95,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "uh8h8",
       "span": "こんしゅうのみんなでどっちでSHOW！ しゅわしゅわ！あまあま！のみたいのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ しゅわしゅわ！あまあま！のみたいのはどっち？",
       "order": 2147483647,
@@ -51371,7 +51371,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/2000.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/uh8h8/2000.png"
         },
         {
           "id": 2001,
@@ -51388,7 +51388,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/2001.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/uh8h8/2001.png"
         },
         {
           "id": 2002,
@@ -51405,7 +51405,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/2002.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/uh8h8/2002.png"
         },
         {
           "id": 2003,
@@ -51422,10 +51422,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/2003.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/uh8h8/2003.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_95_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P05/img_codination_95_main_uh8h8.jpg"
     },
     {
       "collection": 18,
@@ -57643,6 +57643,15 @@
       "name": "ポップラインジ！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/854.png"
+    },
+    {
+      "chapter": "2P05",
+      "id": 855,
+      "conditions": "「あお×クールコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "あお―ル！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/855.png"
     }
   ],
   "shops": [

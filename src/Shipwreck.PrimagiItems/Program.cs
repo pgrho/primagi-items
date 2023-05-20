@@ -10,7 +10,7 @@ internal class Program
     private static async Task Main()
     {
         System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
-        using var hc = new HttpClient();
+        using var hc = new HttpDownloader();
         var di = new DirectoryInfo(Path.Combine(GetRepositoryPath(), "output"));
         if (!di.Exists)
         {

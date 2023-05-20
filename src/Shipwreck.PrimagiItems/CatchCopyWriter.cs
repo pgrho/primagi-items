@@ -31,13 +31,12 @@ internal static class CatchCopyWriter
 
     private const string URL = "https://cdnprimagiimg01.blob.core.windows.net/primagi/data/json/copy/copy.json";
 
-    public static async Task GenerateAsync(HttpClient http, DirectoryInfo directory, PrimagiDataSet ds)
+    public static async Task GenerateAsync(HttpDownloader http, DirectoryInfo directory, PrimagiDataSet ds)
     {
         var res = await http.GetAsync(URL);
 
         var json = await res.Content.ReadAsStringAsync();
 
-        Console.WriteLine("Downloaded: {0}", URL);
 
         var jd = JArray.Parse(json);
         var rawitems = jd.ToObject<List<CatchCopyData>>()!;

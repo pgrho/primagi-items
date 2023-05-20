@@ -31,13 +31,11 @@ internal static class PartsWriter
 
     private const string URL = "https://cdnprimagiimg01.blob.core.windows.net/primagi/assets/data/parts.json";
 
-    public static async Task GenerateAsync(HttpClient http, DirectoryInfo directory, PrimagiDataSet ds)
+    public static async Task GenerateAsync(HttpDownloader http, DirectoryInfo directory, PrimagiDataSet ds)
     {
         var res = await http.GetAsync(URL);
 
-        var json = await res.Content.ReadAsStringAsync();
-
-        Console.WriteLine("Downloaded: {0}", URL);
+        var json = await res.Content.ReadAsStringAsync(); 
 
         var jd = JArray.Parse(json);
         var rawitems = jd.ToObject<List<PartData>>()!;

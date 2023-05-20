@@ -1,4 +1,4 @@
-﻿using System.Text;
+using System.Text;
 using System.Text.RegularExpressions;
 using Newtonsoft.Json.Linq;
 
@@ -90,7 +90,7 @@ internal static class ShopWriter
         "沖縄県"
     };
 
-    public static async Task GenerateAsync(HttpClient http, DirectoryInfo directory, PrimagiDataSet ds)
+    public static async Task GenerateAsync(HttpDownloader http, DirectoryInfo directory, PrimagiDataSet ds)
     {
         var items = new List<Item>();
         for (var pi = 0; pi < prefs.Length; pi++)
