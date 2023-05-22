@@ -74,6 +74,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3240.png "ストロベリームース")|id3240|ストロベリームース|スタジオ第5章・第6章スクラッチ(～7月5日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3240.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3144.png "くもまのプラネタリウム")|id3144|くもまのプラネタリウム|プリマジスタランクが84になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3144.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3345.png "マロンモンブラン")|id3345|マロンモンブラン|2023年5月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3345.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3248.png "フレッシュわかば")|id3248|フレッシュわかば|スタジオ第5章・第6章スクラッチ(～7月5日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3248.png|
 ## ヘアスタイル
 
 ||ID|名前|取得条件|画像|
@@ -171,6 +172,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7240.png "みるきアイ")|id7240|みるきアイ|プリマジ公式ファンブック スタジオ第3・4章|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7240.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7234.png "こいするラズベリー")|id7234|こいするラズベリー|スタジオ第5章・第6章スクラッチ(～7月5日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7234.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7341.png "レインボーアイ")|id7341|レインボーアイ|2023年6月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7341.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7243.png "しあわせクローバー")|id7243|しあわせクローバー|スタジオ第5章・第6章スクラッチ(～7月5日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7243.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7244.png "きゃろんアイ")|id7244|きゃろんアイ|ワッチャプリマジ！スタジオ公式ファンブック スタジオ第5・6章|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7244.png|
 ## アイシャドウ
 
