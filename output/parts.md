@@ -74,6 +74,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3240.png "ストロベリームース")|id3240|ストロベリームース|スタジオ第5章・第6章スクラッチ(～7月5日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3240.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3144.png "くもまのプラネタリウム")|id3144|くもまのプラネタリウム|プリマジスタランクが84になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3144.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3345.png "マロンモンブラン")|id3345|マロンモンブラン|2023年5月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3345.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3146.png "アメジストジェム")|id3146|アメジストジェム|プリマジスタランクが87になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3146.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3248.png "フレッシュわかば")|id3248|フレッシュわかば|スタジオ第5章・第6章スクラッチ(～7月5日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3248.png|
 ## ヘアスタイル
 
@@ -128,6 +129,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id6313.png "ラフぱっつん")|id6313|ラフぱっつん|2023年1月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id6313.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id6115.png "くるりんエスじバング")|id6115|くるりんエスじバング|プリマジスタランクが79になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id6115.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id6316.png "なだらかサイドパート")|id6316|なだらかサイドパート|2023年4月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id6316.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id6117.png "こなれセンターパート")|id6117|こなれセンターパート|プリマジスタランクが88になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id6117.png|
 ## アイカラー
 
 ||ID|名前|取得条件|画像|
@@ -187,6 +189,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id826.png "くっきりシックライン")|id826|くっきりシックライン|スタジオ第1章・第2章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id826.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id819.png "ハッピーラメ")|id819|ハッピーラメ|フレンドランクが39になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id819.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id818.png "いたずらフェアリー")|id818|いたずらフェアリー|プリマジスタランクが80になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id818.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id8110.png "アップルジャム")|id8110|アップルジャム|プリマジスタランクが86になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id8110.png|
 ## めがね
 
 ||ID|名前|取得条件|画像|
