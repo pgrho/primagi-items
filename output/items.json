@@ -53405,6 +53405,39 @@
     },
     {
       "collection": 18,
+      "name": "きゃろんVSれもんTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 96,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 9,
+      "chapter": "2P06",
+      "items": [
+        {
+          "id": 2004,
+          "modelName": "SPCW10878_T01A",
+          "sealId": "PM2-3-185",
+          "name": "きゃろんVSれもんTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 3,
+          "color": 9,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 9,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2004.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 18,
       "name": "ピーコックプリマきゃろん",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 114,
