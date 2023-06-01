@@ -185,6 +185,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/519.png "すましおすましひなまつり")|519|2|3|イベント・キャンペーンでゲット|すましおすましひなまつり|「おすましおだいりさまチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/519.png|
 |![](https://cdn.primagi.jp/assets/images/copy/520.png "ぺんぺんぺんぎん参上！")|520|2|4|イベント・キャンペーンでゲット|ぺんぺんぺんぎん参上！|「ぺんぺんぺんぎんブルーチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/520.png|
 |![](https://cdn.primagi.jp/assets/images/copy/522.png "ロッキンスターバンドガール")|522|2|5|イベント・キャンペーンでゲット|ロッキンスターバンドガール|「スターバンドガールスカイチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/522.png|
+|![](https://cdn.primagi.jp/assets/images/copy/523.png "ようこそプリマジミュージカルの世界へ！")|523|2|6|イベント・キャンペーンでゲット|ようこそプリマジミュージカルの世界へ！|「プリマジミュージカルブルーチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/523.png|
 |![](https://cdn.primagi.jp/assets/images/copy/701.png "フレアエレメンツマスター")|701|1|2|イベント・キャンペーンでゲット|フレアエレメンツマスター|フレアエレメンツコーデをフルコーデきて「フレアエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/701.png|
 |![](https://cdn.primagi.jp/assets/images/copy/702.png "アクアエレメンツマスター")|702|1|3|イベント・キャンペーンでゲット|アクアエレメンツマスター|アクアエレメンツコーデをフルコーデきて「アクアエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/702.png|
 |![](https://cdn.primagi.jp/assets/images/copy/703.png "フラッシュエレメンツマスター")|703|1|4|イベント・キャンペーンでゲット|フラッシュエレメンツマスター|フラッシュエレメンツコーデをフルコーデきて「フラッシュエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/703.png|
