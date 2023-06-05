@@ -2489,58 +2489,63 @@
 1907	ルビービビッドスタープリンセス	SPCW10853_I01A	3	9	2	3	550	5	14	PM2-3-297	18	0	19		98	True	False		True			R	ライブ	ボトムス	Radiant Abyss	くろ	ミステリアス
 1908	ルビービビッドスタープリンセスレッド	SPCW10854_I01A	3	9	2	3	550	5	20	PM2-3-298	18	0	19		98	True	False		True			R	ライブ	シューズ	Radiant Abyss	くろ	リボン
 1909	トルマリンチェリーシュガープリンセス	SPCW10844_D01A	3	9	3	3	1200	2	14	PM2-3-299	18	0	19	プリマジくじ	99	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			R	ライブ	アクセ	Radiant Abyss	くろ	エレガント
-1910	トルマリンチェリーシュガープリンセス	SPCW10844_P01A	3	9	3	3	550	4	16	PM2-3-300	18	0	19		99	True	False		True			SR	ライブ	ワンピ	Princess Magic	あお	ラブリー
-1911	トルマリンチェリーシュガープリンセス	SPCW10844_I01A	3	9	3	3	550	5	17	PM2-3-301	18	0	19		99	True	False		True			SR	ライブ	シューズ	Princess Magic	あお	キュート
-1912	トルマリンチェリーシュガープリンセスピンク	SPCW10845_I01A	3	9	3	3	550	5	5	PM2-3-302	18	0	19		99	True	False		True			SR	ライブ	アクセ	Princess Magic	あか	スイーツ
-1913	ペリドットエレクトロリミックスプリンセス	SPCW10850_D01A	3	9	6	3	1200	2	11	PM2-3-303	18	0	19	プリマジくじ	100	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	ワンピ	Princess Magic	みずいろ	ミステリアス
-1914	ペリドットエレクトロリミックスプリンセス	SPCW10850_P01A	3	9	6	3	550	4	21	PM2-3-304	18	0	19		100	True	False		True			SR	ライブ	シューズ	Princess Magic	みずいろ	エレガント
-1915	ペリドットエレクトロリミックスプリンセス	SPCW10850_I01A	3	9	11	3	550	5	13	PM2-3-305	18	0	19		100	True	False		True			SR	ライブ	アクセ	Princess Magic	みずいろ	クール
-1916	ペリドットエレクトロリミックスプリンセスグリーン	SPCW10851_I01A	3	9	6	3	550	5	6	PM2-3-306	18	0	19		100	True	False		True			SR	ライブ	トップス	Radiant Abyss	しろ	ラブリー
-1917	タンザナイトレディアントアビスプリンセス	SPCW10848_D01A	3	9	8	3	1200	2	10	PM2-3-307	18	0	19	プリマジくじ	101	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	ボトムス	Radiant Abyss	しろ	クール
-1918	タンザナイトレディアントアビスプリンセス	SPCW10848_P01A	3	9	8	3	550	4	20	PM2-3-308	18	0	19		101	True	False		True			SR	ライブ	シューズ	Radiant Abyss	しろ	ベーシック
-1919	タンザナイトレディアントアビスプリンセス	SPCW10848_I01A	3	9	8	3	550	5	15	PM2-3-309	18	0	19		101	True	False		True			SR	ライブ	アクセ	Radiant Abyss	みどり	エレガント
-1920	タンザナイトレディアントアビスプリンセスブラック	SPCW10849_I01A	3	9	10	3	550	5	9	PM2-3-310	18	0	19		101	True	False		True			SR	ライブ	トップス	Eternal Revue	しろ	ダンス
-1921	トパーズフラワーブロッサム	SPCW10843_T01A	3	9	6	3	600	1	15	PM2-3-311	18	0	19	プリマジくじ	102	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	ボトムス	Eternal Revue	しろ	フラワー
-1922	トパーズフラワーブロッサム	SPCW10843_B01A	3	9	6	3	600	3	16	PM2-3-312	18	0	19		102	True	False		True			SR	ライブ	シューズ	Eternal Revue	しろ	エレガント
-1923	トパーズフラワーブロッサム	SPCW10843_P01A	3	9	6	3	550	4	2	PM2-3-313	18	0	19		102	True	False		True			SR	ライブ	アクセ	Eternal Revue	みどり	キュート
-1924	トパーズフラワーブロッサム	SPCW10843_I01A	3	9	6	3	550	5	20	PM2-3-314	18	0	19		102	True	False		True			SR	ライブ	トップス	LOVELY MELODY	あお	リボン
-1925	サファイアミラクルユニコーン	SPCW10819_T01A	3	9	8	3	600	1	3	PM2-3-315	18	0	19	プリマジくじ	103	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	ボトムス	LOVELY MELODY	あお	ラブリー
-1926	サファイアミラクルユニコーン	SPCW10819_B01A	3	9	8	3	600	3	5	PM2-3-316	18	0	19		103	True	False		True			SR	ライブ	シューズ	LOVELY MELODY	あお	フラワー
-1927	サファイアミラクルユニコーン	SPCW10819_P01A	3	9	8	3	550	4	14	PM2-3-317	18	0	19		103	True	False		True			SR	ライブ	アクセ	LOVELY MELODY	あお	エレガント
-1928	サファイアミラクルユニコーン	SPCW10819_I01A	3	9	8	3	550	5	8	PM2-3-318	18	0	19		103	True	False		True			SR	ライブ	トップス	Eternal Revue	あお	クール
-1929	シトリンフレッシュフェアリー	SPCW10817_T01A	3	9	5	3	600	1	15	PM2-3-319	18	0	19	プリマジくじ	104	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	ボトムス	Eternal Revue	あお	ジュエル
-1930	シトリンフレッシュフェアリー	SPCW10817_B01A	3	9	5	3	600	3	6	PM2-3-320	18	0	19		104	True	False		True			SR	ライブ	シューズ	Eternal Revue	あお	ミステリアス
-1931	シトリンフレッシュフェアリー	SPCW10817_P01A	3	9	5	3	550	4	16	PM2-3-321	18	0	19		104	True	False		True			SR	ライブ	アクセ	Eternal Revue	あお	リボン
-1932	シトリンフレッシュフェアリー	SPCW10817_I01A	3	9	5	3	550	5	14	PM2-3-322	18	0	19		104	True	False		True			SR	ライブ	トップス	Eternal Revue	みどり	エレガント
-1933	アクアマリンコスメティックフラワー	SPCW20131_T01A	3	9	7	3	600	1	8	PM2-3-323	18	0	19	プリマジくじ	105	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	ボトムス	Eternal Revue	しろ	ゴシック
-1934	アクアマリンコスメティックフラワー	SPCW20131_B01A	3	9	7	3	600	3	5	PM2-3-324	18	0	19		105	True	False		True			SR	ライブ	シューズ	Eternal Revue	みどり	ガーリー
-1935	アクアマリンコスメティックフラワー	SPCW20131_P01A	3	9	7	3	550	4	2	PM2-3-325	18	0	19		105	True	False		True			SR	ライブ	アクセ	Eternal Revue	あか	ダンス
-1936	アクアマリンコスメティックフラワー	SPCW20131_I01A	3	9	7	3	550	5	11	PM2-3-326	18	0	19		105	True	False		True			SR	ライブ	トップス	Eternal Revue	ピンク	ミステリアス
-1937	エメラルドスプラッシュマーメイド	SPCW10816_T01A	3	9	6	3	600	1	16	PM2-3-327	18	0	19	プリマジくじ	106	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	ボトムス	Eternal Revue	あか	ダンス
-1938	エメラルドスプラッシュマーメイド	SPCW10816_B01A	3	9	6	3	600	3	10	PM2-3-328	18	0	19		106	True	False		True			SR	ライブ	シューズ	Eternal Revue	しろ	ジュエル
-1939	エメラルドスプラッシュマーメイド	SPCW10816_P01A	3	9	6	3	550	4	9	PM2-3-329	18	0	19		106	True	False		True			SR	ライブ	アクセ	Eternal Revue	しろ	ガーリー
-1940	エメラルドスプラッシュマーメイド	SPCW10816_I01A	3	9	6	3	550	5	5	PM2-3-330	18	0	19		106	True	False		True			SR	ライブ	ワンピ	Princess Magic	ピンク	スター
-1941	オパールしらゆきひめ	SPCW10846_D01A	3	9	5	2	1000	2	14	PM2-3-331	18	0	19	プリマジくじ	107	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	シューズ	Princess Magic	ピンク	リボン
-1942	オパールしらゆきひめ	SPCW10846_P01A	3	9	8	2	450	4	8	PM2-3-332	18	0	19		107	True	False		True			SR	ライブ	アクセ	Princess Magic	ピンク	キュート
-1943	オパールしらゆきひめ	SPCW10846_I01A	3	9	6	2	450	5	17	PM2-3-333	18	0	19		107	True	False		True			SR	ライブ	ワンピ	Princess Magic	みずいろ	ミステリアス
-1944	オパールしらゆきひめピンク	SPCW10847_I01A	3	9	3	2	450	5	6	PM2-3-334	18	0	19		107	True	False		True			SR	ライブ	シューズ	Princess Magic	あお	ポップ
-1945	アメジストシンデレラ	SPCW10815_D01A	3	9	9	2	1000	2	5	PM2-3-335	18	0	19	プリマジくじ	108	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	アクセ	Princess Magic	みずいろ	スター
-1946	アメジストシンデレラ	SPCW10815_P01A	3	9	9	2	450	4	11	PM2-3-336	18	0	19		108	True	False		True			SR	ライブ	トップス	Princess Magic	あお	ダンス
-1947	アメジストシンデレラ	SPCW10815_I01A	3	9	9	2	450	5	20	PM2-3-337	18	0	19		108	True	False		True			SR	ライブ	ボトムス	Princess Magic	あお	スポーツ
-1948	アメジストシンデレラパープル	SPCW10841_I01A	3	9	9	2	450	5	16	PM2-3-338	18	0	19		108	True	False		True			SR	ライブ	シューズ	Princess Magic	あお	リボン
-1949	ラピスラズリパウダースノー	SPCW10852_T01A	3	9	8	2	500	1	10	PM2-3-339	18	0	19	プリマジくじ	109	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	アクセ	Princess Magic	むらさき	キュート
-1950	ラピスラズリパウダースノー	SPCW10852_B01A	3	9	8	2	500	3	9	PM2-3-340	18	0	19		109	True	False		True			SR	ライブ	トップス	Princess Magic	しろ	スター
-1951	ラピスラズリパウダースノー	SPCW10852_P01A	3	9	8	2	450	4	13	PM2-3-341	18	0	19		109	True	False		True			SR	ライブ	ボトムス	Princess Magic	きいろ	デジタル
-1952	ラピスラズリパウダースノー	SPCW10852_I01A	3	9	8	2	450	5	5	PM2-3-342	18	0	19		109	True	False		True			SR	ライブ	シューズ	Princess Magic	しろ	スポーツ
-1953	ガーネットリトルプリンセス	SPCW10818_T01A	3	9	2	2	500	1	6	PM2-3-343	18	0	19	プリマジくじ	110	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	アクセ	Princess Magic	みずいろ	ベーシック
-1954	ガーネットリトルプリンセス	SPCW10818_B01A	3	9	2	2	500	3	8	PM2-3-344	18	0	19		110	True	False		True			UR	ライブ	トップス	Princess Magic	みずいろ	ミステリアス
-1955	ガーネットリトルプリンセス	SPCW10818_P01A	3	9	2	2	450	4	15	PM2-3-345	18	0	19		110	True	False		True			UR	ライブ	ボトムス	Princess Magic	みずいろ	エレガント
-1956	ガーネットリトルプリンセス	SPCW10818_I01A	3	9	2	2	450	5	20	PM2-3-346	18	0	19		110	True	False		True			UR	ライブ	シューズ	Princess Magic	みずいろ	キュート
-1957	ターコイズナイトドリーム	SPCW10842_T01A	3	9	7	2	500	1	9	PM2-3-347	18	0	19	プリマジくじ	111	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			UR	ライブ	アクセ	Princess Magic	みずいろ	フラワー
-1958	ターコイズナイトドリーム	SPCW10842_B01A	3	9	7	2	500	3	11	PM2-3-348	18	0	19		111	True	False		True			UR	ライブ	トップス	Princess Magic	ピンク	ラブリー
-1959	ターコイズナイトドリーム	SPCW10842_P01A	3	9	7	2	450	4	10	PM2-3-349	18	0	19		111	True	False		True			UR	ライブ	ボトムス	Princess Magic	ピンク	スター
-1960	ターコイズナイトドリーム	SPCW10842_I01A	3	9	13	2	450	5	15	PM2-3-350	18	0	19		111	True	False		True			UR	ライブ	シューズ	Princess Magic	ピンク	クール
-1961	ブラックダイアモンドプリンセス	SPCW20133_D01A	3	9	10	3	1200	2	4	PM2-3-351	18	0	19	プリマジくじ	112	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			UR	ライブ	アクセ	Princess Magic	しろ	ガーリー
-1962	ブラックダイアモンドプリンセス	SPCW20133_P01A	3	9	10	3	550	4	5	PM2-3-352	18	0	19		112	True	False		True			SR	ライブ	ワンピ	ELECTRO REMIX	みどり	スポーツ
-1963	ブラックダイアモンドプリンセス	SPCW20133_I01A	3	9	10	3	550	5	13	PM2-3-353	18	0	19		112	True	False		True			SR	ライブ	シューズ	ELECTRO REMIX	きいろ	クール
-1964	ブラックダイアモンドプリンセスクラシック	SPCW20135_I01A	3	9	10	3	550	5	19	PM2-3-354	18	0	19		112	True	False		True			SR	ライブ	アクセ	ELECTRO REMIX	みどり	アニマル
+1910	トルマリンチェリーシュガープリンセス	SPCW10844_P01A	3	9	3	3	550	4	16	PM2-3-300	18	0	19		99	True	False		True			R	カジュアル	トップス	Princess Magic	しろ	ラブリー
+1911	トルマリンチェリーシュガープリンセス	SPCW10844_I01A	3	9	3	3	550	5	17	PM2-3-301	18	0	19		99	True	False		True			SR	ライブ	ワンピ	Princess Magic	あお	ラブリー
+1912	トルマリンチェリーシュガープリンセスピンク	SPCW10845_I01A	3	9	3	3	550	5	5	PM2-3-302	18	0	19		99	True	False		True			SR	ライブ	シューズ	Princess Magic	あお	キュート
+1913	ペリドットエレクトロリミックスプリンセス	SPCW10850_D01A	3	9	6	3	1200	2	11	PM2-3-303	18	0	19	プリマジくじ	100	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	アクセ	Princess Magic	あか	スイーツ
+1914	ペリドットエレクトロリミックスプリンセス	SPCW10850_P01A	3	9	6	3	550	4	21	PM2-3-304	18	0	19		100	True	False		True			SR	ライブ	ワンピ	Princess Magic	みずいろ	ミステリアス
+1915	ペリドットエレクトロリミックスプリンセス	SPCW10850_I01A	3	9	11	3	550	5	13	PM2-3-305	18	0	19		100	True	False		True			SR	ライブ	シューズ	Princess Magic	みずいろ	エレガント
+1916	ペリドットエレクトロリミックスプリンセスグリーン	SPCW10851_I01A	3	9	6	3	550	5	6	PM2-3-306	18	0	19		100	True	False		True			SR	ライブ	アクセ	Princess Magic	みずいろ	クール
+1917	タンザナイトレディアントアビスプリンセス	SPCW10848_D01A	3	9	8	3	1200	2	10	PM2-3-307	18	0	19	プリマジくじ	101	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	トップス	Radiant Abyss	しろ	ラブリー
+1918	タンザナイトレディアントアビスプリンセス	SPCW10848_P01A	3	9	8	3	550	4	20	PM2-3-308	18	0	19		101	True	False		True			SR	ライブ	ボトムス	Radiant Abyss	しろ	クール
+1919	タンザナイトレディアントアビスプリンセス	SPCW10848_I01A	3	9	8	3	550	5	15	PM2-3-309	18	0	19		101	True	False		True			SR	ライブ	シューズ	Radiant Abyss	しろ	ベーシック
+1920	タンザナイトレディアントアビスプリンセスブラック	SPCW10849_I01A	3	9	10	3	550	5	9	PM2-3-310	18	0	19		101	True	False		True			SR	ライブ	アクセ	Radiant Abyss	みどり	エレガント
+1921	トパーズフラワーブロッサム	SPCW10843_T01A	3	9	6	3	600	1	15	PM2-3-311	18	0	19	プリマジくじ	102	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	トップス	Eternal Revue	しろ	ダンス
+1922	トパーズフラワーブロッサム	SPCW10843_B01A	3	9	6	3	600	3	16	PM2-3-312	18	0	19		102	True	False		True			SR	ライブ	ボトムス	Eternal Revue	しろ	フラワー
+1923	トパーズフラワーブロッサム	SPCW10843_P01A	3	9	6	3	550	4	2	PM2-3-313	18	0	19		102	True	False		True			SR	ライブ	シューズ	Eternal Revue	しろ	エレガント
+1924	トパーズフラワーブロッサム	SPCW10843_I01A	3	9	6	3	550	5	20	PM2-3-314	18	0	19		102	True	False		True			SR	ライブ	アクセ	Eternal Revue	みどり	キュート
+1925	サファイアミラクルユニコーン	SPCW10819_T01A	3	9	8	3	600	1	3	PM2-3-315	18	0	19	プリマジくじ	103	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	トップス	LOVELY MELODY	あお	リボン
+1926	サファイアミラクルユニコーン	SPCW10819_B01A	3	9	8	3	600	3	5	PM2-3-316	18	0	19		103	True	False		True			SR	ライブ	ボトムス	LOVELY MELODY	あお	ラブリー
+1927	サファイアミラクルユニコーン	SPCW10819_P01A	3	9	8	3	550	4	14	PM2-3-317	18	0	19		103	True	False		True			SR	ライブ	シューズ	LOVELY MELODY	あお	フラワー
+1928	サファイアミラクルユニコーン	SPCW10819_I01A	3	9	8	3	550	5	8	PM2-3-318	18	0	19		103	True	False		True			SR	ライブ	アクセ	LOVELY MELODY	あお	エレガント
+1929	シトリンフレッシュフェアリー	SPCW10817_T01A	3	9	5	3	600	1	15	PM2-3-319	18	0	19	プリマジくじ	104	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	トップス	Eternal Revue	あお	クール
+1930	シトリンフレッシュフェアリー	SPCW10817_B01A	3	9	5	3	600	3	6	PM2-3-320	18	0	19		104	True	False		True			SR	ライブ	ボトムス	Eternal Revue	あお	ジュエル
+1931	シトリンフレッシュフェアリー	SPCW10817_P01A	3	9	5	3	550	4	16	PM2-3-321	18	0	19		104	True	False		True			SR	ライブ	シューズ	Eternal Revue	あお	ミステリアス
+1932	シトリンフレッシュフェアリー	SPCW10817_I01A	3	9	5	3	550	5	14	PM2-3-322	18	0	19		104	True	False		True			SR	ライブ	アクセ	Eternal Revue	あお	リボン
+1933	アクアマリンコスメティックフラワー	SPCW20131_T01A	3	9	7	3	600	1	8	PM2-3-323	18	0	19	プリマジくじ	105	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	トップス	Eternal Revue	みどり	エレガント
+1934	アクアマリンコスメティックフラワー	SPCW20131_B01A	3	9	7	3	600	3	5	PM2-3-324	18	0	19		105	True	False		True			SR	ライブ	ボトムス	Eternal Revue	しろ	ゴシック
+1935	アクアマリンコスメティックフラワー	SPCW20131_P01A	3	9	7	3	550	4	2	PM2-3-325	18	0	19		105	True	False		True			SR	ライブ	シューズ	Eternal Revue	みどり	ガーリー
+1936	アクアマリンコスメティックフラワー	SPCW20131_I01A	3	9	7	3	550	5	11	PM2-3-326	18	0	19		105	True	False		True			SR	ライブ	アクセ	Eternal Revue	あか	ダンス
+1937	エメラルドスプラッシュマーメイド	SPCW10816_T01A	3	9	6	3	600	1	16	PM2-3-327	18	0	19	プリマジくじ	106	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	トップス	Eternal Revue	ピンク	ミステリアス
+1938	エメラルドスプラッシュマーメイド	SPCW10816_B01A	3	9	6	3	600	3	10	PM2-3-328	18	0	19		106	True	False		True			SR	ライブ	ボトムス	Eternal Revue	あか	ダンス
+1939	エメラルドスプラッシュマーメイド	SPCW10816_P01A	3	9	6	3	550	4	9	PM2-3-329	18	0	19		106	True	False		True			SR	ライブ	シューズ	Eternal Revue	しろ	ジュエル
+1940	エメラルドスプラッシュマーメイド	SPCW10816_I01A	3	9	6	3	550	5	5	PM2-3-330	18	0	19		106	True	False		True			SR	ライブ	アクセ	Eternal Revue	しろ	ガーリー
+1941	オパールしらゆきひめ	SPCW10846_D01A	3	9	5	2	1000	2	14	PM2-3-331	18	0	19	プリマジくじ	107	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	ワンピ	Princess Magic	ピンク	スター
+1942	オパールしらゆきひめ	SPCW10846_P01A	3	9	8	2	450	4	8	PM2-3-332	18	0	19		107	True	False		True			SR	ライブ	シューズ	Princess Magic	ピンク	リボン
+1943	オパールしらゆきひめ	SPCW10846_I01A	3	9	6	2	450	5	17	PM2-3-333	18	0	19		107	True	False		True			SR	ライブ	アクセ	Princess Magic	ピンク	キュート
+1944	オパールしらゆきひめピンク	SPCW10847_I01A	3	9	3	2	450	5	6	PM2-3-334	18	0	19		107	True	False		True			SR	ライブ	ワンピ	Princess Magic	みずいろ	ミステリアス
+1945	アメジストシンデレラ	SPCW10815_D01A	3	9	9	2	1000	2	5	PM2-3-335	18	0	19	プリマジくじ	108	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	シューズ	Princess Magic	あお	ポップ
+1946	アメジストシンデレラ	SPCW10815_P01A	3	9	9	2	450	4	11	PM2-3-336	18	0	19		108	True	False		True			SR	ライブ	アクセ	Princess Magic	みずいろ	スター
+1947	アメジストシンデレラ	SPCW10815_I01A	3	9	9	2	450	5	20	PM2-3-337	18	0	19		108	True	False		True			SR	ライブ	トップス	Princess Magic	あお	ダンス
+1948	アメジストシンデレラパープル	SPCW10841_I01A	3	9	9	2	450	5	16	PM2-3-338	18	0	19		108	True	False		True			SR	ライブ	ボトムス	Princess Magic	あお	スポーツ
+1949	ラピスラズリパウダースノー	SPCW10852_T01A	3	9	8	2	500	1	10	PM2-3-339	18	0	19	プリマジくじ	109	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	シューズ	Princess Magic	あお	リボン
+1950	ラピスラズリパウダースノー	SPCW10852_B01A	3	9	8	2	500	3	9	PM2-3-340	18	0	19		109	True	False		True			SR	ライブ	アクセ	Princess Magic	むらさき	キュート
+1951	ラピスラズリパウダースノー	SPCW10852_P01A	3	9	8	2	450	4	13	PM2-3-341	18	0	19		109	True	False		True			SR	ライブ	トップス	Princess Magic	しろ	スター
+1952	ラピスラズリパウダースノー	SPCW10852_I01A	3	9	8	2	450	5	5	PM2-3-342	18	0	19		109	True	False		True			SR	ライブ	ボトムス	Princess Magic	きいろ	デジタル
+1953	ガーネットリトルプリンセス	SPCW10818_T01A	3	9	2	2	500	1	6	PM2-3-343	18	0	19	プリマジくじ	110	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			SR	ライブ	シューズ	Princess Magic	しろ	スポーツ
+1954	ガーネットリトルプリンセス	SPCW10818_B01A	3	9	2	2	500	3	8	PM2-3-344	18	0	19		110	True	False		True			SR	ライブ	アクセ	Princess Magic	みずいろ	ベーシック
+1955	ガーネットリトルプリンセス	SPCW10818_P01A	3	9	2	2	450	4	15	PM2-3-345	18	0	19		110	True	False		True			UR	ライブ	トップス	Princess Magic	みずいろ	ミステリアス
+1956	ガーネットリトルプリンセス	SPCW10818_I01A	3	9	2	2	450	5	20	PM2-3-346	18	0	19		110	True	False		True			UR	ライブ	ボトムス	Princess Magic	みずいろ	エレガント
+1957	ターコイズナイトドリーム	SPCW10842_T01A	3	9	7	2	500	1	9	PM2-3-347	18	0	19	プリマジくじ	111	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			UR	ライブ	シューズ	Princess Magic	みずいろ	キュート
+1958	ターコイズナイトドリーム	SPCW10842_B01A	3	9	7	2	500	3	11	PM2-3-348	18	0	19		111	True	False		True			UR	ライブ	アクセ	Princess Magic	みずいろ	フラワー
+1959	ターコイズナイトドリーム	SPCW10842_P01A	3	9	7	2	450	4	10	PM2-3-349	18	0	19		111	True	False		True			UR	ライブ	トップス	Princess Magic	ピンク	ラブリー
+1960	ターコイズナイトドリーム	SPCW10842_I01A	3	9	13	2	450	5	15	PM2-3-350	18	0	19		111	True	False		True			UR	ライブ	ボトムス	Princess Magic	ピンク	スター
+1961	ブラックダイアモンドプリンセス	SPCW20133_D01A	3	9	10	3	1200	2	4	PM2-3-351	18	0	19	プリマジくじ	112	True	True	2023年6月15日（木）～8月30日（水）プリマジくじ　ジュエリーコレクション	True			UR	ライブ	シューズ	Princess Magic	ピンク	クール
+1962	ブラックダイアモンドプリンセス	SPCW20133_P01A	3	9	10	3	550	4	5	PM2-3-352	18	0	19		112	True	False		True			UR	ライブ	アクセ	Princess Magic	しろ	ガーリー
+1963	ブラックダイアモンドプリンセス	SPCW20133_I01A	3	9	10	3	550	5	13	PM2-3-353	18	0	19		112	True	False		True			SR	ライブ	トップス	Princess Magic	ピンク	リボン
+1964	ブラックダイアモンドプリンセスクラシック	SPCW20135_I01A	3	9	10	3	550	5	19	PM2-3-354	18	0	19		112	True	False		True			SR	ライブ	ボトムス	Princess Magic	ピンク	アニマル
+2074	プリマジミュージカルブルー	SPCW10936_D01A	3	4	7	2	1000	2	5	PM2-3-145	18	0	0	期間限定	113	True	True	6月15日（木）～7月12日（水）　プリマジミュージカルブルーチャンス	True	7		SR	ライブ	シューズ	Princess Magic	ピンク	ガーリー
+2075	プリマジミュージカルブルー	SPCW10936_P01A	3	4	7	2	450	4	2	PM2-3-146	18	0	0		113	True	False		True			SR	ライブ	アクセ	Princess Magic	ゴールド	ゴシック
+2076	プリマジミュージカルブルー	SPCW10936_I01A	3	4	7	2	450	5	20	PM2-3-147	18	0	0		113	True	False		True			SR	ライブ	ワンピ	ELECTRO REMIX	みどり	スポーツ
+2005	ピーコックプリマきゃろん	SPCW10875_T01A	3	3	11	1	400	1	15	PM2-3-186	18	0	0	めちゃマジ注目スペシャルコーデ	114	False	True	こんしゅうのみんなでどっちでSHOW！ いざ！あこがれのステージへ！いっしょにプリマジしたいのはどっち？	True			SR	ライブ	シューズ	ELECTRO REMIX	きいろ	クール
+2006	ピーコックプリマきゃろん	SPCW10875_B01A	3	3	9	1	400	3	10	PM2-3-187	18	0	0		114	False	False		True			SR	ライブ	アクセ	ELECTRO REMIX	みどり	アニマル
