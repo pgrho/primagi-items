@@ -55596,7 +55596,7 @@
       "directoryNumber": 130,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "r4po4",
       "span": "こんしゅうのみんなでどっちでSHOW！ ジューンブライド！じゅんぱくコーデならどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ ジューンブライド！じゅんぱくコーデならどっち？",
       "order": 2147483647,
@@ -55617,7 +55617,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2021.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/r4po4/2021.png"
         },
         {
           "id": 2022,
@@ -55634,7 +55634,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2022.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/r4po4/2022.png"
         },
         {
           "id": 2023,
@@ -55651,7 +55651,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2023.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/r4po4/2023.png"
         },
         {
           "id": 2024,
@@ -55668,10 +55668,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2024.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/r4po4/2024.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_130_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_130_main_r4po4.jpg"
     },
     {
       "collection": 18,
@@ -55680,7 +55680,7 @@
       "directoryNumber": 131,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "w6316",
       "span": "こんしゅうのみんなでどっちでSHOW！ ジューンブライド！じゅんぱくコーデならどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ ジューンブライド！じゅんぱくコーデならどっち？",
       "order": 2147483647,
@@ -55701,7 +55701,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2025.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/w6316/2025.png"
         },
         {
           "id": 2026,
@@ -55718,7 +55718,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2026.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/w6316/2026.png"
         },
         {
           "id": 2027,
@@ -55735,7 +55735,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2027.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/w6316/2027.png"
         },
         {
           "id": 2028,
@@ -55752,10 +55752,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2028.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/w6316/2028.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_131_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_131_main_w6316.jpg"
     },
     {
       "collection": 18,
