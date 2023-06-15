@@ -130,6 +130,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id6115.png "くるりんエスじバング")|id6115|くるりんエスじバング|プリマジスタランクが79になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id6115.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id6316.png "なだらかサイドパート")|id6316|なだらかサイドパート|2023年4月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id6316.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id6117.png "こなれセンターパート")|id6117|こなれセンターパート|プリマジスタランクが88になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id6117.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id6318.png "おじょうさまウェーブ")|id6318|おじょうさまウェーブ|2023年7月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id6318.png|
 ## アイカラー
 
 ||ID|名前|取得条件|画像|
@@ -199,6 +200,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id912.png "ボストンメガネ")|id912|ボストンメガネ|プリマジスタランクが66になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id912.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id923.png "トゥインクルサングラス")|id923|トゥインクルサングラス|スタジオ第1章・第2章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id923.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id935.png "シャープモノクル")|id935|シャープモノクル|2023年3月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id935.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id936.png "ローズアイパッチ")|id936|ローズアイパッチ|2023年7月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id936.png|
 ## アクセント
 
 ||ID|名前|取得条件|画像|

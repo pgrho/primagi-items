@@ -198,6 +198,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/709.png "クリスタルおしゃれプリンセス")|709|2|4|イベント・キャンペーンでゲット|クリスタルおしゃれプリンセス|「クリスタルプリンセスひめめ」をフルコーデきて「クリスタルプリンセスひめめフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/709.png|
 |![](https://cdn.primagi.jp/assets/images/copy/710.png "はじまりのおしゃれプリンセス")|710|2|3|イベント・キャンペーンでゲット|はじまりのおしゃれプリンセス|「プリンセスコレクション～はじまりのプリンセス～」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/710.png|
 |![](https://cdn.primagi.jp/assets/images/copy/711.png "はばたきのおしゃれプリンセス")|711|2|5|イベント・キャンペーンでゲット|はばたきのおしゃれプリンセス|「プリンセスコレクション～はじまりのプリンセス～」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/711.png|
+|![](https://cdn.primagi.jp/assets/images/copy/712.png "きらめきのおしゃれプリンセス")|712|2|6|イベント・キャンペーンでゲット|きらめきのおしゃれプリンセス|「プリンセスコレクション～きらめきのプリンセス～」をクリアする|https://cdn.primagi.jp/assets/images/copy/712.png|
 |![](https://cdn.primagi.jp/assets/images/copy/714.png "めざめのおしゃれプリンセス")|714|2|5|イベント・キャンペーンでゲット|めざめのおしゃれプリンセス|めざめのプリンセスひめめコーデをフルコーデきて「めざめのプリンセスひめめコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/714.png|
 ## 期間限定でゲット
 
