@@ -56048,7 +56048,7 @@
       "directoryNumber": 135,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "h7j34",
       "span": "こんしゅうのみんなでどっちでSHOW！ おいろなおし！ブルーできめるならどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ おいろなおし！ブルーできめるならどっち？",
       "order": 2147483647,
@@ -56069,7 +56069,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2030.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/h7j34/2030.png"
         },
         {
           "id": 2031,
@@ -56086,7 +56086,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2031.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/h7j34/2031.png"
         },
         {
           "id": 2032,
@@ -56103,7 +56103,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2032.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/h7j34/2032.png"
         },
         {
           "id": 2033,
@@ -56120,10 +56120,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2033.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/h7j34/2033.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_135_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_135_main_h7j34.jpg"
     },
     {
       "collection": 18,
@@ -56132,7 +56132,7 @@
       "directoryNumber": 136,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "d3bpy",
       "span": "こんしゅうのみんなでどっちでSHOW！ おいろなおし！ブルーできめるならどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ おいろなおし！ブルーできめるならどっち？",
       "order": 2147483647,
@@ -56153,7 +56153,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2034.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/d3bpy/2034.png"
         },
         {
           "id": 2035,
@@ -56170,7 +56170,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2035.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/d3bpy/2035.png"
         },
         {
           "id": 2036,
@@ -56187,7 +56187,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2036.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/d3bpy/2036.png"
         },
         {
           "id": 2037,
@@ -56204,10 +56204,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2037.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/d3bpy/2037.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_136_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_136_main_d3bpy.jpg"
     },
     {
       "collection": 18,
@@ -63411,6 +63411,24 @@
       "name": "みずいブリー！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/856.png"
+    },
+    {
+      "chapter": "2P05",
+      "id": 857,
+      "conditions": "「ベーシック×ちゃいろコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ベーシッちゃ！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/857.png"
+    },
+    {
+      "chapter": "2P06",
+      "id": 858,
+      "conditions": "「ジュエル×しろコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ジュしろ！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/858.png"
     }
   ],
   "shops": [

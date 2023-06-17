@@ -336,3 +336,5 @@
 |![](https://cdn.primagi.jp/assets/images/copy/854.png "ポップラインジ！ウィナー")|854|2|5|ミックスコーデコンテストでゲット|ポップラインジ！ウィナー|「ポップ×ライブ×オレンジコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/854.png|
 |![](https://cdn.primagi.jp/assets/images/copy/855.png "あお―ル！ウィナー")|855|2|5|ミックスコーデコンテストでゲット|あお―ル！ウィナー|「あお×クールコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/855.png|
 |![](https://cdn.primagi.jp/assets/images/copy/856.png "みずいブリー！ウィナー")|856|2|5|ミックスコーデコンテストでゲット|みずいブリー！ウィナー|「みずいろ×ラブリーコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/856.png|
+|![](https://cdn.primagi.jp/assets/images/copy/857.png "ベーシッちゃ！ウィナー")|857|2|5|ミックスコーデコンテストでゲット|ベーシッちゃ！ウィナー|「ベーシック×ちゃいろコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/857.png|
+|![](https://cdn.primagi.jp/assets/images/copy/858.png "ジュしろ！ウィナー")|858|2|6|ミックスコーデコンテストでゲット|ジュしろ！ウィナー|「ジュエル×しろコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/858.png|
