@@ -56043,6 +56043,39 @@
     },
     {
       "collection": 18,
+      "name": "ジューンブライドブルーTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 132,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 13,
+      "chapter": "2P06",
+      "items": [
+        {
+          "id": 2029,
+          "modelName": "SPCW10911_T01A",
+          "sealId": "PM2-3-210",
+          "name": "ジューンブライドブルーTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 1,
+          "color": 8,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 9,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2029.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 18,
       "name": "ジューンブライドブルーレディ",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 135,
