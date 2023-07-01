@@ -56516,7 +56516,7 @@
       "directoryNumber": 141,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "og1g6",
       "span": "こんしゅうのみんなでどっちでSHOW！ ほしにねがいを！ゆめをかなえるならどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ ほしにねがいを！ゆめをかなえるならどっち？",
       "order": 2147483647,
@@ -56537,7 +56537,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2048.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/og1g6/2048.png"
         },
         {
           "id": 2049,
@@ -56554,7 +56554,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2049.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/og1g6/2049.png"
         },
         {
           "id": 2050,
@@ -56571,10 +56571,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2050.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/og1g6/2050.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_141_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_141_main_og1g6.jpg"
     },
     {
       "collection": 18,
@@ -56583,7 +56583,7 @@
       "directoryNumber": 142,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "eu1gp",
       "span": "こんしゅうのみんなでどっちでSHOW！ ほしにねがいを！ゆめをかなえるならどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ ほしにねがいを！ゆめをかなえるならどっち？",
       "order": 2147483647,
@@ -56604,7 +56604,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2051.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/eu1gp/2051.png"
         },
         {
           "id": 2052,
@@ -56621,7 +56621,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2052.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/eu1gp/2052.png"
         },
         {
           "id": 2053,
@@ -56638,10 +56638,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2053.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/eu1gp/2053.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_142_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_142_main_eu1gp.jpg"
     },
     {
       "collection": 18,
