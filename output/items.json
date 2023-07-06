@@ -55658,39 +55658,6 @@
     },
     {
       "collection": 18,
-      "name": "プリズムストーンTシャツ",
-      "kinds": "Tシャツ",
-      "directoryNumber": 125,
-      "isShow": true,
-      "hasMainImage": false,
-      "whichShowId": null,
-      "span": "プリマジスタジオライブ2023年7月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第6章のコーデがラインナップされています",
-      "spanEventName": "プリマジスタジオライブ2023年7月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第6章のコーデがラインナップされています",
-      "order": 12,
-      "chapter": "2P06",
-      "items": [
-        {
-          "id": 1242,
-          "modelName": "SPCW10571_T01A",
-          "sealId": "PM2-3-287",
-          "name": "プリズムストーンTシャツ",
-          "watcha": 400,
-          "genre": 1,
-          "brand": 8,
-          "color": 3,
-          "rarity": 1,
-          "category": 1,
-          "subCategory": 18,
-          "isShowItem": true,
-          "icon": 0,
-          "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/1242.png"
-        }
-      ],
-      "imageUrl": null
-    },
-    {
-      "collection": 18,
       "name": "チェンジアップトリガーTシャツ",
       "kinds": "Tシャツ",
       "directoryNumber": 126,
@@ -56511,6 +56478,39 @@
     },
     {
       "collection": 18,
+      "name": "たなばたTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 140,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 16,
+      "chapter": "2P06",
+      "items": [
+        {
+          "id": 2047,
+          "modelName": "SPCW10907_T01A",
+          "sealId": "PM2-3-228",
+          "name": "たなばたTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 9,
+          "color": 3,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 16,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2047.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 18,
       "name": "たなばたドリームピンク",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 141,
@@ -56978,6 +56978,39 @@
         }
       ],
       "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_148_main.jpg"
+    },
+    {
+      "collection": 18,
+      "name": "エターナルレヴューTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 155,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "プリマジスタジオライブ2023年7月 期間中（～7月19日（水））にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第6章のコーデがラインナップされています",
+      "spanEventName": "プリマジスタジオライブ2023年7月 期間中（～7月19日（水））にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第6章のコーデがラインナップされています",
+      "order": 17,
+      "chapter": "2P06",
+      "items": [
+        {
+          "id": 2085,
+          "modelName": "SPCW10573_T01A",
+          "sealId": "PM2-3-287",
+          "name": "エターナルレヴューTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 4,
+          "color": 11,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 20,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2085.png"
+        }
+      ],
+      "imageUrl": null
     },
     {
       "collection": 19,
@@ -63570,12 +63603,21 @@
       "name": "くろンス！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/859.png"
+    },
+    {
+      "chapter": "2P06",
+      "id": 860,
+      "conditions": "「ピンク×カジュアル×キュートーコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ピジュート！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/860.png"
     }
   ],
   "shops": [
     {
       "id": "1584",
-      "name": "キャッツアイ苫小牧駅前店",
+      "name": "キャッツアイ苫小牧駅前",
       "prefecture": "北海道",
       "address": "苫小牧市木場町１丁目３",
       "latitude": 42.642221,
@@ -64564,6 +64606,15 @@
       "shopGroup": "1"
     },
     {
+      "id": "1610",
+      "name": "アピナ富谷",
+      "prefecture": "宮城県",
+      "address": "富谷市大清水1ｰ33-1 ｲｵﾝﾓｰﾙ富谷別棟109ｼﾈﾏｽﾞ富谷1F",
+      "latitude": 38.36539,
+      "longitude": 140.876248,
+      "shopGroup": "1"
+    },
+    {
       "id": "1600",
       "name": "モーリーファンタジーヨドバシ仙台",
       "prefecture": "宮城県",
@@ -64583,7 +64634,7 @@
     },
     {
       "id": "1598",
-      "name": "PSP泉パークタウン タピオ",
+      "name": "PRIZE SPOT PALO泉パークタウンタピオ",
       "prefecture": "宮城県",
       "address": "仙台市泉区寺岡６丁目５−１",
       "latitude": 38.34286,
@@ -64996,15 +65047,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "1475",
-      "name": "リスチャイルド本荘店",
-      "prefecture": "秋田県",
-      "address": "由利本荘市石脇字田中138 イオンスーパーセンター本荘店内",
-      "latitude": 39.391502,
-      "longitude": 140.027493,
-      "shopGroup": "1"
-    },
-    {
       "id": "1474",
       "name": "AN.KIN.TAN五城目店",
       "prefecture": "秋田県",
@@ -65293,6 +65335,15 @@
       "shopGroup": "1"
     },
     {
+      "id": "1605",
+      "name": "モーリーファンタジーベイシア白河",
+      "prefecture": "福島県",
+      "address": "白河市字老久保28 ",
+      "latitude": 37.116962,
+      "longitude": 140.199478,
+      "shopGroup": "1"
+    },
+    {
       "id": "1535",
       "name": "モーリーファンタジー南相馬",
       "prefecture": "福島県",
@@ -65368,7 +65419,7 @@
       "id": "990",
       "name": "モーリーファンタジーいわき小名浜",
       "prefecture": "福島県",
-      "address": "いわき市小名浜港背後地土地区画整理事業地内 ｲｵﾝ4F",
+      "address": "福島県いわき市小名浜字辰巳町79 ｲｵﾝｽﾀｲﾙいわき小名浜店4F",
       "latitude": 36.943439,
       "longitude": 140.905227,
       "shopGroup": "2"
@@ -65935,7 +65986,7 @@
       "id": "670",
       "name": "タイトーFステーション トナリエ宇都宮",
       "prefecture": "栃木県",
-      "address": "宇都宮市駅前通り1-4-6 ﾄﾅﾘｴ宇都宮B1階",
+      "address": "栃木県宇都宮市駅前通り1-4-6 ﾄﾅﾘｴ宇都宮2階",
       "latitude": 36.560214,
       "longitude": 139.896968,
       "shopGroup": "1"
@@ -67129,6 +67180,15 @@
       "shopGroup": "1"
     },
     {
+      "id": "1607",
+      "name": "イトーヨーカドーアリオ市原",
+      "prefecture": "千葉県",
+      "address": "千葉県市原市更級4-3-2 ",
+      "latitude": 35.508232,
+      "longitude": 140.101349,
+      "shopGroup": "1"
+    },
+    {
       "id": "1601",
       "name": "モーリーファンタジーソコラ南行徳",
       "prefecture": "千葉県",
@@ -67270,7 +67330,7 @@
       "address": "柏市豊町2-5-25 ｲｵﾝ柏店2階",
       "latitude": 35.851876,
       "longitude": 139.961928,
-      "shopGroup": "1"
+      "shopGroup": "2"
     },
     {
       "id": "1277",
@@ -67616,7 +67676,7 @@
     },
     {
       "id": "652",
-      "name": "ソユープレイランドソピア 幕張",
+      "name": "ソユーゲームフィールド幕張",
       "prefecture": "千葉県",
       "address": "千葉市花見川区幕張町四丁目417-25ｲﾄｰﾖｰｶﾄﾞｰ幕張店2F",
       "latitude": 35.656315,
@@ -69280,6 +69340,15 @@
       "shopGroup": "2"
     },
     {
+      "id": "1603",
+      "name": "GiGO相模原ラクーン",
+      "prefecture": "神奈川県",
+      "address": "相模原市中央区小山1-1-14 ",
+      "latitude": 35.584104,
+      "longitude": 139.362465,
+      "shopGroup": "1"
+    },
+    {
       "id": "1595",
       "name": "タイトーステーション 川崎 ラ チッタデッラ店",
       "prefecture": "神奈川県",
@@ -70705,7 +70774,7 @@
       "id": "1303",
       "name": "モーリーファンタジー白山",
       "prefecture": "石川県",
-      "address": "白山市横江町1681 ｲｵﾝ白山内",
+      "address": "白山市横江町5001 イオンモール白山3階",
       "latitude": 36.544466,
       "longitude": 136.581866,
       "shopGroup": "1"
@@ -71266,6 +71335,15 @@
       "address": "上田市天神3-5-1ｱﾘｵ上田1F",
       "latitude": 36.399261,
       "longitude": 138.244577,
+      "shopGroup": "1"
+    },
+    {
+      "id": "1602",
+      "name": "ハローズガーデン各務原",
+      "prefecture": "岐阜県",
+      "address": "各務原市鵜沼各務原町8丁目7番地 アピタ各務原店2F",
+      "latitude": 35.398151,
+      "longitude": 136.90485,
       "shopGroup": "1"
     },
     {
@@ -72238,15 +72316,6 @@
       "address": "稲沢市長野7丁目1番2 ﾘｰﾌｳｫｰｸ稲沢2F",
       "latitude": 35.259125,
       "longitude": 136.819367,
-      "shopGroup": "1"
-    },
-    {
-      "id": "906",
-      "name": "ファンタジーウエストタウン西尾",
-      "prefecture": "愛知県",
-      "address": "西尾市高畠町3-23-9 ｳﾞｪﾙｻｳｫｰｸ西尾店3F",
-      "latitude": 34.863911,
-      "longitude": 137.059321,
       "shopGroup": "1"
     },
     {
@@ -74221,15 +74290,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "1588",
-      "name": "タイトーＦステーション　アスピア明石店",
-      "prefecture": "兵庫県",
-      "address": "兵庫県明石市東仲ノ町６－１　アスピア明石　南館３Ｆ",
-      "latitude": 34.648026,
-      "longitude": 134.995881,
-      "shopGroup": "1"
-    },
-    {
       "id": "1582",
       "name": "namcoニッケパークタウン加古川店",
       "prefecture": "兵庫県",
@@ -74299,15 +74359,6 @@
       "address": "朝来市和田山町枚田岡774 ｲｵﾝ和田山店2階",
       "latitude": 35.329477,
       "longitude": 134.863701,
-      "shopGroup": "1"
-    },
-    {
-      "id": "1359",
-      "name": "モーリーファンタジー竜野",
-      "prefecture": "兵庫県",
-      "address": "たつの市龍野町堂本250-1 ｲｵﾝ竜野店3F",
-      "latitude": 34.858158,
-      "longitude": 134.552899,
       "shopGroup": "1"
     },
     {
@@ -76174,6 +76225,24 @@
       "shopGroup": "1"
     },
     {
+      "id": "1606",
+      "name": "GiGOヨドバシ博多",
+      "prefecture": "福岡県",
+      "address": "福岡県福岡市博多区博多駅中央街6-12 ﾖﾄﾞﾊﾞｼｶﾒﾗﾏﾙﾁﾒﾃﾞｨｱ博多4階",
+      "latitude": 33.588269,
+      "longitude": 130.421535,
+      "shopGroup": "1"
+    },
+    {
+      "id": "1604",
+      "name": "GiGOミーナ天神",
+      "prefecture": "福岡県",
+      "address": "福岡市中央区天神4丁目3番8号 ﾐｰﾅ天神7階706区画",
+      "latitude": 33.592652,
+      "longitude": 130.398461,
+      "shopGroup": "1"
+    },
+    {
       "id": "1561",
       "name": "トイザラス八幡",
       "prefecture": "福岡県",
@@ -76375,7 +76444,7 @@
       "id": "1083",
       "name": "ゲームコーナー原",
       "prefecture": "福岡県",
-      "address": "福岡市早良区原6-27-8 ｲｵﾝ原店3階",
+      "address": "福岡市早良区原6-27-52 ｲｵﾝ原2階",
       "latitude": 33.564538,
       "longitude": 130.34206,
       "shopGroup": "1"

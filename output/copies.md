@@ -339,3 +339,4 @@
 |![](https://cdn.primagi.jp/assets/images/copy/857.png "ベーシッちゃ！ウィナー")|857|2|5|ミックスコーデコンテストでゲット|ベーシッちゃ！ウィナー|「ベーシック×ちゃいろコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/857.png|
 |![](https://cdn.primagi.jp/assets/images/copy/858.png "ジュしろ！ウィナー")|858|2|6|ミックスコーデコンテストでゲット|ジュしろ！ウィナー|「ジュエル×しろコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/858.png|
 |![](https://cdn.primagi.jp/assets/images/copy/859.png "くろンス！ウィナー")|859|2|6|ミックスコーデコンテストでゲット|くろンス！ウィナー|「くろ×ダンスコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/859.png|
+|![](https://cdn.primagi.jp/assets/images/copy/860.png "ピジュート！ウィナー")|860|2|6|ミックスコーデコンテストでゲット|ピジュート！ウィナー|「ピンク×カジュアル×キュートーコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/860.png|
