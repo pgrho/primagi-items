@@ -56650,7 +56650,7 @@
       "directoryNumber": 144,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "mgqgt",
       "span": "こんしゅうのみんなでどっちでSHOW！ ひめめコーデフェスたいけつ！すきないろはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ ひめめコーデフェスたいけつ！すきないろはどっち？",
       "order": 2147483647,
@@ -56671,7 +56671,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/1982.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/mgqgt/1982.png"
         },
         {
           "id": 1983,
@@ -56688,7 +56688,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/1983.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/mgqgt/1983.png"
         },
         {
           "id": 1984,
@@ -56705,7 +56705,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/1984.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/mgqgt/1984.png"
         },
         {
           "id": 1985,
@@ -56722,10 +56722,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/1985.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/mgqgt/1985.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_144_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_144_main_mgqgt.jpg"
     },
     {
       "collection": 18,
@@ -56734,7 +56734,7 @@
       "directoryNumber": 145,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "qq527",
       "span": "こんしゅうのみんなでどっちでSHOW！ ひめめコーデフェスたいけつ！すきないろはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ ひめめコーデフェスたいけつ！すきないろはどっち？",
       "order": 2147483647,
@@ -56755,7 +56755,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/1986.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/qq527/1986.png"
         },
         {
           "id": 1987,
@@ -56772,7 +56772,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/1987.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/qq527/1987.png"
         },
         {
           "id": 1988,
@@ -56789,7 +56789,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/1988.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/qq527/1988.png"
         },
         {
           "id": 1989,
@@ -56806,10 +56806,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/1989.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/qq527/1989.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_145_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_145_main_qq527.jpg"
     },
     {
       "collection": 18,
@@ -71588,6 +71588,15 @@
       "latitude": 35.392392,
       "longitude": 136.821346,
       "shopGroup": "2"
+    },
+    {
+      "id": "1608",
+      "name": "namcoプレ葉ウォーク浜北店",
+      "prefecture": "静岡県",
+      "address": "静岡県浜松市浜北区貴布祢1200番地 ﾌﾟﾚ葉ｳｫｰｸ浜北2階",
+      "latitude": 34.797785,
+      "longitude": 137.779482,
+      "shopGroup": "1"
     },
     {
       "id": "1592",
