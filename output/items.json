@@ -95,14 +95,6 @@
       "start": "2023-06-08",
       "end": "2023-07-19",
       "key": "2P06"
-    },
-    {
-      "displayName": "その他",
-      "year": null,
-      "no": null,
-      "start": null,
-      "end": null,
-      "key": "UNKNOWN"
     }
   ],
   "genres": [
@@ -56645,6 +56637,39 @@
     },
     {
       "collection": 18,
+      "name": "クリスタル&めざめのひめめTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 143,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 18,
+      "chapter": "2P06",
+      "items": [
+        {
+          "id": 1981,
+          "modelName": "SPCW10926_T01A",
+          "sealId": "PM2-3-235",
+          "name": "クリスタル&めざめのひめめTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 9,
+          "color": 11,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 14,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/1981.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 18,
       "name": "プリマジユニフォームクリスタルひめめ",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 144,
@@ -57401,15 +57426,16 @@
     {
       "collection": 1,
       "name": "プチパールブルー",
-      "kinds": "プリズムストーン特典",
+      "kinds": "プロモ",
       "directoryNumber": 1,
       "isShow": true,
       "hasMainImage": false,
       "whichShowId": null,
-      "span": "2022年1月1日（土）～",
+      "span": "2022年1月1日（土）～プリズムストーン特典",
+      "spanEventName": "プリズムストーン特典",
       "spanStart": "2022-01-01",
-      "order": 1,
-      "chapter": "UNKNOWN",
+      "order": 99,
+      "chapter": "P02",
       "items": [
         {
           "id": 99901,
@@ -57485,15 +57511,16 @@
     {
       "collection": 1,
       "name": "ガーリーニットグリーン",
-      "kinds": "アミューズメント景品",
+      "kinds": "プロモ",
       "directoryNumber": 2,
       "isShow": true,
       "hasMainImage": false,
       "whichShowId": null,
-      "span": "2022年3月～",
+      "span": "2022年3月～アミューズメント景品",
+      "spanEventName": "アミューズメント景品",
       "spanStart": "2022-03-01",
-      "order": 2,
-      "chapter": "UNKNOWN",
+      "order": 99,
+      "chapter": "P03",
       "items": [
         {
           "id": 99905,
@@ -57545,6 +57572,39 @@
           "icon": 0,
           "release": 0,
           "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/girly_knit_green_accessory.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 14,
+      "name": "ラブリーメロディTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 96,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "プリマジスタジオライブ2023年1月\n期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。\n※該当アイテム以外は期間によりスタジオ第1章・第2章のコーデがラインナップされています",
+      "spanEventName": "プリマジスタジオライブ2023年1月\n期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。\n※該当アイテム以外は期間によりスタジオ第1章・第2章のコーデがラインナップされています",
+      "order": 20,
+      "chapter": "2P02",
+      "items": [
+        {
+          "id": 1352,
+          "modelName": null,
+          "sealId": "PM2-1-265",
+          "name": "ラブリーメロディTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 1,
+          "color": 3,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 16,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/PM2-1-265.png"
         }
       ],
       "imageUrl": null
@@ -63841,15 +63901,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "878",
-      "name": "ビックカメラ札幌",
-      "prefecture": "北海道",
-      "address": "札幌市中央区北五条西2-1 札幌ESTAJRﾀﾜｰ4F",
-      "latitude": 43.067435,
-      "longitude": 141.352881,
-      "shopGroup": "1"
-    },
-    {
       "id": "864",
       "name": "ハロータイトー 釧路貝塚",
       "prefecture": "北海道",
@@ -64063,15 +64114,6 @@
       "address": "小樽市築港11-6",
       "latitude": 43.184392,
       "longitude": 141.021713,
-      "shopGroup": "1"
-    },
-    {
-      "id": "233",
-      "name": "アドアーズ札幌北42条",
-      "prefecture": "北海道",
-      "address": "札幌市東区北42条東7-1-1 嶋ﾋﾞﾙ2階",
-      "latitude": 43.112038,
-      "longitude": 141.355184,
       "shopGroup": "1"
     },
     {
@@ -64801,15 +64843,6 @@
       "address": "石巻市茜平4丁目104番地 ｲｵﾝﾓｰﾙ石巻ｼｮｯﾋﾟﾝｸﾞｾﾝﾀｰ2F",
       "latitude": 38.44784,
       "longitude": 141.266116,
-      "shopGroup": "1"
-    },
-    {
-      "id": "870",
-      "name": "ビーカム松森",
-      "prefecture": "宮城県",
-      "address": "仙台市泉区松森字斉兵衛58-1",
-      "latitude": 38.304489,
-      "longitude": 140.909977,
       "shopGroup": "1"
     },
     {
@@ -67180,6 +67213,15 @@
       "shopGroup": "1"
     },
     {
+      "id": "1609",
+      "name": "namcoトンデミ幕張イオンモール幕張新都心店",
+      "prefecture": "千葉県",
+      "address": "千葉市美浜区豊砂1-5 ｲｵﾝﾓｰﾙ幕張新都心ﾌｧﾐﾘｰﾓｰﾙ3F",
+      "latitude": 35.656423,
+      "longitude": 140.027331,
+      "shopGroup": "1"
+    },
+    {
       "id": "1607",
       "name": "イトーヨーカドーアリオ市原",
       "prefecture": "千葉県",
@@ -67981,15 +68023,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "70",
-      "name": "namcoイオンモール八千代緑が丘店",
-      "prefecture": "千葉県",
-      "address": "八千代市緑ヶ丘2-1-3ｲｵﾝﾓｰﾙ八千代緑ヶ丘4F",
-      "latitude": 35.727868,
-      "longitude": 140.07317,
-      "shopGroup": "1"
-    },
-    {
       "id": "63",
       "name": "namcoイオンモール船橋店",
       "prefecture": "千葉県",
@@ -68104,7 +68137,7 @@
       "address": "豊島区東池袋1-22-10 ヒューマックスパビリオン池袋サンシャイン60通り 1F",
       "latitude": 35.729808,
       "longitude": 139.715782,
-      "shopGroup": "1"
+      "shopGroup": "2"
     },
     {
       "id": "1511",
@@ -68473,7 +68506,7 @@
       "address": "豊島区西池袋1-16-3 7F",
       "latitude": 35.730832,
       "longitude": 139.708954,
-      "shopGroup": "1"
+      "shopGroup": "2"
     },
     {
       "id": "885",
@@ -68509,7 +68542,7 @@
       "address": "調布市小島町2-48-6 ﾄﾘｴ京王調布3F",
       "latitude": 35.652114,
       "longitude": 139.543202,
-      "shopGroup": "1"
+      "shopGroup": "2"
     },
     {
       "id": "873",
@@ -69121,15 +69154,6 @@
       "address": "葛飾区亀有3-49-3",
       "latitude": 35.765946,
       "longitude": 139.854167,
-      "shopGroup": "1"
-    },
-    {
-      "id": "368",
-      "name": "イオン東雲",
-      "prefecture": "東京都",
-      "address": "江東区東雲1-9-10",
-      "latitude": 35.64871,
-      "longitude": 139.802146,
       "shopGroup": "1"
     },
     {
@@ -74623,15 +74647,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "843",
-      "name": "ハローズガーデン広畑",
-      "prefecture": "兵庫県",
-      "address": "姫路市広畑区夢前町1-1-1 MEGAﾞﾄﾞﾝ･ｷﾎｰﾃ1F",
-      "latitude": 34.797248,
-      "longitude": 134.637058,
-      "shopGroup": "1"
-    },
-    {
       "id": "840",
       "name": "ハローズガーデン加古川",
       "prefecture": "兵庫県",
@@ -75079,6 +75094,15 @@
       "address": "田辺市和歌山県田辺市稲成町新江原3165ﾊﾟﾋﾞﾘｵﾝｼﾃｨ田辺店C館2F",
       "latitude": 33.744183,
       "longitude": 135.375714,
+      "shopGroup": "1"
+    },
+    {
+      "id": "1611",
+      "name": "PRIZE SPOT PALO米子しんまち天満屋",
+      "prefecture": "鳥取県",
+      "address": "米子市西福原2-1-10 米子しんまち天満屋3階",
+      "latitude": 35.440745,
+      "longitude": 133.341384,
       "shopGroup": "1"
     },
     {
