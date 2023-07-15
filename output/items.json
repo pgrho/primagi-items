@@ -56851,7 +56851,7 @@
       "directoryNumber": 147,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "yhylr",
       "span": "こんしゅうのみんなでどっちでSHOW！ プリンセスマジックのだいにんきコーデ！ほしいのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ プリンセスマジックのだいにんきコーデ！ほしいのはどっち？",
       "order": 2147483647,
@@ -56872,7 +56872,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2062.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/yhylr/2062.png"
         },
         {
           "id": 2063,
@@ -56889,7 +56889,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2063.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/yhylr/2063.png"
         },
         {
           "id": 2064,
@@ -56906,7 +56906,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2064.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/yhylr/2064.png"
         },
         {
           "id": 2065,
@@ -56923,10 +56923,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2065.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/yhylr/2065.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_147_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_147_main_yhylr.jpg"
     },
     {
       "collection": 18,
@@ -56935,7 +56935,7 @@
       "directoryNumber": 148,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "qs5bs",
       "span": "こんしゅうのみんなでどっちでSHOW！ プリンセスマジックのだいにんきコーデ！ほしいのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ プリンセスマジックのだいにんきコーデ！ほしいのはどっち？",
       "order": 2147483647,
@@ -56956,7 +56956,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2066.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/qs5bs/2066.png"
         },
         {
           "id": 2067,
@@ -56973,7 +56973,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2067.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/qs5bs/2067.png"
         },
         {
           "id": 2068,
@@ -56990,7 +56990,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2068.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/qs5bs/2068.png"
         },
         {
           "id": 2069,
@@ -57007,10 +57007,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/2069.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/qs5bs/2069.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_148_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P06/img_codination_148_main_qs5bs.jpg"
     },
     {
       "collection": 18,
@@ -63887,6 +63887,15 @@
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/69.png"
     },
     {
+      "chapter": "2P07",
+      "id": 70,
+      "conditions": "プリマジスタジオだい7しょうでプリマジを30かいあそぶ",
+      "url": null,
+      "name": "プリマジスタジオ第7章プリマジマスター",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/70.png"
+    },
+    {
       "chapter": "2P01",
       "id": 72,
       "conditions": "タントちゃんを500かいおうえんする",
@@ -64247,6 +64256,15 @@
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/167.png"
     },
     {
+      "chapter": "2P07",
+      "id": 168,
+      "conditions": "プリマジスタランクが90になる",
+      "url": null,
+      "name": "18星プリマジスタ",
+      "category": 1,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/168.png"
+    },
+    {
       "chapter": "P01",
       "id": 201,
       "conditions": "ラブリーメロディのコーデを50かいきる",
@@ -64598,6 +64616,15 @@
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/312.png"
     },
     {
+      "chapter": "2P07",
+      "id": 313,
+      "conditions": "プリマジスタジオだい7しょうのさいごのしゅうに10かいあそぶ※ 8月24日(木)～8月30日(水)",
+      "url": null,
+      "name": "プリマジスタジオ第7章ラストプリンセス",
+      "category": 6,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/313.png"
+    },
+    {
       "chapter": "P04",
       "id": 321,
       "conditions": "だい４しょうのさいしょのしゅうに10かいあそぶ",
@@ -64677,6 +64704,15 @@
       "name": "ファーストプリンセス2023梅雨",
       "category": 6,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/329.png"
+    },
+    {
+      "chapter": "2P07",
+      "id": 330,
+      "conditions": "プリマジスタジオだい7しょうのさいしょのしゅうに10かいあそぶ※ 7月20日(木)～7月26日(水)",
+      "url": null,
+      "name": "ファーストプリンセス2023夏",
+      "category": 6,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/330.png"
     },
     {
       "chapter": "P01",
@@ -64947,6 +64983,15 @@
       "name": "タテジマNow playing",
       "category": 3,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/431.png"
+    },
+    {
+      "chapter": "2P07",
+      "id": 432,
+      "conditions": "「ようこそ！プリマジミュージック・アワー」を10かいあそぶ",
+      "url": null,
+      "name": "ようこそ！プリマジミュージック・アワー",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/432.png"
     },
     {
       "chapter": "P01",
