@@ -66072,6 +66072,24 @@
       "name": "ピジュート！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/860.png"
+    },
+    {
+      "chapter": "2P06",
+      "id": 861,
+      "conditions": "「スポーティー×きいろコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "スポ―き！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/861.png"
+    },
+    {
+      "chapter": "2P06",
+      "id": 862,
+      "conditions": "「むらさき×リボンコンテスト」の けっしょうせんをクリアする",
+      "url": null,
+      "name": "むらさボン！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/862.png"
     }
   ],
   "shops": [
