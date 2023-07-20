@@ -111,6 +111,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id5327.png "シンフォニープリンセス")|id5327|シンフォニープリンセス|2023年5月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id5327.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id5228.png "ぴょっこりハーフツイン")|id5228|ぴょっこりハーフツイン|スタジオ第5章・第6章スクラッチ(～7月5日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id5228.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id5129.png "ホイップおさげ")|id5129|ホイップおさげ|プリマジスタランクが85になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id5129.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id5330.png "ドーリープリンセス")|id5330|ドーリープリンセス|2023年8月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id5330.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id5231.png "かろやかみつあみロング")|id5231|かろやかみつあみロング|スタジオ第7章・第8章スクラッチ(～10月4日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id5231.png|
 ## まえがみ
 
@@ -184,6 +185,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7239.png "よあけのルミナススター")|id7239|よあけのルミナススター|スタジオ第7章・第8章スクラッチ(～10月4日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7239.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7248.png "ひめめアイ")|id7248|ひめめアイ|プリマジ公式ファンブック スタジオ第7・8章|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7248.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7149.png "ハッピーアイ")|id7149|ハッピーアイ|フレンドランクが49になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7149.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7250.png "ジェニー アイ")|id7250|ジェニー アイ|#Liccaコラボ第2弾|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7250.png|
 ## アイシャドウ
 
 ||ID|名前|取得条件|画像|
@@ -198,6 +200,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id819.png "ハッピーラメ")|id819|ハッピーラメ|フレンドランクが39になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id819.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id818.png "いたずらフェアリー")|id818|いたずらフェアリー|プリマジスタランクが80になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id818.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id8110.png "アップルジャム")|id8110|アップルジャム|プリマジスタランクが86になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id8110.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id8312.png "ひめめラメ")|id8312|ひめめラメ|2023年8月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id8312.png|
 ## めがね
 
 ||ID|名前|取得条件|画像|
@@ -270,6 +273,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13217.png "ゴールドクレッセントムーン")|id13217|ゴールドクレッセントムーン|スタジオ第3章・第4章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13217.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13320.png "にんぎょのなみだ")|id13320|にんぎょのなみだ|2023年6月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13320.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13121.png "ハッピーイヤリング")|id13121|ハッピーイヤリング|フレンドランクが44になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13121.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13222.png "ジェニー イヤリング")|id13222|ジェニー イヤリング|#Liccaコラボ第2弾|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13222.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13218.png "ルミナススターダスト")|id13218|ルミナススターダスト|スタジオ第7章・第8章スクラッチ(～10月4日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13218.png|
 ## ネイル
 
