@@ -59478,7 +59478,7 @@
       "directoryNumber": 44,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "ouyiq",
       "span": "こんしゅうのみんなでどっちでSHOW！ かわいいかいぞくスタイル！ほしいのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ かわいいかいぞくスタイル！ほしいのはどっち？",
       "order": 2147483647,
@@ -59499,7 +59499,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2362.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/ouyiq/2362.png"
         },
         {
           "id": 2363,
@@ -59516,7 +59516,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2363.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/ouyiq/2363.png"
         },
         {
           "id": 2364,
@@ -59533,7 +59533,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2364.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/ouyiq/2364.png"
         },
         {
           "id": 2365,
@@ -59550,10 +59550,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2365.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/ouyiq/2365.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_44_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_44_main_ouyiq.jpg"
     },
     {
       "collection": 20,
@@ -59562,7 +59562,7 @@
       "directoryNumber": 45,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "eskar",
       "span": "こんしゅうのみんなでどっちでSHOW！ かわいいかいぞくスタイル！ほしいのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ かわいいかいぞくスタイル！ほしいのはどっち？",
       "order": 2147483647,
@@ -59583,7 +59583,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2366.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/eskar/2366.png"
         },
         {
           "id": 2367,
@@ -59600,7 +59600,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2367.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/eskar/2367.png"
         },
         {
           "id": 2368,
@@ -59617,7 +59617,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2368.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/eskar/2368.png"
         },
         {
           "id": 2369,
@@ -59634,10 +59634,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2369.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/eskar/2369.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_45_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_45_main_eskar.jpg"
     },
     {
       "collection": 20,
