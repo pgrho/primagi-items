@@ -155,7 +155,6 @@
 |![](https://cdn.primagi.jp/assets/images/copy/430.png "プリマジミュージカル！")|430|2|6|リズムゲームでゲット|プリマジミュージカル！|「ぱたのとあまねのプリマジミュージカル！」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/430.png|
 |![](https://cdn.primagi.jp/assets/images/copy/431.png "タテジマNow playing")|431|2|6|リズムゲームでゲット|タテジマNow playing|「タテジマNow playing」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/431.png|
 |![](https://cdn.primagi.jp/assets/images/copy/432.png "ようこそ！プリマジミュージック・アワー")|432|2|7|リズムゲームでゲット|ようこそ！プリマジミュージック・アワー|「ようこそ！プリマジミュージック・アワー」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/432.png|
-|![](https://cdn.primagi.jp/assets/images/copy/526.png "りりしくかわいくサマーメイド")|526|2|7|リズムゲームでゲット|りりしくかわいくサマーメイド|「サマーメイドブラックベリーチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/526.png|
 ## マイキャラメイクでゲット
 
 ||ID|年|章|カテゴリー|名前|取得条件|画像|
@@ -191,6 +190,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/522.png "ロッキンスターバンドガール")|522|2|5|イベント・キャンペーンでゲット|ロッキンスターバンドガール|「スターバンドガールスカイチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/522.png|
 |![](https://cdn.primagi.jp/assets/images/copy/523.png "ようこそプリマジミュージカルの世界へ！")|523|2|6|イベント・キャンペーンでゲット|ようこそプリマジミュージカルの世界へ！|「プリマジミュージカルブルーチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/523.png|
 |![](https://cdn.primagi.jp/assets/images/copy/525.png "とうひょうありがとう！No.1コーデ！")|525|2|6|イベント・キャンペーンでゲット|とうひょうありがとう！No.1コーデ！|「とうひょうありがとう！そうせんきょコーデフェス」をクリアする|https://cdn.primagi.jp/assets/images/copy/525.png|
+|![](https://cdn.primagi.jp/assets/images/copy/526.png "りりしくかわいくサマーメイド")|526|2|7|イベント・キャンペーンでゲット|りりしくかわいくサマーメイド|「サマーメイドブラックベリーチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/526.png|
 |![](https://cdn.primagi.jp/assets/images/copy/701.png "フレアエレメンツマスター")|701|1|2|イベント・キャンペーンでゲット|フレアエレメンツマスター|フレアエレメンツコーデをフルコーデきて「フレアエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/701.png|
 |![](https://cdn.primagi.jp/assets/images/copy/702.png "アクアエレメンツマスター")|702|1|3|イベント・キャンペーンでゲット|アクアエレメンツマスター|アクアエレメンツコーデをフルコーデきて「アクアエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/702.png|
 |![](https://cdn.primagi.jp/assets/images/copy/703.png "フラッシュエレメンツマスター")|703|1|4|イベント・キャンペーンでゲット|フラッシュエレメンツマスター|フラッシュエレメンツコーデをフルコーデきて「フラッシュエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/703.png|

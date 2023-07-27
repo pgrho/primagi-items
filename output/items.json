@@ -67380,7 +67380,7 @@
       "conditions": "「サマーメイドブラックベリーチャンス」を1かいあそぶ",
       "url": null,
       "name": "りりしくかわいくサマーメイド",
-      "category": 3,
+      "category": 5,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/526.png"
     },
     {
@@ -71878,7 +71878,7 @@
     },
     {
       "id": "1463",
-      "name": "あそびのひろば柏の葉",
+      "name": "GiGOららぽーと柏の葉",
       "prefecture": "千葉県",
       "address": "柏市若柴175 ららぽｰと柏の葉店3F",
       "latitude": 35.893845,
@@ -73426,9 +73426,9 @@
     },
     {
       "id": "568",
-      "name": "セガワールド葛西",
+      "name": "GiGOアリオ葛西",
       "prefecture": "東京都",
-      "address": "江戸川区東葛西9-3-3 イトーヨーカドー3F",
+      "address": "江戸川区東葛西9-3-3 アリオ3F",
       "latitude": 35.651932,
       "longitude": 139.883049,
       "shopGroup": "1"
@@ -75675,6 +75675,15 @@
       "shopGroup": "1"
     },
     {
+      "id": "1612",
+      "name": "アピタ飯田",
+      "prefecture": "長野県",
+      "address": "長野県飯田市鼎名古熊2461番地",
+      "latitude": 35.500135,
+      "longitude": 137.829937,
+      "shopGroup": "1"
+    },
+    {
       "id": "1589",
       "name": "ヤマダデンキテックランドNew佐久本店",
       "prefecture": "長野県",
@@ -75694,7 +75703,7 @@
     },
     {
       "id": "1493",
-      "name": "セガワールド豊科",
+      "name": "GiGO豊科",
       "prefecture": "長野県",
       "address": "安曇野市豊科南穂高１１１５",
       "latitude": 36.303113,
@@ -75753,15 +75762,6 @@
       "address": "松本市中央4-9-51 ｲｵﾝｽﾀｲﾙ松本店内3F",
       "latitude": 36.233878,
       "longitude": 137.978978,
-      "shopGroup": "1"
-    },
-    {
-      "id": "703",
-      "name": "タイトーステーション アイシティ21松本",
-      "prefecture": "長野県",
-      "address": "東筑摩郡山形村7977 ｱｲｼﾃｨ21内",
-      "latitude": 36.184412,
-      "longitude": 137.892633,
       "shopGroup": "1"
     },
     {
@@ -75888,15 +75888,6 @@
       "address": "伊那市西町5093",
       "latitude": 35.833764,
       "longitude": 137.950896,
-      "shopGroup": "1"
-    },
-    {
-      "id": "269",
-      "name": "アピタ飯田店ゲームコーナー",
-      "prefecture": "長野県",
-      "address": "飯田市鼎名古熊2461ｱﾋﾟﾀ飯田店",
-      "latitude": 35.500069,
-      "longitude": 137.829739,
       "shopGroup": "1"
     },
     {
@@ -77143,7 +77134,7 @@
     },
     {
       "id": "468",
-      "name": "カラフルパークイオン有松",
+      "name": "カラフルパーク有松",
       "prefecture": "愛知県",
       "address": "名古屋市緑区鳴海町字有松裏200番地 ｲｵﾝﾀｳﾝ有松1F",
       "latitude": 35.067436,
@@ -77746,7 +77737,7 @@
     },
     {
       "id": "164",
-      "name": "NICOPAイオン津",
+      "name": "NICOPA & nico groundイオン津",
       "prefecture": "三重県",
       "address": "津市桜橋3-446 ｲｵﾝ津店2F",
       "latitude": 34.736742,
@@ -77755,7 +77746,7 @@
     },
     {
       "id": "163",
-      "name": "NICOPAイオン伊勢",
+      "name": "NICOPA 伊勢",
       "prefecture": "三重県",
       "address": "伊勢市楠部町乙160 ｲｵﾝ伊勢店",
       "latitude": 34.478178,
@@ -79339,7 +79330,7 @@
     },
     {
       "id": "469",
-      "name": "カリヨンパークイオン伊丹昆陽",
+      "name": "NICOPAイオンモール伊丹昆陽",
       "prefecture": "兵庫県",
       "address": "伊丹市池尻4丁目1-1 ｲｵﾝ伊丹昆陽SC内4F",
       "latitude": 34.784489,
