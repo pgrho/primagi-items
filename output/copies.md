@@ -71,6 +71,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/516.png "クロミだいすき")|516|1|6|コーデでゲット|クロミだいすき|「クロミだいすきコーデ」を10かいきる|https://cdn.primagi.jp/assets/images/copy/516.png|
 |![](https://cdn.primagi.jp/assets/images/copy/521.png "やってみなくちゃわからない！わからなかったらやってみよう！")|521|2|4|コーデでゲット|やってみなくちゃわからない！わからなかったらやってみよう！|「スイートハニーキラッとコーデ」を10かいきる|https://cdn.primagi.jp/assets/images/copy/521.png|
 |![](https://cdn.primagi.jp/assets/images/copy/524.png "ハピなる♪")|524|2|5|コーデでゲット|ハピなる♪|「セブンスコーデラブリードレス」を10かいきる|https://cdn.primagi.jp/assets/images/copy/524.png|
+|![](https://cdn.primagi.jp/assets/images/copy/528.png "プリズムのきらめき！")|528|2|7|コーデでゲット|プリズムのきらめき！|「セブンスコーデレディアントレインボー」を10かいきる|https://cdn.primagi.jp/assets/images/copy/528.png|
 ## リズムゲームでゲット
 
 ||ID|年|章|カテゴリー|名前|取得条件|画像|
@@ -155,6 +156,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/430.png "プリマジミュージカル！")|430|2|6|リズムゲームでゲット|プリマジミュージカル！|「ぱたのとあまねのプリマジミュージカル！」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/430.png|
 |![](https://cdn.primagi.jp/assets/images/copy/431.png "タテジマNow playing")|431|2|6|リズムゲームでゲット|タテジマNow playing|「タテジマNow playing」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/431.png|
 |![](https://cdn.primagi.jp/assets/images/copy/432.png "ようこそ！プリマジミュージック・アワー")|432|2|7|リズムゲームでゲット|ようこそ！プリマジミュージック・アワー|「ようこそ！プリマジミュージック・アワー」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/432.png|
+|![](https://cdn.primagi.jp/assets/images/copy/433.png "gift")|433|2|7|リズムゲームでゲット|gift|「gift」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/433.png|
 ## マイキャラメイクでゲット
 
 ||ID|年|章|カテゴリー|名前|取得条件|画像|
