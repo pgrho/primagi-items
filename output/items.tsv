@@ -2595,71 +2595,87 @@
 2025	ジューンブライドホワイトタキシード	SPCW10870_T01A	3	4	11	2	500	1	13	PM2-3-206	18	0	0	めちゃマジ注目スペシャルコーデ	131	False	True	こんしゅうのみんなでどっちでSHOW！ ジューンブライド！じゅんぱくコーデならどっち？	True			SR	ライブ	ワンピ	LOVELY MELODY	しろ	ハート
 2026	ジューンブライドホワイトタキシード	SPCW10870_B01A	3	4	11	2	500	3	2	PM2-3-207	18	0	0		131	False	False		True			SR	ライブ	シューズ	LOVELY MELODY	しろ	ラブリー
 2027	ジューンブライドホワイトタキシード	SPCW10870_P01A	3	4	11	2	450	4	20	PM2-3-208	18	0	0		131	False	False		True			SR	ライブ	アクセ	LOVELY MELODY	あお	ガーリー
-2028	ジューンブライドホワイトタキシード	SPCW10870_I01A	3	4	6	2	450	5	6	PM2-3-209	18	0	0		131	False	False		True			OPR	ライブ	トップス	LOVELY MELODY	みずいろ	デジタル
-2029	ジューンブライドブルーTシャツ	SPCW10911_T01A	1	1	8	1	400	1	9	PM2-3-210	18	0	0	Tシャツ	132	True	False	Tシャツショップ どっちでSHOWに投票する	True	13		OPR	ライブ	ボトムス	LOVELY MELODY	みずいろ	ラブリー
-20607	しっこくのみょうじょうTシャツ	SPCW10932_T01A	1	8	10	1	400	1	13	T-029	19	0	0	Tシャツ	133	True	False	プレミアムプラン2023年7月	True	14		OPR	ライブ	シューズ	LOVELY MELODY	みずいろ	スポーツ
-20608	ハッピーバースデー7！	SPCW10896_T01A	1	8	2	1	400	1	14	T-030	19	0	0	Tシャツ	134	True	False	プレミアムプラン2023年7月お誕生日	True	14		OPR	ライブ	アクセ	LOVELY MELODY	みずいろ	ガーリー
-2030	ジューンブライドブルーレディ	SPCW10873_T01A	3	1	8	2	500	1	8	PM2-3-211	18	0	0	めちゃマジ注目スペシャルコーデ	135	False	True	こんしゅうのみんなでどっちでSHOW！ おいろなおし！ブルーできめるならどっち？	True			OPR	ライブ	トップス	VIVID STAR	みどり	ゴシック
-2031	ジューンブライドブルーレディ	SPCW10873_B01A	3	1	8	2	500	3	16	PM2-3-212	18	0	0		135	False	False		True			OPR	ライブ	ボトムス	VIVID STAR	みどり	フラワー
-2032	ジューンブライドブルーレディ	SPCW10873_P01A	3	1	8	2	450	4	2	PM2-3-213	18	0	0		135	False	False		True			OPR	ライブ	シューズ	VIVID STAR	みどり	ダンス
-2033	ジューンブライドブルーレディ	SPCW10873_I01A	3	1	8	2	450	5	20	PM2-3-214	18	0	0		135	False	False		True			OPR	ライブ	アクセ	VIVID STAR	みどり	エレガント
-2034	ジューンブライドブルータキシード	SPCW10872_T01A	3	4	8	2	500	1	9	PM2-3-215	18	0	0	めちゃマジ注目スペシャルコーデ	136	False	True	こんしゅうのみんなでどっちでSHOW！ おいろなおし！ブルーできめるならどっち？	True			OPR	ライブ	トップス	Cherry Sugar	きいろ	ハート
-2035	ジューンブライドブルータキシード	SPCW10872_B01A	3	4	8	2	500	3	11	PM2-3-216	18	0	0		136	False	False		True			OPR	ライブ	ボトムス	Cherry Sugar	きいろ	キュート
-2036	ジューンブライドブルータキシード	SPCW10872_P01A	3	4	8	2	450	4	15	PM2-3-217	18	0	0		136	False	False		True			OPR	ライブ	シューズ	Cherry Sugar	きいろ	リボン
-2037	ジューンブライドブルータキシード	SPCW10872_I01A	3	4	8	2	450	5	8	PM2-3-218	18	0	0		136	False	False		True			OPR	ライブ	アクセ	Cherry Sugar	きいろ	クール
-2038	あまねVSぱたのTシャツ	SPCW10913_T01A	1	4	2	1	400	1	6	PM2-3-219	18	0	0	Tシャツ	137	True	False	Tシャツショップ どっちでSHOWに投票する	True	15		UR	ライブ	ワンピ	Princess Magic	しろ	ガーリー
-2039	ブリティッシュジェントルあまね	SPCW10876_T01A	3	4	6	2	500	1	20	PM2-3-220	18	0	0	めちゃマジ注目スペシャルコーデ	138	False	True	こんしゅうのみんなでどっちでSHOW！ かれいなるプリマジスタたいけつ！いちばんかがやいているのはどっち？	True			UR	ライブ	シューズ	Princess Magic	ピンク	ジュエル
-2040	ブリティッシュジェントルあまね	SPCW10876_B01A	3	4	11	2	500	3	10	PM2-3-221	18	0	0		138	False	False		True			UR	ライブ	アクセ	Princess Magic	ゴールド	フラワー
-2041	ブリティッシュジェントルあまね	SPCW10876_P01A	3	4	6	2	450	4	5	PM2-3-222	18	0	0		138	False	False		True			UR	ライブ	トップス	Princess Magic	みどり	ポップ
-2042	ブリティッシュジェントルあまね	SPCW10876_I01A	3	4	2	2	450	5	13	PM2-3-223	18	0	0		138	False	False		True			UR	ライブ	ボトムス	Princess Magic	ピンク	スター
-2043	ブリティッシュジェントルぱたの	SPCW10877_T01A	3	4	3	2	500	1	15	PM2-3-224	18	0	0	めちゃマジ注目スペシャルコーデ	139	False	True	こんしゅうのみんなでどっちでSHOW！ かれいなるプリマジスタたいけつ！いちばんかがやいているのはどっち？	True			UR	ライブ	シューズ	Princess Magic	しろ	ガーリー
-2044	ブリティッシュジェントルぱたの	SPCW10877_B01A	3	4	2	2	500	3	13	PM2-3-225	18	0	0		139	False	False		True			UR	ライブ	アクセ	Princess Magic	ピンク	ダンス
-2045	ブリティッシュジェントルぱたの	SPCW10877_P01A	3	4	11	2	450	4	11	PM2-3-226	18	0	0		139	False	False		True			UR	ライブ	ワンピ	SHINING DIVA	ゴールド	ダンス
-2046	ブリティッシュジェントルぱたの	SPCW10877_I01A	3	4	11	2	450	5	5	PM2-3-227	18	0	0		139	False	False		True			UR	ライブ	シューズ	SHINING DIVA	ゴールド	クール
-2047	たなばたTシャツ	SPCW10907_T01A	1	9	3	1	400	1	16	PM2-3-228	18	0	0	Tシャツ	140	True	False	Tシャツショップ どっちでSHOWに投票する	True	16		UR	ライブ	アクセ	SHINING DIVA	ゴールド	エレガント
-2048	たなばたドリームピンク	SPCW10793_D01A	3	9	3	2	1000	2	3	PM2-3-229	18	0	0	めちゃマジ注目スペシャルコーデ	141	False	True	こんしゅうのみんなでどっちでSHOW！ ほしにねがいを！ゆめをかなえるならどっち？	True			UR	ライブ	トップス	LOVELY MELODY	むらさき	ガーリー
-2049	たなばたドリームピンク	SPCW10793_P01A	3	9	3	2	450	4	8	PM2-3-230	18	0	0		141	False	False		True			UR	ライブ	ボトムス	LOVELY MELODY	むらさき	エレガント
-2050	たなばたドリームピンク	SPCW10793_I01A	3	9	3	2	450	5	6	PM2-3-231	18	0	0		141	False	False		True			UR	ライブ	シューズ	LOVELY MELODY	むらさき	フラワー
-2051	たなばたドリームブルー	SPCW10795_D01A	3	9	7	2	1000	2	15	PM2-3-232	18	0	0	めちゃマジ注目スペシャルコーデ	142	False	True	こんしゅうのみんなでどっちでSHOW！ ほしにねがいを！ゆめをかなえるならどっち？	True			UR	ライブ	アクセ	LOVELY MELODY	むらさき	ジュエル
-2052	たなばたドリームブルー	SPCW10795_P01A	3	9	8	2	450	4	14	PM2-3-233	18	0	0		142	False	False		True			SR	ライブ	トップス	Radiant Abyss	みどり	ゴシック
-2053	たなばたドリームブルー	SPCW10795_I01A	3	9	7	2	450	5	3	PM2-3-234	18	0	0		142	False	False		True			SR	ライブ	ボトムス	Radiant Abyss	みどり	フラワー
-1981	クリスタル&めざめのひめめTシャツ	SPCW10926_T01A	1	9	11	1	400	1	14	PM2-3-235	18	0	0	Tシャツ	143	True	False	Tシャツショップ どっちでSHOWに投票する	True	18		SR	ライブ	シューズ	Radiant Abyss	みどり	ミステリアス
-1982	プリマジユニフォームクリスタルひめめ	SPCW10886_T01A	3	9	8	2	500	1	13	PM2-3-236	18	0	0	めちゃマジ注目スペシャルコーデ	144	False	True	こんしゅうのみんなでどっちでSHOW！ ひめめコーデフェスたいけつ！すきないろはどっち？	True			SR	ライブ	アクセ	Radiant Abyss	しろ	キュート
-1983	プリマジユニフォームクリスタルひめめ	SPCW10886_B01A	3	9	8	2	500	3	12	PM2-3-237	18	0	0		144	False	False		True			SR	ライブ	ワンピ	Princess Magic	しろ	ハート
-1984	プリマジユニフォームクリスタルひめめ	SPCW10886_P01A	3	9	8	2	450	4	8	PM2-3-238	18	0	0		144	False	False		True			SR	ライブ	シューズ	Princess Magic	しろ	ラブリー
-1985	プリマジユニフォームクリスタルひめめ	SPCW10886_I01A	3	9	9	2	450	5	6	PM2-3-239	18	0	0		144	False	False		True			SR	ライブ	アクセ	Princess Magic	ピンク	ミステリアス
-1986	プリマジユニフォームめざめのひめめ	SPCW10887_T01A	3	9	11	2	500	1	3	PM2-3-240	18	0	0	めちゃマジ注目スペシャルコーデ	145	False	True	こんしゅうのみんなでどっちでSHOW！ ひめめコーデフェスたいけつ！すきないろはどっち？	True			SR	ライブ	トップス	LOVELY MELODY	みずいろ	ガーリー
-1987	プリマジユニフォームめざめのひめめ	SPCW10887_B01A	3	9	5	2	500	3	21	PM2-3-241	18	0	0		145	False	False		True			SR	ライブ	ボトムス	LOVELY MELODY	みずいろ	リボン
-1988	プリマジユニフォームめざめのひめめ	SPCW10887_P01A	3	9	11	2	450	4	12	PM2-3-242	18	0	0		145	False	False		True			SR	ライブ	シューズ	LOVELY MELODY	しろ	ラブリー
-1989	プリマジユニフォームめざめのひめめ	SPCW10887_I01A	3	9	7	2	450	5	18	PM2-3-243	18	0	0		145	False	False		True			SR	ライブ	アクセ	LOVELY MELODY	みずいろ	ベーシック
-2061	フェアリーマーメイドTシャツ	SPCW10924_T01A	1	9	11	1	400	1	5	PM2-3-244	18	0	0	Tシャツ	146	True	False	Tシャツショップ どっちでSHOWに投票する	True	19		SR	ライブ	ワンピ	Cherry Sugar	ピンク	アニマル
-2062	フレッシュフェアリーネモフィラ	SPCW10884_T01A	3	9	7	3	600	1	15	PM2-3-245	18	0	0	めちゃマジ注目スペシャルコーデ	147	False	True	こんしゅうのみんなでどっちでSHOW！ プリンセスマジックのだいにんきコーデ！ほしいのはどっち？	True			SR	ライブ	シューズ	Cherry Sugar	ピンク	ポップ
-2063	フレッシュフェアリーネモフィラ	SPCW10884_B01A	3	9	7	3	600	3	20	PM2-3-246	18	0	0		147	False	False		True			SR	ライブ	アクセ	Cherry Sugar	ピンク	ハート
-2064	フレッシュフェアリーネモフィラ	SPCW10884_P01A	3	9	7	3	550	4	6	PM2-3-247	18	0	0		147	False	False		True			SR	ライブ	トップス	Radiant Abyss	くろ	クール
-2065	フレッシュフェアリーネモフィラ	SPCW10884_I01A	3	9	7	3	550	5	2	PM2-3-248	18	0	0		147	False	False		True			SR	ライブ	ボトムス	Radiant Abyss	あか	ハート
-2066	スプラッシュマーメイドブロッサム	SPCW10885_T01A	3	9	3	3	600	1	16	PM2-3-249	18	0	0	めちゃマジ注目スペシャルコーデ	148	False	True	こんしゅうのみんなでどっちでSHOW！ プリンセスマジックのだいにんきコーデ！ほしいのはどっち？	True			SR	ライブ	シューズ	Radiant Abyss	しろ	ゴシック
-2067	スプラッシュマーメイドブロッサム	SPCW10885_B01A	3	9	3	3	600	3	3	PM2-3-250	18	0	0		148	False	False		True			SR	ライブ	アクセ	Radiant Abyss	あか	ダンス
-2068	スプラッシュマーメイドブロッサム	SPCW10885_P01A	3	9	3	3	550	4	9	PM2-3-251	18	0	0		148	False	False		True			SR	ライブ	トップス	ELECTRO REMIX	みずいろ	キュート
-2069	スプラッシュマーメイドブロッサム	SPCW10885_I01A	3	9	11	3	550	5	5	PM2-3-252	18	0	0		148	False	False		True			SR	ライブ	ボトムス	ELECTRO REMIX	みずいろ	ダンス
-2085	エターナルレヴューTシャツ	SPCW10573_T01A	1	4	11	1	400	1	20	PM2-3-287	18	0	0	Tシャツ	155	True	False	プリマジスタジオライブ2023年7月 期間中（～7月19日（水））にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第6章のコーデがラインナップされています	True	17		SR	ライブ	シューズ	ELECTRO REMIX	みずいろ	スポーツ
-20563	ラグジュアリースワンピンク	SPCW10917_T01A	3	9	3	2	500	1	8	P-375	19	0	0	プロモ	150	True	True	ちゃお7月号・ぷっちぐみ8月号スペシャルプリマジ	True	7		SR	ライブ	アクセ	ELECTRO REMIX	みずいろ	ポップ
-20564	ラグジュアリースワンピンク	SPCW10917_B01A	3	9	3	2	500	3	19	P-376	19	0	0		150	True	False		True			SR	ライブ	トップス	Eternal Revue	オレンジ	エレガント
-20565	ラグジュアリースワンピンク	SPCW10917_P01A	3	9	3	2	450	4	5	P-377	19	0	0		150	True	False		True			SR	ライブ	ボトムス	Eternal Revue	オレンジ	フラワー
-20566	ラグジュアリースワンピンク	SPCW10917_I01A	3	9	13	2	450	5	10	P-378	19	0	0		150	True	False		True			SR	ライブ	シューズ	Eternal Revue	オレンジ	ガーリー
-20636	ぺんぺんぺんぎんグリーン	SPCW10868_D01A	3	5	6	2	1000	2	12	P-416	19	0	0	プロモ	149	True	True	プリズムストーンカフェ　DUOコーデシリーズ特典	True	5		SR	ライブ	アクセ	Eternal Revue	オレンジ	クール
-20637	ぺんぺんぺんぎんグリーン	SPCW10868_P01A	3	5	5	2	450	4	9	P-417	19	0	0		149	True	False		True			R	スタイリッシュ	トップス	LOVELY MELODY	ピンク	リボン
-20638	ぺんぺんぺんぎんグリーン	SPCW10868_I01A	3	5	6	2	450	5	19	P-418	19	0	0		149	True	False		True			R	スタイリッシュ	ボトムス	LOVELY MELODY	ピンク	ラブリー
-20639	マーチングブラック	SPCW10867_T01A	3	4	10	2	500	1	9	P-419	19	0	0	プロモ	153	True	True	プリズムストーンカフェ　DUOコーデシリーズ特典	True	9		R	スタイリッシュ	シューズ	LOVELY MELODY	ピンク	ゴシック
-20640	マーチングブラック	SPCW10867_B01A	3	4	10	2	500	3	15	P-420	19	0	0		153	True	False		True			R	スタイリッシュ	アクセ	LOVELY MELODY	ピンク	チェック
-20641	マーチングブラック	SPCW10867_P01A	3	4	10	2	450	4	13	P-421	19	0	0		153	True	False		True			R	カジュアル	ワンピ	Radiant Abyss	あお	アニマル
-20642	マーチングブラック	SPCW10867_I01A	3	4	10	2	450	5	20	P-422	19	0	0		153	True	False		True			R	カジュアル	シューズ	Radiant Abyss	あお	クール
-20648	プリマジミュージカルあまねレッド	SPCW10934_T01A	3	4	2	2	500	1	9	P-431	19	0	0	プロモ	151	True	True	プリズムストーンカフェ DUOコーデシリーズ特典	True	8		R	カジュアル	アクセ	Radiant Abyss	くろ	ゴシック
-20649	プリマジミュージカルあまねレッド	SPCW10934_B01A	3	4	1	2	500	3	20	P-432	19	0	0		151	True	False		True			R	カジュアル	トップス	Cherry Sugar	きいろ	アニマル
-20650	プリマジミュージカルあまねレッド	SPCW10934_P01A	3	4	2	2	450	4	13	P-433	19	0	0		151	True	False		True			R	カジュアル	ボトムス	Cherry Sugar	きいろ	ポップ
-20651	プリマジミュージカルあまねレッド	SPCW10934_I01A	3	4	1	2	450	5	5	P-434	19	0	0		151	True	False		True			R	カジュアル	シューズ	Cherry Sugar	むらさき	リボン
-2096	マナマナたちさいこう3150バイブス	SPCW10880_D01A	3	1	11	2	1000	2	4	PM2-3-362	18	0	0	プレミアムチャンス	154	True	True	プレミアムプランせんようプリマジ　マナマナたちさいこう3150バイブスチャンス	True	3		R	カジュアル	アクセ	Cherry Sugar	きいろ	ガーリー
-2097	マナマナたちさいこう3150バイブス	SPCW10880_P01A	3	1	11	2	450	4	16	PM2-3-363	18	0	0		154	True	False		True			R	カジュアル	トップス	SHINING DIVA	みどり	スポーツ
-2098	マナマナたちさいこう3150バイブス	SPCW10880_I01A	3	1	8	2	450	5	5	PM2-3-364	18	0	0		154	True	False		True			R	カジュアル	ボトムス	SHINING DIVA	くろ	キュート
+2028	ジューンブライドホワイトタキシード	SPCW10870_I01A	3	4	6	2	450	5	6	PM2-3-209	18	0	0		131	False	False		True			R	スタイリッシュ	トップス	VIVID STAR	オレンジ	ポップ
+2029	ジューンブライドブルーTシャツ	SPCW10911_T01A	1	1	8	1	400	1	9	PM2-3-210	18	0	0	Tシャツ	132	True	False	Tシャツショップ どっちでSHOWに投票する	True	13		R	スタイリッシュ	ボトムス	VIVID STAR	むらさき	スポーツ
+20607	しっこくのみょうじょうTシャツ	SPCW10932_T01A	1	8	10	1	400	1	13	T-029	19	0	0	Tシャツ	133	True	False	プレミアムプラン2023年7月	True	14		R	スタイリッシュ	シューズ	VIVID STAR	ピンク	ダンス
+20608	ハッピーバースデー7！	SPCW10896_T01A	1	8	2	1	400	1	14	T-030	19	0	0	Tシャツ	134	True	False	プレミアムプラン2023年7月お誕生日	True	14		R	スタイリッシュ	アクセ	VIVID STAR	ピンク	チェック
+2030	ジューンブライドブルーレディ	SPCW10873_T01A	3	1	8	2	500	1	8	PM2-3-211	18	0	0	めちゃマジ注目スペシャルコーデ	135	False	True	こんしゅうのみんなでどっちでSHOW！ おいろなおし！ブルーできめるならどっち？	True			R	スタイリッシュ	トップス	Eternal Revue	しろ	エレガント
+2031	ジューンブライドブルーレディ	SPCW10873_B01A	3	1	8	2	500	3	16	PM2-3-212	18	0	0		135	False	False		True			R	スタイリッシュ	ボトムス	Eternal Revue	あお	ベーシック
+2032	ジューンブライドブルーレディ	SPCW10873_P01A	3	1	8	2	450	4	2	PM2-3-213	18	0	0		135	False	False		True			R	スタイリッシュ	シューズ	Eternal Revue	しろ	ダンス
+2033	ジューンブライドブルーレディ	SPCW10873_I01A	3	1	8	2	450	5	20	PM2-3-214	18	0	0		135	False	False		True			R	スタイリッシュ	アクセ	Eternal Revue	あお	ゴシック
+2034	ジューンブライドブルータキシード	SPCW10872_T01A	3	4	8	2	500	1	9	PM2-3-215	18	0	0	めちゃマジ注目スペシャルコーデ	136	False	True	こんしゅうのみんなでどっちでSHOW！ おいろなおし！ブルーできめるならどっち？	True			R	スタイリッシュ	トップス	ELECTRO REMIX	きいろ	デジタル
+2035	ジューンブライドブルータキシード	SPCW10872_B01A	3	4	8	2	500	3	11	PM2-3-216	18	0	0		136	False	False		True			R	スタイリッシュ	ボトムス	ELECTRO REMIX	みどり	キュート
+2036	ジューンブライドブルータキシード	SPCW10872_P01A	3	4	8	2	450	4	15	PM2-3-217	18	0	0		136	False	False		True			R	スタイリッシュ	シューズ	ELECTRO REMIX	みどり	クール
+2037	ジューンブライドブルータキシード	SPCW10872_I01A	3	4	8	2	450	5	8	PM2-3-218	18	0	0		136	False	False		True			R	スタイリッシュ	アクセ	ELECTRO REMIX	みどり	スポーツ
+2038	あまねVSぱたのTシャツ	SPCW10913_T01A	1	4	2	1	400	1	6	PM2-3-219	18	0	0	Tシャツ	137	True	False	Tシャツショップ どっちでSHOWに投票する	True	15		R	スタイリッシュ	トップス	SHINING DIVA	きいろ	ダンス
+2039	ブリティッシュジェントルあまね	SPCW10876_T01A	3	4	6	2	500	1	20	PM2-3-220	18	0	0	めちゃマジ注目スペシャルコーデ	138	False	True	こんしゅうのみんなでどっちでSHOW！ かれいなるプリマジスタたいけつ！いちばんかがやいているのはどっち？	True			R	スタイリッシュ	ボトムス	SHINING DIVA	あか	エレガント
+2040	ブリティッシュジェントルあまね	SPCW10876_B01A	3	4	11	2	500	3	10	PM2-3-221	18	0	0		138	False	False		True			R	スタイリッシュ	シューズ	SHINING DIVA	きいろ	ゴシック
+2041	ブリティッシュジェントルあまね	SPCW10876_P01A	3	4	6	2	450	4	5	PM2-3-222	18	0	0		138	False	False		True			R	スタイリッシュ	アクセ	SHINING DIVA	あか	ミステリアス
+2042	ブリティッシュジェントルあまね	SPCW10876_I01A	3	4	2	2	450	5	13	PM2-3-223	18	0	0		138	False	False		True			OPR	ライブ	トップス	LOVELY MELODY	みずいろ	デジタル
+2043	ブリティッシュジェントルぱたの	SPCW10877_T01A	3	4	3	2	500	1	15	PM2-3-224	18	0	0	めちゃマジ注目スペシャルコーデ	139	False	True	こんしゅうのみんなでどっちでSHOW！ かれいなるプリマジスタたいけつ！いちばんかがやいているのはどっち？	True			OPR	ライブ	ボトムス	LOVELY MELODY	みずいろ	ラブリー
+2044	ブリティッシュジェントルぱたの	SPCW10877_B01A	3	4	2	2	500	3	13	PM2-3-225	18	0	0		139	False	False		True			OPR	ライブ	シューズ	LOVELY MELODY	みずいろ	スポーツ
+2045	ブリティッシュジェントルぱたの	SPCW10877_P01A	3	4	11	2	450	4	11	PM2-3-226	18	0	0		139	False	False		True			OPR	ライブ	アクセ	LOVELY MELODY	みずいろ	ガーリー
+2046	ブリティッシュジェントルぱたの	SPCW10877_I01A	3	4	11	2	450	5	5	PM2-3-227	18	0	0		139	False	False		True			OPR	ライブ	トップス	VIVID STAR	みどり	ゴシック
+2047	たなばたTシャツ	SPCW10907_T01A	1	9	3	1	400	1	16	PM2-3-228	18	0	0	Tシャツ	140	True	False	Tシャツショップ どっちでSHOWに投票する	True	16		OPR	ライブ	ボトムス	VIVID STAR	みどり	フラワー
+2048	たなばたドリームピンク	SPCW10793_D01A	3	9	3	2	1000	2	3	PM2-3-229	18	0	0	めちゃマジ注目スペシャルコーデ	141	False	True	こんしゅうのみんなでどっちでSHOW！ ほしにねがいを！ゆめをかなえるならどっち？	True			OPR	ライブ	シューズ	VIVID STAR	みどり	ダンス
+2049	たなばたドリームピンク	SPCW10793_P01A	3	9	3	2	450	4	8	PM2-3-230	18	0	0		141	False	False		True			OPR	ライブ	アクセ	VIVID STAR	みどり	エレガント
+2050	たなばたドリームピンク	SPCW10793_I01A	3	9	3	2	450	5	6	PM2-3-231	18	0	0		141	False	False		True			OPR	ライブ	トップス	Cherry Sugar	きいろ	ハート
+2051	たなばたドリームブルー	SPCW10795_D01A	3	9	7	2	1000	2	15	PM2-3-232	18	0	0	めちゃマジ注目スペシャルコーデ	142	False	True	こんしゅうのみんなでどっちでSHOW！ ほしにねがいを！ゆめをかなえるならどっち？	True			OPR	ライブ	ボトムス	Cherry Sugar	きいろ	キュート
+2052	たなばたドリームブルー	SPCW10795_P01A	3	9	8	2	450	4	14	PM2-3-233	18	0	0		142	False	False		True			OPR	ライブ	シューズ	Cherry Sugar	きいろ	リボン
+2053	たなばたドリームブルー	SPCW10795_I01A	3	9	7	2	450	5	3	PM2-3-234	18	0	0		142	False	False		True			OPR	ライブ	アクセ	Cherry Sugar	きいろ	クール
+1981	クリスタル&めざめのひめめTシャツ	SPCW10926_T01A	1	9	11	1	400	1	14	PM2-3-235	18	0	0	Tシャツ	143	True	False	Tシャツショップ どっちでSHOWに投票する	True	18		UR	ライブ	ワンピ	Princess Magic	しろ	ガーリー
+1982	プリマジユニフォームクリスタルひめめ	SPCW10886_T01A	3	9	8	2	500	1	13	PM2-3-236	18	0	0	めちゃマジ注目スペシャルコーデ	144	False	True	こんしゅうのみんなでどっちでSHOW！ ひめめコーデフェスたいけつ！すきないろはどっち？	True			UR	ライブ	シューズ	Princess Magic	ピンク	ジュエル
+1983	プリマジユニフォームクリスタルひめめ	SPCW10886_B01A	3	9	8	2	500	3	12	PM2-3-237	18	0	0		144	False	False		True			UR	ライブ	アクセ	Princess Magic	ゴールド	フラワー
+1984	プリマジユニフォームクリスタルひめめ	SPCW10886_P01A	3	9	8	2	450	4	8	PM2-3-238	18	0	0		144	False	False		True			UR	ライブ	トップス	Princess Magic	みどり	ポップ
+1985	プリマジユニフォームクリスタルひめめ	SPCW10886_I01A	3	9	9	2	450	5	6	PM2-3-239	18	0	0		144	False	False		True			UR	ライブ	ボトムス	Princess Magic	ピンク	スター
+1986	プリマジユニフォームめざめのひめめ	SPCW10887_T01A	3	9	11	2	500	1	3	PM2-3-240	18	0	0	めちゃマジ注目スペシャルコーデ	145	False	True	こんしゅうのみんなでどっちでSHOW！ ひめめコーデフェスたいけつ！すきないろはどっち？	True			UR	ライブ	シューズ	Princess Magic	しろ	ガーリー
+1987	プリマジユニフォームめざめのひめめ	SPCW10887_B01A	3	9	5	2	500	3	21	PM2-3-241	18	0	0		145	False	False		True			UR	ライブ	アクセ	Princess Magic	ピンク	ダンス
+1988	プリマジユニフォームめざめのひめめ	SPCW10887_P01A	3	9	11	2	450	4	12	PM2-3-242	18	0	0		145	False	False		True			UR	ライブ	ワンピ	SHINING DIVA	ゴールド	ダンス
+1989	プリマジユニフォームめざめのひめめ	SPCW10887_I01A	3	9	7	2	450	5	18	PM2-3-243	18	0	0		145	False	False		True			UR	ライブ	シューズ	SHINING DIVA	ゴールド	クール
+2061	フェアリーマーメイドTシャツ	SPCW10924_T01A	1	9	11	1	400	1	5	PM2-3-244	18	0	0	Tシャツ	146	True	False	Tシャツショップ どっちでSHOWに投票する	True	19		UR	ライブ	アクセ	SHINING DIVA	ゴールド	エレガント
+2062	フレッシュフェアリーネモフィラ	SPCW10884_T01A	3	9	7	3	600	1	15	PM2-3-245	18	0	0	めちゃマジ注目スペシャルコーデ	147	False	True	こんしゅうのみんなでどっちでSHOW！ プリンセスマジックのだいにんきコーデ！ほしいのはどっち？	True			UR	ライブ	トップス	LOVELY MELODY	むらさき	ガーリー
+2063	フレッシュフェアリーネモフィラ	SPCW10884_B01A	3	9	7	3	600	3	20	PM2-3-246	18	0	0		147	False	False		True			UR	ライブ	ボトムス	LOVELY MELODY	むらさき	エレガント
+2064	フレッシュフェアリーネモフィラ	SPCW10884_P01A	3	9	7	3	550	4	6	PM2-3-247	18	0	0		147	False	False		True			UR	ライブ	シューズ	LOVELY MELODY	むらさき	フラワー
+2065	フレッシュフェアリーネモフィラ	SPCW10884_I01A	3	9	7	3	550	5	2	PM2-3-248	18	0	0		147	False	False		True			UR	ライブ	アクセ	LOVELY MELODY	むらさき	ジュエル
+2066	スプラッシュマーメイドブロッサム	SPCW10885_T01A	3	9	3	3	600	1	16	PM2-3-249	18	0	0	めちゃマジ注目スペシャルコーデ	148	False	True	こんしゅうのみんなでどっちでSHOW！ プリンセスマジックのだいにんきコーデ！ほしいのはどっち？	True			SR	ライブ	トップス	Radiant Abyss	みどり	ゴシック
+2067	スプラッシュマーメイドブロッサム	SPCW10885_B01A	3	9	3	3	600	3	3	PM2-3-250	18	0	0		148	False	False		True			SR	ライブ	ボトムス	Radiant Abyss	みどり	フラワー
+2068	スプラッシュマーメイドブロッサム	SPCW10885_P01A	3	9	3	3	550	4	9	PM2-3-251	18	0	0		148	False	False		True			SR	ライブ	シューズ	Radiant Abyss	みどり	ミステリアス
+2069	スプラッシュマーメイドブロッサム	SPCW10885_I01A	3	9	11	3	550	5	5	PM2-3-252	18	0	0		148	False	False		True			SR	ライブ	アクセ	Radiant Abyss	しろ	キュート
+2085	エターナルレヴューTシャツ	SPCW10573_T01A	1	4	11	1	400	1	20	PM2-3-287	18	0	0	Tシャツ	155	True	False	プリマジスタジオライブ2023年7月 期間中（～7月19日（水））にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第6章のコーデがラインナップされています	True	17		SR	ライブ	ワンピ	Princess Magic	しろ	ハート
+20563	ラグジュアリースワンピンク	SPCW10917_T01A	3	9	3	2	500	1	8	P-375	19	0	0	プロモ	150	True	True	ちゃお7月号・ぷっちぐみ8月号スペシャルプリマジ	True	7		SR	ライブ	シューズ	Princess Magic	しろ	ラブリー
+20564	ラグジュアリースワンピンク	SPCW10917_B01A	3	9	3	2	500	3	19	P-376	19	0	0		150	True	False		True			SR	ライブ	アクセ	Princess Magic	ピンク	ミステリアス
+20565	ラグジュアリースワンピンク	SPCW10917_P01A	3	9	3	2	450	4	5	P-377	19	0	0		150	True	False		True			SR	ライブ	トップス	LOVELY MELODY	みずいろ	ガーリー
+20566	ラグジュアリースワンピンク	SPCW10917_I01A	3	9	13	2	450	5	10	P-378	19	0	0		150	True	False		True			SR	ライブ	ボトムス	LOVELY MELODY	みずいろ	リボン
+20636	ぺんぺんぺんぎんグリーン	SPCW10868_D01A	3	5	6	2	1000	2	12	P-416	19	0	0	プロモ	149	True	True	プリズムストーンカフェ　DUOコーデシリーズ特典	True	5		SR	ライブ	シューズ	LOVELY MELODY	しろ	ラブリー
+20637	ぺんぺんぺんぎんグリーン	SPCW10868_P01A	3	5	5	2	450	4	9	P-417	19	0	0		149	True	False		True			SR	ライブ	アクセ	LOVELY MELODY	みずいろ	ベーシック
+20638	ぺんぺんぺんぎんグリーン	SPCW10868_I01A	3	5	6	2	450	5	19	P-418	19	0	0		149	True	False		True			SR	ライブ	ワンピ	Cherry Sugar	ピンク	アニマル
+20639	マーチングブラック	SPCW10867_T01A	3	4	10	2	500	1	9	P-419	19	0	0	プロモ	153	True	True	プリズムストーンカフェ　DUOコーデシリーズ特典	True	9		SR	ライブ	シューズ	Cherry Sugar	ピンク	ポップ
+20640	マーチングブラック	SPCW10867_B01A	3	4	10	2	500	3	15	P-420	19	0	0		153	True	False		True			SR	ライブ	アクセ	Cherry Sugar	ピンク	ハート
+20641	マーチングブラック	SPCW10867_P01A	3	4	10	2	450	4	13	P-421	19	0	0		153	True	False		True			SR	ライブ	トップス	Radiant Abyss	くろ	クール
+20642	マーチングブラック	SPCW10867_I01A	3	4	10	2	450	5	20	P-422	19	0	0		153	True	False		True			SR	ライブ	ボトムス	Radiant Abyss	あか	ハート
+20648	プリマジミュージカルあまねレッド	SPCW10934_T01A	3	4	2	2	500	1	9	P-431	19	0	0	プロモ	151	True	True	プリズムストーンカフェ DUOコーデシリーズ特典	True	8		SR	ライブ	シューズ	Radiant Abyss	しろ	ゴシック
+20649	プリマジミュージカルあまねレッド	SPCW10934_B01A	3	4	1	2	500	3	20	P-432	19	0	0		151	True	False		True			SR	ライブ	アクセ	Radiant Abyss	あか	ダンス
+20650	プリマジミュージカルあまねレッド	SPCW10934_P01A	3	4	2	2	450	4	13	P-433	19	0	0		151	True	False		True			SR	ライブ	トップス	ELECTRO REMIX	みずいろ	キュート
+20651	プリマジミュージカルあまねレッド	SPCW10934_I01A	3	4	1	2	450	5	5	P-434	19	0	0		151	True	False		True			SR	ライブ	ボトムス	ELECTRO REMIX	みずいろ	ダンス
+2096	マナマナたちさいこう3150バイブス	SPCW10880_D01A	3	1	11	2	1000	2	4	PM2-3-362	18	0	0	プレミアムチャンス	154	True	True	プレミアムプランせんようプリマジ　マナマナたちさいこう3150バイブスチャンス	True	3		SR	ライブ	シューズ	ELECTRO REMIX	みずいろ	スポーツ
+2097	マナマナたちさいこう3150バイブス	SPCW10880_P01A	3	1	11	2	450	4	16	PM2-3-363	18	0	0		154	True	False		True			SR	ライブ	アクセ	ELECTRO REMIX	みずいろ	ポップ
+2098	マナマナたちさいこう3150バイブス	SPCW10880_I01A	3	1	8	2	450	5	5	PM2-3-364	18	0	0		154	True	False		True			SR	ライブ	トップス	Eternal Revue	オレンジ	エレガント
+1638	ビビッドスタースタイル	SPCW10707_T01A	2	2	4	1	400	1	14	PM2-2-281	20	0	24	期間限定	76	True	True	2023年8月10日（木）～30日（水）とうひょうありがとう！そうせんきょコーデオールスター	True	3		SR	ライブ	ボトムス	Eternal Revue	オレンジ	フラワー
+1639	ビビッドスタースタイル	SPCW10707_B01A	2	2	9	1	400	3	12	PM2-2-282	20	0	24		76	True	True		True			SR	ライブ	シューズ	Eternal Revue	オレンジ	ガーリー
+1640	ビビッドスタースタイル	SPCW10707_P01A	2	2	3	1	350	4	13	PM2-2-283	20	0	24		76	True	True		True			SR	ライブ	アクセ	Eternal Revue	オレンジ	クール
+1641	ビビッドスタースタイル	SPCW10707_I01A	2	2	3	1	350	5	7	PM2-2-284	20	0	24		76	True	True		True			R	スタイリッシュ	トップス	LOVELY MELODY	ピンク	リボン
+1650	エターナルレヴュースタイル	SPCW10710_T01A	2	4	11	1	400	1	20	PM2-2-289	20	0	24	期間限定	77	True	True	2023年8月10日（木）～30日（水）とうひょうありがとう！そうせんきょコーデオールスター	True	3		R	スタイリッシュ	ボトムス	LOVELY MELODY	ピンク	ラブリー
+1651	エターナルレヴュースタイル	SPCW10710_B01A	2	4	8	1	400	3	18	PM2-2-290	20	0	24		77	True	True		True			R	スタイリッシュ	シューズ	LOVELY MELODY	ピンク	ゴシック
+1652	エターナルレヴュースタイル	SPCW10710_P01A	2	4	11	1	350	4	13	PM2-2-291	20	0	24		77	True	True		True			R	スタイリッシュ	アクセ	LOVELY MELODY	ピンク	チェック
+1653	エターナルレヴュースタイル	SPCW10710_I01A	2	4	8	1	350	5	10	PM2-2-292	20	0	24		77	True	True		True			R	カジュアル	ワンピ	Radiant Abyss	あお	アニマル
+1658	エレクトロリミックススタイル	SPCW10712_T01A	2	5	5	1	400	1	21	PM2-2-297	20	0	24	期間限定	78	True	True	2023年8月10日（木）～30日（水）とうひょうありがとう！そうせんきょコーデオールスター	True	3		R	カジュアル	シューズ	Radiant Abyss	あお	クール
+1659	エレクトロリミックススタイル	SPCW10712_B01A	2	5	6	1	400	3	6	PM2-2-298	20	0	24		78	True	True		True			R	カジュアル	アクセ	Radiant Abyss	くろ	ゴシック
+1660	エレクトロリミックススタイル	SPCW10712_P01A	2	5	6	1	350	4	9	PM2-2-299	20	0	24		78	True	True		True			R	カジュアル	トップス	Cherry Sugar	きいろ	アニマル
+1661	エレクトロリミックススタイル	SPCW10712_I01A	2	5	6	1	350	5	12	PM2-2-300	20	0	24		78	True	True		True			R	カジュアル	ボトムス	Cherry Sugar	きいろ	ポップ
+1662	シャイニングディーバスタイル	SPCW10713_T01A	2	7	5	1	400	1	13	PM2-2-301	20	0	24	期間限定	79	True	True	2023年8月10日（木）～30日（水）とうひょうありがとう！そうせんきょコーデオールスター	True	3		R	カジュアル	シューズ	Cherry Sugar	むらさき	リボン
+1663	シャイニングディーバスタイル	SPCW10713_B01A	2	7	2	1	400	3	20	PM2-2-302	20	0	24		79	True	True		True			R	カジュアル	アクセ	Cherry Sugar	きいろ	ガーリー
+1664	シャイニングディーバスタイル	SPCW10713_P01A	2	7	5	1	350	4	10	PM2-2-303	20	0	24		79	True	True		True			R	カジュアル	トップス	SHINING DIVA	みどり	スポーツ
+1665	シャイニングディーバスタイル	SPCW10713_I01A	2	7	2	1	350	5	15	PM2-2-304	20	0	24		79	True	True		True			R	カジュアル	ボトムス	SHINING DIVA	くろ	キュート
 2099	テクノマジカルみゃむ	SPCW10977_T01A	3	1	7	6	700	1	21	PM2-4-250	20	0	0	おしゃれプリンセスレア	1	True	True	2023年7月20日（木）～8月9日（水）	True			R	カジュアル	シューズ	SHINING DIVA	ちゃ	ガーリー
 2100	テクノマジカルみゃむ	SPCW10977_B01A	3	1	7	6	700	3	16	PM2-4-251	20	0	0		1	True	True		True			R	カジュアル	アクセ	SHINING DIVA	みどり	ベーシック
 2101	テクノマジカルみゃむ	SPCW10977_P01A	3	1	7	6	650	4	12	PM2-4-252	20	0	0		1	True	True		True			R	カジュアル	トップス	ELECTRO REMIX	みどり	ポップ
@@ -2698,71 +2714,72 @@
 2210	ハッピーデニム	SPCW10931_P01A	3	1	11	2	450	4	16	PM2-4-024	20	0	0		10	True	True		True			SR	ライブ	ボトムス	PrismStone	しろ	ラブリー
 2211	ハッピーデニム	SPCW10931_I01A	3	1	7	2	450	5	18	PM2-4-025	20	0	0		10	True	True		True			SR	ライブ	シューズ	PrismStone	しろ	ダンス
 2212	ポッピンスウィム	SPCW10929_D01A	3	6	3	2	1000	2	19	PM2-4-026	20	0	0	スタジオ第7章コーデ	11	True	True	2023年7月20日（木）～8月30日（水）	True			SR	ライブ	アクセ	PrismStone	しろ	ゴシック
-2213	ポッピンスウィム	SPCW10929_P01A	3	6	3	2	450	4	14	PM2-4-027	20	0	0		11	True	True		True			SR	ライブ	ワンピ	PrismStone	みずいろ	アニマル
-2214	ポッピンスウィム	SPCW10929_I01A	3	6	3	2	450	5	4	PM2-4-028	20	0	0		11	True	True		True			SR	ライブ	シューズ	PrismStone	みずいろ	スポーツ
-2215	パンキッシュハートレッド	SPCW10659_T01A	3	3	10	2	500	1	9	PM2-4-029	20	0	0	スタジオ第7章コーデ	12	True	True	2023年7月20日（木）～8月30日（水）	True			SR	ライブ	アクセ	PrismStone	ちゃ	キュート
-2216	パンキッシュハートレッド	SPCW10659_B01A	3	3	2	2	500	3	4	PM2-4-030	20	0	0		12	True	True		True			SR	ライブ	ワンピ	PrismStone	みずいろ	ポップ
-2217	パンキッシュハートレッド	SPCW10659_P01A	3	3	11	2	450	4	10	PM2-4-031	20	0	0		12	True	True		True			SR	ライブ	シューズ	PrismStone	ピンク	ラブリー
-2218	パンキッシュハートレッド	SPCW10659_I01A	3	3	2	2	450	5	13	PM2-4-032	20	0	0		12	True	True		True			SR	ライブ	アクセ	PrismStone	ちゃ	スポーツ
-2219	サイバーゲームソーダブルー	SPCW11044_T01A	3	5	7	2	500	1	6	PM2-4-033	20	0	0	スタジオ第7章コーデ	13	True	True	2023年7月20日（木）～8月30日（水）	True			R	カジュアル	トップス	SHINING DIVA	しろ	ハート
-2220	サイバーゲームソーダブルー	SPCW11044_B01A	3	5	7	2	500	3	13	PM2-4-034	20	0	0		13	True	True		True			SR	カジュアル	ワンピ	SHINING DIVA	ちゃ	リボン
-2221	サイバーゲームソーダブルー	SPCW11044_P01A	3	5	7	2	450	4	12	PM2-4-035	20	0	0		13	True	True		True			SR	カジュアル	シューズ	SHINING DIVA	あお	ラブリー
-2222	サイバーゲームソーダブルー	SPCW11044_I01A	3	5	7	2	450	5	14	PM2-4-036	20	0	0		13	True	True		True			SR	カジュアル	アクセ	SHINING DIVA	あお	ジュエル
-2223	ベルサイユガーデンオレンジ	SPCW11034_T01A	3	4	4	2	500	1	20	PM2-4-037	20	0	0	スタジオ第7章コーデ	14	True	True	2023年7月20日（木）～8月30日（水）	True			SR	カジュアル	ワンピ	SHINING DIVA	ピンク	ガーリー
-2224	ベルサイユガーデンオレンジ	SPCW11034_B01A	3	4	4	2	500	3	2	PM2-4-038	20	0	0		14	True	True		True			SR	カジュアル	シューズ	SHINING DIVA	ピンク	ダンス
-2225	ベルサイユガーデンオレンジ	SPCW11034_P01A	3	4	4	2	450	4	5	PM2-4-039	20	0	0		14	True	True		True			SR	カジュアル	アクセ	SHINING DIVA	ピンク	エレガント
-2226	ベルサイユガーデンオレンジ	SPCW11034_I01A	3	4	4	2	450	5	9	PM2-4-040	20	0	0		14	True	True		True			SR	ライブ	トップス	LOVELY MELODY	ピンク	キュート
-2227	チェックセットアップピンク	SPCW11012_T01A	2	1	3	1	400	1	8	PM2-4-041	20	0	0	スタジオ第7章コーデ	15	True	True	2023年7月20日（木）～8月30日（水）	True			SR	ライブ	ボトムス	LOVELY MELODY	しろ	ハート
-2228	チェックセットアップピンク	SPCW11012_B01A	2	1	3	1	400	3	16	PM2-4-042	20	0	0		15	True	True		True			SR	ライブ	シューズ	LOVELY MELODY	ピンク	ガーリー
-2229	チェックセットアップピンク	SPCW11012_P01A	2	1	3	1	350	4	10	PM2-4-043	20	0	0		15	True	True		True			SR	ライブ	アクセ	LOVELY MELODY	ピンク	リボン
-2230	チェックセットアップピンク	SPCW11012_I01A	2	1	3	1	350	5	7	PM2-4-044	20	0	0		15	True	True		True			SR	ライブ	トップス	LOVELY MELODY	みずいろ	リボン
-2231	クラシックラビットブルー	SPCW11018_D01A	1	3	8	1	800	2	19	PM2-4-045	20	0	0	スタジオ第7章コーデ	16	True	True	2023年7月20日（木）～8月30日（水）	True			SR	ライブ	ボトムス	LOVELY MELODY	みずいろ	ポップ
-2232	クラシックラビットブルー	SPCW11018_P01A	1	3	8	1	350	4	9	PM2-4-046	20	0	0		16	True	True		True			SR	ライブ	シューズ	LOVELY MELODY	しろ	キュート
-2233	クラシックラビットブルー	SPCW11018_I01A	1	3	10	1	350	5	10	PM2-4-047	20	0	0		16	True	True		True			SR	ライブ	アクセ	LOVELY MELODY	しろ	ハート
-2234	おやすみベアパープル	SPCW11014_T01A	1	6	5	1	400	1	19	PM2-4-048	20	0	0	スタジオ第7章コーデ	17	True	True	2023年7月20日（木）～8月30日（水）	True			SR	ライブ	トップス	PrismStone	しろ	ポップ
-2235	おやすみベアパープル	SPCW11014_B01A	1	6	5	1	400	3	14	PM2-4-049	20	0	0		17	True	True		True			SR	ライブ	ボトムス	PrismStone	しろ	キュート
-2236	おやすみベアパープル	SPCW11014_P01A	1	6	9	1	350	4	8	PM2-4-050	20	0	0		17	True	True		True			SR	ライブ	シューズ	PrismStone	しろ	ガーリー
-2237	おやすみベアパープル	SPCW11014_I01A	1	6	5	1	350	5	5	PM2-4-051	20	0	0		17	True	True		True			SR	ライブ	アクセ	PrismStone	みずいろ	リボン
-2238	ショルダーフリルグリーン	SPCW11019_T01A	1	7	6	1	400	1	12	PM2-4-052	20	0	0	スタジオ第7章コーデ	18	True	True	2023年7月20日（木）～8月30日（水）	True			SR	ライブ	トップス	PrismStone	しろ	ガーリー
-2239	ゴールドボタンショーパンブラック	SPCW11019_B01A	1	7	10	1	400	3	6	PM2-4-053	20	0	0		18	True	True		True			SR	ライブ	ボトムス	PrismStone	しろ	キュート
-2240	プレミアムニーハイブーツモカブラウン	SPCW11019_P01A	1	7	1	1	350	4	5	PM2-4-054	20	0	0		18	True	True		True			SR	ライブ	シューズ	PrismStone	しろ	ラブリー
-2241	ジュエリーピングリーン	SPCW11019_I01A	1	7	6	1	350	5	18	PM2-4-055	20	0	0		18	True	True		True			SR	ライブ	アクセ	PrismStone	しろ	ゴシック
-2242	シャカシャカサロペットライム	SPCW11027_T01A	1	5	6	1	400	1	14	PM2-4-056	20	0	0	スタジオ第7章コーデ	19	True	True	2023年7月20日（木）～8月30日（水）	True			SR	ライブ	トップス	ELECTRO REMIX	みどり	スポーツ
-2243	シャカシャカサロペットライム	SPCW11027_B01A	1	5	11	1	400	3	6	PM2-4-057	20	0	0		19	True	True		True			SR	ライブ	ボトムス	ELECTRO REMIX	みどり	ポップ
-2244	アクティブサンダルライム	SPCW11027_P01A	1	5	6	1	350	4	5	PM2-4-058	20	0	0		19	True	True		True			SR	ライブ	シューズ	ELECTRO REMIX	あお	デジタル
-2245	タグつきニットキャップライム	SPCW11027_I01A	1	5	6	1	350	5	12	PM2-4-059	20	0	0		19	True	True		True			SR	ライブ	アクセ	ELECTRO REMIX	みどり	クール
-2246	アシメツートンパーカーパープル	SPCW11020_D01A	1	2	9	1	800	2	9	PM2-4-060	20	0	0	スタジオ第7章コーデ	20	True	True	2023年7月20日（木）～8月30日（水）	True			SR	ライブ	トップス	ELECTRO REMIX	しろ	クール
-2247	メタリックスニーカーイエロー	SPCW11020_P01A	1	2	5	1	350	4	14	PM2-4-061	20	0	0		20	True	True		True			SR	ライブ	ボトムス	ELECTRO REMIX	しろ	ダンス
-2248	ロゴサンバイザーパープル	SPCW11020_I01A	1	2	9	1	350	5	18	PM2-4-062	20	0	0		20	True	True		True			SR	ライブ	シューズ	ELECTRO REMIX	きいろ	スポーツ
-2317	エレガントゴシックレディミルクティー	SPCW11048_T01A	1	3	1	1	400	1	5	PM2-4-131	20	0	0	めちゃマジフレンドコーデ	21	True	True	スタジオ第7・8章フレンドポイント 2500ポイント	True			SR	ライブ	アクセ	ELECTRO REMIX	しろ	デジタル
-2318	エレガントゴシックレディミルクティー	SPCW11048_B01A	1	3	1	1	400	3	18	PM2-4-132	20	0	0		21	True	True		True			SR	ライブ	トップス	PrismStone	あお	ガーリー
-2319	エレガントゴシックレディミルクティー	SPCW11048_P01A	1	3	2	1	350	4	16	PM2-4-133	20	0	0		21	True	True		True			SR	ライブ	トップス	LOVELY MELODY	みずいろ	リボン
-2320	エレガントゴシックレディミルクティー	SPCW11048_I01A	1	3	2	1	350	5	14	PM2-4-134	20	0	0		21	True	True		True			UR	ライブ	トップス	Princess Magic	ピンク	ラブリー
-2321	ハッピーセーラーミルクティー	SPCW11049_D01A	2	6	1	1	800	2	8	PM2-4-135	20	0	0	めちゃマジフレンドコーデ	22	True	True	スタジオ第7・8章フレンドポイント 4000ポイント	True			UR	ライブ	トップス	Princess Magic	あか	リボン
-2322	ハッピーセーラーミルクティー	SPCW11049_P01A	2	6	1	1	350	4	5	PM2-4-136	20	0	0		22	True	True		True			SR	ライブ	トップス	Cherry Sugar	しろ	ラブリー
-2323	ハッピーセーラーミルクティー	SPCW11049_I01A	2	6	1	1	350	5	19	PM2-4-137	20	0	0		22	True	True		True			SR	ライブ	トップス	ELECTRO REMIX	しろ	クール
-2324	サマーメイドブラックベリー	SPCW10909_T01A	3	8	9	2	500	1	10	PM2-4-138	20	0	0	期間限定	31	True	True	7月27日（木）～8月16日（水）　サマーメイドブラックベリーチャンス	True			SR	ライブ	トップス	PrismStone	オレンジ	ダンス
-2325	サマーメイドブラックベリー	SPCW10909_B01A	3	8	9	2	500	3	16	PM2-4-139	20	0	0		31	True	False		True			SR	ライブ	トップス	PrismStone	みずいろ	クール
-2326	サマーメイドブラックベリー	SPCW10909_P01A	3	8	10	2	450	4	20	PM2-4-140	20	0	0		31	True	False		True			UR	ライブ	ワンピ	LOVELY MELODY	しろ	ジュエル
-2327	サマーメイドブラックベリー	SPCW10909_I01A	3	8	9	2	450	5	15	PM2-4-141	20	0	0		31	True	False		True			OPR	ライブ	ワンピ	Princess Magic	みずいろ	ラブリー
-2332	VIVIマジctSTAR Tシャツ	SPCW10990_T01A	1	8	11	1	400	1	13	PM2-4-274	20	0	0	Tシャツ	32	True	False	プリマジスタジオライブ2023年8月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第7章、第8章のコーデがラインナップされています	True	2		UR	ライブ	ワンピ	Princess Magic	みずいろ	フラワー
-2333	ビッグシルエットTシャツ	SPCW11066_T01A	1	5	6	1	400	1	12	PM2-4-275	20	0	0	Tシャツ	33	True	False	プリマジスタジオライブ2023年8月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第7章、第8章のコーデがラインナップされています	True	2		UR	ライブ	ワンピ	Princess Magic	オレンジ	スター
-2334	まつりシルエットTシャツ	SPCW11047_T01A	1	8	3	1	400	1	16	PM2-4-276	20	0	0	Tシャツ	34	True	False	プリマジスタジオライブ2023年8月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第7章、第8章のコーデがラインナップされています	True	2		UR	ライブ	トップス	Princess Magic	きいろ	ガーリー
-2345	ドレッシーグランドピアノ	SPCW10983_D01A	3	3	10	2	1000	2	9	PM2-4-348	20	0	0	プレミアムチャンス	35	True	True	プレミアムプランせんようプリマジ　ドレッシーグランドピアノチャンス	True			UR	ライブ	ボトムス	Princess Magic	むらさき	エレガント
-2346	ドレッシーグランドピアノ	SPCW10983_P01A	3	3	10	2	450	4	10	PM2-4-349	20	0	0		35	True	False		True			UR	ライブ	シューズ	Princess Magic	むらさき	リボン
-2347	ドレッシーグランドピアノ	SPCW10983_I01A	3	3	10	2	450	5	20	PM2-4-350	20	0	0		35	True	False		True			UR	ライブ	アクセ	Princess Magic	むらさき	キュート
-2355	セブンスコーデレディアントレインボー	SPCW10822_D01A	3	8	11	3	1200	2	15	PM2-4-358	20	0	22	期間限定	70	True	True	2023年8月3日（木）～8月30日（水）　プリティーリズムレインボーライブ10しゅうねんチャンス	True	2		UR	ライブ	ワンピ	Princess Magic	しろ	リボン
-2356	セブンスコーデレディアントレインボー	SPCW10822_P01A	3	8	11	3	550	4	5	PM2-4-359	20	0	22		70	True	False		True			UR	ライブ	シューズ	Princess Magic	みどり	ラブリー
-2357	セブンスコーデレディアントレインボー	SPCW10822_I01A	3	8	11	3	550	5	20	PM2-4-360	20	0	22		70	True	False		True			UR	ライブ	アクセ	Princess Magic	しろ	フラワー
-2361	パイレーツTシャツ	SPCW11045_T01A	1	8	11	1	400	1	6	PM2-4-146	20	0	0	Tシャツ	74	True	False	Tシャツショップ どっちでSHOWに投票する	True	3		SR	ライブ	トップス	LOVELY MELODY	しろ	リボン
-2362	プリパイレーツバイキングキャプテン	SPCW10984_T01A	3	8	2	2	500	1	20	PM2-4-147	20	0	0	めちゃマジ注目スペシャルコーデ	44	False	True	こんしゅうのみんなでどっちでSHOW！ かわいいかいぞくスタイル！ほしいのはどっち？	True			SR	ライブ	ボトムス	LOVELY MELODY	しろ	ベーシック
-2363	プリパイレーツバイキングキャプテン	SPCW10984_B01A	3	8	8	2	500	3	11	PM2-4-148	20	0	0		44	False	False		True			SR	ライブ	シューズ	LOVELY MELODY	しろ	キュート
-2364	プリパイレーツバイキングキャプテン	SPCW10984_P01A	3	8	2	2	450	4	15	PM2-4-149	20	0	0		44	False	False		True			SR	ライブ	アクセ	LOVELY MELODY	しろ	ジュエル
-2365	プリパイレーツバイキングキャプテン	SPCW10984_I01A	3	8	8	2	450	5	9	PM2-4-150	20	0	0		44	False	False		True			SR	カジュアル	ワンピ	SHINING DIVA	くろ	ミステリアス
-2366	プリパイレーツマリンクルー	SPCW10985_T01A	3	8	11	2	500	1	5	PM2-4-151	20	0	0	めちゃマジ注目スペシャルコーデ	45	False	True	こんしゅうのみんなでどっちでSHOW！ かわいいかいぞくスタイル！ほしいのはどっち？	True			SR	カジュアル	シューズ	SHINING DIVA	むらさき	ゴシック
-2367	プリパイレーツマリンクルー	SPCW10985_B01A	3	8	11	2	500	3	16	PM2-4-152	20	0	0		45	False	False		True			SR	カジュアル	アクセ	SHINING DIVA	くろ	クール
-2368	プリパイレーツマリンクルー	SPCW10985_P01A	3	8	11	2	450	4	13	PM2-4-153	20	0	0		45	False	False		True			UR	ライブ	ワンピ	PrismStone	くろ	クール
-2369	プリパイレーツマリンクルー	SPCW10985_I01A	3	8	11	2	450	5	10	PM2-4-154	20	0	0		45	False	False		True			UR	ライブ	シューズ	PrismStone	くろ	エレガント
+2213	ポッピンスウィム	SPCW10929_P01A	3	6	3	2	450	4	14	PM2-4-027	20	0	0		11	True	True		True			R	カジュアル	トップス	PrismStone	しろ	クール
+2214	ポッピンスウィム	SPCW10929_I01A	3	6	3	2	450	5	4	PM2-4-028	20	0	0		11	True	True		True			SR	ライブ	ワンピ	PrismStone	みずいろ	アニマル
+2215	パンキッシュハートレッド	SPCW10659_T01A	3	3	10	2	500	1	9	PM2-4-029	20	0	0	スタジオ第7章コーデ	12	True	True	2023年7月20日（木）～8月30日（水）	True			SR	ライブ	シューズ	PrismStone	みずいろ	スポーツ
+2216	パンキッシュハートレッド	SPCW10659_B01A	3	3	2	2	500	3	4	PM2-4-030	20	0	0		12	True	True		True			SR	ライブ	アクセ	PrismStone	ちゃ	キュート
+2217	パンキッシュハートレッド	SPCW10659_P01A	3	3	11	2	450	4	10	PM2-4-031	20	0	0		12	True	True		True			SR	ライブ	ワンピ	PrismStone	みずいろ	ポップ
+2218	パンキッシュハートレッド	SPCW10659_I01A	3	3	2	2	450	5	13	PM2-4-032	20	0	0		12	True	True		True			SR	ライブ	シューズ	PrismStone	ピンク	ラブリー
+2219	サイバーゲームソーダブルー	SPCW11044_T01A	3	5	7	2	500	1	6	PM2-4-033	20	0	0	スタジオ第7章コーデ	13	True	True	2023年7月20日（木）～8月30日（水）	True			SR	ライブ	アクセ	PrismStone	ちゃ	スポーツ
+2220	サイバーゲームソーダブルー	SPCW11044_B01A	3	5	7	2	500	3	13	PM2-4-034	20	0	0		13	True	True		True			R	カジュアル	トップス	SHINING DIVA	しろ	ハート
+2221	サイバーゲームソーダブルー	SPCW11044_P01A	3	5	7	2	450	4	12	PM2-4-035	20	0	0		13	True	True		True			SR	カジュアル	ワンピ	SHINING DIVA	ちゃ	リボン
+2222	サイバーゲームソーダブルー	SPCW11044_I01A	3	5	7	2	450	5	14	PM2-4-036	20	0	0		13	True	True		True			SR	カジュアル	シューズ	SHINING DIVA	あお	ラブリー
+2223	ベルサイユガーデンオレンジ	SPCW11034_T01A	3	4	4	2	500	1	20	PM2-4-037	20	0	0	スタジオ第7章コーデ	14	True	True	2023年7月20日（木）～8月30日（水）	True			SR	カジュアル	アクセ	SHINING DIVA	あお	ジュエル
+2224	ベルサイユガーデンオレンジ	SPCW11034_B01A	3	4	4	2	500	3	2	PM2-4-038	20	0	0		14	True	True		True			SR	カジュアル	ワンピ	SHINING DIVA	ピンク	ガーリー
+2225	ベルサイユガーデンオレンジ	SPCW11034_P01A	3	4	4	2	450	4	5	PM2-4-039	20	0	0		14	True	True		True			SR	カジュアル	シューズ	SHINING DIVA	ピンク	ダンス
+2226	ベルサイユガーデンオレンジ	SPCW11034_I01A	3	4	4	2	450	5	9	PM2-4-040	20	0	0		14	True	True		True			SR	カジュアル	アクセ	SHINING DIVA	ピンク	エレガント
+2227	チェックセットアップピンク	SPCW11012_T01A	2	1	3	1	400	1	8	PM2-4-041	20	0	0	スタジオ第7章コーデ	15	True	True	2023年7月20日（木）～8月30日（水）	True			SR	ライブ	トップス	LOVELY MELODY	ピンク	キュート
+2228	チェックセットアップピンク	SPCW11012_B01A	2	1	3	1	400	3	16	PM2-4-042	20	0	0		15	True	True		True			SR	ライブ	ボトムス	LOVELY MELODY	しろ	ハート
+2229	チェックセットアップピンク	SPCW11012_P01A	2	1	3	1	350	4	10	PM2-4-043	20	0	0		15	True	True		True			SR	ライブ	シューズ	LOVELY MELODY	ピンク	ガーリー
+2230	チェックセットアップピンク	SPCW11012_I01A	2	1	3	1	350	5	7	PM2-4-044	20	0	0		15	True	True		True			SR	ライブ	アクセ	LOVELY MELODY	ピンク	リボン
+2231	クラシックラビットブルー	SPCW11018_D01A	1	3	8	1	800	2	19	PM2-4-045	20	0	0	スタジオ第7章コーデ	16	True	True	2023年7月20日（木）～8月30日（水）	True			SR	ライブ	トップス	LOVELY MELODY	みずいろ	リボン
+2232	クラシックラビットブルー	SPCW11018_P01A	1	3	8	1	350	4	9	PM2-4-046	20	0	0		16	True	True		True			SR	ライブ	ボトムス	LOVELY MELODY	みずいろ	ポップ
+2233	クラシックラビットブルー	SPCW11018_I01A	1	3	10	1	350	5	10	PM2-4-047	20	0	0		16	True	True		True			SR	ライブ	シューズ	LOVELY MELODY	しろ	キュート
+2234	おやすみベアパープル	SPCW11014_T01A	1	6	5	1	400	1	19	PM2-4-048	20	0	0	スタジオ第7章コーデ	17	True	True	2023年7月20日（木）～8月30日（水）	True			SR	ライブ	アクセ	LOVELY MELODY	しろ	ハート
+2235	おやすみベアパープル	SPCW11014_B01A	1	6	5	1	400	3	14	PM2-4-049	20	0	0		17	True	True		True			SR	ライブ	トップス	PrismStone	しろ	ポップ
+2236	おやすみベアパープル	SPCW11014_P01A	1	6	9	1	350	4	8	PM2-4-050	20	0	0		17	True	True		True			SR	ライブ	ボトムス	PrismStone	しろ	キュート
+2237	おやすみベアパープル	SPCW11014_I01A	1	6	5	1	350	5	5	PM2-4-051	20	0	0		17	True	True		True			SR	ライブ	シューズ	PrismStone	しろ	ガーリー
+2238	ショルダーフリルグリーン	SPCW11019_T01A	1	7	6	1	400	1	12	PM2-4-052	20	0	0	スタジオ第7章コーデ	18	True	True	2023年7月20日（木）～8月30日（水）	True			SR	ライブ	アクセ	PrismStone	みずいろ	リボン
+2239	ゴールドボタンショーパンブラック	SPCW11019_B01A	1	7	10	1	400	3	6	PM2-4-053	20	0	0		18	True	True		True			SR	ライブ	トップス	PrismStone	しろ	ガーリー
+2240	プレミアムニーハイブーツモカブラウン	SPCW11019_P01A	1	7	1	1	350	4	5	PM2-4-054	20	0	0		18	True	True		True			SR	ライブ	ボトムス	PrismStone	しろ	キュート
+2241	ジュエリーピングリーン	SPCW11019_I01A	1	7	6	1	350	5	18	PM2-4-055	20	0	0		18	True	True		True			SR	ライブ	シューズ	PrismStone	しろ	ラブリー
+2242	シャカシャカサロペットライム	SPCW11027_T01A	1	5	6	1	400	1	14	PM2-4-056	20	0	0	スタジオ第7章コーデ	19	True	True	2023年7月20日（木）～8月30日（水）	True			SR	ライブ	アクセ	PrismStone	しろ	ゴシック
+2243	シャカシャカサロペットライム	SPCW11027_B01A	1	5	11	1	400	3	6	PM2-4-057	20	0	0		19	True	True		True			SR	ライブ	トップス	ELECTRO REMIX	みどり	スポーツ
+2244	アクティブサンダルライム	SPCW11027_P01A	1	5	6	1	350	4	5	PM2-4-058	20	0	0		19	True	True		True			SR	ライブ	ボトムス	ELECTRO REMIX	みどり	ポップ
+2245	タグつきニットキャップライム	SPCW11027_I01A	1	5	6	1	350	5	12	PM2-4-059	20	0	0		19	True	True		True			SR	ライブ	シューズ	ELECTRO REMIX	あお	デジタル
+2246	アシメツートンパーカーパープル	SPCW11020_D01A	1	2	9	1	800	2	9	PM2-4-060	20	0	0	スタジオ第7章コーデ	20	True	True	2023年7月20日（木）～8月30日（水）	True			SR	ライブ	アクセ	ELECTRO REMIX	みどり	クール
+2247	メタリックスニーカーイエロー	SPCW11020_P01A	1	2	5	1	350	4	14	PM2-4-061	20	0	0		20	True	True		True			SR	ライブ	トップス	ELECTRO REMIX	しろ	クール
+2248	ロゴサンバイザーパープル	SPCW11020_I01A	1	2	9	1	350	5	18	PM2-4-062	20	0	0		20	True	True		True			SR	ライブ	ボトムス	ELECTRO REMIX	しろ	ダンス
+2317	エレガントゴシックレディミルクティー	SPCW11048_T01A	1	3	1	1	400	1	5	PM2-4-131	20	0	0	めちゃマジフレンドコーデ	21	True	True	スタジオ第7・8章フレンドポイント 2500ポイント	True			SR	ライブ	シューズ	ELECTRO REMIX	きいろ	スポーツ
+2318	エレガントゴシックレディミルクティー	SPCW11048_B01A	1	3	1	1	400	3	18	PM2-4-132	20	0	0		21	True	True		True			SR	ライブ	アクセ	ELECTRO REMIX	しろ	デジタル
+2319	エレガントゴシックレディミルクティー	SPCW11048_P01A	1	3	2	1	350	4	16	PM2-4-133	20	0	0		21	True	True		True			SR	ライブ	トップス	PrismStone	あお	ガーリー
+2320	エレガントゴシックレディミルクティー	SPCW11048_I01A	1	3	2	1	350	5	14	PM2-4-134	20	0	0		21	True	True		True			SR	ライブ	トップス	LOVELY MELODY	みずいろ	リボン
+2321	ハッピーセーラーミルクティー	SPCW11049_D01A	2	6	1	1	800	2	8	PM2-4-135	20	0	0	めちゃマジフレンドコーデ	22	True	True	スタジオ第7・8章フレンドポイント 4000ポイント	True			UR	ライブ	トップス	Princess Magic	ピンク	ラブリー
+2322	ハッピーセーラーミルクティー	SPCW11049_P01A	2	6	1	1	350	4	5	PM2-4-136	20	0	0		22	True	True		True			UR	ライブ	トップス	Princess Magic	あか	リボン
+2323	ハッピーセーラーミルクティー	SPCW11049_I01A	2	6	1	1	350	5	19	PM2-4-137	20	0	0		22	True	True		True			SR	ライブ	トップス	Cherry Sugar	しろ	ラブリー
+2324	サマーメイドブラックベリー	SPCW10909_T01A	3	8	9	2	500	1	10	PM2-4-138	20	0	0	期間限定	31	True	True	7月27日（木）～8月16日（水）　サマーメイドブラックベリーチャンス	True			SR	ライブ	トップス	ELECTRO REMIX	しろ	クール
+2325	サマーメイドブラックベリー	SPCW10909_B01A	3	8	9	2	500	3	16	PM2-4-139	20	0	0		31	True	False		True			SR	ライブ	トップス	PrismStone	オレンジ	ダンス
+2326	サマーメイドブラックベリー	SPCW10909_P01A	3	8	10	2	450	4	20	PM2-4-140	20	0	0		31	True	False		True			SR	ライブ	トップス	PrismStone	みずいろ	クール
+2327	サマーメイドブラックベリー	SPCW10909_I01A	3	8	9	2	450	5	15	PM2-4-141	20	0	0		31	True	False		True			UR	ライブ	ワンピ	LOVELY MELODY	しろ	ジュエル
+2332	VIVIマジctSTAR Tシャツ	SPCW10990_T01A	1	8	11	1	400	1	13	PM2-4-274	20	0	0	Tシャツ	32	True	False	プリマジスタジオライブ2023年8月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第7章、第8章のコーデがラインナップされています	True	2		OPR	ライブ	ワンピ	Princess Magic	みずいろ	ラブリー
+2333	ビッグシルエットTシャツ	SPCW11066_T01A	1	5	6	1	400	1	12	PM2-4-275	20	0	0	Tシャツ	33	True	False	プリマジスタジオライブ2023年8月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第7章、第8章のコーデがラインナップされています	True	2		UR	ライブ	ワンピ	Princess Magic	みずいろ	フラワー
+2334	まつりシルエットTシャツ	SPCW11047_T01A	1	8	3	1	400	1	16	PM2-4-276	20	0	0	Tシャツ	34	True	False	プリマジスタジオライブ2023年8月 期間中にプリマジスタジオライブを遊ぶとランダムで配出されるよ。 ※該当アイテム以外は期間によりスタジオ第7章、第8章のコーデがラインナップされています	True	2		UR	ライブ	ワンピ	Princess Magic	オレンジ	スター
+2345	ドレッシーグランドピアノ	SPCW10983_D01A	3	3	10	2	1000	2	9	PM2-4-348	20	0	0	プレミアムチャンス	35	True	True	プレミアムプランせんようプリマジ　ドレッシーグランドピアノチャンス	True			UR	ライブ	トップス	Princess Magic	きいろ	ガーリー
+2346	ドレッシーグランドピアノ	SPCW10983_P01A	3	3	10	2	450	4	10	PM2-4-349	20	0	0		35	True	False		True			UR	ライブ	ボトムス	Princess Magic	むらさき	エレガント
+2347	ドレッシーグランドピアノ	SPCW10983_I01A	3	3	10	2	450	5	20	PM2-4-350	20	0	0		35	True	False		True			UR	ライブ	シューズ	Princess Magic	むらさき	リボン
+2355	セブンスコーデレディアントレインボー	SPCW10822_D01A	3	8	11	3	1200	2	15	PM2-4-358	20	0	22	期間限定	70	True	True	2023年8月3日（木）～8月30日（水）　プリティーリズムレインボーライブ10しゅうねんチャンス	True	2		UR	ライブ	アクセ	Princess Magic	むらさき	キュート
+2356	セブンスコーデレディアントレインボー	SPCW10822_P01A	3	8	11	3	550	4	5	PM2-4-359	20	0	22		70	True	False		True			UR	ライブ	ワンピ	Princess Magic	しろ	リボン
+2357	セブンスコーデレディアントレインボー	SPCW10822_I01A	3	8	11	3	550	5	20	PM2-4-360	20	0	22		70	True	False		True			UR	ライブ	シューズ	Princess Magic	みどり	ラブリー
+2361	パイレーツTシャツ	SPCW11045_T01A	1	8	11	1	400	1	6	PM2-4-146	20	0	0	Tシャツ	74	True	False	Tシャツショップ どっちでSHOWに投票する	True	3		UR	ライブ	アクセ	Princess Magic	しろ	フラワー
+2362	プリパイレーツバイキングキャプテン	SPCW10984_T01A	3	8	2	2	500	1	20	PM2-4-147	20	0	0	めちゃマジ注目スペシャルコーデ	44	False	True	こんしゅうのみんなでどっちでSHOW！ かわいいかいぞくスタイル！ほしいのはどっち？	True			SR	ライブ	トップス	LOVELY MELODY	しろ	リボン
+2363	プリパイレーツバイキングキャプテン	SPCW10984_B01A	3	8	8	2	500	3	11	PM2-4-148	20	0	0		44	False	False		True			SR	ライブ	ボトムス	LOVELY MELODY	しろ	ベーシック
+2364	プリパイレーツバイキングキャプテン	SPCW10984_P01A	3	8	2	2	450	4	15	PM2-4-149	20	0	0		44	False	False		True			SR	ライブ	シューズ	LOVELY MELODY	しろ	キュート
+2365	プリパイレーツバイキングキャプテン	SPCW10984_I01A	3	8	8	2	450	5	9	PM2-4-150	20	0	0		44	False	False		True			SR	ライブ	アクセ	LOVELY MELODY	しろ	ジュエル
+2366	プリパイレーツマリンクルー	SPCW10985_T01A	3	8	11	2	500	1	5	PM2-4-151	20	0	0	めちゃマジ注目スペシャルコーデ	45	False	True	こんしゅうのみんなでどっちでSHOW！ かわいいかいぞくスタイル！ほしいのはどっち？	True			SR	カジュアル	ワンピ	SHINING DIVA	くろ	ミステリアス
+2367	プリパイレーツマリンクルー	SPCW10985_B01A	3	8	11	2	500	3	16	PM2-4-152	20	0	0		45	False	False		True			SR	カジュアル	シューズ	SHINING DIVA	むらさき	ゴシック
+2368	プリパイレーツマリンクルー	SPCW10985_P01A	3	8	11	2	450	4	13	PM2-4-153	20	0	0		45	False	False		True			SR	カジュアル	アクセ	SHINING DIVA	くろ	クール
+2369	プリパイレーツマリンクルー	SPCW10985_I01A	3	8	11	2	450	5	10	PM2-4-154	20	0	0		45	False	False		True			UR	ライブ	ワンピ	PrismStone	くろ	クール
+2370	スプラッシュサマーTシャツ	SPCW11023_T01A	1	8	11	1	400	1	9	PM2-4-155	20	0	0	Tシャツ	75	True	False	Tシャツショップ どっちでSHOWに投票する	True	4		UR	ライブ	シューズ	PrismStone	くろ	エレガント
 2371	スタースプラッシュマリン	SPCW10976_D01A	3	8	7	2	1000	2	19	PM2-4-156	20	0	0	めちゃマジ注目スペシャルコーデ	46	False	True	こんしゅうのみんなでどっちでSHOW！ なつをまんきつ！おもいっきりおよぐならどっち？	True			UR	ライブ	アクセ	PrismStone	くろ	ゴシック
 2372	スタースプラッシュマリン	SPCW10976_P01A	3	8	7	2	450	4	12	PM2-4-157	20	0	0		46	False	False		True			SR	ライブ	ワンピ	Cherry Sugar	オレンジ	キュート
 2373	スタースプラッシュマリン	SPCW10976_I01A	3	8	1	2	450	5	6	PM2-4-158	20	0	0		46	False	False		True			SR	ライブ	シューズ	Cherry Sugar	オレンジ	アニマル
