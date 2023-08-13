@@ -52467,7 +52467,7 @@
           "name": "アクティブダンスライム",
           "watcha": 400,
           "genre": 1,
-          "brand": 5,
+          "brand": 2,
           "color": 6,
           "rarity": 1,
           "category": 1,
@@ -52484,7 +52484,7 @@
           "name": "アクティブダンスライム",
           "watcha": 400,
           "genre": 1,
-          "brand": 5,
+          "brand": 2,
           "color": 4,
           "rarity": 1,
           "category": 3,
@@ -52501,7 +52501,7 @@
           "name": "アクティブダンスライム",
           "watcha": 350,
           "genre": 1,
-          "brand": 5,
+          "brand": 2,
           "color": 6,
           "rarity": 1,
           "category": 4,
@@ -52518,7 +52518,7 @@
           "name": "アクティブダンスライム",
           "watcha": 350,
           "genre": 1,
-          "brand": 5,
+          "brand": 2,
           "color": 6,
           "rarity": 1,
           "category": 5,
@@ -55500,14 +55500,14 @@
     {
       "collection": 18,
       "name": "しらゆきひめ",
-      "kinds": "めちゃマジ注目スペシャルコーデ",
+      "kinds": "期間限定",
       "directoryNumber": 122,
-      "isShow": false,
+      "isShow": true,
       "hasMainImage": true,
       "whichShowId": "04gi1",
-      "span": "こんしゅうのみんなでどっちでSHOW！ しらゆきひめ？シンデレラ？なりたいおひめさまはどっち？",
-      "spanEventName": "こんしゅうのみんなでどっちでSHOW！ しらゆきひめ？シンデレラ？なりたいおひめさまはどっち？",
-      "order": 2147483647,
+      "span": "8月17日(木)～8月30日(水)　どっちでSHOWふっかつパーティーショップ！",
+      "spanEventName": "8月17日(木)～8月30日(水)　どっちでSHOWふっかつパーティーショップ！",
+      "order": 30,
       "chapter": "2P05",
       "items": [
         {
@@ -55935,14 +55935,14 @@
     {
       "collection": 18,
       "name": "ジューンブライドホワイトタキシード",
-      "kinds": "めちゃマジ注目スペシャルコーデ",
+      "kinds": "期間限定",
       "directoryNumber": 131,
-      "isShow": false,
+      "isShow": true,
       "hasMainImage": true,
       "whichShowId": "w6316",
-      "span": "こんしゅうのみんなでどっちでSHOW！ ジューンブライド！じゅんぱくコーデならどっち？",
-      "spanEventName": "こんしゅうのみんなでどっちでSHOW！ ジューンブライド！じゅんぱくコーデならどっち？",
-      "order": 2147483647,
+      "span": "8月17日(木)～8月30日(水)　どっちでSHOWふっかつパーティーショップ！",
+      "spanEventName": "8月17日(木)～8月30日(水)　どっちでSHOWふっかつパーティーショップ！",
+      "order": 30,
       "chapter": "2P06",
       "items": [
         {
@@ -56118,14 +56118,14 @@
     {
       "collection": 18,
       "name": "ジューンブライドブルーレディ",
-      "kinds": "めちゃマジ注目スペシャルコーデ",
+      "kinds": "期間限定",
       "directoryNumber": 135,
-      "isShow": false,
+      "isShow": true,
       "hasMainImage": true,
       "whichShowId": "h7j34",
-      "span": "こんしゅうのみんなでどっちでSHOW！ おいろなおし！ブルーできめるならどっち？",
-      "spanEventName": "こんしゅうのみんなでどっちでSHOW！ おいろなおし！ブルーできめるならどっち？",
-      "order": 2147483647,
+      "span": "8月17日(木)～8月30日(水)　どっちでSHOWふっかつパーティーショップ！",
+      "spanEventName": "8月17日(木)～8月30日(水)　どっちでSHOWふっかつパーティーショップ！",
+      "order": 30,
       "chapter": "2P06",
       "items": [
         {
@@ -56319,14 +56319,14 @@
     {
       "collection": 18,
       "name": "ブリティッシュジェントルあまね",
-      "kinds": "めちゃマジ注目スペシャルコーデ",
+      "kinds": "期間限定",
       "directoryNumber": 138,
-      "isShow": false,
+      "isShow": true,
       "hasMainImage": true,
       "whichShowId": "bk40f",
-      "span": "こんしゅうのみんなでどっちでSHOW！ かれいなるプリマジスタたいけつ！いちばんかがやいているのはどっち？",
-      "spanEventName": "こんしゅうのみんなでどっちでSHOW！ かれいなるプリマジスタたいけつ！いちばんかがやいているのはどっち？",
-      "order": 2147483647,
+      "span": "8月17日(木)～8月30日(水)　どっちでSHOWふっかつパーティーショップ！",
+      "spanEventName": "8月17日(木)～8月30日(水)　どっちでSHOWふっかつパーティーショップ！",
+      "order": 30,
       "chapter": "2P06",
       "items": [
         {
@@ -56520,14 +56520,14 @@
     {
       "collection": 18,
       "name": "たなばたドリームピンク",
-      "kinds": "めちゃマジ注目スペシャルコーデ",
+      "kinds": "期間限定",
       "directoryNumber": 141,
-      "isShow": false,
+      "isShow": true,
       "hasMainImage": true,
       "whichShowId": "og1g6",
-      "span": "こんしゅうのみんなでどっちでSHOW！ ほしにねがいを！ゆめをかなえるならどっち？",
-      "spanEventName": "こんしゅうのみんなでどっちでSHOW！ ほしにねがいを！ゆめをかなえるならどっち？",
-      "order": 2147483647,
+      "span": "8月17日(木)～8月30日(水)　どっちでSHOWふっかつパーティーショップ！",
+      "spanEventName": "8月17日(木)～8月30日(水)　どっちでSHOWふっかつパーティーショップ！",
+      "order": 30,
       "chapter": "2P06",
       "items": [
         {
@@ -60421,7 +60421,7 @@
       "directoryNumber": 50,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "00ud6",
       "span": "こんしゅうのみんなでどっちでSHOW！ ほんきの『マジ』たいけつ！さいこうのプリマジスタはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ ほんきの『マジ』たいけつ！さいこうのプリマジスタはどっち？",
       "order": 2147483647,
@@ -60442,7 +60442,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2385.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/00ud6/2385.png"
         },
         {
           "id": 2386,
@@ -60459,7 +60459,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2386.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/00ud6/2386.png"
         },
         {
           "id": 2387,
@@ -60476,7 +60476,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2387.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/00ud6/2387.png"
         },
         {
           "id": 2388,
@@ -60493,10 +60493,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2388.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/00ud6/2388.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_50_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_50_main_00ud6.jpg"
     },
     {
       "collection": 20,
@@ -60505,7 +60505,7 @@
       "directoryNumber": 51,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "muyyx",
       "span": "こんしゅうのみんなでどっちでSHOW！ ほんきの『マジ』たいけつ！さいこうのプリマジスタはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ ほんきの『マジ』たいけつ！さいこうのプリマジスタはどっち？",
       "order": 2147483647,
@@ -60526,7 +60526,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2389.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/muyyx/2389.png"
         },
         {
           "id": 2390,
@@ -60543,7 +60543,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2390.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/muyyx/2390.png"
         },
         {
           "id": 2391,
@@ -60560,7 +60560,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2391.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/muyyx/2391.png"
         },
         {
           "id": 2392,
@@ -60577,10 +60577,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2392.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/muyyx/2392.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_51_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_51_main_muyyx.jpg"
     },
     {
       "collection": 20,
@@ -62443,6 +62443,73 @@
         }
       ],
       "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_29_main.jpg"
+    },
+    {
+      "collection": 19,
+      "name": "エレクトロメロディオレンジ",
+      "kinds": "プロモ",
+      "directoryNumber": 80,
+      "isShow": true,
+      "hasMainImage": true,
+      "whichShowId": null,
+      "span": "プリズムストーンカフェ　DUOコーデシリーズ特典",
+      "spanEventName": "プリズムストーンカフェ　DUOコーデシリーズ特典",
+      "order": 4,
+      "chapter": "2P07",
+      "items": [
+        {
+          "id": 20633,
+          "modelName": "SPCW10883_D01A",
+          "sealId": "P-413",
+          "name": "エレクトロメロディオレンジ",
+          "watcha": 1200,
+          "genre": 3,
+          "brand": 5,
+          "color": 4,
+          "rarity": 3,
+          "category": 2,
+          "subCategory": 15,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/20633.png"
+        },
+        {
+          "id": 20634,
+          "modelName": "SPCW10883_P01A",
+          "sealId": "P-414",
+          "name": "エレクトロメロディオレンジ",
+          "watcha": 550,
+          "genre": 3,
+          "brand": 5,
+          "color": 11,
+          "rarity": 3,
+          "category": 4,
+          "subCategory": 12,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/20634.png"
+        },
+        {
+          "id": 20635,
+          "modelName": "SPCW10883_I01A",
+          "sealId": "P-415",
+          "name": "エレクトロメロディオレンジ",
+          "watcha": 550,
+          "genre": 3,
+          "brand": 5,
+          "color": 4,
+          "rarity": 3,
+          "category": 5,
+          "subCategory": 14,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/20635.png"
+        }
+      ],
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_80_main.jpg"
     },
     {
       "collection": 1,
@@ -68974,6 +69041,15 @@
       "name": "シルバント！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/863.png"
+    },
+    {
+      "chapter": "2P07",
+      "id": 864,
+      "conditions": "「ラブリー×きいろコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ラブき！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/864.png"
     }
   ],
   "shops": [
@@ -72426,7 +72502,7 @@
     },
     {
       "id": "215",
-      "name": "THE 3RD PLANET フレスポ八潮",
+      "name": "サープラ八潮あそびタウン",
       "prefecture": "埼玉県",
       "address": "八潮市大瀬1-1-3 ﾌﾚｽﾎﾟ八潮3F",
       "latitude": 35.808564,
@@ -78842,15 +78918,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "1476",
-      "name": "わくわくアミーゴ尾崎店",
-      "prefecture": "大阪府",
-      "address": "阪南市下出167-1オークワわくわくCITY尾崎店2F",
-      "latitude": 34.362068,
-      "longitude": 135.244586,
-      "shopGroup": "1"
-    },
-    {
       "id": "1469",
       "name": "namcoセブンパーク松原天美店",
       "prefecture": "大阪府",
@@ -81912,7 +81979,7 @@
     },
     {
       "id": "520",
-      "name": "サンゲームス新宮",
+      "name": "サープラ新宮あそびタウン",
       "prefecture": "福岡県",
       "address": "糟屋郡新宮町美咲3-1-40",
       "latitude": 33.706182,
