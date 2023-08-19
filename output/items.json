@@ -60416,6 +60416,39 @@
     },
     {
       "collection": 20,
+      "name": "ショコラティエまつりみゃむTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 81,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 5,
+      "chapter": "2P07",
+      "items": [
+        {
+          "id": 2384,
+          "modelName": "SPCW11102_T01A",
+          "sealId": "PM2-4-169",
+          "name": "ショコラティエまつりみゃむTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 1,
+          "color": 8,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 4,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2384.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 20,
       "name": "ショコラティエまつり",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 50,
@@ -69050,6 +69083,15 @@
       "name": "ラブき！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/864.png"
+    },
+    {
+      "chapter": "2P07",
+      "id": 865,
+      "conditions": "「ライブ×ゴールドコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "ライルド！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/865.png"
     }
   ],
   "shops": [
