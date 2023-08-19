@@ -60622,7 +60622,7 @@
       "directoryNumber": 52,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "dn132",
       "span": "こんしゅうのみんなでどっちでSHOW！ サマーメイドでなつをかんじよう！ほしいのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ サマーメイドでなつをかんじよう！ほしいのはどっち？",
       "order": 2147483647,
@@ -60643,7 +60643,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2394.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/dn132/2394.png"
         },
         {
           "id": 2395,
@@ -60660,7 +60660,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2395.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/dn132/2395.png"
         },
         {
           "id": 2396,
@@ -60677,7 +60677,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2396.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/dn132/2396.png"
         },
         {
           "id": 2397,
@@ -60694,10 +60694,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2397.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/dn132/2397.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_52_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_52_main_dn132.jpg"
     },
     {
       "collection": 20,
@@ -60706,7 +60706,7 @@
       "directoryNumber": 53,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "ndn8p",
       "span": "こんしゅうのみんなでどっちでSHOW！ サマーメイドでなつをかんじよう！ほしいのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ サマーメイドでなつをかんじよう！ほしいのはどっち？",
       "order": 2147483647,
@@ -60727,7 +60727,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2398.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/ndn8p/2398.png"
         },
         {
           "id": 2399,
@@ -60744,7 +60744,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2399.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/ndn8p/2399.png"
         },
         {
           "id": 2400,
@@ -60761,7 +60761,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2400.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/ndn8p/2400.png"
         },
         {
           "id": 2401,
@@ -60778,10 +60778,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2401.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/ndn8p/2401.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_53_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_53_main_ndn8p.jpg"
     },
     {
       "collection": 20,
@@ -69092,6 +69092,15 @@
       "name": "ライルド！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/865.png"
+    },
+    {
+      "chapter": "2P07",
+      "id": 866,
+      "conditions": "「デジタル×みどりコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "デジどり！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/866.png"
     }
   ],
   "shops": [
