@@ -60617,6 +60617,39 @@
     },
     {
       "collection": 20,
+      "name": "サマーメイドTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 110,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 5,
+      "chapter": "2P07",
+      "items": [
+        {
+          "id": 2393,
+          "modelName": "SPCW11036_T01A",
+          "sealId": "PM2-4-178",
+          "name": "サマーメイドTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 8,
+          "color": 11,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 15,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2393.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 20,
       "name": "サマーメイドホワイトスカイ",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 52,
