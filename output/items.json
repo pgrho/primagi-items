@@ -62828,7 +62828,7 @@
       "directoryNumber": 54,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "gb5xl",
       "span": "こんしゅうのみんなでどっちでSHOW！ データをこえる！だれよりもすばらしいプリマジができるのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ データをこえる！だれよりもすばらしいプリマジができるのはどっち？",
       "order": 2147483647,
@@ -62849,7 +62849,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2403.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/gb5xl/2403.png"
         },
         {
           "id": 2404,
@@ -62866,7 +62866,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2404.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/gb5xl/2404.png"
         },
         {
           "id": 2405,
@@ -62883,7 +62883,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2405.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/gb5xl/2405.png"
         },
         {
           "id": 2406,
@@ -62900,10 +62900,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2406.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/gb5xl/2406.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_54_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_54_main_gb5xl.jpg"
     },
     {
       "collection": 20,
@@ -62912,7 +62912,7 @@
       "directoryNumber": 55,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "wdc15",
       "span": "こんしゅうのみんなでどっちでSHOW！ データをこえる！だれよりもすばらしいプリマジができるのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ データをこえる！だれよりもすばらしいプリマジができるのはどっち？",
       "order": 2147483647,
@@ -62933,7 +62933,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2407.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/wdc15/2407.png"
         },
         {
           "id": 2408,
@@ -62950,7 +62950,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2408.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/wdc15/2408.png"
         },
         {
           "id": 2409,
@@ -62967,7 +62967,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2409.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/wdc15/2409.png"
         },
         {
           "id": 2410,
@@ -62984,10 +62984,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2410.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/wdc15/2410.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_55_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_55_main_wdc15.jpg"
     },
     {
       "collection": 20,
