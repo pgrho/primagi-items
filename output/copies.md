@@ -193,6 +193,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/523.png "ようこそプリマジミュージカルの世界へ！")|523|2|6|イベント・キャンペーンでゲット|ようこそプリマジミュージカルの世界へ！|「プリマジミュージカルブルーチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/523.png|
 |![](https://cdn.primagi.jp/assets/images/copy/525.png "とうひょうありがとう！No.1コーデ！")|525|2|6|イベント・キャンペーンでゲット|とうひょうありがとう！No.1コーデ！|「とうひょうありがとう！そうせんきょコーデフェス」をクリアする|https://cdn.primagi.jp/assets/images/copy/525.png|
 |![](https://cdn.primagi.jp/assets/images/copy/526.png "りりしくかわいくサマーメイド")|526|2|7|イベント・キャンペーンでゲット|りりしくかわいくサマーメイド|「サマーメイドブラックベリーチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/526.png|
+|![](https://cdn.primagi.jp/assets/images/copy/527.png "マリンカラーでハッピー♥")|527|2|8|イベント・キャンペーンでゲット|マリンカラーでハッピー♥|「ハッピーデニムマリンチャンス」を1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/527.png|
 |![](https://cdn.primagi.jp/assets/images/copy/701.png "フレアエレメンツマスター")|701|1|2|イベント・キャンペーンでゲット|フレアエレメンツマスター|フレアエレメンツコーデをフルコーデきて「フレアエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/701.png|
 |![](https://cdn.primagi.jp/assets/images/copy/702.png "アクアエレメンツマスター")|702|1|3|イベント・キャンペーンでゲット|アクアエレメンツマスター|アクアエレメンツコーデをフルコーデきて「アクアエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/702.png|
 |![](https://cdn.primagi.jp/assets/images/copy/703.png "フラッシュエレメンツマスター")|703|1|4|イベント・キャンペーンでゲット|フラッシュエレメンツマスター|フラッシュエレメンツコーデをフルコーデきて「フラッシュエレメンツコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/703.png|
@@ -354,3 +355,4 @@
 |![](https://cdn.primagi.jp/assets/images/copy/864.png "ラブき！ウィナー")|864|2|7|ミックスコーデコンテストでゲット|ラブき！ウィナー|「ラブリー×きいろコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/864.png|
 |![](https://cdn.primagi.jp/assets/images/copy/865.png "ライルド！ウィナー")|865|2|7|ミックスコーデコンテストでゲット|ライルド！ウィナー|「ライブ×ゴールドコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/865.png|
 |![](https://cdn.primagi.jp/assets/images/copy/866.png "デジどり！ウィナー")|866|2|7|ミックスコーデコンテストでゲット|デジどり！ウィナー|「デジタル×みどりコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/866.png|
+|![](https://cdn.primagi.jp/assets/images/copy/867.png "あおシック！ウィナー")|867|2|7|ミックスコーデコンテストでゲット|あおシック！ウィナー|「あお×ゴシックコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/867.png|

@@ -61402,6 +61402,90 @@
     },
     {
       "collection": 20,
+      "name": "ハッピーデニムマリン",
+      "kinds": "期間限定",
+      "directoryNumber": 116,
+      "isShow": true,
+      "hasMainImage": true,
+      "whichShowId": null,
+      "span": "9月7日（木）～9月27日（水）　ハッピーデニムマリンチャンス",
+      "spanEventName": "9月7日（木）～9月27日（水）　ハッピーデニムマリンチャンス",
+      "order": 4,
+      "chapter": "2P08",
+      "items": [
+        {
+          "id": 2328,
+          "modelName": "SPCW11032_T01A",
+          "sealId": "PM2-4-142",
+          "name": "ハッピーデニムマリン",
+          "watcha": 500,
+          "genre": 3,
+          "brand": 1,
+          "color": 8,
+          "rarity": 2,
+          "category": 1,
+          "subCategory": 14,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2328.png"
+        },
+        {
+          "id": 2329,
+          "modelName": "SPCW11032_B01A",
+          "sealId": "PM2-4-143",
+          "name": "ハッピーデニムマリン",
+          "watcha": 500,
+          "genre": 3,
+          "brand": 1,
+          "color": 8,
+          "rarity": 2,
+          "category": 3,
+          "subCategory": 5,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2329.png"
+        },
+        {
+          "id": 2330,
+          "modelName": "SPCW11032_P01A",
+          "sealId": "PM2-4-144",
+          "name": "ハッピーデニムマリン",
+          "watcha": 450,
+          "genre": 3,
+          "brand": 1,
+          "color": 11,
+          "rarity": 2,
+          "category": 4,
+          "subCategory": 8,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2330.png"
+        },
+        {
+          "id": 2331,
+          "modelName": "SPCW11032_I01A",
+          "sealId": "PM2-4-145",
+          "name": "ハッピーデニムマリン",
+          "watcha": 450,
+          "genre": 3,
+          "brand": 1,
+          "color": 8,
+          "rarity": 2,
+          "category": 5,
+          "subCategory": 13,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2331.png"
+        }
+      ],
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_116_main.jpg"
+    },
+    {
+      "collection": 20,
       "name": "VIVIマジctSTAR Tシャツ",
       "kinds": "Tシャツ",
       "directoryNumber": 32,
@@ -62820,6 +62904,39 @@
         }
       ],
       "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_53_main_ndn8p.jpg"
+    },
+    {
+      "collection": 20,
+      "name": "サイバーゲームTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 117,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 8,
+      "chapter": "2P07",
+      "items": [
+        {
+          "id": 2402,
+          "modelName": "SPCW11026_T01A",
+          "sealId": "PM2-4-187",
+          "name": "サイバーゲームTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 5,
+          "color": 7,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 13,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/2402.png"
+        }
+      ],
+      "imageUrl": null
     },
     {
       "collection": 20,
@@ -70654,6 +70771,15 @@
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/526.png"
     },
     {
+      "chapter": "2P08",
+      "id": 527,
+      "conditions": "「ハッピーデニムマリンチャンス」を1かいあそぶ",
+      "url": null,
+      "name": "マリンカラーでハッピー♥",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/527.png"
+    },
+    {
       "chapter": "2P07",
       "id": 528,
       "conditions": "「セブンスコーデレディアントレインボー」を10かいきる",
@@ -71570,6 +71696,15 @@
       "name": "デジどり！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/866.png"
+    },
+    {
+      "chapter": "2P07",
+      "id": 867,
+      "conditions": "「あお×ゴシックコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "あおシック！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/867.png"
     }
   ],
   "shops": [
