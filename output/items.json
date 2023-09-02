@@ -63113,7 +63113,7 @@
       "directoryNumber": 56,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "nkl5h",
       "span": null,
       "order": 2147483647,
       "chapter": "2P08",
@@ -63133,10 +63133,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2412.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/nkl5h/2412.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_56_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_56_main_nkl5h.jpg"
     },
     {
       "collection": 20,
@@ -63145,7 +63145,7 @@
       "directoryNumber": 57,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "rp3om",
       "span": null,
       "order": 2147483647,
       "chapter": "2P08",
@@ -63165,10 +63165,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2416.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/rp3om/2416.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_57_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_57_main_rp3om.jpg"
     },
     {
       "collection": 20,
