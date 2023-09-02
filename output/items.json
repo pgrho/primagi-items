@@ -72204,15 +72204,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "147",
-      "name": "namco札幌エスタ店",
-      "prefecture": "北海道",
-      "address": "札幌市中央区北5条西2丁目1番地1ｴｽﾀ9階",
-      "latitude": 43.06752,
-      "longitude": 141.35365,
-      "shopGroup": "2"
-    },
-    {
       "id": "132",
       "name": "namcoラソラ札幌店",
       "prefecture": "北海道",
@@ -73464,15 +73455,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "1080",
-      "name": "モーリーファンタジー郡山フェスタ",
-      "prefecture": "福島県",
-      "address": "郡山市日和田町字小原1 ｲｵﾝ郡山ﾌｪｽﾀ店1階",
-      "latitude": 37.444696,
-      "longitude": 140.376535,
-      "shopGroup": "1"
-    },
-    {
       "id": "1070",
       "name": "モーリーファンタジー鏡石",
       "prefecture": "福島県",
@@ -74497,15 +74479,6 @@
       "latitude": 35.980123,
       "longitude": 139.657581,
       "shopGroup": "1"
-    },
-    {
-      "id": "1455",
-      "name": "宝島浦和美園",
-      "prefecture": "埼玉県",
-      "address": "さいたま市緑区美園5-50-1ｲｵﾝﾓｰﾙ浦和美園2F",
-      "latitude": 35.890875,
-      "longitude": 139.731249,
-      "shopGroup": "2"
     },
     {
       "id": "1420",
@@ -76074,6 +76047,15 @@
       "shopGroup": "1"
     },
     {
+      "id": "1614",
+      "name": "ドラマ瑞穂",
+      "prefecture": "東京都",
+      "address": "西多摩郡瑞穂町武蔵382-1",
+      "latitude": 35.763467,
+      "longitude": 139.356763,
+      "shopGroup": "1"
+    },
+    {
       "id": "1596",
       "name": "シルクハット大森",
       "prefecture": "東京都",
@@ -76812,15 +76794,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "608",
-      "name": "GiGO東京ドームシティ",
-      "prefecture": "東京都",
-      "address": "文京区後楽1-3-61",
-      "latitude": 35.703983,
-      "longitude": 139.753688,
-      "shopGroup": "2"
-    },
-    {
       "id": "607",
       "name": "GiGO竹の塚",
       "prefecture": "東京都",
@@ -77263,7 +77236,7 @@
     },
     {
       "id": "220",
-      "name": "THE 3RD PLANET 多摩センター",
+      "name": "アミューズメント＆ゲーム　マグレブ",
       "prefecture": "東京都",
       "address": "多摩市落合1-41-1 ﾏｸﾞﾚﾌﾞWEST1階･2階",
       "latitude": 35.624039,
@@ -79512,15 +79485,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "564",
-      "name": "GiGOアクアウォーク大垣",
-      "prefecture": "岐阜県",
-      "address": "大垣市林町6-80-21 ｱｸｱｳｫｰｸ大垣2F",
-      "latitude": 35.369882,
-      "longitude": 136.6173,
-      "shopGroup": "2"
-    },
-    {
       "id": "562",
       "name": "GiGOマーゴ関",
       "prefecture": "岐阜県",
@@ -81705,15 +81669,6 @@
       "address": "大阪市鶴見区鶴見4-17-1 ｲｵﾝ鶴見店3階",
       "latitude": 34.704823,
       "longitude": 135.567067,
-      "shopGroup": "1"
-    },
-    {
-      "id": "1244",
-      "name": "モーリーファンタジー長吉",
-      "prefecture": "大阪府",
-      "address": "大阪市平野区長吉長原西1-1-10 ｲｵﾝ長吉店4F",
-      "latitude": 34.608246,
-      "longitude": 135.56614,
       "shopGroup": "1"
     },
     {
@@ -84603,15 +84558,6 @@
       "address": "福岡市西区小戸2-12-30 ﾏﾘﾉｱｼﾃｨ福岡ﾏﾘﾅｻｲﾄﾞ棟2F",
       "latitude": 33.594844,
       "longitude": 130.322755,
-      "shopGroup": "1"
-    },
-    {
-      "id": "714",
-      "name": "タイトーステーション サニーサイドモール小倉",
-      "prefecture": "福岡県",
-      "address": "北九州市小倉南区下曽根新町10-1",
-      "latitude": 33.832316,
-      "longitude": 130.933174,
       "shopGroup": "1"
     },
     {
