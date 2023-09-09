@@ -64674,7 +64674,7 @@
       "directoryNumber": 58,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "x2kct",
       "span": "こんしゅうのみんなでどっちでSHOW！ このであいはきせき！すきないろはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ このであいはきせき！すきないろはどっち？",
       "order": 2147483647,
@@ -64695,7 +64695,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2421.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/x2kct/2421.png"
         },
         {
           "id": 2422,
@@ -64712,7 +64712,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2422.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/x2kct/2422.png"
         },
         {
           "id": 2423,
@@ -64729,7 +64729,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2423.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/x2kct/2423.png"
         },
         {
           "id": 2424,
@@ -64746,10 +64746,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2424.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/x2kct/2424.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_58_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_58_main_x2kct.jpg"
     },
     {
       "collection": 20,
@@ -64758,7 +64758,7 @@
       "directoryNumber": 59,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "7mp8w",
       "span": "こんしゅうのみんなでどっちでSHOW！ このであいはきせき！すきないろはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ このであいはきせき！すきないろはどっち？",
       "order": 2147483647,
@@ -64779,7 +64779,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2425.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/7mp8w/2425.png"
         },
         {
           "id": 2426,
@@ -64796,7 +64796,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2426.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/7mp8w/2426.png"
         },
         {
           "id": 2427,
@@ -64813,7 +64813,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2427.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/7mp8w/2427.png"
         },
         {
           "id": 2428,
@@ -64830,10 +64830,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2428.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/7mp8w/2428.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_59_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_59_main_7mp8w.jpg"
     },
     {
       "collection": 20,
