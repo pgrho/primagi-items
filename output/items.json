@@ -67135,6 +67135,73 @@
         }
       ],
       "imageUrl": null
+    },
+    {
+      "collection": 1,
+      "name": "セブンスコーデセクシーピンク",
+      "kinds": "プロモ",
+      "directoryNumber": 2,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "レインボーライブおすわりぬいぐるみ特典",
+      "spanEventName": "レインボーライブおすわりぬいぐるみ特典",
+      "order": 99,
+      "chapter": "2P08",
+      "items": [
+        {
+          "id": 99908,
+          "modelName": null,
+          "sealId": "P-459",
+          "name": "セブンスコーデセクシーピンク",
+          "watcha": 1200,
+          "genre": 3,
+          "brand": 8,
+          "color": 3,
+          "rarity": 3,
+          "category": 2,
+          "subCategory": 5,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/P-459.png"
+        },
+        {
+          "id": 99909,
+          "modelName": null,
+          "sealId": "P-460",
+          "name": "セブンスコーデセクシーピンク",
+          "watcha": 550,
+          "genre": 3,
+          "brand": 8,
+          "color": 3,
+          "rarity": 3,
+          "category": 4,
+          "subCategory": 16,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/P-460.png"
+        },
+        {
+          "id": 99910,
+          "modelName": null,
+          "sealId": "P-461",
+          "name": "セブンスコーデセクシーピンク",
+          "watcha": 550,
+          "genre": 3,
+          "brand": 8,
+          "color": 3,
+          "rarity": 3,
+          "category": 5,
+          "subCategory": 20,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/P-461.png"
+        }
+      ],
+      "imageUrl": null
     }
   ],
   "partCategories": [

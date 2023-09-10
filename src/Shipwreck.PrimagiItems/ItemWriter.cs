@@ -86,7 +86,12 @@ internal static class ItemWriter
 
         var jd = JArray.Parse(json);
         var rawitems = jd.ToObject<List<Item>>()!;
-        var items = rawitems.GroupBy(e => e.SealId).Select(e => e.First()).ToList();
+        var rawGroups = rawitems.GroupBy(e => e.SealId).ToList();
+        foreach (var g in rawGroups.Where(e => e.Select(c => c.kinds?.Length > 0 ? c.CoordinationName : null).Distinct().Count(e => e != null) > 1))
+        {
+            Console.Error?.WriteLine("Duplicate SealId: " + g.Key + " used by " + string.Join(",", g.Where(e => e.kinds?.Length > 0).Select(e => e.CoordinationName).Distinct()));
+        }
+        var items = rawGroups.Select<IGrouping<string, Item>, Item>(e => e.First()).ToList();
 
         var fe = (JObject)jd[0];
 
