@@ -12914,7 +12914,7 @@
           "isShowItem": false,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/P04/477.png"
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/PM4-001.png"
         },
         {
           "id": 478,
@@ -12931,7 +12931,7 @@
           "isShowItem": false,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/P04/478.png"
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/PM4-002.png"
         },
         {
           "id": 479,
@@ -12948,7 +12948,7 @@
           "isShowItem": false,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/P04/479.png"
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/PM4-003.png"
         }
       ],
       "imageUrl": "https://cdn.primagi.jp/assets/images/item/P04/img_codination_1_main.jpg"
@@ -14053,7 +14053,7 @@
           "isShowItem": false,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/P04/534.png"
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/PM4-054.png"
         },
         {
           "id": 535,
@@ -14070,7 +14070,7 @@
           "isShowItem": false,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/P04/535.png"
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/PM4-055.png"
         },
         {
           "id": 536,
@@ -14087,7 +14087,7 @@
           "isShowItem": false,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/P04/536.png"
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/PM4-056.png"
         }
       ],
       "imageUrl": "https://cdn.primagi.jp/assets/images/item/P04/img_codination_15_main.jpg"
@@ -17812,7 +17812,7 @@
           "isShowItem": false,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/P05/653.png"
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/PM5-001.png"
         },
         {
           "id": 654,
@@ -17829,7 +17829,7 @@
           "isShowItem": false,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/P05/654.png"
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/PM5-002.png"
         },
         {
           "id": 655,
@@ -17846,7 +17846,7 @@
           "isShowItem": false,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/P05/655.png"
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/PM5-003.png"
         }
       ],
       "imageUrl": "https://cdn.primagi.jp/assets/images/item/P05/img_codination_1_main.jpg"
@@ -19155,7 +19155,7 @@
           "isShowItem": false,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/P05/716.png"
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/PM5-064.png"
         },
         {
           "id": 717,
@@ -19172,7 +19172,7 @@
           "isShowItem": false,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/P05/717.png"
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/PM5-065.png"
         },
         {
           "id": 718,
@@ -19189,7 +19189,7 @@
           "isShowItem": false,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/P05/718.png"
+          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/PM5-066.png"
         }
       ],
       "imageUrl": "https://cdn.primagi.jp/assets/images/item/P05/img_codination_17_main.jpg"
@@ -64669,6 +64669,39 @@
     },
     {
       "collection": 20,
+      "name": "なるVSべるTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 135,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 10,
+      "chapter": "2P08",
+      "items": [
+        {
+          "id": 2420,
+          "modelName": "SPCW11046_T01A",
+          "sealId": "PM2-4-205",
+          "name": "なるVSべるTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 9,
+          "color": 10,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 8,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2420.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 20,
       "name": "きらめきのプリンセスなる",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 58,
@@ -73704,6 +73737,15 @@
       "name": "あおシック！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/867.png"
+    },
+    {
+      "chapter": "2P08",
+      "id": 868,
+      "conditions": "「みずいろ×スタイリッシュ×チェックコンテスト」の けっしょうせんをクリアする",
+      "url": null,
+      "name": "みずチェリッシュ！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/868.png"
     }
   ],
   "shops": [

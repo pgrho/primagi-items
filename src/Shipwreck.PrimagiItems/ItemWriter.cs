@@ -242,6 +242,7 @@ internal static class ItemWriter
             });
         }
 
+        var rawRepo = new Uri("https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/");
         foreach (var cg in items.GroupBy(e => new
         {
             e.collection,
@@ -266,6 +267,8 @@ internal static class ItemWriter
 
             foreach (var e in cg)
             {
+                var locImg = Path.Combine(directory.Parent!.FullName, "unlisted", "img", e.SealId + ".png");
+
                 coord.Items.Add(new()
                 {
                     Id = e.Id,
@@ -282,12 +285,11 @@ internal static class ItemWriter
                     IsShowItem = e.isShowItem,
                     Icon = e.icon ?? 0,
                     Release = e.release,
+                    ImageUrl = File.Exists(locImg) ? new Uri(rawRepo, e.SealId + ".png").ToString() : null
                 });
             }
         }
         var unlisted = JsonConvert.DeserializeObject<PrimagiDataSet>(await File.ReadAllTextAsync(Path.Combine(directory.Parent!.FullName, "unlisted", "unlistedItems.json")))!;
-
-        var rawRepo = new Uri("https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/");
 
         foreach (var uc in unlisted.Coordinations)
         {
