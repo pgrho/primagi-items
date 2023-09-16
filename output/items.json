@@ -63330,6 +63330,74 @@
     },
     {
       "collection": 20,
+      "name": "セブンスコーデセクシードレス",
+      "kinds": "期間限定",
+      "directoryNumber": 136,
+      "isShow": true,
+      "hasMainImage": true,
+      "whichShowId": null,
+      "span": "2023年9月21日（木）～10月18日（水）　プリティーリズムレインボーライブ10しゅうねんチャンス",
+      "spanEventName": "10月18日（水）　プリティーリズムレインボーライブ10しゅうねんチャンス",
+      "spanStart": "2023-09-21",
+      "order": 5,
+      "chapter": "2P08",
+      "items": [
+        {
+          "id": 2358,
+          "modelName": "SPCW10823_D01A",
+          "sealId": "PM2-4-361",
+          "name": "セブンスコーデセクシードレス",
+          "watcha": 1200,
+          "genre": 3,
+          "brand": 8,
+          "color": 11,
+          "rarity": 3,
+          "category": 2,
+          "subCategory": 13,
+          "isShowItem": true,
+          "icon": 22,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2358.png"
+        },
+        {
+          "id": 2359,
+          "modelName": "SPCW10823_P01A",
+          "sealId": "PM2-4-362",
+          "name": "セブンスコーデセクシードレス",
+          "watcha": 550,
+          "genre": 3,
+          "brand": 8,
+          "color": 2,
+          "rarity": 3,
+          "category": 4,
+          "subCategory": 9,
+          "isShowItem": true,
+          "icon": 22,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2359.png"
+        },
+        {
+          "id": 2360,
+          "modelName": "SPCW10823_I01A",
+          "sealId": "PM2-4-363",
+          "name": "セブンスコーデセクシードレス",
+          "watcha": 550,
+          "genre": 3,
+          "brand": 8,
+          "color": 3,
+          "rarity": 3,
+          "category": 5,
+          "subCategory": 2,
+          "isShowItem": true,
+          "icon": 22,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2360.png"
+        }
+      ],
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_136_main.jpg"
+    },
+    {
+      "collection": 20,
       "name": "パイレーツTシャツ",
       "kinds": "Tシャツ",
       "directoryNumber": 74,
@@ -64875,7 +64943,7 @@
       "directoryNumber": 60,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "hneef",
       "span": "こんしゅうのみんなでどっちでSHOW！ チャイナコーデでおどっちゃいな！かわいいのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ チャイナコーデでおどっちゃいな！かわいいのはどっち？",
       "order": 2147483647,
@@ -64896,7 +64964,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2430.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/hneef/2430.png"
         },
         {
           "id": 2431,
@@ -64913,7 +64981,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2431.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/hneef/2431.png"
         },
         {
           "id": 2432,
@@ -64930,7 +64998,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2432.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/hneef/2432.png"
         },
         {
           "id": 2433,
@@ -64947,10 +65015,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2433.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/hneef/2433.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_60_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_60_main_hneef.jpg"
     },
     {
       "collection": 20,
@@ -64959,7 +65027,7 @@
       "directoryNumber": 61,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "ommqd",
       "span": "こんしゅうのみんなでどっちでSHOW！ チャイナコーデでおどっちゃいな！かわいいのはどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ チャイナコーデでおどっちゃいな！かわいいのはどっち？",
       "order": 2147483647,
@@ -64980,7 +65048,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2434.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/ommqd/2434.png"
         },
         {
           "id": 2435,
@@ -64997,7 +65065,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2435.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/ommqd/2435.png"
         },
         {
           "id": 2436,
@@ -65014,7 +65082,7 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2436.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/ommqd/2436.png"
         },
         {
           "id": 2437,
@@ -65031,10 +65099,10 @@
           "isShowItem": true,
           "icon": 0,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2437.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/ommqd/2437.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_61_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_61_main_ommqd.jpg"
     },
     {
       "collection": 20,
@@ -65826,6 +65894,73 @@
     },
     {
       "collection": 21,
+      "name": "セブンスコーデセクシーピンク",
+      "kinds": "プロモ",
+      "directoryNumber": 25,
+      "isShow": true,
+      "hasMainImage": true,
+      "whichShowId": null,
+      "span": "プリズムストーンショップ　レインボーライブ10周年ぬいぐるみ予約特典",
+      "spanEventName": "プリズムストーンショップ　レインボーライブ10周年ぬいぐるみ予約特典",
+      "order": 7,
+      "chapter": "2P07",
+      "items": [
+        {
+          "id": 20676,
+          "modelName": "SPCW11030_D01A",
+          "sealId": "P-459",
+          "name": "セブンスコーデセクシーピンク",
+          "watcha": 1200,
+          "genre": 3,
+          "brand": 8,
+          "color": 3,
+          "rarity": 3,
+          "category": 2,
+          "subCategory": 5,
+          "isShowItem": true,
+          "icon": 22,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/20676.png"
+        },
+        {
+          "id": 20677,
+          "modelName": "SPCW11030_P01A",
+          "sealId": "P-460",
+          "name": "セブンスコーデセクシーピンク",
+          "watcha": 550,
+          "genre": 3,
+          "brand": 8,
+          "color": 3,
+          "rarity": 3,
+          "category": 4,
+          "subCategory": 16,
+          "isShowItem": true,
+          "icon": 22,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/20677.png"
+        },
+        {
+          "id": 20678,
+          "modelName": "SPCW11030_I01A",
+          "sealId": "P-461",
+          "name": "セブンスコーデセクシーピンク",
+          "watcha": 550,
+          "genre": 3,
+          "brand": 8,
+          "color": 3,
+          "rarity": 3,
+          "category": 5,
+          "subCategory": 20,
+          "isShowItem": true,
+          "icon": 22,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/20678.png"
+        }
+      ],
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_25_main.jpg"
+    },
+    {
+      "collection": 21,
       "name": "ポッピンスウィムオレンジ",
       "kinds": "プロモ",
       "directoryNumber": 26,
@@ -66431,6 +66566,90 @@
     },
     {
       "collection": 21,
+      "name": "ロイヤルミルクティーパーティー",
+      "kinds": "プロモ",
+      "directoryNumber": 137,
+      "isShow": true,
+      "hasMainImage": true,
+      "whichShowId": null,
+      "span": "スタジオ第8章　モーリーファンタジー・PALO限定　SR「ロイヤルミルクティーパーティー」ゲットキャンペーン！",
+      "spanEventName": "スタジオ第8章　モーリーファンタジー・PALO限定　SR「ロイヤルミルクティーパーティー」ゲットキャンペーン！",
+      "order": 7,
+      "chapter": "2P08",
+      "items": [
+        {
+          "id": 20706,
+          "modelName": "SPCW11075_T01A",
+          "sealId": "P-482",
+          "name": "ロイヤルミルクティーパーティー",
+          "watcha": 500,
+          "genre": 3,
+          "brand": 3,
+          "color": 8,
+          "rarity": 2,
+          "category": 1,
+          "subCategory": 8,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/20706.png"
+        },
+        {
+          "id": 20707,
+          "modelName": "SPCW11075_B01A",
+          "sealId": "P-483",
+          "name": "ロイヤルミルクティーパーティー",
+          "watcha": 500,
+          "genre": 3,
+          "brand": 3,
+          "color": 8,
+          "rarity": 2,
+          "category": 3,
+          "subCategory": 20,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/20707.png"
+        },
+        {
+          "id": 20708,
+          "modelName": "SPCW11075_P01A",
+          "sealId": "P-484",
+          "name": "ロイヤルミルクティーパーティー",
+          "watcha": 450,
+          "genre": 3,
+          "brand": 3,
+          "color": 8,
+          "rarity": 2,
+          "category": 4,
+          "subCategory": 16,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/20708.png"
+        },
+        {
+          "id": 20709,
+          "modelName": "SPCW11075_I01A",
+          "sealId": "P-485",
+          "name": "ロイヤルミルクティーパーティー",
+          "watcha": 450,
+          "genre": 3,
+          "brand": 3,
+          "color": 11,
+          "rarity": 2,
+          "category": 5,
+          "subCategory": 15,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/20709.png"
+        }
+      ],
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_137_main.jpg"
+    },
+    {
+      "collection": 21,
       "name": "ポッピンスウィムグリーン",
       "kinds": "プロモ",
       "directoryNumber": 40,
@@ -66747,6 +66966,39 @@
         }
       ],
       "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_115_main.jpg"
+    },
+    {
+      "collection": 21,
+      "name": "ラララ ララちゃんＴシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 138,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "2023年９月21日（木）～10月18日（水）モーリーファンタジー・PALO　Tシャツショップに登場",
+      "spanEventName": "2023年９月21日（木）～10月18日（水）モーリーファンタジー・PALO　Tシャツショップに登場",
+      "order": 11,
+      "chapter": "2P08",
+      "items": [
+        {
+          "id": 20727,
+          "modelName": "SPCW10934_T01A",
+          "sealId": "T-038",
+          "name": "ラララ ララちゃんＴシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 8,
+          "color": 3,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 16,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/20727.png"
+        }
+      ],
+      "imageUrl": null
     },
     {
       "collection": 19,
@@ -67165,73 +67417,6 @@
           "icon": 0,
           "release": 0,
           "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/2-1-265.png"
-        }
-      ],
-      "imageUrl": null
-    },
-    {
-      "collection": 1,
-      "name": "セブンスコーデセクシーピンク",
-      "kinds": "プロモ",
-      "directoryNumber": 2,
-      "isShow": true,
-      "hasMainImage": false,
-      "whichShowId": null,
-      "span": "レインボーライブおすわりぬいぐるみ特典",
-      "spanEventName": "レインボーライブおすわりぬいぐるみ特典",
-      "order": 99,
-      "chapter": "2P08",
-      "items": [
-        {
-          "id": 99908,
-          "modelName": null,
-          "sealId": "P-459",
-          "name": "セブンスコーデセクシーピンク",
-          "watcha": 1200,
-          "genre": 3,
-          "brand": 8,
-          "color": 3,
-          "rarity": 3,
-          "category": 2,
-          "subCategory": 5,
-          "isShowItem": true,
-          "icon": 0,
-          "release": 0,
-          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/P-459.png"
-        },
-        {
-          "id": 99909,
-          "modelName": null,
-          "sealId": "P-460",
-          "name": "セブンスコーデセクシーピンク",
-          "watcha": 550,
-          "genre": 3,
-          "brand": 8,
-          "color": 3,
-          "rarity": 3,
-          "category": 4,
-          "subCategory": 16,
-          "isShowItem": true,
-          "icon": 0,
-          "release": 0,
-          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/P-460.png"
-        },
-        {
-          "id": 99910,
-          "modelName": null,
-          "sealId": "P-461",
-          "name": "セブンスコーデセクシーピンク",
-          "watcha": 550,
-          "genre": 3,
-          "brand": 8,
-          "color": 3,
-          "rarity": 3,
-          "category": 5,
-          "subCategory": 20,
-          "isShowItem": true,
-          "icon": 0,
-          "release": 0,
-          "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/P-461.png"
         }
       ],
       "imageUrl": null
@@ -73746,6 +73931,15 @@
       "name": "みずチェリッシュ！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/868.png"
+    },
+    {
+      "chapter": "2P08",
+      "id": 869,
+      "conditions": "「むらさき×ミステリアスコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "むらさリアス！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/869.png"
     }
   ],
   "shops": [

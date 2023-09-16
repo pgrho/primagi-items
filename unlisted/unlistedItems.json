@@ -172,67 +172,67 @@
       ],
       "imageUrl": null
     },
-    {
-      "collection": 1,
-      "name": "セブンスコーデセクシーピンク",
-      "kinds": "プロモ",
-      "directoryNumber": 2,
-      "isShow": true,
-      "hasMainImage": false,
-      "span": "レインボーライブおすわりぬいぐるみ特典",
-      "order": 99,
-      "chapter": "2P08",
-      "items": [
-        {
-          "id": 99908,
-          "sealId": "P-459",
-          "name": "セブンスコーデセクシーピンク",
-          "watcha": 1200,
-          "genre": 3,
-          "brand": 8,
-          "color": 3,
-          "rarity": 3,
-          "category": 2,
-          "subCategory": 5,
-          "isShowItem": true,
-          "icon": 0,
-          "release": 0,
-          "imageUrl": "P-459.png"
-        },
-        {
-          "id": 99909,
-          "sealId": "P-460",
-          "name": "セブンスコーデセクシーピンク",
-          "watcha": 550,
-          "genre": 3,
-          "brand": 8,
-          "color": 3,
-          "rarity": 3,
-          "category": 4,
-          "subCategory": 16,
-          "isShowItem": true,
-          "icon": 0,
-          "release": 0,
-          "imageUrl": "P-460.png"
-        },
-        {
-          "id": 99910,
-          "sealId": "P-461",
-          "name": "セブンスコーデセクシーピンク",
-          "watcha": 550,
-          "genre": 3,
-          "brand": 8,
-          "color": 3,
-          "rarity": 3,
-          "category": 5,
-          "subCategory": 20,
-          "isShowItem": true,
-          "icon": 0,
-          "release": 0,
-          "imageUrl": "P-461.png"
-        }
-      ]
-    },
+    //{
+    //  "collection": 1,
+    //  "name": "セブンスコーデセクシーピンク",
+    //  "kinds": "プロモ",
+    //  "directoryNumber": 2,
+    //  "isShow": true,
+    //  "hasMainImage": false,
+    //  "span": "レインボーライブおすわりぬいぐるみ特典",
+    //  "order": 99,
+    //  "chapter": "2P08",
+    //  "items": [
+    //    {
+    //      "id": 99908,
+    //      "sealId": "P-459",
+    //      "name": "セブンスコーデセクシーピンク",
+    //      "watcha": 1200,
+    //      "genre": 3,
+    //      "brand": 8,
+    //      "color": 3,
+    //      "rarity": 3,
+    //      "category": 2,
+    //      "subCategory": 5,
+    //      "isShowItem": true,
+    //      "icon": 0,
+    //      "release": 0,
+    //      "imageUrl": "P-459.png"
+    //    },
+    //    {
+    //      "id": 99909,
+    //      "sealId": "P-460",
+    //      "name": "セブンスコーデセクシーピンク",
+    //      "watcha": 550,
+    //      "genre": 3,
+    //      "brand": 8,
+    //      "color": 3,
+    //      "rarity": 3,
+    //      "category": 4,
+    //      "subCategory": 16,
+    //      "isShowItem": true,
+    //      "icon": 0,
+    //      "release": 0,
+    //      "imageUrl": "P-460.png"
+    //    },
+    //    {
+    //      "id": 99910,
+    //      "sealId": "P-461",
+    //      "name": "セブンスコーデセクシーピンク",
+    //      "watcha": 550,
+    //      "genre": 3,
+    //      "brand": 8,
+    //      "color": 3,
+    //      "rarity": 3,
+    //      "category": 5,
+    //      "subCategory": 20,
+    //      "isShowItem": true,
+    //      "icon": 0,
+    //      "release": 0,
+    //      "imageUrl": "P-461.png"
+    //    }
+    //  ]
+    //},
 
 
     {
@@ -488,12 +488,12 @@
     {
       "chapter": "2P08",
       "name": "パンダチャイナしろくろ",
-      "whichShowId": ""
+      "whichShowId": "hneef"
     },
     {
       "chapter": "2P08",
       "name": "チャイナネオンしろくろ",
-      "whichShowId": ""
+      "whichShowId": "ommqd"
     },
     {
       "chapter": "2P08",
