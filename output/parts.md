@@ -191,6 +191,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7248.png "ひめめアイ")|id7248|ひめめアイ|プリマジ公式ファンブック スタジオ第7・8章|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7248.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7149.png "ハッピーアイ")|id7149|ハッピーアイ|フレンドランクが49になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7149.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7250.png "ジェニー アイ")|id7250|ジェニー アイ|#Liccaコラボ第2弾|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7250.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7351.png "ぱたのアイ")|id7351|ぱたのアイ|2023年10月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7351.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id14142.png "フラワースプリング")|id14142|フラワースプリング|スタジオ第7章・第8章スクラッチ(8月31日～10月4日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id14142.png|
 ## アイシャドウ
 
@@ -242,6 +243,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id1117.png "どきどきチーク")|id1117|どきどきチーク|プリマジスタランクが71になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id1117.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id11210.png "マシュマロピーチ")|id11210|マシュマロピーチ|スタジオ第3章・第4章スクラッチでポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id11210.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id11111.png "クリスタルジェム")|id11111|クリスタルジェム|プリマジスタランクが92になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id11111.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id11312.png "ハロウィンパーティー")|id11312|ハロウィンパーティー|2023年10月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id11312.png|
 ## リップ
 
 ||ID|名前|取得条件|画像|
