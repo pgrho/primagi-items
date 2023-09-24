@@ -65327,7 +65327,7 @@
       "directoryNumber": 62,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "5duve",
       "span": "こんしゅうのみんなでどっちでSHOW！ こてつくんとうちゅうのなぞをときあかそう！おそろいにするならどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ こてつくんとうちゅうのなぞをときあかそう！おそろいにするならどっち？",
       "order": 2147483647,
@@ -65348,7 +65348,7 @@
           "isShowItem": true,
           "icon": 13,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2439.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/5duve/2439.png"
         },
         {
           "id": 2440,
@@ -65365,7 +65365,7 @@
           "isShowItem": true,
           "icon": 13,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2440.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/5duve/2440.png"
         },
         {
           "id": 2441,
@@ -65382,7 +65382,7 @@
           "isShowItem": true,
           "icon": 13,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2441.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/5duve/2441.png"
         },
         {
           "id": 2442,
@@ -65399,10 +65399,10 @@
           "isShowItem": true,
           "icon": 13,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2442.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/5duve/2442.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_62_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_62_main_5duve.jpg"
     },
     {
       "collection": 20,
@@ -65411,7 +65411,7 @@
       "directoryNumber": 63,
       "isShow": false,
       "hasMainImage": true,
-      "whichShowId": null,
+      "whichShowId": "lndgr",
       "span": "こんしゅうのみんなでどっちでSHOW！ こてつくんとうちゅうのなぞをときあかそう！おそろいにするならどっち？",
       "spanEventName": "こんしゅうのみんなでどっちでSHOW！ こてつくんとうちゅうのなぞをときあかそう！おそろいにするならどっち？",
       "order": 2147483647,
@@ -65432,7 +65432,7 @@
           "isShowItem": true,
           "icon": 13,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2443.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/lndgr/2443.png"
         },
         {
           "id": 2444,
@@ -65449,7 +65449,7 @@
           "isShowItem": true,
           "icon": 13,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2444.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/lndgr/2444.png"
         },
         {
           "id": 2445,
@@ -65466,10 +65466,10 @@
           "isShowItem": true,
           "icon": 13,
           "release": 0,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2445.png"
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/lndgr/2445.png"
         }
       ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_63_main.jpg"
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_63_main_lndgr.jpg"
     },
     {
       "collection": 20,
@@ -74317,6 +74317,15 @@
       "name": "むらさリアス！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/869.png"
+    },
+    {
+      "chapter": "2P08",
+      "id": 870,
+      "conditions": "「フラワー×ちゃいろコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "フラちゃ！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/870.png"
     }
   ],
   "shops": [
