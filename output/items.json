@@ -65322,6 +65322,39 @@
     },
     {
       "collection": 20,
+      "name": "こてつくんいってきます！Tシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 147,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 14,
+      "chapter": "2P08",
+      "items": [
+        {
+          "id": 2438,
+          "modelName": "SPCW11071_T01A",
+          "sealId": "PM2-4-223",
+          "name": "こてつくんいってきます！Tシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 8,
+          "color": 11,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 14,
+          "isShowItem": true,
+          "icon": 13,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2438.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 20,
       "name": "こてつくんギャラクシーオレンジ",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 62,
@@ -74330,6 +74363,15 @@
   ],
   "shops": [
     {
+      "id": "1615",
+      "name": "東急百貨店さっぽろアミューズパーク",
+      "prefecture": "北海道",
+      "address": "札幌市中央区北4条西2-1 札幌東急内9階",
+      "latitude": 43.066404,
+      "longitude": 141.352543,
+      "shopGroup": "1"
+    },
+    {
       "id": "1584",
       "name": "キャッツアイ苫小牧駅前",
       "prefecture": "北海道",
@@ -76814,15 +76856,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "1216",
-      "name": "モーリーファンタジー太田",
-      "prefecture": "群馬県",
-      "address": "太田市石原町81 ｲｵﾝ太田店2階",
-      "latitude": 36.295487,
-      "longitude": 139.400463,
-      "shopGroup": "1"
-    },
-    {
       "id": "1207",
       "name": "モーリーファンタジー倉賀野",
       "prefecture": "群馬県",
@@ -76991,6 +77024,15 @@
       "address": "高崎市栄町1-1",
       "latitude": 36.323184,
       "longitude": 139.013948,
+      "shopGroup": "1"
+    },
+    {
+      "id": "1617",
+      "name": "宝島浦和美園",
+      "prefecture": "埼玉県",
+      "address": "さいたま市緑区美園5-50-1 ｲｵﾝﾓｰﾙ浦和美園2F ",
+      "latitude": 35.889796,
+      "longitude": 139.732137,
       "shopGroup": "1"
     },
     {
@@ -78668,6 +78710,15 @@
       "shopGroup": "1"
     },
     {
+      "id": "1618",
+      "name": "GiGO東京ドームシティ",
+      "prefecture": "東京都",
+      "address": "文京区後楽1-3-61 ",
+      "latitude": 35.705156,
+      "longitude": 139.753973,
+      "shopGroup": "1"
+    },
+    {
       "id": "1614",
       "name": "ドラマ瑞穂",
       "prefecture": "東京都",
@@ -79556,15 +79607,6 @@
       "address": "武蔵野市吉祥寺本町1-11-5",
       "latitude": 35.705077,
       "longitude": 139.579677,
-      "shopGroup": "1"
-    },
-    {
-      "id": "470",
-      "name": "キッズトレイン永山",
-      "prefecture": "東京都",
-      "address": "多摩市永山1-4ｸﾞﾘﾅｰﾄﾞ永山3階",
-      "latitude": 35.628974,
-      "longitude": 139.44811,
       "shopGroup": "1"
     },
     {
@@ -81959,6 +82001,15 @@
       "address": "上田市天神3-5-1ｱﾘｵ上田1F",
       "latitude": 36.399261,
       "longitude": 138.244577,
+      "shopGroup": "1"
+    },
+    {
+      "id": "1619",
+      "name": "GiGOアクアウォーク大垣",
+      "prefecture": "岐阜県",
+      "address": "大垣市林町6-80-21 ｱｸｱｳｫｰｸ大垣2F",
+      "latitude": 35.368944,
+      "longitude": 136.616985,
       "shopGroup": "1"
     },
     {
@@ -86246,6 +86297,15 @@
       "shopGroup": "1"
     },
     {
+      "id": "1616",
+      "name": "テクモピア柳井",
+      "prefecture": "山口県",
+      "address": "柳井市駅南1-14 ﾐｽﾀｰﾏｯｸｽ柳井ｼｮｯﾋﾟﾝｸﾞｾﾝﾀｰ内",
+      "latitude": 33.966159,
+      "longitude": 132.104436,
+      "shopGroup": "1"
+    },
+    {
       "id": "1583",
       "name": "アピナ徳山",
       "prefecture": "山口県",
@@ -86900,15 +86960,6 @@
       "address": "福岡市東区東浜1-1-1 ゆめﾀｳﾝ博多店2F",
       "latitude": 33.611874,
       "longitude": 130.411892,
-      "shopGroup": "1"
-    },
-    {
-      "id": "1369",
-      "name": "ゆめタウン八女店",
-      "prefecture": "福岡県",
-      "address": "八女市大字蒲原988-28",
-      "latitude": 33.215428,
-      "longitude": 130.547203,
       "shopGroup": "1"
     },
     {
