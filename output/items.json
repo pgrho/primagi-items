@@ -65673,6 +65673,39 @@
     },
     {
       "collection": 20,
+      "name": "みゃむチムムプリンセスTシャツ",
+      "kinds": "Tシャツ",
+      "directoryNumber": 149,
+      "isShow": true,
+      "hasMainImage": false,
+      "whichShowId": null,
+      "span": "Tシャツショップ どっちでSHOWに投票する",
+      "spanEventName": "Tシャツショップ どっちでSHOWに投票する",
+      "order": 16,
+      "chapter": "2P08",
+      "items": [
+        {
+          "id": 2454,
+          "modelName": "SPCW11072_T01A",
+          "sealId": "PM2-4-239",
+          "name": "みゃむチムムプリンセスTシャツ",
+          "watcha": 400,
+          "genre": 1,
+          "brand": 9,
+          "color": 7,
+          "rarity": 1,
+          "category": 1,
+          "subCategory": 14,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P08/2454.png"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "collection": 20,
       "name": "みゃむラブリーメロディプリンセス",
       "kinds": "めちゃマジ注目スペシャルコーデ",
       "directoryNumber": 66,
