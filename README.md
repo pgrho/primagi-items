@@ -15,6 +15,7 @@
 - [スタジオ第６章](./output/2P06.md)
 - [スタジオ第７章](./output/2P07.md)
 - [スタジオ第８章](./output/2P08.md)
+- [プリティーオールスター第１章](./output/3P01.md)
 - [CSV](./output/items.csv)
 - [TSV](./output/items.tsv)
 

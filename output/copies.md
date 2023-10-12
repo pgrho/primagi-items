@@ -119,6 +119,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/79.png "プリマジスタジオライブレギュラー")|79|2|1|リズムゲームでゲット|プリマジスタジオライブレギュラー|プリマジスタジオライブを50かいあそんだ|https://cdn.primagi.jp/assets/images/copy/79.png|
 |![](https://cdn.primagi.jp/assets/images/copy/80.png "プリマジスタジオライブトップスター")|80|2|1|リズムゲームでゲット|プリマジスタジオライブトップスター|プリマジスタジオライブを100かいあそんだ|https://cdn.primagi.jp/assets/images/copy/80.png|
 |![](https://cdn.primagi.jp/assets/images/copy/81.png "プリマジスタジオライブ殿堂入り")|81|2|1|リズムゲームでゲット|プリマジスタジオライブ殿堂入り|プリマジスタジオライブを300かいあそんだ|https://cdn.primagi.jp/assets/images/copy/81.png|
+|![](https://cdn.primagi.jp/assets/images/copy/86.png "オールスター第1章プリマジマスター")|86|2|9|リズムゲームでゲット|オールスター第1章プリマジマスター|オールスターだい1しょうでプリマジを30かいあそぶ|https://cdn.primagi.jp/assets/images/copy/86.png|
 |![](https://cdn.primagi.jp/assets/images/copy/101.png "はじめてのプリマジスタ")|101|1|1|リズムゲームでゲット|はじめてのプリマジスタ|プリマジを1かいする|https://cdn.primagi.jp/assets/images/copy/101.png|
 |![](https://cdn.primagi.jp/assets/images/copy/102.png "うわさのルーキープリマジスタ")|102|1|1|リズムゲームでゲット|うわさのルーキープリマジスタ|プリマジを10かいする|https://cdn.primagi.jp/assets/images/copy/102.png|
 |![](https://cdn.primagi.jp/assets/images/copy/103.png "がんばるフレッシュプリマジスタ")|103|1|1|リズムゲームでゲット|がんばるフレッシュプリマジスタ|プリマジを20かいする|https://cdn.primagi.jp/assets/images/copy/103.png|
@@ -161,6 +162,8 @@
 |![](https://cdn.primagi.jp/assets/images/copy/432.png "ようこそ！プリマジミュージック・アワー")|432|2|7|リズムゲームでゲット|ようこそ！プリマジミュージック・アワー|「ようこそ！プリマジミュージック・アワー」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/432.png|
 |![](https://cdn.primagi.jp/assets/images/copy/433.png "gift")|433|2|7|リズムゲームでゲット|gift|「gift」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/433.png|
 |![](https://cdn.primagi.jp/assets/images/copy/434.png "Dear My Miracle Princess")|434|2|8|リズムゲームでゲット|Dear My Miracle Princess|「Dear My Miracle Princess」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/434.png|
+|![](https://cdn.primagi.jp/assets/images/copy/435.png "morning")|435|2|9|リズムゲームでゲット|morning|「morning」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/435.png|
+|![](https://cdn.primagi.jp/assets/images/copy/436.png "オトメパズル～恋するEVERYDAY～")|436|2|9|リズムゲームでゲット|オトメパズル～恋するEVERYDAY～|「オトメパズル～恋するEVERYDAY～2023」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/436.png|
 ## マイキャラメイクでゲット
 
 ||ID|年|章|カテゴリー|名前|取得条件|画像|
@@ -230,6 +233,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/312.png "プリマジスタジオ第6章ラストプリンセス")|312|2|6|期間限定でゲット|プリマジスタジオ第6章ラストプリンセス|プリマジスタジオだい6しょうのさいごのしゅうに10かいあそぶ ※2023年7月13日(木)～7月19日(水)|https://cdn.primagi.jp/assets/images/copy/312.png|
 |![](https://cdn.primagi.jp/assets/images/copy/313.png "プリマジスタジオ第7章ラストプリンセス")|313|2|7|期間限定でゲット|プリマジスタジオ第7章ラストプリンセス|プリマジスタジオだい7しょうのさいごのしゅうに10かいあそぶ※ 8月24日(木)～8月30日(水)|https://cdn.primagi.jp/assets/images/copy/313.png|
 |![](https://cdn.primagi.jp/assets/images/copy/314.png "プリマジスタジオ第8章ラストプリンセス")|314|2|8|期間限定でゲット|プリマジスタジオ第8章ラストプリンセス|プリマジスタジオだい8しょうのさいごのしゅうに10かいあそぶ※ 10月12日(木)～10月18日(水)|https://cdn.primagi.jp/assets/images/copy/314.png|
+|![](https://cdn.primagi.jp/assets/images/copy/315.png "オールスター第1章ラストプリンセス")|315|2|9|期間限定でゲット|オールスター第1章ラストプリンセス|オールスターだい1しょうのさいごのしゅうに10かいあそぶ ※ 12月14日(木)～12月20日(水)|https://cdn.primagi.jp/assets/images/copy/315.png|
 |![](https://cdn.primagi.jp/assets/images/copy/321.png "ファーストプリンセス2022春")|321|1|4|期間限定でゲット|ファーストプリンセス2022春|だい４しょうのさいしょのしゅうに10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/321.png|
 |![](https://cdn.primagi.jp/assets/images/copy/322.png "ファーストプリンセス2022初夏")|322|1|5|期間限定でゲット|ファーストプリンセス2022初夏|だい5しょうのさいしょのしゅうに10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/322.png|
 |![](https://cdn.primagi.jp/assets/images/copy/323.png "ファーストプリンセス2022夏")|323|1|6|期間限定でゲット|ファーストプリンセス2022夏|だい6しょうのさいしょのしゅうに10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/323.png|
@@ -241,6 +245,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/329.png "ファーストプリンセス2023梅雨")|329|2|6|期間限定でゲット|ファーストプリンセス2023梅雨|プリマジスタジオだい6しょうのさいしょのしゅうに10かいあそぶ ※2023年6月8日(木)～6月14日(水)|https://cdn.primagi.jp/assets/images/copy/329.png|
 |![](https://cdn.primagi.jp/assets/images/copy/330.png "ファーストプリンセス2023夏")|330|2|7|期間限定でゲット|ファーストプリンセス2023夏|プリマジスタジオだい7しょうのさいしょのしゅうに10かいあそぶ※ 7月20日(木)～7月26日(水)|https://cdn.primagi.jp/assets/images/copy/330.png|
 |![](https://cdn.primagi.jp/assets/images/copy/331.png "ファーストプリンセス2023秋")|331|2|8|期間限定でゲット|ファーストプリンセス2023秋|プリマジスタジオだい8しょうのさいしょのしゅうに10かいあそぶ※ 8月31日(木)～9月6日(水)|https://cdn.primagi.jp/assets/images/copy/331.png|
+|![](https://cdn.primagi.jp/assets/images/copy/332.png "ファーストプリンセス2023紅葉")|332|2|9|期間限定でゲット|ファーストプリンセス2023紅葉|オールスターだい1しょうのさいしょのしゅうに10かいあそぶ ※ 10月19日(木)～10月25日(水)|https://cdn.primagi.jp/assets/images/copy/332.png|
 ## プリマジスタジオランウェイでゲット
 
 ||ID|年|章|カテゴリー|名前|取得条件|画像|
