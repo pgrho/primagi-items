@@ -77549,6 +77549,15 @@
       "name": "キューか！ウィナー",
       "category": 10,
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/872.png"
+    },
+    {
+      "chapter": "2P08",
+      "id": 873,
+      "conditions": "「しろ×カジュアル×ガーリーコンテスト」のけっしょうせんをクリアする",
+      "url": null,
+      "name": "しろジュアーリー！ウィナー",
+      "category": 10,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/873.png"
     }
   ],
   "shops": [
@@ -77664,7 +77673,7 @@
       "id": "1172",
       "name": "ゲームコーナー新さっぽろ",
       "prefecture": "北海道",
-      "address": "札幌市厚別区厚別中央2条5-6-2 duo22Fｹﾞｰﾑｺｰﾅｰ",
+      "address": "札幌市厚別区厚別中央2条5-6-2 duo2 2Fｹﾞｰﾑｺｰﾅｰ",
       "latitude": 43.038972,
       "longitude": 141.47249,
       "shopGroup": "1"
@@ -78471,6 +78480,15 @@
       "shopGroup": "1"
     },
     {
+      "id": "622",
+      "name": "ソユーゲームフィールド 釜石",
+      "prefecture": "岩手県",
+      "address": "釜石市港町二丁目1番1号ｲｵﾝﾀｳﾝ釜石店3F",
+      "latitude": 39.2714,
+      "longitude": 141.881872,
+      "shopGroup": "1"
+    },
+    {
       "id": "598",
       "name": "GiGO水沢",
       "prefecture": "岩手県",
@@ -78777,15 +78795,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "622",
-      "name": "ソユーゲームフィールド 釜石",
-      "prefecture": "宮城県",
-      "address": "釜石市港町二丁目1番1号ｲｵﾝﾀｳﾝ釜石店3F",
-      "latitude": 39.2714,
-      "longitude": 141.881872,
-      "shopGroup": "1"
-    },
-    {
       "id": "616",
       "name": "GiGO名取",
       "prefecture": "宮城県",
@@ -78957,15 +78966,6 @@
       "shopGroup": "1"
     },
     {
-      "id": "1474",
-      "name": "AN.KIN.TAN五城目店",
-      "prefecture": "秋田県",
-      "address": "南秋田郡五城目町大字大川西野字田屋前138 イオンスーパーセンター五城目店内",
-      "latitude": 39.943897,
-      "longitude": 140.111535,
-      "shopGroup": "1"
-    },
-    {
       "id": "1434",
       "name": "秋田OPAアミューズパーク",
       "prefecture": "秋田県",
@@ -79035,15 +79035,6 @@
       "address": "横手市安田字向田147 ｲｵﾝ横手店2階",
       "latitude": 39.298556,
       "longitude": 140.55373,
-      "shopGroup": "1"
-    },
-    {
-      "id": "974",
-      "name": "メルヘンランド大館",
-      "prefecture": "秋田県",
-      "address": "大館市御成町3丁目7-58 いとく大館ｼｮｯﾋﾟﾝｸﾞｾﾝﾀｰ3階",
-      "latitude": 40.280803,
-      "longitude": 140.560375,
       "shopGroup": "1"
     },
     {
@@ -81925,15 +81916,6 @@
       "latitude": 35.648608,
       "longitude": 139.802095,
       "shopGroup": "1"
-    },
-    {
-      "id": "1581",
-      "name": "SoLaDo竹下通りプリマジスポット",
-      "prefecture": "東京都",
-      "address": "渋谷区神宮前1-8-2　SoLaDo竹下通り1階",
-      "latitude": 35.67057,
-      "longitude": 139.706095,
-      "shopGroup": "2"
     },
     {
       "id": "1568",

@@ -373,3 +373,4 @@
 |![](https://cdn.primagi.jp/assets/images/copy/870.png "フラちゃ！ウィナー")|870|2|8|ミックスコーデコンテストでゲット|フラちゃ！ウィナー|「フラワー×ちゃいろコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/870.png|
 |![](https://cdn.primagi.jp/assets/images/copy/871.png "ピンマル！ウィナー")|871|2|8|ミックスコーデコンテストでゲット|ピンマル！ウィナー|「ピンク×アニマルコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/871.png|
 |![](https://cdn.primagi.jp/assets/images/copy/872.png "キューか！ウィナー")|872|2|8|ミックスコーデコンテストでゲット|キューか！ウィナー|「キュート×あかコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/872.png|
+|![](https://cdn.primagi.jp/assets/images/copy/873.png "しろジュアーリー！ウィナー")|873|2|8|ミックスコーデコンテストでゲット|しろジュアーリー！ウィナー|「しろ×カジュアル×ガーリーコンテスト」のけっしょうせんをクリアする|https://cdn.primagi.jp/assets/images/copy/873.png|
