@@ -47,7 +47,7 @@ public sealed class Coordination
         }
     }
 
-    private static readonly Regex _IsChapterCollection = new("^((スタジオ|プリティーオールスター)第[1-9１-９])?章(コーデ|コレクション)");
+    private static readonly Regex _IsChapterCollection = new("^((スタジオ第[1-9１-９])?章(コーデ|コレクション)|プリティーオールスター第[1-9１-９]章)");
 
     internal bool IsChapterCollection
         => Kinds != null && _IsChapterCollection.IsMatch(Kinds);

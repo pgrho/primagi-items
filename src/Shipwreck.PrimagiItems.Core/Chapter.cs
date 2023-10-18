@@ -14,6 +14,7 @@ public sealed class Chapter : KeyedItem<string>
         {
             1 => null,
             2 => "スタジオ",
+            3 => "プリティーオールスター",
             _ => $"{y}年目"
         } + $"第{v}章"
         : Key;
