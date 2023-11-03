@@ -76970,6 +76970,24 @@
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/714.png"
     },
     {
+      "chapter": "2P09",
+      "id": 715,
+      "conditions": "「プリンセスコレクション～えいえんのおしゃれプリンセス～」をクリアする",
+      "url": null,
+      "name": "えいえんのおしゃれプリンセス",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/715.png"
+    },
+    {
+      "chapter": "2P09",
+      "id": 716,
+      "conditions": "プリンセスコレクションのキャッチコピーをすべてあつめる",
+      "url": null,
+      "name": "おしゃれプリンセスクイーン",
+      "category": 5,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/716.png"
+    },
+    {
       "chapter": "P03",
       "id": 801,
       "conditions": "「むらさき×スタイリッシュコンテスト」のけっしょうせんをクリアする",
@@ -77628,6 +77646,15 @@
     }
   ],
   "shops": [
+    {
+      "id": "1622",
+      "name": "GiGO札幌駅西口",
+      "prefecture": "北海道",
+      "address": "札幌市北区北6条西6-1-1 WEST6",
+      "latitude": 43.067586,
+      "longitude": 141.346071,
+      "shopGroup": "1"
+    },
     {
       "id": "1615",
       "name": "東急百貨店さっぽろアミューズパーク",
@@ -78998,7 +79025,7 @@
     },
     {
       "id": "22",
-      "name": "LABI仙台",
+      "name": "ヤマダデンキLABI仙台",
       "prefecture": "宮城県",
       "address": "仙台市青葉区中央3-6-1",
       "latitude": 38.259889,
@@ -79025,7 +79052,7 @@
     },
     {
       "id": "1507",
-      "name": "SOYU Game Field能代",
+      "name": "ソユーゲームフィールド能代",
       "prefecture": "秋田県",
       "address": "能代市鰄渕字古屋布１番 イオンタウン能代内",
       "latitude": 40.188204,
@@ -80050,6 +80077,15 @@
       "shopGroup": "1"
     },
     {
+      "id": "1621",
+      "name": "モーリーファンタジー太田",
+      "prefecture": "群馬県",
+      "address": "太田市石原町81 ｲｵﾝ太田店2階",
+      "latitude": 36.294318,
+      "longitude": 139.400932,
+      "shopGroup": "1"
+    },
+    {
       "id": "1462",
       "name": "宝島大間々",
       "prefecture": "群馬県",
@@ -80258,7 +80294,7 @@
     },
     {
       "id": "14",
-      "name": "LABI 1 LIFE SELECT高崎",
+      "name": "ヤマダデンキLABI１LIFESELECT高崎",
       "prefecture": "群馬県",
       "address": "高崎市栄町1-1",
       "latitude": 36.323184,
@@ -83273,7 +83309,7 @@
     },
     {
       "id": "1574",
-      "name": "LABI茅ヶ崎",
+      "name": "ヤマダデンキLABILIFESELECT茅ヶ崎",
       "prefecture": "神奈川県",
       "address": "茅ヶ崎市新栄町１２?３",
       "latitude": 35.332653,
@@ -85793,7 +85829,7 @@
     },
     {
       "id": "211",
-      "name": "THE 3RD PLANET OZ浜松",
+      "name": "ｻｰﾌﾟﾗOZ浜松あそびﾀｳﾝ",
       "prefecture": "静岡県",
       "address": "浜松市東区宮竹町322番地の1",
       "latitude": 34.722885,
@@ -85834,6 +85870,15 @@
       "address": "沼津市東椎路字東荒301-3 ららぽｰと沼津3F",
       "latitude": 35.118874,
       "longitude": 138.840259,
+      "shopGroup": "1"
+    },
+    {
+      "id": "1623",
+      "name": "ﾋﾟｰﾀｰﾊﾟﾝと仲間たち 小牧店",
+      "prefecture": "愛知県",
+      "address": "小牧市東1-126 ｲｵﾝ小牧2F",
+      "latitude": 35.285141,
+      "longitude": 136.939878,
       "shopGroup": "1"
     },
     {
@@ -86765,7 +86810,7 @@
     },
     {
       "id": "24",
-      "name": "LABI名古屋",
+      "name": "ヤマダデンキLABI名古屋",
       "prefecture": "愛知県",
       "address": "名古屋市中村区名駅1-2-5",
       "latitude": 35.168109,
@@ -87376,6 +87421,15 @@
       "shopGroup": "1"
     },
     {
+      "id": "1624",
+      "name": "ﾓｰﾘｰﾌｧﾝﾀｼﾞｰそよら古川橋駅前店",
+      "prefecture": "大阪府",
+      "address": "門真市末広町41-2 ",
+      "latitude": 34.738652,
+      "longitude": 135.591627,
+      "shopGroup": "1"
+    },
+    {
       "id": "1593",
       "name": "プリマジスタジオなんばマルイ店",
       "prefecture": "大阪府",
@@ -87881,7 +87935,7 @@
     },
     {
       "id": "565",
-      "name": "GiGOあべのアポロ 3F/4F",
+      "name": "GiGOあべのアポロ3F",
       "prefecture": "大阪府",
       "address": "大阪市阿倍野区阿倍野筋1-5-31 ｱﾎﾟﾛﾋﾞﾙ3F",
       "latitude": 34.646541,
@@ -88133,7 +88187,7 @@
     },
     {
       "id": "25",
-      "name": "LINKS UMEDA",
+      "name": "モーリーファンタジーLINKSUMEDA",
       "prefecture": "大阪府",
       "address": "大阪市北区大深町4-8 LINKSUMEDA5F",
       "latitude": 34.703145,
@@ -88151,7 +88205,7 @@
     },
     {
       "id": "15",
-      "name": "LABI LIFE SELECT千里",
+      "name": "ヤマダデンキLABILIFESELECT千里",
       "prefecture": "大阪府",
       "address": "豊中市新千里東町1-2-20",
       "latitude": 34.812003,
@@ -88718,7 +88772,7 @@
     },
     {
       "id": "203",
-      "name": "SD LABI 三宮",
+      "name": "ヤマダデンキLABI三宮",
       "prefecture": "兵庫県",
       "address": "神戸市中央区三宮町1-5-8",
       "latitude": 34.691772,
@@ -89519,7 +89573,7 @@
     },
     {
       "id": "19",
-      "name": "LABI広島",
+      "name": "ヤマダデンキLABI広島",
       "prefecture": "広島県",
       "address": "広島市中区胡町5-22",
       "latitude": 34.39312,

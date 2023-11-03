@@ -215,6 +215,8 @@
 |![](https://cdn.primagi.jp/assets/images/copy/712.png "きらめきのおしゃれプリンセス")|712|2|6|イベント・キャンペーンでゲット|きらめきのおしゃれプリンセス|「プリンセスコレクション～きらめきのプリンセス～」をクリアする|https://cdn.primagi.jp/assets/images/copy/712.png|
 |![](https://cdn.primagi.jp/assets/images/copy/713.png "わたしはおしゃれプリンセス")|713|2|8|イベント・キャンペーンでゲット|わたしはおしゃれプリンセス|「プリンセスコレクション～おしゃれプリンセス～」をクリアする|https://cdn.primagi.jp/assets/images/copy/713.png|
 |![](https://cdn.primagi.jp/assets/images/copy/714.png "めざめのおしゃれプリンセス")|714|2|5|イベント・キャンペーンでゲット|めざめのおしゃれプリンセス|めざめのプリンセスひめめコーデをフルコーデきて「めざめのプリンセスひめめコーデフェス」のアンコールライブを1かいあそぶ|https://cdn.primagi.jp/assets/images/copy/714.png|
+|![](https://cdn.primagi.jp/assets/images/copy/715.png "えいえんのおしゃれプリンセス")|715|2|9|イベント・キャンペーンでゲット|えいえんのおしゃれプリンセス|「プリンセスコレクション～えいえんのおしゃれプリンセス～」をクリアする|https://cdn.primagi.jp/assets/images/copy/715.png|
+|![](https://cdn.primagi.jp/assets/images/copy/716.png "おしゃれプリンセスクイーン")|716|2|9|イベント・キャンペーンでゲット|おしゃれプリンセスクイーン|プリンセスコレクションのキャッチコピーをすべてあつめる|https://cdn.primagi.jp/assets/images/copy/716.png|
 ## 期間限定でゲット
 
 ||ID|年|章|カテゴリー|名前|取得条件|画像|
