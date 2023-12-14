@@ -82,8 +82,10 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3357.png "スノーウィンター")|id3357|スノーウィンター|2023年9月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3357.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id14147.png "さくらもちピンク")|id14147|さくらもちピンク|スタジオ第7章・第8章スクラッチ(8月31日～10月4日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id14147.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3249.png "みゃむライトブルー")|id3249|みゃむライトブルー|スタジオ第9章スクラッチ(～12月6日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3249.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3250.png "チムムグリーン")|id3250|チムムグリーン|スタジオ第10章スクラッチ(～1月17日）でポイントをあつめる ※1月18日からこれまでのスクラッチパーツがすべて復刻します|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3250.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3251.png "はにたんイエロー")|id3251|はにたんイエロー|スタジオ第9章スクラッチ(～12月6日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3251.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3252.png "きゃろんパープル")|id3252|きゃろんパープル|スタジオ第9章スクラッチ(～12月6日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3252.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id3253.png "ぱたのピンク")|id3253|ぱたのピンク|スタジオ第10章スクラッチ(～1月17日）でポイントをあつめる ※1月18日からこれまでのスクラッチパーツがすべて復刻します|https://cdn.primagi.jp/assets/images/parts/thumb/img_id3253.png|
 ## ヘアスタイル
 
 ||ID|名前|取得条件|画像|
@@ -199,8 +201,10 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7351.png "ぱたのアイ")|id7351|ぱたのアイ|2023年10月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7351.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id14142.png "フラワースプリング")|id14142|フラワースプリング|スタジオ第7章・第8章スクラッチ(8月31日～10月4日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id14142.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7245.png "みゃむアイ")|id7245|みゃむアイ|スタジオ第9章スクラッチ(～12月6日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7245.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7246.png "チムムアイ")|id7246|チムムアイ|スタジオ第10章スクラッチ(～1月17日）でポイントをあつめる ※1月18日からこれまでのスクラッチパーツがすべて復刻します|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7246.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7247.png "はにたんアイ")|id7247|はにたんアイ|スタジオ第9章スクラッチ(～12月6日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7247.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7352.png "アイビードール")|id7352|アイビードール|2023年11月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7352.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id7353.png "シルバーキャッツアイ")|id7353|シルバーキャッツアイ|2024年1月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id7353.png|
 ## アイシャドウ
 
 ||ID|名前|取得条件|画像|
@@ -268,6 +272,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id1219.png "マジックスペル")|id1219|マジックスペル|プリマジスタランクが77になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id1219.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id12210.png "ヴァンパイアキス")|id12210|ヴァンパイアキス|スタジオ第5章・第6章スクラッチ(～7月5日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id12210.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id12112.png "はつこいリップ")|id12112|はつこいリップ|プリマジスタランクが94になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id12112.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id12211.png "ぱたのリップ")|id12211|ぱたのリップ|スタジオ第10章スクラッチ(～1月17日）でポイントをあつめる ※1月18日からこれまでのスクラッチパーツがすべて復刻します|https://cdn.primagi.jp/assets/images/parts/thumb/img_id12211.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id12313.png "パッションマゼンタ")|id12313|パッションマゼンタ|2023年12月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id12313.png|
 ## イヤリング
 
@@ -295,6 +300,7 @@
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13121.png "ハッピーイヤリング")|id13121|ハッピーイヤリング|フレンドランクが44になる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13121.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13222.png "ジェニー イヤリング")|id13222|ジェニー イヤリング|#Liccaコラボ第2弾|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13222.png|
 |![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13218.png "ルミナススターダスト")|id13218|ルミナススターダスト|スタジオ第7章・第8章スクラッチ(～10月4日）でポイントをあつめる|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13218.png|
+|![](https://cdn.primagi.jp/assets/images/parts/thumb/img_id13323.png "リューメイヤリング")|id13323|リューメイヤリング|2024年1月～プレミアムプランに追加|https://cdn.primagi.jp/assets/images/parts/thumb/img_id13323.png|
 ## ネイル
 
 ||ID|名前|取得条件|画像|

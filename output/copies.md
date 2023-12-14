@@ -120,6 +120,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/80.png "プリマジスタジオライブトップスター")|80|2|1|リズムゲームでゲット|プリマジスタジオライブトップスター|プリマジスタジオライブを100かいあそんだ|https://cdn.primagi.jp/assets/images/copy/80.png|
 |![](https://cdn.primagi.jp/assets/images/copy/81.png "プリマジスタジオライブ殿堂入り")|81|2|1|リズムゲームでゲット|プリマジスタジオライブ殿堂入り|プリマジスタジオライブを300かいあそんだ|https://cdn.primagi.jp/assets/images/copy/81.png|
 |![](https://cdn.primagi.jp/assets/images/copy/86.png "オールスター第1章プリマジマスター")|86|2|9|リズムゲームでゲット|オールスター第1章プリマジマスター|オールスターだい1しょうでプリマジを30かいあそぶ|https://cdn.primagi.jp/assets/images/copy/86.png|
+|![](https://cdn.primagi.jp/assets/images/copy/87.png "オールスター第2章プリマジマスター")|87|-1|-1|リズムゲームでゲット|オールスター第2章プリマジマスター|オールスターだい2しょうでプリマジを30かいあそぶ|https://cdn.primagi.jp/assets/images/copy/87.png|
 |![](https://cdn.primagi.jp/assets/images/copy/101.png "はじめてのプリマジスタ")|101|1|1|リズムゲームでゲット|はじめてのプリマジスタ|プリマジを1かいする|https://cdn.primagi.jp/assets/images/copy/101.png|
 |![](https://cdn.primagi.jp/assets/images/copy/102.png "うわさのルーキープリマジスタ")|102|1|1|リズムゲームでゲット|うわさのルーキープリマジスタ|プリマジを10かいする|https://cdn.primagi.jp/assets/images/copy/102.png|
 |![](https://cdn.primagi.jp/assets/images/copy/103.png "がんばるフレッシュプリマジスタ")|103|1|1|リズムゲームでゲット|がんばるフレッシュプリマジスタ|プリマジを20かいする|https://cdn.primagi.jp/assets/images/copy/103.png|
@@ -248,6 +249,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/330.png "ファーストプリンセス2023夏")|330|2|7|期間限定でゲット|ファーストプリンセス2023夏|プリマジスタジオだい7しょうのさいしょのしゅうに10かいあそぶ※ 7月20日(木)～7月26日(水)|https://cdn.primagi.jp/assets/images/copy/330.png|
 |![](https://cdn.primagi.jp/assets/images/copy/331.png "ファーストプリンセス2023秋")|331|2|8|期間限定でゲット|ファーストプリンセス2023秋|プリマジスタジオだい8しょうのさいしょのしゅうに10かいあそぶ※ 8月31日(木)～9月6日(水)|https://cdn.primagi.jp/assets/images/copy/331.png|
 |![](https://cdn.primagi.jp/assets/images/copy/332.png "ファーストプリンセス2023紅葉")|332|2|9|期間限定でゲット|ファーストプリンセス2023紅葉|オールスターだい1しょうのさいしょのしゅうに10かいあそぶ ※ 10月19日(木)～10月25日(水)|https://cdn.primagi.jp/assets/images/copy/332.png|
+|![](https://cdn.primagi.jp/assets/images/copy/333.png "ファーストプリンセス2024冬")|333|-1|-1|期間限定でゲット|ファーストプリンセス2024冬|オールスターだい2しょうのさいしょのしゅうに10かいあそぶ ※ 12月21日(木)～12月27日(水)|https://cdn.primagi.jp/assets/images/copy/333.png|
 ## プリマジスタジオランウェイでゲット
 
 ||ID|年|章|カテゴリー|名前|取得条件|画像|
