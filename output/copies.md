@@ -165,6 +165,8 @@
 |![](https://cdn.primagi.jp/assets/images/copy/434.png "Dear My Miracle Princess")|434|2|8|リズムゲームでゲット|Dear My Miracle Princess|「Dear My Miracle Princess」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/434.png|
 |![](https://cdn.primagi.jp/assets/images/copy/435.png "morning")|435|2|9|リズムゲームでゲット|morning|「morning」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/435.png|
 |![](https://cdn.primagi.jp/assets/images/copy/436.png "オトメパズル～恋するEVERYDAY～")|436|2|9|リズムゲームでゲット|オトメパズル～恋するEVERYDAY～|「オトメパズル～恋するEVERYDAY～2023」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/436.png|
+|![](https://cdn.primagi.jp/assets/images/copy/437.png "キラキラプリ☆チャンワールド")|437|-1|-1|リズムゲームでゲット|キラキラプリ☆チャンワールド|「キラキラプリ☆チャンワールド」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/437.png|
+|![](https://cdn.primagi.jp/assets/images/copy/438.png "Magic of the people")|438|-1|-1|リズムゲームでゲット|Magic of the people|「Magic of the people」を10かいあそぶ|https://cdn.primagi.jp/assets/images/copy/438.png|
 ## マイキャラメイクでゲット
 
 ||ID|年|章|カテゴリー|名前|取得条件|画像|

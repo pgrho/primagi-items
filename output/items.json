@@ -78048,6 +78048,24 @@
       "imageUrl": "https://cdn.primagi.jp/assets/images/copy/436.png"
     },
     {
+      "chapter": "P-01",
+      "id": 437,
+      "conditions": "「キラキラプリ☆チャンワールド」を10かいあそぶ",
+      "url": null,
+      "name": "キラキラプリ☆チャンワールド",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/437.png"
+    },
+    {
+      "chapter": "P-01",
+      "id": 438,
+      "conditions": "「Magic of the people」を10かいあそぶ",
+      "url": null,
+      "name": "Magic of the people",
+      "category": 3,
+      "imageUrl": "https://cdn.primagi.jp/assets/images/copy/438.png"
+    },
+    {
       "chapter": "P01",
       "id": 501,
       "conditions": "「フルーツパフェもりもりプリマジ」を1かいあそぶ",
