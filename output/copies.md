@@ -252,6 +252,7 @@
 |![](https://cdn.primagi.jp/assets/images/copy/331.png "ファーストプリンセス2023秋")|331|2|8|期間限定でゲット|ファーストプリンセス2023秋|プリマジスタジオだい8しょうのさいしょのしゅうに10かいあそぶ※ 8月31日(木)～9月6日(水)|https://cdn.primagi.jp/assets/images/copy/331.png|
 |![](https://cdn.primagi.jp/assets/images/copy/332.png "ファーストプリンセス2023紅葉")|332|2|9|期間限定でゲット|ファーストプリンセス2023紅葉|オールスターだい1しょうのさいしょのしゅうに10かいあそぶ ※ 10月19日(木)～10月25日(水)|https://cdn.primagi.jp/assets/images/copy/332.png|
 |![](https://cdn.primagi.jp/assets/images/copy/333.png "ファーストプリンセス2024冬")|333|-1|-1|期間限定でゲット|ファーストプリンセス2024冬|オールスターだい2しょうのさいしょのしゅうに10かいあそぶ ※ 12月21日(木)～12月27日(水)|https://cdn.primagi.jp/assets/images/copy/333.png|
+|![](https://cdn.primagi.jp/assets/images/copy/440.png "サンキューフォーザワッチャプリマジ！")|440|-1|-1|期間限定でゲット|サンキューフォーザワッチャプリマジ！|2024年2月1日（木）～プリマジを5回あそぶ|https://cdn.primagi.jp/assets/images/copy/440.png|
 ## プリマジスタジオランウェイでゲット
 
 ||ID|年|章|カテゴリー|名前|取得条件|画像|
