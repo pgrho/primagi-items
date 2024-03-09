@@ -139,7 +139,83 @@
       ]
     },
 
-
+    {
+      "collection": 14,
+      "name": "マーチングブルーピンク",
+      "kinds": "プロモ",
+      "directoryNumber": 1,
+      "isShow": true,
+      "hasMainImage": false,
+      "span": "2024年1月1日～プリズムストーン特典",
+      "order": 99,
+      "chapter": "3P02",
+      "items": [
+        {
+          "id": 99911,
+          "sealId": "P-231",
+          "name": "マーチングブルーピンク",
+          "watcha": 500,
+          "genre": 3,
+          "brand": 4,
+          "color": 3,
+          "rarity": 2,
+          "category": 1,
+          "subCategory": 16,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "P-231.png"
+        },
+        {
+          "id": 99912,
+          "sealId": "P-232",
+          "name": "マーチングブルーピンク",
+          "watcha": 500,
+          "genre": 3,
+          "brand": 4,
+          "color": 3,
+          "rarity": 2,
+          "category": 3,
+          "subCategory": 14,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "P-232.png"
+        },
+        {
+          "id": 99913,
+          "sealId": "P-233",
+          "name": "マーチングブルーピンク",
+          "watcha": 450,
+          "genre": 3,
+          "brand": 4,
+          "color": 11,
+          "rarity": 2,
+          "category": 4,
+          "subCategory": 11,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "P-233.png"
+        },
+        {
+          "id": 99914,
+          "sealId": "P-234",
+          "name": "マーチングブルーピンク",
+          "watcha": 450,
+          "genre": 3,
+          "brand": 4,
+          "color": 3,
+          "rarity": 2,
+          "category": 5,
+          "subCategory": 19,
+          "isShowItem": true,
+          "icon": 0,
+          "release": 0,
+          "imageUrl": "P-234.png"
+        }
+      ]
+    },
     {
       "collection": 14,
       "name": "ラブリーメロディTシャツ",
