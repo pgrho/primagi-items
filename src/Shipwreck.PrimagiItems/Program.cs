@@ -12,15 +12,26 @@ internal class Program
         System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
         using var hc = new HttpDownloader();
         var di = new DirectoryInfo(Path.Combine(GetRepositoryPath(), "output"));
-        if (!di.Exists)
+
+        PrimagiDataSet ds;
+
+        if (di.Exists)
+        {
+            using var sr = new StreamReader(Path.Combine(di.FullName, "items.json"));
+            ds = await PrimagiDataSet.ParseAsync(sr);
+
+            await AipriWriter.GenerateAsync(di, ds);
+        }
+        else
         {
             di.Create();
+
+            ds = new PrimagiDataSet();
+            await ItemWriter.GenerateAsync(hc, di, ds);
+            await CatchCopyWriter.GenerateAsync(hc, di, ds);
+            await PartsWriter.GenerateAsync(hc, di, ds);
+            await ShopWriter.GenerateAsync(hc, di, ds);
         }
-        var ds = new PrimagiDataSet();
-        await ItemWriter.GenerateAsync(hc, di, ds);
-        await CatchCopyWriter.GenerateAsync(hc, di, ds);
-        await PartsWriter.GenerateAsync(hc, di, ds);
-        await ShopWriter.GenerateAsync(hc, di, ds);
 
         var jss = new JsonSerializerSettings
         {

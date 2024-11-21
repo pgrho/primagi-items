@@ -245,4 +245,6 @@ public sealed class CoordinationItem
         || (_ImageUrl != null && _ImageUrl != GetDefaultImageUrl());
 
     #endregion ImageUrl
+
+    public bool Aipri { get; set; }
 }
