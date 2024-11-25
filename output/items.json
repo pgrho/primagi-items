@@ -30484,7 +30484,7 @@
     },
     {
       "collection": 13,
-      "name": "リトルプリンセスライトピンク",
+      "name": "リトルプリンセスピンク",
       "kinds": "プロモ",
       "directoryNumber": 999,
       "isShow": true,
@@ -30498,7 +30498,7 @@
           "id": 99918,
           "modelName": null,
           "sealId": "P-247(2)",
-          "name": "リトルプリンセスライトピンク",
+          "name": "リトルプリンセスピンク",
           "watcha": 500,
           "genre": 9,
           "brand": 1,
@@ -30516,7 +30516,7 @@
           "id": 99919,
           "modelName": null,
           "sealId": "P-248(2)",
-          "name": "リトルプリンセスライトピンク",
+          "name": "リトルプリンセスピンク",
           "watcha": 500,
           "genre": 9,
           "brand": 1,
@@ -30534,7 +30534,7 @@
           "id": 99920,
           "modelName": null,
           "sealId": "P-249(2)",
-          "name": "リトルプリンセスライトピンク",
+          "name": "リトルプリンセスピンク",
           "watcha": 450,
           "genre": 9,
           "brand": 1,
@@ -30552,7 +30552,7 @@
           "id": 99921,
           "modelName": null,
           "sealId": "P-250(2)",
-          "name": "リトルプリンセスライトピンク",
+          "name": "リトルプリンセスピンク",
           "watcha": 450,
           "genre": 9,
           "brand": 1,
@@ -30566,8 +30566,7 @@
           "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/unknown.png",
           "aipri": true
         }
-      ],
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/img_codination_82_main.jpg"
+      ]
     },
     {
       "collection": 14,
