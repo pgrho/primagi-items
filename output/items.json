@@ -1,4 +1,4 @@
-{
+﻿{
   "chapters": [
     {
       "displayName": "第1章",
@@ -30510,7 +30510,7 @@
           "icon": 0,
           "release": 0,
           "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/unknown.png",
-          "aipri": true
+          "aipri": false
         },
         {
           "id": 99919,
@@ -30528,7 +30528,7 @@
           "icon": 0,
           "release": 0,
           "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/unknown.png",
-          "aipri": true
+          "aipri": false
         },
         {
           "id": 99920,
@@ -30546,7 +30546,7 @@
           "icon": 0,
           "release": 0,
           "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/unknown.png",
-          "aipri": true
+          "aipri": false
         },
         {
           "id": 99921,
@@ -30564,9 +30564,10 @@
           "icon": 0,
           "release": 0,
           "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/unknown.png",
-          "aipri": true
+          "aipri": false
         }
-      ]
+      ],
+      "imageUrl": "https://cdn.primagi.jp/assets/images/item/2P03/img_codination_999_main.jpg"
     },
     {
       "collection": 14,
@@ -34207,7 +34208,7 @@
           "icon": 0,
           "release": 0,
           "imageUrl": "https://raw.githubusercontent.com/pgrho/primagi-items/master/unlisted/img/unknown.png",
-          "aipri": true
+          "aipri": false
         },
         {
           "id": 1233,
