@@ -1,3 +1,4 @@
+using System.ComponentModel;
 using System.Text.RegularExpressions;
 using Newtonsoft.Json;
 
@@ -12,8 +13,14 @@ public sealed class Coordination
     public string? Name { get; set; }
     public string? Kinds { get; set; }
     public int DirectoryNumber { get; set; }
+
+    [DefaultValue(false)]
     public bool IsShow { get; set; }
+
+    [DefaultValue(false)]
     public bool HasMainImage { get; set; }
+
+    [JsonIgnore]
     public string? WhichShowId { get; set; }
 
     #region Span
@@ -241,7 +248,7 @@ public sealed class Coordination
 
     public string? ImageUrl
         => ChapterId == null || !HasMainImage ? null
-        : $"https://cdn.primagi.jp/assets/images/item/{ChapterId}/img_codination_{DirectoryNumber}_main{(!string.IsNullOrEmpty(WhichShowId) ? "_" + WhichShowId : "")}.jpg";
+        : $"https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/{ChapterId}/img_codination_{DirectoryNumber}_main.jpg";
 
     public bool ShouldSerializeImageUrl()
         => DataSet?.IgnoreCalculatedProperties != true;

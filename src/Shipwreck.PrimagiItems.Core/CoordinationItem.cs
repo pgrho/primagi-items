@@ -222,7 +222,10 @@ public sealed class CoordinationItem
 
     public bool IsShowItem { get; set; }
 
+    [JsonIgnore]
     public int Icon { get; set; }
+
+    [JsonIgnore]
     public int Release { get; set; }
 
     #region ImageUrl
