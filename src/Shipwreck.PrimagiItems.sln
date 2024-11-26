@@ -37,12 +37,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "items", "items", "{6EA117F7
 		..\output\2P03.md = ..\output\2P03.md
 		..\output\2P04.md = ..\output\2P04.md
 		..\output\2P05.md = ..\output\2P05.md
+		..\output\2P06.md = ..\output\2P06.md
+		..\output\2P07.md = ..\output\2P07.md
+		..\output\2P08.md = ..\output\2P08.md
+		..\output\3P01.md = ..\output\3P01.md
+		..\output\3P02.md = ..\output\3P02.md
+		..\output\copies.md = ..\output\copies.md
 		..\output\P01.md = ..\output\P01.md
 		..\output\P02.md = ..\output\P02.md
 		..\output\P03.md = ..\output\P03.md
 		..\output\P04.md = ..\output\P04.md
 		..\output\P05.md = ..\output\P05.md
 		..\output\P06.md = ..\output\P06.md
+		..\output\parts.md = ..\output\parts.md
 		..\output\UNKNOWN.md = ..\output\UNKNOWN.md
 	EndProjectSection
 EndProject

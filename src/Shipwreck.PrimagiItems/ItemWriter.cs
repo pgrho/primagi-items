@@ -331,15 +331,6 @@ internal static class ItemWriter
                 }
                 ds.Coordinations.Add(nc);
             }
-            else if (!string.IsNullOrEmpty(uc.WhichShowId))
-            {
-                var tc = ds.Coordinations.FirstOrDefault(e => e.ChapterId == uc.ChapterId && e.Name == uc.Name);
-
-                if (tc != null)
-                {
-                    tc.WhichShowId = uc.WhichShowId;
-                }
-            }
         }
 
         var cols = new (string dislayName, Func<CoordinationItem, object?> getter)[]

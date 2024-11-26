@@ -145,47 +145,47 @@
   ],
   "brands": [
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_brand_1_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_brand_1_pc.png",
       "value": "LOVELY MELODY",
       "key": 1
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_brand_2_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_brand_2_pc.png",
       "value": "VIVID STAR",
       "key": 2
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_brand_3_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_brand_3_pc.png",
       "value": "Radiant Abyss",
       "key": 3
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_brand_4_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_brand_4_pc.png",
       "value": "Eternal Revue",
       "key": 4
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_brand_5_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_brand_5_pc.png",
       "value": "ELECTRO REMIX",
       "key": 5
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_brand_6_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_brand_6_pc.png",
       "value": "Cherry Sugar",
       "key": 6
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_brand_7_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_brand_7_pc.png",
       "value": "SHINING DIVA",
       "key": 7
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_brand_8_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_brand_8_pc.png",
       "value": "PrismStone",
       "key": 8
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_brand_9_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_brand_9_pc.png",
       "value": "Princess Magic",
       "key": 9
     }
@@ -199,17 +199,17 @@
         {
           "genreIndex": 1,
           "colorIndex": 1,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_1_1_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_1_1_pc.png"
         },
         {
           "genreIndex": 2,
           "colorIndex": 1,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_2_1_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_2_1_pc.png"
         },
         {
           "genreIndex": 3,
           "colorIndex": 1,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_1_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_3_1_pc.png"
         }
       ],
       "value": "ちゃ",
@@ -223,17 +223,17 @@
         {
           "genreIndex": 1,
           "colorIndex": 2,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_1_2_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_1_2_pc.png"
         },
         {
           "genreIndex": 2,
           "colorIndex": 2,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_2_2_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_2_2_pc.png"
         },
         {
           "genreIndex": 3,
           "colorIndex": 2,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_2_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_3_2_pc.png"
         }
       ],
       "value": "あか",
@@ -247,17 +247,17 @@
         {
           "genreIndex": 1,
           "colorIndex": 3,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_1_3_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_1_3_pc.png"
         },
         {
           "genreIndex": 2,
           "colorIndex": 3,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_2_3_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_2_3_pc.png"
         },
         {
           "genreIndex": 3,
           "colorIndex": 3,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_3_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_3_3_pc.png"
         }
       ],
       "value": "ピンク",
@@ -271,17 +271,17 @@
         {
           "genreIndex": 1,
           "colorIndex": 4,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_1_4_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_1_4_pc.png"
         },
         {
           "genreIndex": 2,
           "colorIndex": 4,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_2_4_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_2_4_pc.png"
         },
         {
           "genreIndex": 3,
           "colorIndex": 4,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_4_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_3_4_pc.png"
         }
       ],
       "value": "オレンジ",
@@ -295,17 +295,17 @@
         {
           "genreIndex": 1,
           "colorIndex": 5,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_1_5_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_1_5_pc.png"
         },
         {
           "genreIndex": 2,
           "colorIndex": 5,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_2_5_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_2_5_pc.png"
         },
         {
           "genreIndex": 3,
           "colorIndex": 5,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_5_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_3_5_pc.png"
         }
       ],
       "value": "きいろ",
@@ -319,17 +319,17 @@
         {
           "genreIndex": 1,
           "colorIndex": 6,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_1_6_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_1_6_pc.png"
         },
         {
           "genreIndex": 2,
           "colorIndex": 6,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_2_6_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_2_6_pc.png"
         },
         {
           "genreIndex": 3,
           "colorIndex": 6,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_6_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_3_6_pc.png"
         }
       ],
       "value": "みどり",
@@ -343,17 +343,17 @@
         {
           "genreIndex": 1,
           "colorIndex": 7,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_1_7_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_1_7_pc.png"
         },
         {
           "genreIndex": 2,
           "colorIndex": 7,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_2_7_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_2_7_pc.png"
         },
         {
           "genreIndex": 3,
           "colorIndex": 7,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_7_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_3_7_pc.png"
         }
       ],
       "value": "みずいろ",
@@ -367,17 +367,17 @@
         {
           "genreIndex": 1,
           "colorIndex": 8,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_1_8_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_1_8_pc.png"
         },
         {
           "genreIndex": 2,
           "colorIndex": 8,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_2_8_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_2_8_pc.png"
         },
         {
           "genreIndex": 3,
           "colorIndex": 8,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_8_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_3_8_pc.png"
         }
       ],
       "value": "あお",
@@ -391,17 +391,17 @@
         {
           "genreIndex": 1,
           "colorIndex": 9,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_1_9_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_1_9_pc.png"
         },
         {
           "genreIndex": 2,
           "colorIndex": 9,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_2_9_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_2_9_pc.png"
         },
         {
           "genreIndex": 3,
           "colorIndex": 9,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_9_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_3_9_pc.png"
         }
       ],
       "value": "むらさき",
@@ -415,17 +415,17 @@
         {
           "genreIndex": 1,
           "colorIndex": 10,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_1_10_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_1_10_pc.png"
         },
         {
           "genreIndex": 2,
           "colorIndex": 10,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_2_10_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_2_10_pc.png"
         },
         {
           "genreIndex": 3,
           "colorIndex": 10,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_10_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_3_10_pc.png"
         }
       ],
       "value": "くろ",
@@ -439,17 +439,17 @@
         {
           "genreIndex": 1,
           "colorIndex": 11,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_1_11_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_1_11_pc.png"
         },
         {
           "genreIndex": 2,
           "colorIndex": 11,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_2_11_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_2_11_pc.png"
         },
         {
           "genreIndex": 3,
           "colorIndex": 11,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_11_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_3_11_pc.png"
         }
       ],
       "value": "しろ",
@@ -463,17 +463,17 @@
         {
           "genreIndex": 1,
           "colorIndex": 12,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_1_12_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_1_12_pc.png"
         },
         {
           "genreIndex": 2,
           "colorIndex": 12,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_2_12_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_2_12_pc.png"
         },
         {
           "genreIndex": 3,
           "colorIndex": 12,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_12_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_3_12_pc.png"
         }
       ],
       "value": "シルバー",
@@ -487,17 +487,17 @@
         {
           "genreIndex": 1,
           "colorIndex": 13,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_1_13_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_1_13_pc.png"
         },
         {
           "genreIndex": 2,
           "colorIndex": 13,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_2_13_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_2_13_pc.png"
         },
         {
           "genreIndex": 3,
           "colorIndex": 13,
-          "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_13_pc.png"
+          "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_genre_color_3_13_pc.png"
         }
       ],
       "value": "ゴールド",
@@ -506,37 +506,37 @@
   ],
   "rarities": [
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_rarity_1_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_rarity_1_pc.png",
       "value": "R",
       "key": 1
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_rarity_2_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_rarity_2_pc.png",
       "value": "SR",
       "key": 2
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_rarity_3_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_rarity_3_pc.png",
       "value": "UR",
       "key": 3
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_rarity_4_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_rarity_4_pc.png",
       "value": "PMR",
       "key": 4
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_rarity_5_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_rarity_5_pc.png",
       "value": "HR",
       "key": 5
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_rarity_6_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_rarity_6_pc.png",
       "value": "OPR",
       "key": 6
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_rarity_7_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_rarity_7_pc.png",
       "value": "OPQR",
       "key": 7
     }
@@ -565,102 +565,102 @@
   ],
   "subCategories": [
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_2_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_2_pc.png",
       "value": "フラワー",
       "key": 2
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_3_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_3_pc.png",
       "value": "スター",
       "key": 3
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_4_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_4_pc.png",
       "value": "ハート",
       "key": 4
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_5_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_5_pc.png",
       "value": "ガーリー",
       "key": 5
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_6_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_6_pc.png",
       "value": "キュート",
       "key": 6
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_7_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_7_pc.png",
       "value": "チェック",
       "key": 7
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_8_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_8_pc.png",
       "value": "リボン",
       "key": 8
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_9_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_9_pc.png",
       "value": "クール",
       "key": 9
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_10_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_10_pc.png",
       "value": "ゴシック",
       "key": 10
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_11_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_11_pc.png",
       "value": "ジュエル",
       "key": 11
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_12_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_12_pc.png",
       "value": "スポーティー",
       "key": 12
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_13_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_13_pc.png",
       "value": "ダンス",
       "key": 13
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_14_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_14_pc.png",
       "value": "ポップ",
       "key": 14
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_15_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_15_pc.png",
       "value": "ミステリアス",
       "key": 15
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_16_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_16_pc.png",
       "value": "ラブリー",
       "key": 16
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_17_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_17_pc.png",
       "value": "スイーツ",
       "key": 17
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_18_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_18_pc.png",
       "value": "ベーシック",
       "key": 18
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_19_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_19_pc.png",
       "value": "アニマル",
       "key": 19
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_20_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_20_pc.png",
       "value": "エレガント",
       "key": 20
     },
     {
-      "imageUrl": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_21_pc.png",
+      "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/common/ico_props_subCategory_21_pc.png",
       "value": "デジタル",
       "key": 21
     }

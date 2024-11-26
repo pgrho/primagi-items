@@ -240,8 +240,7 @@ public sealed class CoordinationItem
 
     private string? GetDefaultImageUrl()
         => Coordination?.ChapterId == null ? null
-        : !string.IsNullOrEmpty(Coordination.WhichShowId) ? $"https://cdn.primagi.jp/assets/images/item/{Coordination?.ChapterId}/{Coordination?.WhichShowId}/{Id}.png"
-            : $"https://cdn.primagi.jp/assets/images/item/{Coordination?.ChapterId}/{Id}.png";
+        : $"https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/{Coordination?.ChapterId}/{Id}.png";
 
     public bool ShouldSerializeImageUrl()
         => DataSet?.IgnoreCalculatedProperties != true
