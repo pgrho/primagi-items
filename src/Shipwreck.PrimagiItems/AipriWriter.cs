@@ -12,7 +12,7 @@ internal static class AipriWriter
         {
             foreach (var e in c.Items)
             {
-                e.Aipri = ids.Contains(e.SealId!);// TODO remove brand
+                e.Aipri = ids.Contains(e.SealId!);
             }
         }
     }
