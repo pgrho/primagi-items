@@ -30842,7 +30842,7 @@
           "subCategory": 18,
           "isShowItem": true,
           "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P01/1232.png",
-          "aipri": false
+          "aipri": true
         },
         {
           "id": 1233,
