@@ -42499,7 +42499,7 @@
         {
           "id": 20456,
           "modelName": "SPCW10587_P01A",
-          "sealId": "P-357 ",
+          "sealId": "P-357",
           "name": "はじまりのプリンセス",
           "watcha": 550,
           "genre": 3,
@@ -42510,7 +42510,7 @@
           "subCategory": 11,
           "isShowItem": true,
           "imageUrl": "https://www.takaratomy-arts.co.jp/specials/primagi/assets/images/item/2P03/20456.png",
-          "aipri": false
+          "aipri": true
         },
         {
           "id": 20457,
