@@ -32,7 +32,12 @@ public sealed class PrimagiDataSetAccessor : IDisposable
                         repo.Reset(ResetMode.Hard, repo.Head.Tip);
                         master = Commands.Checkout(repo, master);
 
-                        Commands.Pull(repo, new Signature("p", "u", DateTimeOffset.Now), new PullOptions());
+                        var po = new PullOptions();
+                        po.FetchOptions = new()
+                        {
+                            CertificateCheck = (_, _, _) => true
+                        };
+                        Commands.Pull(repo, new Signature("p", "u", DateTimeOffset.Now), po);
 
                         return Path.Combine(_Directory.FullName, "output", "items.json");
                     }
@@ -48,7 +53,9 @@ public sealed class PrimagiDataSetAccessor : IDisposable
             pd.Create();
         }
 
-        Repository.Clone(URL, _Directory.FullName);
+        var co = new CloneOptions() { };
+        co.FetchOptions.CertificateCheck = (_, _, _) => true;
+        Repository.Clone(URL, _Directory.FullName, co);
         _Directory.Refresh();
 
         return Path.Combine(_Directory.FullName, "output", "items.json");
@@ -60,6 +67,10 @@ public sealed class PrimagiDataSetAccessor : IDisposable
 
     internal static void DeleteDirectoryRecursive(string directoryPath)
     {
+        if (!Directory.Exists(directoryPath))
+        {
+            return;
+        }
         var files = Directory.GetFiles(directoryPath, "*", SearchOption.AllDirectories);
 
         foreach (string file in files)
